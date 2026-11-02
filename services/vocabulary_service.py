@@ -160,32 +160,39 @@ class VocabularyService:
         pattern = re.compile(r"\b" + re.escape(word) + r"\w*\b", re.I)
         return pattern.sub("______", example, count=1)
 
-    @staticmethod
-    def _pick(pool: list[dict], key: str, correct: str, rng: random.Random,
+    def _pick(self, pool: list[dict], key: str, correct: str, rng: random.Random,
               count: int = 3) -> list[str]:
-        candidates = list(pool)
+        """挑干扰项：同词性优先、长度接近正确答案，避免一眼能排除的选项。"""
+        def value_of(item: dict) -> str:
+            return (item.get(key) or item.get("meaning") or "").strip()
+
+        correct = (correct or "").strip()
+        candidates: list[str] = []
+        seen = {correct}
+        for item in pool:
+            value = value_of(item)
+            if not value or value in seen:
+                continue
+            if len(value) < 2 or len(value) > 26:      # 太短/太长都不适合做选项
+                continue
+            if correct and (value in correct or correct in value):
+                continue                                  # 包含关系容易变成送分题
+            seen.add(value)
+            candidates.append(value)
+
         rng.shuffle(candidates)
-        picked: list[str] = []
-        for item in candidates:
-            value = item.get(key) or item.get("meaning")
-            if not value or value == correct or value in picked:
-                continue
-            if len(value) > max(12, len(correct) * 3):
-                continue
-            if len(value) < 2:
-                continue
-            picked.append(value)
-            if len(picked) == count:
-                break
-        while len(picked) < count:  # 词库尾部兜底
-            filler = rng.choice(candidates)
-            value = filler.get(key) or filler.get("meaning") or "—"
-            if value != correct and value not in picked:
-                picked.append(value)
-            elif len(picked) >= count:
-                break
-            else:
-                picked.append(value + " ")
+        correct_len = len(correct)
+        near = [value for value in candidates if abs(len(value) - correct_len) <= 8]
+        far = [value for value in candidates if value not in near]
+        picked = (near + far)[:count]
+
+        if len(picked) < count:  # 同词性词太少时，从全词库补
+            for item in self.words:
+                value = value_of(item)
+                if value and value not in picked and value != correct:
+                    picked.append(value)
+                if len(picked) >= count:
+                    break
         return picked
 
     # ---------------- 记录答题 ----------------

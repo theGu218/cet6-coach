@@ -1,5 +1,6 @@
 """内容完整性：词库、真题、解析、作文/翻译题库。"""
 import json
+import re
 import unittest
 from pathlib import Path
 
@@ -17,6 +18,19 @@ class ContentTests(unittest.TestCase):
         self.assertTrue({"高频核心", "基础回顾", "六级拓展"} <= tiers)
         for word in words[:200]:
             self.assertTrue(word["word"] and word["meaning"] and word["short_meaning"])
+
+    def test_vocabulary_meanings_are_clean(self):
+        """选项直接取自 short_meaning，不能带 & / 音标 / 习语分隔符 / 序号。"""
+        bad = []
+        for word in content.vocabulary():
+            short = word["short_meaning"]
+            if re.search(r"[&\[\]]|h·|\|\||\s\d+[\.、]", short):
+                bad.append((word["word"], short))
+            if not short.strip():
+                bad.append((word["word"], "<empty>"))
+            if re.search(r"[:']", word.get("phonetic", "")):
+                bad.append((word["word"], "phonetic:" + word["phonetic"]))
+        self.assertEqual(bad, [], f"词库仍有脏数据：{bad[:5]}")
 
     def test_reading_exams_integrity(self):
         exams = content.reading()

@@ -22,7 +22,7 @@ from ui import (BG, BORDER, CARD, FONT, MUTED, PRIMARY, SIDEBAR, SIDEBAR_ACTIVE,
                 SIDEBAR_WIDTH, TEXT, configure_styles, tk_label)
 
 APP_TITLE = "六级冲刺 · CET-6 Coach"
-VERSION = "2.1.0"
+VERSION = "2.1.1"
 
 NAV_ITEMS = [
     ("home", "今日复习"),
