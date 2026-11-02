@@ -5,7 +5,7 @@ Python + Tkinter 开发，纯本地运行，不联网、不上传。
 
 ## 下载与运行
 
-**直接使用（推荐）**：到 [Releases](../../releases) 下载 `CET6Coach-portable.zip`，解压后双击 `CET6Coach.exe`。
+**直接使用（推荐）**：到 [Releases](https://github.com/theGu218/cet6-coach/releases) 下载 `CET6Coach-portable.zip`，解压后双击 `CET6Coach.exe`。
 同目录的 `_internal` 文件夹要一起保留，不要只拷 exe。
 
 **从源码运行**（需要 Python 3.10+，自带 tkinter）：
