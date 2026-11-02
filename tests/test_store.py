@@ -70,6 +70,19 @@ class StoreTests(unittest.TestCase):
         store.set_word_state("alpha", state)
         self.assertEqual(store.stats()["mastered"], 1)
 
+    def test_legacy_keys_do_not_override_new_data(self):
+        """迁移过的文件里可能同时有 words 和旧键 word_status，旧键不能覆盖新数据。"""
+        payload = {"schema": 3,
+                   "words": {f"new{i}": {"seen": 1, "status": "待复习"} for i in range(5)},
+                   "word_status": {"old": {"level": 1}}}
+        self.path.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+        store = ProgressStore(self.path)
+        self.assertEqual(len(store.data["words"]), 5)
+        store.save()
+        saved = json.loads(self.path.read_text(encoding="utf-8"))
+        self.assertEqual(len(saved["words"]), 5)
+        self.assertNotIn("word_status", saved)
+
     def test_reset_keeps_imported_content(self):
         store = ProgressStore(self.path)
         store.data["imported_words"] = [{"word": "custom", "meaning": "自定义"}]

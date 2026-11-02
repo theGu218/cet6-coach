@@ -62,6 +62,12 @@ def user_data_dir() -> Path:
     global _DATA_DIR
     if _DATA_DIR is not None:
         return _DATA_DIR
+    # 便携模式：程序目录下已经有 data\progress.json 时优先用它，
+    # 这样换机器/换版本时不会突然"看不到"之前的学习记录。
+    portable = _candidates()[1]
+    if (portable / "progress.json").exists() and dir_writable(portable):
+        _DATA_DIR = portable
+        return portable
     for candidate in _candidates():
         if dir_writable(candidate):
             _DATA_DIR = candidate
@@ -124,7 +130,7 @@ class ProgressStore:
         appdata = os.environ.get("APPDATA")
         if path is None and appdata:
             legacy = Path(appdata) / APP_NAME / "progress.json"
-            if legacy != self.path and legacy.exists():
+            if legacy != self.path and legacy.exists() and not self.path.exists():
                 self.read_path = legacy
         self.data = self._load()
 
@@ -192,15 +198,18 @@ class ProgressStore:
                 data["settings"].update(value)
             else:
                 data[key] = value
-        # v1/v2 → v3 字段改名
-        if "word_status" in saved:
+        # v1/v2 → v3 字段改名：只在没有新字段时才用旧字段，
+        # 否则迁移过的文件里残留的旧键会覆盖掉更新的数据
+        if "word_status" in saved and not saved.get("words"):
             data["words"] = saved["word_status"]
-        if "starred_words" in saved:
+        if "starred_words" in saved and not saved.get("starred"):
             data["starred"] = saved["starred_words"]
-        if "reading_error_tags" in saved:
+        if "reading_error_tags" in saved and not saved.get("error_tags"):
             data["error_tags"] = saved["reading_error_tags"]
         if "reading_completed" in saved and not saved.get("reading"):
             data["reading"] = saved["reading_completed"]
+        for legacy_key in ("word_status", "starred_words", "reading_error_tags", "reading_completed"):
+            data.pop(legacy_key, None)
         data["schema"] = SCHEMA
         data["words"] = {word: _normalize_word(state) for word, state in (data.get("words") or {}).items()}
         data["meta"] = {**data.get("meta", {}), "created": data.get("meta", {}).get("created", now_str())}
@@ -211,6 +220,9 @@ class ProgressStore:
 
     def save(self) -> None:
         """保存；失败时自动换一个可写目录重试，仍失败则只标记不中断使用。"""
+        for legacy_key in ("word_status", "starred_words", "reading_error_tags",
+                           "reading_completed", "version"):
+            self.data.pop(legacy_key, None)
         payload = json.dumps(self.data, ensure_ascii=False, indent=1)
         for attempt in (0, 1):
             try:
