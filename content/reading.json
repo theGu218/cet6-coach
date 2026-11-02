@@ -1,0 +1,2530 @@
+[
+ {
+  "id": "2023-06-1",
+  "year": 2023,
+  "month": 6,
+  "set": 1,
+  "label": "2023年6月 · 第1套",
+  "title": "2023年6月六级真题（第1套）",
+  "source": "wamich/english-exem-md；答案解析来自 Drhm1224/cet6-all-in-one，并已按外部公开答案逐题复核",
+  "answer_note": "本套 1 道题的答案文件有误，已按外部公开答案核对修正",
+  "cloze": {
+   "id": "2023-06-1-cloze",
+   "title": "2023年6月 选词填空",
+   "passage": "Scientists recently examined studies on dog intelligence and compared them with research into the minds of other intelligent animals. The researchers found that dogs are among the more intelligent _carnivores_ (食肉动物), social hunters and domestic animals, but that their intelligence does not {26} other intelligent animals in any of those categories. Though a significant body of research has examined dog cognition {27} , the authors of this new study found little to warrant the {28} of work that has been devoted to the topic.\n\nStephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to {29} how clever dogs are, rather than simply to study dogs' brains. Lea and a colleague examined more than 300 studies of dog cognition, comparing the studies'results with those from research into other animals. The researchers made specific comparisons between the different species in different categories of intelligence. These comparisons {30} that dogs are intelligent, but their intelligence is not as {31} as some researchers might have believed.\n\nIn many areas, though, comparisons were not possible. For example, the researchers noted that both dogs and cats are known to be able to recognize and {32} human voices. But the investigators could not find any data to indicate which species can remember a greater number of {33} human voices, so it was impossible to compare the two on that front. However, not all researchers agree {34} with the findings of this study. Zachary Silver, an American researcher, believes the authors of the new study {35} the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think.",
+   "wordbank": [
+    {
+     "letter": "A",
+     "word": "affirmed"
+    },
+    {
+     "letter": "B",
+     "word": "approximately"
+    },
+    {
+     "letter": "C",
+     "word": "completely"
+    },
+    {
+     "letter": "D",
+     "word": "differentiate"
+    },
+    {
+     "letter": "E",
+     "word": "distinct"
+    },
+    {
+     "letter": "F",
+     "word": "domain"
+    },
+    {
+     "letter": "G",
+     "word": "formidable"
+    },
+    {
+     "letter": "H",
+     "word": "outperformed"
+    },
+    {
+     "letter": "I",
+     "word": "overstated"
+    },
+    {
+     "letter": "J",
+     "word": "pledge"
+    },
+    {
+     "letter": "K",
+     "word": "previously"
+    },
+    {
+     "letter": "L",
+     "word": "prospective"
+    },
+    {
+     "letter": "M",
+     "word": "prove"
+    },
+    {
+     "letter": "N",
+     "word": "surpass"
+    },
+    {
+     "letter": "O",
+     "word": "volume"
+    }
+   ],
+   "blanks": [
+    {
+     "num": 26,
+     "answer": "N",
+     "word": "surpass",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 27,
+     "answer": "K",
+     "word": "previously",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 28,
+     "answer": "O",
+     "word": "volume",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 29,
+     "answer": "M",
+     "word": "prove",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 30,
+     "answer": "A",
+     "word": "affirmed",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 31,
+     "answer": "G",
+     "word": "formidable",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 32,
+     "answer": "D",
+     "word": "differentiate",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 33,
+     "answer": "E",
+     "word": "distinct",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 34,
+     "answer": "C",
+     "word": "completely",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 35,
+     "answer": "I",
+     "word": "overstated",
+     "answer_source": "答案文件"
+    }
+   ]
+  },
+  "matching": {
+   "id": "2023-06-1-matching",
+   "title": "The lifesaving power of gratitude",
+   "paragraphs": [
+    {
+     "label": "A",
+     "text": "Gratitude may be more beneficial than we commonly suppose. One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel — an impact that they consistently underestimated. Another study assessed the health benefits of writing thank-you notes. The researchers found that writing as few as three weekly thank-you notes over the course of three weeks improved life satisfaction, increased happy feelings and reduced symptoms of depression."
+    },
+    {
+     "label": "B",
+     "text": "While this research into gratitude is relatively new, the principles involved are anything but. Students of mine in a political philosophy course at Indiana University are reading Daniel Defoe's 300-year-old Robinson Crusoe, often regarded as the first novel published in English. Left alone on an unknown island with no apparent prospect of rescue or escape, Crusoe has much to _lament_ (悲叹). But instead of giving in to despair, he makes a list of things for which he is grateful, including the fact that he is the sole survivor from the _shipwreck_ (海难) and has been able to salvage many useful items from the wreckage."
+    },
+    {
+     "label": "C",
+     "text": "Defoe's masterpiece, which is often ranked as one of the world's greatest novels, provides a portrait of gratitude in action that is as timely and relevant today as it has ever been. It is also one with which contemporary psychology and medicine are just beginning to catch up. Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation."
+    },
+    {
+     "label": "D",
+     "text": "When we focus on the things we regret, such as failed relationships, family disputes, and setbacks in career and finance, we tend to become more regretful. Conversely, when we focus on the things we are grateful for, a greater sense of happiness tends to spread through our lives. And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health."
+    },
+    {
+     "label": "E",
+     "text": "Gratitude has long enjoyed a privileged position in many of the world's cultural traditions. For example, some ancient Western philosophers counsel gratitude that is both enduring and complete, and some Eastern thinkers portray it as not merely an attitude but a virtue to be put into practice."
+    },
+    {
+     "label": "F",
+     "text": "Recent scientific studies support these ancient teachings. Individuals who regularly engage in gratitude exercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction with relationships and fewer symptoms of physical illness. And the benefits are not only psychological and physical. They may also be moral — those who practice gratitude also view their lives less materialistically and suffer from less envy."
+    },
+    {
+     "label": "G",
+     "text": "There are multiple explanations for such benefits of gratefulness. One is the fact that expressing gratitude encourages others to continue being generous, thus promoting a virtuous cycle of goodness in relationships. Similarly, grateful people may be more likely to _reciprocate_ (回报) with acts of kindness of their own. Broadly speaking, a community in which people feel grateful to one another is likely to be a more pleasant place to live than one characterized by mutual suspicion and resentment. The beneficial effects of gratitude may extend even further. For example, when many people feel good about what someone else has done for them, they experience a sense of being lifted up, with a corresponding enhancement of their regard for humanity. Some are inspired to attempt to become better people themselves, doing more to help bring out the best in others and bringing more goodness into the world around them."
+    },
+    {
+     "label": "H",
+     "text": "Gratitude also tends to strengthen a sense of connection with others. When people want to do good things that inspire gratitude, the level of dedication in relationships tends to grow and relationships seem to last longer. And when people feel more connected, they are more likely to choose to spend their time with one another and demonstrate their feelings of affection in daily acts."
+    },
+    {
+     "label": "I",
+     "text": "Of course, acts of kindness can also foster discomfort. For example, if people feel they are not worthy of kindness or suspect that some _ulterior_ (别有用心的) motive lies behind it, the benefits of gratitude will not be realized. Likewise, receiving a kindness can give rise to a sense of indebtedness, leaving beneficiaries feeling that they must now pay back whatever good they have received. Gratitude can flourish only if people are secure enough in themselves and sufficiently trusting to allow it to do so. Another obstacle to gratitude is often called a sense of entitlement. Instead of experiencing a _benefaction_ (善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which no one deserves any moral credit."
+    },
+    {
+     "label": "J",
+     "text": "There are a number of practical steps anyone can take to promote a sense of gratitude. One is simply spending time on a regular basis thinking about someone who has made a difference, or perhaps writing a thank-you note or expressing such gratitude in person. Others are found in ancient religious disciplines, such as reflecting on benefactions received from another person or actually praying for the health and happiness of a benefactor. In addition to benefactions received, it is also possible to focus on opportunities to do good oneself, whether those acted on in the past or hoped for in the future. Some people are most grateful not for what others have done for them but for chances they enjoyed to help others. In regularly reflecting on the things in his life he is grateful for, Defoe's Crusoe believes that he becomes a far better person than he would have been had he remained in the society from which he originally set out on his voyage."
+    },
+    {
+     "label": "K",
+     "text": "Reflecting on generosity and gratitude, the great basketball coach John Wooden once offered two counsels to his players and students. First, he said, “It is impossible to have a perfect day unless you have done something for someone who will never be able to repay you. In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward. Second, he said, “Give thanks for your blessings every day."
+    },
+    {
+     "label": "L",
+     "text": "Some faith traditions incorporate such practices into the rhythm of daily life. For example, adherents of some religions offer prayers of thanksgiving every morning before rising and every night before lying down to sleep. Others offer thanks throughout the day, such as before meals. Other less frequent special events, such as births, deaths and marriages, may also be heralded by such prayers."
+    },
+    {
+     "label": "M",
+     "text": "When Defoe depicted Robinson Crusoe making thanksgiving a daily part of his island life, he was anticipating findings in social science and medicine that would not appear for hundreds of years. Yet he was also reflecting the wisdom of religious and philosophical traditions that extend back thousands of years. Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them."
+    }
+   ],
+   "statements": [
+    {
+     "num": 36,
+     "statement": "It does us far more good to focus on things we can be grateful for than what makes us sad and resentful.",
+     "answer": "C",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 37,
+     "statement": "The beneficial impacts of gratitude can extend from individuals to their community and to the wider society.",
+     "answer": "G",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 38,
+     "statement": "The participants in a recent study repeatedly underestimated the positive effect on those who received thank-you notes.",
+     "answer": "A",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 39,
+     "statement": "Good deeds can sometimes make people feel uncomfortable.",
+     "answer": "I",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 40,
+     "statement": "People who regularly express gratitude can benefit in moral terms.",
+     "answer": "F",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 41,
+     "statement": "A basketball coach advocated performing generous acts without expecting anything in return.",
+     "answer": "K",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 42,
+     "statement": "More and more evidence shows it makes us mentally and physically healthier to routinely count our blessings.",
+     "answer": "D",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 43,
+     "statement": "Of all states of mind,feeling grateful is considered one of the most healthy and beneficial.",
+     "answer": "M",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 44,
+     "statement": "The principles underlying the research into gratitude are nothing new at all.",
+     "answer": "B",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 45,
+     "statement": "Gratitude is likely to enhance one's sense of being connected with other people.",
+     "answer": "H",
+     "answer_source": "答案文件"
+    }
+   ],
+   "complete": true,
+   "issue": ""
+  },
+  "careful": [
+   {
+    "id": "2023-06-1-careful-1",
+    "title": "Passage One",
+    "paragraphs": [
+     "Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity.",
+     "While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications. As AI increasingly shapes the human experience, how does this change what it means to be human?Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications.",
+     "Aristotle argued that the capacity for making practical judgments depends on regularly making them — on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves.",
+     "In the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are areas where _algorithmic_ (算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.",
+     "Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own.",
+     "At the same time, though, this selection is optimizing for what people are likely to prefer based on what they've preferred in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way.",
+     "As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant.",
+     "Algorithms could soon — if they don't already-have a better idea about which show you'd like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display.",
+     "But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us."
+    ],
+    "questions": [
+     {
+      "num": 46,
+      "stem": "What do we learn about the deeper implications of AI?",
+      "options": [
+       "It is causing catastrophic levels of unemployment.",
+       "It is doing physical harm to human operators.",
+       "It is altering moral judgments.",
+       "It is reshaping humanity."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 47,
+      "stem": "What is the consequence of algorithmic prescription replacing human judgment?",
+      "options": [
+       "People lose the chance to cultivate the ability to make practical judgments.",
+       "People are prevented from participating in making major decisions in the workplace.",
+       "Managers no longer have the chance to decide which loan to approve.",
+       "Managers do not need to take the trouble to determine who to hire or fire."
+      ],
+      "answer": "A",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 48,
+      "stem": "What may result from increasing application of recommendation engines in our consumption of culture?",
+      "options": [
+       "Consumers will have much limited choice.",
+       "Consumers will actually enjoy better luck.",
+       "It will be easier to decide on what to enjoy.",
+       "Humans will develop tastes similar to machines'."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 49,
+      "stem": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+      "options": [
+       "They will turn out to be more pleasant.",
+       "They will repeat our past experience.",
+       "They can be completely anticipated.",
+       "They may become better and better."
+      ],
+      "answer": "C",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 50,
+      "stem": "Why does the author say the creatures living in the more and more AI-mediated world will become increasingly unlike us?",
+      "options": [
+       "They will have lost the most significant human element of being intelligent.",
+       "They will no longer possess the human characteristic of being unpredictable.",
+       "They will not be able to understand themselves as we can do today.",
+       "They will be deprived of what their predecessors were proud of about themselves."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     }
+    ]
+   },
+   {
+    "id": "2023-06-1-careful-2",
+    "title": "Passage Two",
+    "paragraphs": [
+     "Phonics, which involves sounding out words _syllable_ (音节) by syllable, is the best way to teach children to read.But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom. Most American children are taught to read in a way that study after study has found to be wrong.",
+     "The consequences of this are striking. Less than half of all American adults were proficient readers in 2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international exam.",
+     "America is stuck in a debate about teaching children to read that has been going on for decades. Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as “whole language . Most teachers today, almost three out of four according to a survey by the EdWeek Research Centre in 2019, use a mix called \"balanced literacy\". This combination of methods is ineffective. \"You can't sprinkle in a little phonics, says Tenette Smith, executive director of elementary education and reading at Mississippi's education department. “It has to be systematic and explicitly taught.\"",
+     "Mississippi, often behind in social policy, has set an example here. In a state once notorious for its low reading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi has seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam. In 2019 it was the only state to improve its scores. For the first time since measurement began, Mississippi's pupils are now average readers, a remarkable achievement in such a poor state.",
+     "Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading. In 1997 Congress requested the National Institute of Child Health and Human Development and the Department of Education to convene a National Reading Panel to end the “reading wars and synthesize the evidence. The panel found that phonics, along with explicit instruction in _phonemic_ (音位的) awareness, fluency and comprehension, worked best.",
+     "Yet over two decades on, “balanced literacy” is still being taught in classrooms. But advances in statistics and brain imaging have disproved the whole-language method. To the teacher who is a proficient reader, literacy seems like a natural process that requires educated guessing, rather than the deliberate process emphasized by phonics. Teachers can imagine that they learned to read through _osmosis_ (潜移默化) when they were children. Without proper training, they bring this to classrooms."
+    ],
+    "questions": [
+     {
+      "num": 51,
+      "stem": "What do we learn about phonics in many American classrooms?",
+      "options": [
+       "It is ill reputed.",
+       "It is mostly misapplied.",
+       "It is arbitrarily excluded.",
+       "It is misrepresented."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 52,
+      "stem": "What has America been witnessing for decades?",
+      "options": [
+       "An obsession with innovating teaching methodologies of reading.",
+       "An enduring debate over the approach to teaching children to read.",
+       "An increasing concern with many children's inadequacy in literacy.",
+       "An ever-forceful advocacy of a combined method for teaching reading."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 53,
+      "stem": "Why does Tenette Smith think a combination of teaching methods is ineffective?",
+      "options": [
+       "Elementary school children will be frustrated when taught with several methods combined.",
+       "Phonics has to be systematically applied and clearly taught to achieve the desired effect.",
+       "Sprinkling in a little phonics deters the progress of even adequately motivated children.",
+       "Balanced literacy fails to sustain children's interest in developing a good reading habit."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 54,
+      "stem": "What does the author say Mississippi's success is attributed to?",
+      "options": [
+       "Convening a National Reading Panel to synthesize research evidence.",
+       "Placing sufficient emphasis upon both fluency and comprehension.",
+       "Adopting scientifically grounded approaches to teaching reading.",
+       "Obtaining support from Congress to upgrade teaching methods."
+      ],
+      "answer": "C",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 55,
+      "stem": "What have advances in statistics and brain imaging proved ineffective?",
+      "options": [
+       "The teaching of symbol-sound relationships.",
+       "Explicit instruction in phonemic awareness.",
+       "Efforts to end the reading wars.",
+       "The immersive approach."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2023-06-2",
+  "year": 2023,
+  "month": 6,
+  "set": 2,
+  "label": "2023年6月 · 第2套",
+  "title": "2023年6月六级真题（第2套）",
+  "source": "wamich/english-exem-md；答案解析来自 Drhm1224/cet6-all-in-one，并已按外部公开答案逐题复核",
+  "answer_note": "本套 4 道题的答案文件有误，已按外部公开答案核对修正",
+  "cloze": {
+   "id": "2023-06-2-cloze",
+   "title": "2023年6月 选词填空",
+   "passage": "Imagine sitting down to a big dinner: a massive steak, a large portion of fried potatoes, and cake for dessert. After eating so much, you should be too full to eat another bite. But some people experience a powerful urge to keep eating, even after {26} in a huge meal, a behavior that makes little sense, as most adults are well-versed in the dangers of obesity, which researchers have shown correlates with {27} health issues and is even linked to increased {28} risk. But some people still keep eating long after they should stop, a phenomenon Dr. Susan Thompson calls“_insatiable_ (永不满足的)hunger.” It is characterized by two main {29}: not being satisfied by eating, and having a desire to stay _sedentary_ (久坐不动的).\n\nThis is at {30} with how humans are biologically programmed. When there was a great deal of food available, ancient people would gorge on calories;this massive calorie intake was accompanied by an urge to get active. Humans were also programmed for something called“compensation,” which is the brain's {31} mechanism for preventing the accumulation of excess weight. With compensation, if you eat one large meal in the morning, you are naturally {32} to eat less for the rest of the day.\n\nBut recent studies show that 70% of American adults have lost the ability to naturally compensate for the calories they consume; worse {33}, a significant number of them report {34} hunger halfway through an eating session, but by the end of the meal, they feel the same or higher levels of hunger than when they sat down. Dr. Thompson argues that the main cause of this phenomenon is the modern diet, which is {35} of food high in sugar, carbohydrates and calories.",
+   "wordbank": [
+    {
+     "letter": "A",
+     "word": "attributes"
+    },
+    {
+     "letter": "B",
+     "word": "comprised"
+    },
+    {
+     "letter": "C",
+     "word": "conceded"
+    },
+    {
+     "letter": "D",
+     "word": "conservation"
+    },
+    {
+     "letter": "E",
+     "word": "diminishing"
+    },
+    {
+     "letter": "F",
+     "word": "far"
+    },
+    {
+     "letter": "G",
+     "word": "inclined"
+    },
+    {
+     "letter": "H",
+     "word": "indulging"
+    },
+    {
+     "letter": "I",
+     "word": "innumerable"
+    },
+    {
+     "letter": "J",
+     "word": "mortality"
+    },
+    {
+     "letter": "K",
+     "word": "odds"
+    },
+    {
+     "letter": "L",
+     "word": "plights"
+    },
+    {
+     "letter": "M",
+     "word": "regulatory"
+    },
+    {
+     "letter": "N",
+     "word": "still"
+    },
+    {
+     "letter": "O",
+     "word": "unmatchable"
+    }
+   ],
+   "blanks": [
+    {
+     "num": 26,
+     "answer": "H",
+     "word": "indulging",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 27,
+     "answer": "I",
+     "word": "innumerable",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 28,
+     "answer": "J",
+     "word": "mortality",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 29,
+     "answer": "A",
+     "word": "attributes",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 30,
+     "answer": "K",
+     "word": "odds",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 31,
+     "answer": "M",
+     "word": "regulatory",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 32,
+     "answer": "G",
+     "word": "inclined",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 33,
+     "answer": "N",
+     "word": "still",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 34,
+     "answer": "E",
+     "word": "diminishing",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 35,
+     "answer": "B",
+     "word": "comprised",
+     "answer_source": "答案文件"
+    }
+   ]
+  },
+  "matching": {
+   "id": "2023-06-2-matching",
+   "title": "The problem with being perfect",
+   "paragraphs": [
+    {
+     "label": "A",
+     "text": "When psychologist Jessica Pryor lived near an internationally renowned university, she once saw a student walking into a library holding a sleeping bag and a coffee maker. She has heard of graduate students spending 12 to 18 hours at a time in the lab. Their schedules are meant to be literally punishing: If they are scientists-in-training, they won't allow themselves to watch Netflix until their experiments start generating results. “Relationships become _estranged_ (疏远的) — people stop inviting them to social gatherings or dinner parties, which leads them to spend even more time in the lab,” Pryor told me."
+    },
+    {
+     "label": "B",
+     "text": "Along with other therapists, Pryor, who is now with the Family Institute at Northwestern University, is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work — sometimes at any cost. Though it is often portrayed as a positive trait, Pryor and others say extreme perfectionism can lead to depression, anxiety, and even suicide."
+    },
+    {
+     "label": "C",
+     "text": "What's more, perfectionism seems to be on the rise. In a study of thousands of American, Canadian, and British college students published earlier this year, Thomas Curran of the University of Bath and Andrew Hill of York St. John University found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s. They measured three types of perfectionism; self-oriented, or a desire to be perfect; socially prescribed, or a desire to live up to others'expectations; and other-oriented, or holding others to unrealistic standards. From 1989 to 2016, they found, self-oriented perfectionism scores increased by 10 percent, socially prescribed scores rose by 33 percent, and other-oriented perfectionism increased by 16 percent."
+    },
+    {
+     "label": "D",
+     "text": "A person living with an other-oriented perfectionist might feel criticized by the perfectionist spouse for not doing houschold chores exactly the “right” way. “One of the most common things couples argue about is the proper way of loading the dishwasher,” says Amy Bach, a psychologist in Providence, Rhode Island."
+    },
+    {
+     "label": "E",
+     "text": "Curran describes socially prescribed perfectionism as “My self-esteem is contingent on what other people think.” His study didn't examine the causal reasons for its rise, but he assumes that the rise of both standardized testing and social media might play a role. These days, Linkedln alerts us when our rival gets a new job, and Instagram can let us know how well \"liked\" our lives are compared with a friend's. In an opinion picce earlier this year, Curran and Hill argue that society has also become more dog-eat-dog. “Over the last 50 years, public interest and civic responsibility have been progressively eroded,” they write,\" replaced by a focus on self-interest and competition in a supposedly free and open marketplace.” We strive for perfection, it seems, because we feel we must in order to get ahead. Michael Brustein, a clinical psychologist in Manhattan, says when he first began practicing in 2007, he was surprised by how prevalent perfectionism was among his clients, despite how little his graduate training had focused on the phenomenon. He sees perfectionism in, among others, clients who are entrepreneurs, artists, and tech employees. \"You're in New York because you're ambitious, you have this need to strive,\" he says. “But then your whole identity gets wrapped into a goal.”"
+    },
+    {
+     "label": "F",
+     "text": "Perfectionism can, of course, be a positive force. Think of professional athletes, who train aggressively for ever-higher levels of competition. In well-adjusted perfectionism, someone who doesn't get the gold is able to forget the setback and move on. In _maladaptive_ (不当的) perfectionism, meanwhile, people make an archive of all their failures. They revisit these archives constantly, thinking, as Pryor puts it,\" I need to make myself feel terrible so I don't do this again. \"Then they double down,\" raising the expectation bar even higher, which increases the likelihood of defeat, which makes you self-critical, so you raise the bar higher, work even harder,\" she says. Next comes failure, shame, and pushing yourself even harder toward even higher and more impossible goals. Meeting them becomes an “all or nothing” premise. Pryor offered this example: \"Even if I'm an incredible attorney, if I don't make partner in the same pacing as one of my colleagues, clearly that means I'm a failure.”"
+    },
+    {
+     "label": "G",
+     "text": "Brustein says his perfectionist clients tend to devalue their accomplishments, so that every time a goal is achieved, the high lasts only a short time, like “a gas tank with a hole in it.” If the boss says you did a great job, it's because he doesn't know anything. If the audience likes your work, that's because it's too stupid to know what good art actually is. But, therapists say, there are also different ways perfectionism manifests. Some perfectionists are always pushing themselves forward. But others actually fall behind on work, unable to complete assignments unless they are, well, perfect. Or they might handicap their performance ahead of time. They're the ones partying until 2 a.m. the night before the final, so that when the grade C rolls in, there's a ready excuse."
+    },
+    {
+     "label": "H",
+     "text": "While educators and parents have successfully convinced students of the need to be high performing and diligent, the experts told me, they haven't adequately prepared them for the inevitability of failure. Instead of praises like \"You're so smart,\" parents and educators should say things like \"You really stuck with it,\" Pryor says, to emphasize the value of perseverance over intrinsic talent. Pryor notes that many of her clients are wary she'll \"turn them into some degenerate couch potato and teach them to be okay with it. \"Instead, she tries to help them think through the parts of their perfectionism they'd like to keep, and to lose the parts that are ruining their lives."
+    },
+    {
+     "label": "I",
+     "text": "Bach, who sees many students from Brown University, says some of them don't even go out on weekends, let alone weekdays. She tells them, “Aim high, but get comfortable with good enough.” When they don't get some award, she encourages them to remember that “one outcome is not a basis for a broad conclusion about the person's intelligence, qualifications, or potential for the future.”"
+    },
+    {
+     "label": "J",
+     "text": "The treatment for perfectionism might be as simple as having patients keep logs of things they can be proud of, or having them behave imperfectly in small ways, just to see how it feels. \"We might have them hang the towels _crooked_ (不正的) or wear some clothing inside out,” says Martin Antony, a professor in the department of psychology at Ryerson University in Toronto."
+    },
+    {
+     "label": "K",
+     "text": "Brustein likes to get his perfectionist clients to create values that are important to them, then try to shift their focus to living according to those values rather than achieving specific goals. It's a play on the “You really stuck with it” message for kids. In other words, it isn't about doing a headstand in yoga class; it's about going to yoga class in the first place, because you like to be the kind of person who takes care of herself. But he warns that some people go into therapy expecting too much-an instant transformation of themselves from a _pathological_ (病态的) perfectionist to a (still high- achieving) non-perfectionist. They try to be perfect, in other words, at no longer being perfect."
+    }
+   ],
+   "statements": [
+    {
+     "num": 36,
+     "statement": "Socially prescribed perfectionism is described as one's self-esteem depending on other people's opinion.",
+     "answer": "E",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 37,
+     "statement": "Jessica Pryor has learned that some graduate students work such long hours in the lab that they have little time for entertainment or socializing.",
+     "answer": "A",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 38,
+     "statement": "The author believes perfectionism may sometimes be constructive.",
+     "answer": "F",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 39,
+     "statement": "It is found that perfectionism is getting more and more prevalent among college students.",
+     "answer": "C",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 40,
+     "statement": "Some experts suggest parents and educators should prepare students for failures.",
+     "answer": "H",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 41,
+     "statement": "Some therapists warn that young adults tend to pursue perfection in their work.",
+     "answer": "B",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 42,
+     "statement": "Psychologist Amy Bach encourages her students to aim high but be content with something less than perfect.",
+     "answer": "I",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 43,
+     "statement": "A clinical psychologist finds perfectionism is widespread among his clients.",
+     "answer": "E",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 44,
+     "statement": "In trying to overcome perfectionism,some people are still pursuing perfection.",
+     "answer": "K",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 45,
+     "statement": "In pursuing perfection,some perfectionists fail to complete their tasks on time.",
+     "answer": "G",
+     "answer_source": "答案文件"
+    }
+   ],
+   "complete": true,
+   "issue": ""
+  },
+  "careful": [
+   {
+    "id": "2023-06-2-careful-1",
+    "title": "Passage One",
+    "paragraphs": [
+     "How on earth did we come to this? We protect our children obsessively from every harm; we scrutinize every carer, teacher or doctor with whom they come into contact. Yet despite all this, one group, which in no way has their best interests at heart, has almost unconstrained access.",
+     "We seem to take it for granted that advertisers and marketers are allowed to condition even the youngest children. Before children have even developed a proper sense of their own identity, or learned to handle money, they're encouraged to associate status and self-worth with stuff, and to look to external things such as fame and wealth for validation. We're turning out little consumers rather than young citizens who will value themselves for what they contribute to the society in which they live.",
+     "We've reached this point so gradually that many of us have never questioned it. It's crept up on us in the 60 years since advertisers started to target the young and found that they could recruit them to a commercial assault on their parents. We've come to know it as“pester power\"or the ability of children to pressure parents to make certain purchases.",
+     "Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness.",
+     "Not all psychologists agree. There're plenty working hand in glove with a f12bn-a-year industry that has turned the manipulation of adult emotions and desires into an art form — often literally. It's also one that's forever developing new ways to persuade our children to desire material possessions, and because of advertisements'viral effect they only need to infect a few to reach the many. Advertising and marketing can serve a useful purpose for children. Marketing may help socialize children as consumers, inform them about products, and help them carve out unique identities as they reach adulthood.",
+     "Then, should we ban all advertising aimed at young children? I say yes.",
+     "Of course there'll be plenty of objections to an outright ban on advertising to the under-11s. There'll be those who argue that would be a breach of freedom of speech and infringe the rights of corporations to brainwash little children into demanding their products.",
+     "Most parents hate what advertising does to their children, but we do have the power to end it and let our children grow up free from many of the pressures of consumerism until they're old enough to make their own decisions. And though advertising is only part of an _all-pervasive_ (无处不在的) marketing culture we need to make a start somewhere. Let's ban all advertising targeting children of primary school age and younger now."
+    ],
+    "questions": [
+     {
+      "num": 46,
+      "stem": "Which group of people does the author say has almost unrestricted access to children?",
+      "options": [
+       "Advertisers.",
+       "Carers.",
+       "Teachers.",
+       "Doctors."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 47,
+      "stem": "What kind of people should we enable children to become according to the author?",
+      "options": [
+       "Those who look to fame and wealth for external and ultimate validation.",
+       "Those who value themselves because of their contribution to society.",
+       "Those who associate self-worth with the ability to handle money.",
+       "Those who have developed a proper sense of their own identity."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 48,
+      "stem": "Many child development experts and educators call attention to research that suggests",
+      "options": [
+       "life-long consumerism is causing more and more cases of psychological problems.",
+       "increasing commercialization of education is eroding many children's self-esteem.",
+       "the growing desire for wealth is contributing to a rising rate of depression.",
+       "the craving for purchasing material things is nurtured throughout one's life."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 49,
+      "stem": "What does the author imply about the impact of advertising?",
+      "options": [
+       "It is actually infectious to many rather than a few.",
+       "It is rooted in our desire for material possessions.",
+       "It is comparable to that of virus.",
+       "It is literally limited to children."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 50,
+      "stem": "What is the opponents'argument against a complete ban on advertising to young children?",
+      "options": [
+       "It would deprive them of the chance to learn about products.",
+       "It would render them unable to carve out unique identities.",
+       "It would breach their freedom as would-be consumers.",
+       "It would violate the rights endowed upon advertisers."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     }
+    ]
+   },
+   {
+    "id": "2023-06-2-careful-2",
+    "title": "Passage Two",
+    "paragraphs": [
+     "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings. But it's on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers. More than half of companies with over $750m in annual revenue used “non-traditional”monitoring techniques on staff last year.",
+     "Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves. A growing number of analytics companies offer this service. They gather“data exhaust”left by employees'email and instant messaging apps, and use name badges equipped with radio-frequency identification devices and microphones. These can check how much time you spend talking, your volume and tone of voice, even if you do not dominate conversations. While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment.",
+     "Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.",
+     "Over the last few years a Stockholm co-working space called Epicenter has gone much further and holds popular“chipping parties”, where people can have microchips implanted in their hands. They can use the implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such devices.",
+     "As long as such schemes are voluntary, there will probably be a growing number of convenience-oriented uses so that a substantial number of workers would opt to have a chip inserted. But if implanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. And if surveillance tools take away autonomy, that's when they prove most unpopular. A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.",
+     "If bosses don't communicate effectively, employees assume the worst. But if they're open about the information they're collecting and what they're doing with it, research suggests 46%of employees are generally okay with it. Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain skeptical and fear an erosion of their civil liberties.",
+     "So workplace surveillance could be empowering for staff and useful for companies looking to become more efficient and profitable. But implemented in the wrong way, it could also become an unpopular tool of oppression that proves counterproductive."
+    ],
+    "questions": [
+     {
+      "num": 51,
+      "stem": "Why are many people opposed to monitoring employee performance?",
+      "options": [
+       "It puts workers under constant pressure.",
+       "It is universally deemed anti-human by nature.",
+       "It does both mental and physical harm to employees monitored.",
+       "It enables firms to squeeze maximal productivity from employees."
+      ],
+      "answer": "A",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 52,
+      "stem": "What is the supporters'argument for workplace surveillance?",
+      "options": [
+       "It enables employees to refrain from dominating conversations.",
+       "It enhances employees'identification with firms they work in.",
+       "It can alert employees to intrusion into their privacy.",
+       "It can protect employees against aggressive behavior."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 53,
+      "stem": "What does the author want to show by the example of different numbers of people interacting at lunch tables?",
+      "options": [
+       "Data analysis is key to the successful implementation of workplace surveillance.",
+       "Analyzing data gathered from workers can yield something unexpected.",
+       "More workmates sitting at a lunch table tend to facilitate interaction and idea sharing.",
+       "It is hard to decide on how many people to sit at a lunch table without data analysis."
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "C"
+     },
+     {
+      "num": 54,
+      "stem": "What does much of the positive effect of monitoring initiatives depend on?",
+      "options": [
+       "How frequently employees are to be monitored.",
+       "What specific personal information is being excluded.",
+       "What steps are taken to minimize their detrimental impact.",
+       "How well bosses make known their purpose of monitoring."
+      ],
+      "answer": "D",
+      "answer_source": "已核对修正",
+      "original_answer": "A"
+     },
+     {
+      "num": 55,
+      "stem": "What concern do monitoring initiatives cause among many staffers?",
+      "options": [
+       "They may empower employers excessively.",
+       "They may erode the workplace environment.",
+       "They may infringe upon staffers'entitled freedom.",
+       "They may become counterproductive in the long run."
+      ],
+      "answer": "C",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2023-06-3",
+  "year": 2023,
+  "month": 6,
+  "set": 3,
+  "label": "2023年6月 · 第3套",
+  "title": "2023年6月六级真题（第3套）",
+  "source": "wamich/english-exem-md；答案解析来自 Drhm1224/cet6-all-in-one，并已按外部公开答案逐题复核",
+  "answer_note": "答案已复核",
+  "cloze": {
+   "id": "2023-06-3-cloze",
+   "title": "2023年6月 选词填空",
+   "passage": "You might not know yourself as well as you think. According to a new study, people are {26} accurate judges of only some of their behaviors. While most previous studies on how well people know themselves have been done on long-term personality traits, this new study {27} how well people understand how they are acting from one moment to the next. Researchers asked participants to wear audio recorders that automatically {28} every 9.5 minutes between 7 a.m. and 2 a.m. to record 30 seconds of audio. These participants were then emailed surveys four times a day asking them to {29} how outgoing, agreeable, or conscientious they were during a particular hour of the day. The study used data from 248 participants, all of whom answered questions about their behavior for two {30} weeks and wore the audio device for one of those weeks.\n\nSix laboratory assistants rated each participant's audio clips to see how their observations compared with people's {31} of themselves. The six assistants were generally in agreement with one another about how the people they were observing acted. Further, participants'ratings of their own behaviors agreed with observers'for how outgoing and how conscientious they were being. But the agreement between participants and outside observers was much smaller for agreeableness. Some of this {32} could be because the observers used only audio clips, and thus could not read {33} like body language, but there are {34} other explanations, as people should be able to hear when a participant is being kind versus being rude. The weak agreement between how participants thought they were acting and what observers heard could be because people would rather {35} rude behavior.",
+   "wordbank": [
+    {
+     "letter": "A",
+     "word": "activated"
+    },
+    {
+     "letter": "B",
+     "word": "articulates"
+    },
+    {
+     "letter": "C",
+     "word": "assessment"
+    },
+    {
+     "letter": "D",
+     "word": "consecutive"
+    },
+    {
+     "letter": "E",
+     "word": "cues"
+    },
+    {
+     "letter": "F",
+     "word": "deny"
+    },
+    {
+     "letter": "G",
+     "word": "discrepancy"
+    },
+    {
+     "letter": "H",
+     "word": "probably"
+    },
+    {
+     "letter": "I",
+     "word": "probes"
+    },
+    {
+     "letter": "J",
+     "word": "random"
+    },
+    {
+     "letter": "K",
+     "word": "recall"
+    },
+    {
+     "letter": "L",
+     "word": "relatively"
+    },
+    {
+     "letter": "M",
+     "word": "saturated"
+    },
+    {
+     "letter": "N",
+     "word": "symptoms"
+    },
+    {
+     "letter": "O",
+     "word": "terminate"
+    }
+   ],
+   "blanks": [
+    {
+     "num": 26,
+     "answer": "L",
+     "word": "relatively",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 27,
+     "answer": "I",
+     "word": "probes",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 28,
+     "answer": "A",
+     "word": "activated",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 29,
+     "answer": "K",
+     "word": "recall",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 30,
+     "answer": "D",
+     "word": "consecutive",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 31,
+     "answer": "C",
+     "word": "assessment",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 32,
+     "answer": "G",
+     "word": "discrepancy",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 33,
+     "answer": "E",
+     "word": "cues",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 34,
+     "answer": "H",
+     "word": "probably",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 35,
+     "answer": "F",
+     "word": "deny",
+     "answer_source": "答案文件"
+    }
+   ]
+  },
+  "matching": {
+   "id": "2023-06-3-matching",
+   "title": "Why we need tiny colleges",
+   "paragraphs": [
+    {
+     "label": "A",
+     "text": "We're experiencing the rebirth of smallness. Farmers markets, tiny homes, and brew pubs all exemplify our love of smallness. So do charter schools, coffee shops, and local bookstores. Small is often (but not always) more affordable, healthier, and sustainable, but its finest characteristic, the one that turns charm into love, is that going small allows us to be more fully who we are."
+    },
+    {
+     "label": "B",
+     "text": "In higher education the trend is mostly in the opposite direction:Universities with 20,000 or 30,000 students are considered “mid-sized”. The nation's largest university, Arizona State University, has 80,000 students on campus and aims to enroll another 100,000 students online. At the other end of the spectrum is a handful of colleges that have fewer than a hundred students on campus and no online courses:colleges such as Sterling College, Thomas More College of Liberal Arts, and Deep Springs College. These colleges are so small that they can only be called “tiny.”"
+    },
+    {
+     "label": "C",
+     "text": "Tiny colleges focus not just on a young person's intellect, but on the young person as a whole. Equally important, tiny colleges ask, “How can education contribute to human flourishing and the well-being of the world?” And they shape a college experience to address that question. They replace concerns about institutional growth with attention to the growth of students as fully developed participants in their communities."
+    },
+    {
+     "label": "D",
+     "text": "I've had the privilege of teaching at three different institutions of higher learning during my career—a small liberal arts college and two mid-sized public universities. I've also been profoundly disappointed in each of these institutions, and in many of my colleagues, especially when it comes to helping students and preparing them for the many responsibilities of adulthood. Administrators focus on the business of running a university, and most faculty focus on their scholarship and teaching their discipline. Little deliberate attention is given to how students mature as individuals and social beings."
+    },
+    {
+     "label": "E",
+     "text": "Having just retired from teaching at a public university, I'm now returning to my hometown of Flagstaff, Arizona, to establish a tiny college—Flagstaff College. I'm convinced there's a need for another type of education, one devoted to helping students come into their own and into this beautiful and troubled world. Young people need an education that will provide them with meaning, hope, courage, and passion, as well as information and skills. Large institutions, I believe, are particularly ill-suited to this type of education."
+    },
+    {
+     "label": "F",
+     "text": "There's no “best of” list when it comes to tiny colleges, at least not yet. But around the country people are creating new colleges that provide an alternative to small liberal arts colleges, large public universities, and online education."
+    },
+    {
+     "label": "G",
+     "text": "With only 26 students, Deep Springs is the smallest college in the country and, quite likely, the most _atypical_ (非典型的) . Located on a working cattle ranch on the California-Nevada border, Deep Springs is a private, residential, two-year college for men, committed to educating students for “a life of service to humanity.” Founded by the electricity _tycoon_ (大亨) L. L. Nunn in 1917, Deep Springs' “curriculum” revolves around academics, labor, and self-governance. In addition to their courses, students are charged with running the 155-acre ranch and overseeing the functioning of the college. Students chair both the admissions and the curriculum committees."
+    },
+    {
+     "label": "H",
+     "text": "“Living in close community with one's teachers and fellow students, and being forced to take on adult responsibilities, makes for one's growth as a person,\" says William Hunt, who graduated last year. “To exist for very long in a community like that, you have to get over the question of whether you're sufficiently talented or principled and get started worrying about how you can stretch yourself and your peers, how much you can manage to learn with them.\""
+    },
+    {
+     "label": "I",
+     "text": "Sterling College, in Craftsbury Common, Vermont, is also very small-fewer than 100 students. Unlike Deep Springs, Sterling focuses its curriculum on environmental and social justice issues, but like Deep Springs it places a high value on personal responsibility and manual labor. According to its catalog, a college education at Sterling combines “rigorous academics, roll-up-your-sleeves challenges, and good old hard work.”"
+    },
+    {
+     "label": "J",
+     "text": "The average tuition at a small liberal-arts college is $30,000 to $40,000 a year, not including the cost of living on campus, as compared to $8,000 to $10,000 a year for tuition alone at a public university. Of the tiny colleges, only Deep Springs doesn't charge tuition or room and board;students pay only for books and the cost of traveling to and from college. If tiny schools are to become a player on the higher education scene, they will need to find a way to be truly affordable."
+    },
+    {
+     "label": "K",
+     "text": "Doing so may not be that difficult so long as they do not pattern themselves too closely on existing norms. We've come to believe that a good college should have many academic programs and excellent facilities, _posh_ (豪华的) dorms, an array of athletic programs, and a world-class student activity center. Imagine a good college without a climbing wall!We also have accepted the idea that college presidents, and their many vice-presidents, should be paid like their counterparts in the business world and that higher education requires an elaborate, up-to-date technology infrastructure. All of this drives up the cost of education."
+    },
+    {
+     "label": "L",
+     "text": "The “trick” to making tiny colleges affordable, if that's the right word, is simplicity. At its core, education is a human-to-human interaction. Reflecting on his own college education, President Garfield once commented that an ideal college would consist of nothing more than the legendary teacher Mark Hopkins on one end of a log and a student on the other. The economics of a tiny college, in other words, might be similar to that of a tiny house. Because it is small, a tiny house costs less to build and less to furnish, insure, and maintain. But the economic benefits of a small house don't end there. Tiny homes discourage homeowners from buying stuff that they really don't need, because there's no place to put it."
+    },
+    {
+     "label": "M",
+     "text": "I'm a late convert to the idea of tiny colleges, and I fully understand the need for many diverse types of educational institutions. Academic research and job training are important, but tiny colleges aren't suited for either. The educational needs of a complex society are themselves complex, and no single model can meet all of these needs. But I'm now convinced there's an educational need that's now going almost completely unmet:namely, the need to help young people transition into adulthood. Tiny colleges can do this better than any other type of educational institution."
+    },
+    {
+     "label": "N",
+     "text": "The ultimate justification for a tiny college is the conviction that each of us comes into our full humanity by close interaction with those who know and care for us, and that one of the basic purposes of higher education is social. Although we give lip service to the idea that a college education will make us better people, when all's said and done, we think of higher education primarily in economic terms. We've come to think of higher education as a means to make a living rather than make a life. We've also come to see higher education as a private good rather than a public one. Tiny colleges are not the answer to all of our educational requirements, but they're an answer to one of our most basic educational necessities:the need to produce thoughtful, engaged, and compassionate human beings."
+    }
+   ],
+   "statements": [
+    {
+     "num": 36,
+     "statement": "One tiny American college situated on a cattle farm is devoted to educating students to serve mankind throughout their lives.",
+     "answer": "G",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 37,
+     "statement": "Much to the author's disappointment, the three institutions of higher learning where she taught largely ignore students'growth as social beings.",
+     "answer": "D",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 38,
+     "statement": "Tiny colleges must be made affordable in order to play a role in higher education.",
+     "answer": "J",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 39,
+     "statement": "According to a recent graduate from a tiny college, living together with faculty and fellow students is conducive to a student's growth as a person.",
+     "answer": "H",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 40,
+     "statement": "Rather than going small, most American universities are trying to go big.",
+     "answer": "B",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 41,
+     "statement": "In a certain tiny college, rigorous academic work and traditional manual labor are integrated.",
+     "answer": "I",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 42,
+     "statement": "Tiny colleges focus on educating students to become well-rounded citizens instead of seeking their own expansion.",
+     "answer": "C",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 43,
+     "statement": "The essence of education lies in the interaction between people.",
+     "answer": "L",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 44,
+     "statement": "After her retirement, the author has decided to set up a tiny college in her hometown.",
+     "answer": "E",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 45,
+     "statement": "Tiny colleges are justified as it is believed that our growth into full humanity comes through interaction with people near and dear to us.",
+     "answer": "N",
+     "answer_source": "答案文件"
+    }
+   ],
+   "complete": true,
+   "issue": ""
+  },
+  "careful": [
+   {
+    "id": "2023-06-3-careful-1",
+    "title": "Passage One",
+    "paragraphs": [
+     "If you're someone who has turned to snacking on junk food more in the _pandemic_ (大流行病), you're not alone. Investigative reporter Michael Moss says processed food is engineered to hook you, not unlike alcohol, cigarettes, or other harmful substances. His 2013 book, Salt Sugar Fat, explored food companies'aggressive marketing of those products and their impact on our health. In his new book, Hooked, Moss updates the food giants'efforts to keep us eating what they serve, and how they're responding to complaints from consumers and health advocates.",
+     "Processed food is inexpensive, it's legal, and it's everywhere. Companies'advertising is cueing us to remember those products and we want those products constantly. So the food environment is one of those key things that makes food even more problematic for so many people. Memory, _nostalgia_ (怀旧) in particular, plays a big role in the foods we crave. Soda companies discovered that if they put a soda in the hands of a child when they're at a ball game with their parents, that soda will forever be associated with that joyous moment. Later in life, when that child wants to experience a joyous moment, they're going to think of soda. Many people seek comfort in the snacks they remember from childhood.",
+     "Moss examines the way companies capitalize on our memories, cravings and brain chemistry to keep us snacking.",
+     "One of the reasons I came to think that some of these food products are even more powerful, more troublesome than drugs can be is memory. What we eat is all about memory. And we begin forming memories for food at a really early age. And we keep those memories for a lifetime. Knowing this, the food industry spends lots of time trying to shape the memories that we have for their products. One of the features of addiction that scientists studying drug addiction discovered back in the 1990s was that the faster a substance hits the brain, the more apt we are as a result to act impulsively. There's nothing faster than food in its ability to hit the brain. For Moss, this puts the notion of “fast food” in an entirely new light as this isn't limited to fast food chains — almost 90% of food products in grocery stores are processed foods. Everything in the industry is about speed, from manufacturing to packaging.",
+     "Overall, Moss outlines the industry's dependence on making their products inexpensive, super delicious, and incredibly convenient for consumers. Now that more and more people care about what they put in their bodies and are wanting to eat healthier, these companies are finding it really difficult to meet that new demand because of their own addiction to making these convenience foods."
+    ],
+    "questions": [
+     {
+      "num": 46,
+      "stem": "In what way does Michael Moss think processed food is comparable to alcohol and cigarettes?",
+      "options": [
+       "They are all addictive.",
+       "They are all necessary evils.",
+       "They are all engineered to be enjoyed.",
+       "They are all in increasingly great demand."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 47,
+      "stem": "What does the author say plays a key role in the foods we crave?",
+      "options": [
+       "The food environment.",
+       "Aggressive marketing.",
+       "Convenience.",
+       "Memory."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 48,
+      "stem": "What do food companies do to capitalize on consumers'association with their food products?",
+      "options": [
+       "They strive to influence how consumers remember their products.",
+       "They attempt to use consumers'long-term memories to promote addiction.",
+       "They try to exploit consumers'memories for their products as early as possible.",
+       "They endeavor to find what consumers remember about their products."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 49,
+      "stem": "How does the food industry operate from manufacturing to packaging, according to Moss?",
+      "options": [
+       "Placing the idea of fast food in an entirely new light.",
+       "Setting no limit to the number of fast food chains.",
+       "Focusing on how quickly the work is done.",
+       "Prioritizing the quality of their products."
+      ],
+      "answer": "C",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 50,
+      "stem": "Why are companies finding it difficult to satisfy consumers'demand for healthier food products?",
+      "options": [
+       "They think speed of production outweighs consumers'health.",
+       "They believe their industry would perish without fast foods.",
+       "They have to strike a balance between taste and nutrition.",
+       "They are hooked on manufacturing convenience foods."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     }
+    ]
+   },
+   {
+    "id": "2023-06-3-careful-2",
+    "title": "Passage Two",
+    "paragraphs": [
+     "_Chimpanzees_ (黑猩猩), human beings'closest animal relatives, share up to 98% of our genes. Yet humans and chimpanzees lead very different lives. Fewer than 300, 000 wild chimpanzees live in a few forested corners of Africa today, while humans have colonized every corner of the globe. At more than 7 billion, human population dwarfs that of nearly all other mammals — despite our physical weaknesses.",
+     "What could account for our species'incredible evolutionary successes?",
+     "One obvious answer is our big brains. It could be that our raw intelligence gave us an unprecedented ability to think outside the box, innovating solutions to thorny problems as people migrated across the globe.",
+     "But a growing number of cognitive scientists and _anthropologists_ (人类学家) are rejecting that explanation. They think that, rather than making our living as innovators, we survive and thrive precisely because we don't think for ourselves. Instead, people cope with challenging climates and ecological contexts by carefully copying others.",
+     "In a famous study, psychologists Victoria Horner and Andrew Whiten showed two groups of test subjects- children and chimpanzees — a mechanical box with a treat inside. In one condition, the box was opaque, while in the other it was transparent. The experimenters demonstrated how to open the box to retrieve the treat, but they also included the irrelevant step of tapping on the box with a stick.",
+     "Oddly, the children carefully copied all the steps to open the box, even when they could see that the stick had no practical effect. That is, they copied irrationally:Instead of doing only what was necessary to get their reward, children slavishly imitated every action they'd witnessed.",
+     "Of course, that study only included three-and four-year-olds. But additional research has shown that older children and adults are even more likely to mindlessly copy others'actions, and infants are less likely to over- imitate — that is, to precisely copy even impractical actions.",
+     "By contrast, chimpanzees in the study only over-imitated in the opaque condition. In the transparent condition — where they saw that the stick was mechanically useless — they ignored that step entirely. Other research has since supported these findings.",
+     "When it comes to copying, chimpanzees are more rational than human children or adults.",
+     "Where does the seemingly irrational human preference for over-imitation come from?Anthropologist Joseph Henrich points out that people around the world rely on technologies that are often so complex that no one can learn them rationally. Instead, people must learn them step by step, trusting in the wisdom of more experienced elders and peers.",
+     "So the next time you hear someone arguing passionately that everyone should embrace nonconformity and avoid imitating others, you might laugh a little bit. We're not chimpanzees, after all."
+    ],
+    "questions": [
+     {
+      "num": 51,
+      "stem": "What might explain humans'having the largest population of almost all mammals?",
+      "options": [
+       "They are equipped with raw strength for solving the most challenging problems.",
+       "They cope with the outside world more effectively than their animal relatives.",
+       "They possess the most outstanding ability to think.",
+       "They know how to survive everywhere on earth."
+      ],
+      "answer": "C",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 52,
+      "stem": "What accounts for humans'evolutionary successes according to a growing number of cognitive scientists and anthropologists?",
+      "options": [
+       "They are better at innovating solutions.",
+       "They thrive through creative strategies.",
+       "They are naturally adaptive to ecological contexts.",
+       "They meet challenges by imitating others carefully."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 53,
+      "stem": "What does the author think is odd about the findings of the study by Victoria Horner and Andrew Whiten?",
+      "options": [
+       "Children irrationally imitated every action of the experimenters.",
+       "Chimpanzees could tell the transparent box from the opaque one.",
+       "Chimpanzees could retrieve the treat more quickly than children did.",
+       "Children omitted the step of tapping on the box with a stick to open it."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 54,
+      "stem": "What is anthropologist Joseph Henrich's explanation for the human preference for copying?",
+      "options": [
+       "It originates in the rationality of people around the world.",
+       "It stems from the way people learn complex technologies.",
+       "It results from people distrusting their own wisdom.",
+       "It derives from the desire to acquire knowledge step by step."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 55,
+      "stem": "What point does the author want to emphasize when he says “We're not chimpanzees”?",
+      "options": [
+       "It is arguable whether everyone should avoid imitation.",
+       "It is characteristic of human beings to copy others.",
+       "It is desirable to trust in more knowledgeable peers.",
+       "It is naive to laugh at someone embracing nonconformity."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2023-12-1",
+  "year": 2023,
+  "month": 12,
+  "set": 1,
+  "label": "2023年12月 · 第1套",
+  "title": "2023年12月六级真题（第1套）",
+  "source": "wamich/english-exem-md；答案解析来自 Drhm1224/cet6-all-in-one，并已按外部公开答案逐题复核",
+  "answer_note": "本套 19 道题的答案文件有误，已按外部公开答案核对修正",
+  "cloze": {
+   "id": "2023-12-1-cloze",
+   "title": "2023年12月 选词填空",
+   "passage": "The desert is deceiving. At first glance it looks lifeless, barren, and bone-dry. For most passersby humming through the Mojave on their way to try their luck in Las Vegas or heading towards the Grand Canyon, it's just a {26} stretch of land with some mountains in the distance and more {27} to be a setting for a movie that takes place on Mars. The desert, however, is {28} with life, mystery, and magic.\n\nThe Mojave desert sees less than two inches of rain a year, and like most deserts, is a land of {29}. Temperature fluctuations vary from freezing to {30} hot, not only between seasons, but even within the same day.\n\nAt the heart of this vast, 25,000-square-mile desert is Mojave National Preserve. The folks managing and working there wear the wide-_brimmed_ (宽边的) hats that have become {31} with places like Yosemite. The preserve is rich with history, culture, biodiversity, and endless opportunities to {32} your interest, especially for anyone who loves the outdoors. For a photographer, it requires patience and {33} a few spare tires to maneuver the network of unpaved \"roads\", but the rewards are plenty.\n\nPhotographing here requires a good, {34} pair of shoes and a lot of preparation. Plenty of water, spare tires, and a full tank of gas are needed to explore this unit of the national park system, which is the third largest in the country.\n\nLike all deserts, though, if you are patient, you will be rewarded, as they often reveal their secrets slowly. During my last outing, I was surprised to see how much of the area was shaped by ancient volcanoes and geological forces, much of which remains today, giving the area a {35} feel and painting a colorful background for great photographs.",
+   "wordbank": [
+    {
+     "letter": "A",
+     "word": "apt"
+    },
+    {
+     "letter": "B",
+     "word": "burning"
+    },
+    {
+     "letter": "C",
+     "word": "extremes"
+    },
+    {
+     "letter": "D",
+     "word": "flat"
+    },
+    {
+     "letter": "E",
+     "word": "fractions"
+    },
+    {
+     "letter": "F",
+     "word": "overflowing"
+    },
+    {
+     "letter": "G",
+     "word": "parasites"
+    },
+    {
+     "letter": "H",
+     "word": "probably"
+    },
+    {
+     "letter": "I",
+     "word": "sparingly"
+    },
+    {
+     "letter": "J",
+     "word": "sprinkle"
+    },
+    {
+     "letter": "K",
+     "word": "steer"
+    },
+    {
+     "letter": "L",
+     "word": "stimulate"
+    },
+    {
+     "letter": "M",
+     "word": "sturdy"
+    },
+    {
+     "letter": "N",
+     "word": "synonymous"
+    },
+    {
+     "letter": "O",
+     "word": "unique"
+    }
+   ],
+   "blanks": [
+    {
+     "num": 26,
+     "answer": "D",
+     "word": "flat",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 27,
+     "answer": "A",
+     "word": "apt",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 28,
+     "answer": "F",
+     "word": "overflowing",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 29,
+     "answer": "C",
+     "word": "extremes",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 30,
+     "answer": "B",
+     "word": "burning",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 31,
+     "answer": "N",
+     "word": "synonymous",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 32,
+     "answer": "L",
+     "word": "stimulate",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 33,
+     "answer": "H",
+     "word": "probably",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 34,
+     "answer": "M",
+     "word": "sturdy",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 35,
+     "answer": "O",
+     "word": "unique",
+     "answer_source": "答案文件"
+    }
+   ]
+  },
+  "matching": {
+   "id": "2023-12-1-matching",
+   "title": "African countries must get smarter with their agriculture.",
+   "paragraphs": [
+    {
+     "label": "A",
+     "text": "On the hills of central Kenya, almost lime-green with the sparkle of tea bushes in the sunlight, farmers know all about climate change. \"The rainy season is no longer predictable,\" says one. \"When it is supposed to rain it doesn't, then it all comes at once.\" Climate change is an issue that will affect everyone on the planet. For Africans its consequences will be particularly bitter: whereas other regions were able to grow rich by burning coal and oil, Africa will pay much of the human price without having enjoyed the benefits. \"Africa only represents 2% of global greenhouse-gas emissions but it is the continent that is expected to suffer the most from climate impacts,\" says Mafalda Duarte, who runs the World Bank's $8bn Climate Investment Funds."
+    },
+    {
+     "label": "B",
+     "text": "Although there are huge uncertainties as to the precise impacts of climate change, enough is known to say that global warming represents one of the main threats to Africa's prosperity. Parts of the continent are already warming much more quickly than the average: temperatures in southern Africa have increased by about twice the global rate over the past 50 years. Even if the world were to cut emissions enough to keep global warming below 1.5°C, heatwaves would intensify in Africa and diseases would spread to areas not currently affected. Farming would also be hit hard. About 40% of the land now used to grow _maize_ (玉米) would no longer be suitable for it. Overall, it is estimated that maize yields would fall by 18-22%."
+    },
+    {
+     "label": "C",
+     "text": "Africa is particularly vulnerable, in part because it is already struggling to feed itself and it will have to vastly increase yields and productivity if it is to put food on the plates of a fast-growing population, even without climate change. The UN's Food and Agriculture Organisation reckons that by 2050 global food production would have to rise by about 70% over its level of 2009 to meet demand from a population that is growing in numbers and appetite. Much of this new demand will be in Africa. Yet the continent already imports about $50bn-worth of food a year and that figure is expected to more than double over the next five years. Self-sufficiency is not Africa's goal, but the fact that it spends more money importing food than it does buying capital goods suggests it has room for improvement."
+    },
+    {
+     "label": "D",
+     "text": "Finding out why is not hard. Most farms are tiny, ploughed by hand and reliant on rain. More than half of Africa's people make their living from farming. Although its total harvest has climbed over the past few decades, this is mainly because there are more people farming more land. But in many places there is no spare land to farm. Plots in Rwanda are so small that you could fit 250 of them onto the average American farm. And although output per worker has improved by more than half over the past 30 years in Africa, that is still far behind the 2.5 times improvement in Asia. Yields of maize are generally less than two tonnes per hectare, a fifth the level in America."
+    },
+    {
+     "label": "E",
+     "text": "The low productivity of African farmers is reflected in national economic statistics — despite absorbing so much labour, farming generates just 15% of GDP. \"They can't even feed their families,\" says Jennifer Blanke, a vice-president of the African Development Bank in charge of agriculture. “Farm productivity hasn't improved in many parts of Africa for 100 years."
+    },
+    {
+     "label": "F",
+     "text": "One reason is that in the first few decades of independence, many African governments neglected farming as they focused on industrialising their economies. Others damaged it by pushing down the prices that state monopolies paid for their crops in order to subsidise workers in cities with cheap food. Ghana taxed _cocoa_ (可可粉) exports so heavily that production collapsed by half between the 1960s and 1980s, despite a jump in the global price of cocoa. Yet over the past two decades or so governments and donors have begun to look again at farming as a way of providing jobs for the 13 million young people entering the workforce each year. Much of the focus has been on getting small farmers to use fertiliser and, more important, better seeds. The results can be impressive. Improved varieties of _sorghum_ (高粱), for instance, can produce a crop that is 40% larger than the usual variety. Infrastructure is important. A World Bank irrigation project in Ethiopia helped farmers increase their potato harvest from about 8 tonnes per hectare to 35 tonnes."
+    },
+    {
+     "label": "G",
+     "text": "Better techniques help, too. Small coffee farmers in Kenya are able to increase their incomes by 40% by following a few simple guidelines on caring for their bushes, such as trimming all but three of their stems. Many of their neighbours do not follow the advice, because it seems counter-intuitive. More stems ought to lead to more coffee beans, they say. Yet after seeing those following the advice get bigger harvests for a season or two, many others start doing the same."
+    },
+    {
+     "label": "H",
+     "text": "One way of spreading knowledge is to link farms to big buyers of their harvests. When Diageo, a British drinks giant, built a brewery in western Kenya, it wanted to use local crops to make a beer cheap enough to compete with illicit home brew. It organised farmers into groups, improved supply chains for them to get seeds and fertiliser and then agreed to buy their grain. It now provides a market to about 17,000 farmers. Across the region it has doubled its use of local raw material to about 80% over five years, says John O'Keeffe who runs its Africa business."
+    },
+    {
+     "label": "I",
+     "text": "An even more important change is the move from traditional farming to building businesses that can profitably bring technology and investment to small farmers. Taita Ngetich, a young Kenyan, was studying engineering when he wanted to earn a little money on the side. He scraped together 20,000 Kenyan shillings (about $200) to plant tomatoes. Everything went wrong. The crop was attacked by pests. \"Then there was a massive flood that swallowed all our capital,\" he says. Mr Ngetich persevered by looking into buying a greenhouse to protect his plants from bugs and rain. The cheapest ones cost more than $2,500 each, so he designed his own for half the price. Soon neighbouring farmers started placing orders with him, and now his firm, Illuminum Greenhouses, has sold more than 1,400 greenhouses that provide livelihoods to about 6,000 people. The business does not stop there; he also supplies fertiliser, high-quality seedlings, and smart sensors that increase yields."
+    },
+    {
+     "label": "J",
+     "text": "Illuminum's success shows how technology can help even small farms become more productive. Because such a large share of Africa's population earns a living from agriculture, even small improvements in productivity can lift the incomes of millions of people. But over the longer run small-scale farming can go only so far, especially in the face of climate change and population pressure."
+    },
+    {
+     "label": "K",
+     "text": "\"If we really want to lift people out of poverty we have to finance projects that will get them an income of at least $100 a month so that they can pay for health care and education,\" says Mr Ngetich. \"Projects that give them an extra $2 a month from growing beans or maize aren't going to get them there.\" Getting those big jumps will need better jobs in factories and cities."
+    }
+   ],
+   "statements": [
+    {
+     "num": 36,
+     "statement": "It is said that agricultural productivity in many African countries has remained low for a century.",
+     "answer": "E",
+     "answer_source": "已核对修正",
+     "original_answer": "G"
+    },
+    {
+     "num": 37,
+     "statement": "Building connections between farms and major purchasers of their produce can promote African farmers' use of advanced farming techniques.",
+     "answer": "H",
+     "answer_source": "已核对修正",
+     "original_answer": "C"
+    },
+    {
+     "num": 38,
+     "statement": "Parts of Africa are getting warmer much faster than the average, with southern Africa witnessing roughly twice the global warming rate over the last half century.",
+     "answer": "B",
+     "answer_source": "已核对修正",
+     "original_answer": "I"
+    },
+    {
+     "num": 39,
+     "statement": "Improved farming practices have enabled Kenyan farmers to increase farm production remarkably.",
+     "answer": "G",
+     "answer_source": "已核对修正",
+     "original_answer": "D"
+    },
+    {
+     "num": 40,
+     "statement": "Africa is especially susceptible to the effects of global warming partly because it has difficulty feeding its increasing population even without climate change.",
+     "answer": "C",
+     "answer_source": "已核对修正",
+     "original_answer": "A"
+    },
+    {
+     "num": 41,
+     "statement": "The use of fertiliser and improved seeds can help Africa's small farmers impressively increase crop yields.",
+     "answer": "F",
+     "answer_source": "已核对修正",
+     "original_answer": "L"
+    },
+    {
+     "num": 42,
+     "statement": "It has proved even more important to shift from traditional farming to setting up businesses that can bring technology and investment to small farmers in Africa.",
+     "answer": "I",
+     "answer_source": "已核对修正",
+     "original_answer": "F"
+    },
+    {
+     "num": 43,
+     "statement": "Everyone in the world will have to bear the consequences of climate change, especially Africans.",
+     "answer": "A",
+     "answer_source": "已核对修正",
+     "original_answer": "H"
+    },
+    {
+     "num": 44,
+     "statement": "Improvement in farm output per worker in Africa falls far short of that in Asia.",
+     "answer": "D",
+     "answer_source": "已核对修正",
+     "original_answer": "B"
+    },
+    {
+     "num": 45,
+     "statement": "In the long term, the potential for small farms in Africa to increase productivity is quite limited, especially owing to the warming climate and a growing population.",
+     "answer": "J",
+     "answer_source": "已核对修正",
+     "original_answer": "K"
+    }
+   ],
+   "complete": true,
+   "issue": ""
+  },
+  "careful": [
+   {
+    "id": "2023-12-1-careful-1",
+    "title": "Passage One",
+    "paragraphs": [
+     "One of the great successes of the Republican Party in recent decades is the relentless propagation of a simple formula for economic growth: tax cuts.",
+     "The formula doesn't work, but that has not affected its popularity. And while the cult of tax cuts has attracted many critics, it lacks for obvious rivals.",
+     "Democratic politicians have tended to campaign on helping people left behind by economic growth. When Democrats do talk about encouraging economic growth, they often sound like Republicans.",
+     "This is not just a political problem for Democrats; it is an economic problem for the United States. The nation needs a better story about the drivers of economic growth. The painful lessons of recent decades point to a promising candidate: higher wages.",
+     "Raising the wages of American workers ought to be the priority of economic policymakers. We'd all be better off paying less attention to quarterly updates on the growth of the nation's gross domestic product (GDP) and focusing instead on the growth of workers' paychecks.",
+     "Set aside, for the moment, the familiar argument for higher wages: fairness. The argument here is that higher wages can fuel the engine of economic growth.",
+     "Perhaps the most famous illustration of the benefits is the story of Henry Ford's decision in 1914 to pay $5 a day to workers on his Model T assembly lines. He did it to increase production — he was paying a premium to maintain a reliable workforce. The unexpected benefit was that Ford's factory workers became Ford customers, too.",
+     "The same logic still holds: Consumption drives the American economy, and workers who are paid more can spend more.",
+     "Mainstream economists insist that it is impossible to order up a sustainable increase in wages because compensation levels reflect the unerring judgment of market forces. The conventional wisdom held that productivity growth was the only route to higher wages. Through that lens, efforts to negotiate higher wages were counterproductive. Minimum-wage laws would raise unemployment because there was only so much money in the wage pool, and if some people got more, others would get none.",
+     "It was in the context of this worldview that it became popular to argue that tax cuts would drive prosperity. Rich people would invest, productivity would increase, wages would rise.",
+     "In the real world, things are more complicated. Wages are influenced by a tug of war between employers and workers, and employers have been winning. One clear piece of evidence is the widening gap between productivity growth and wage growth since roughly 1970. Productivity has more than doubled; wages have lagged far behind.",
+     "A focus on wage growth would provide an _antidote_ (矫正方法) to the attractive simplicity of the belief in the magical power of tax cuts."
+    ],
+    "questions": [
+     {
+      "num": 46,
+      "stem": "Why does the formula of tax cuts remain popular though ineffective?",
+      "options": [
+       "Its critics' voice has not been heard throughout the country.",
+       "There seem to be no other options available to replace it.",
+       "The cult of tax cuts has been relentlessly propagated by all policymakers.",
+       "There appears to be a misunderstanding of the formula among the public."
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "D"
+     },
+     {
+      "num": 47,
+      "stem": "What does the author think is a more effective measure for driving economic growth in the U.S.?",
+      "options": [
+       "Aiding people left behind by economic growth.",
+       "Increasing the compensation for labor.",
+       "Prioritizing the growth of the nation's GDP.",
+       "Introducing even more extensive tax cuts."
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "A"
+     },
+     {
+      "num": 48,
+      "stem": "What is the logic underlying the author's viewpoint?",
+      "options": [
+       "The growth of workers' paychecks ultimately boosts the nation's economy.",
+       "Paying a premium to maintain a reliable workforce attracts more customers.",
+       "Consumption stimulates the desire for higher wages.",
+       "Familiar arguments for higher wages are outdated."
+      ],
+      "answer": "A",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 49,
+      "stem": "What is the basis for higher wages according to the conventional wisdom?",
+      "options": [
+       "Fairness in distribution.",
+       "The priority of economic policymakers.",
+       "Increase in productivity.",
+       "The unerring judgment of market forces."
+      ],
+      "answer": "C",
+      "answer_source": "已核对修正",
+      "original_answer": "A"
+     },
+     {
+      "num": 50,
+      "stem": "What do we learn about things in the real world in America for the past 50 years or so?",
+      "options": [
+       "People have failed to see a corresponding increase in wages and in productivity.",
+       "People have been disheartened by the widening gap between the haves and have-nots.",
+       "People have witnessed a tug of war between Republicans and Democrats over tax cuts.",
+       "People have seen the link disappearing between productivity and workers' well-being."
+      ],
+      "answer": "A",
+      "answer_source": "已核对修正",
+      "original_answer": "C"
+     }
+    ]
+   },
+   {
+    "id": "2023-12-1-careful-2",
+    "title": "Passage Two",
+    "paragraphs": [
+     "Journal editors decide what gets published and what doesn't, affecting the careers of other academics and influencing the direction that a field takes. You'd hope, then, that journals would do everything they can to establish a diverse editorial board, reflecting a variety of voices, experiences, and identities.",
+     "Unfortunately, a new study in Nature Neuroscience makes for disheartening reading. The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the United States: a situation that may be amplifying existing gender inequalities in the field and influencing the kind of research that gets published.",
+     "Men were found to account for 60% of the editors of psychology journals. There were significantly more male than female editors at each level of seniority, and men made up the majority of editors in over three quarters of the journals. Crucially, the proportion of female editors was significantly lower than the overall proportion of women psychology researchers.",
+     "The differences were even starker in the neuroscience journals: 70% of editors were male, and men held the majority of editorial positions in 88% of journals. In this case, the proportion of female editors was not significantly lower than the proportion of female researchers working in neuroscience — a finding that reveals enduring gender disparities in the field more broadly.",
+     "Based on their results, the team concludes that “the ideas, values, and decision-making biases of men are overrepresented in the editorial positions of the most recognized academic journals in psychology and neuroscience.”",
+     "Gender inequality in science is often attributed to the fact that senior academics are more likely to be male, because historically science was male-dominated: it's argued that as time goes on and more women rise to senior roles, the field will become more equal. Yet this study showed that even the junior roles in psychology journals tended to be held disproportionately by men, despite the fact that there are actually more female than male junior psychology faculty.",
+     "This implies that a lack of female academics is not the problem. Instead, there are structural reasons that women are disadvantaged in science. Women receive lower salaries and face greater childcare demands, for instance, which can result in fewer publications and grants — the kinds of things that journals look for when deciding who to appoint. Rather than simply blaming the inequality of editorial boards on tradition, we should be actively breaking down these existing barriers.",
+     "A lack of diversity among journal editors also likely contributes to psychology's WEIRD problem. If journal editors are largely men from the United States, then they will probably place higher value on papers that are relevant to Western, male populations, whether consciously or not."
+    ],
+    "questions": [
+     {
+      "num": 51,
+      "stem": "What would we expect an editorial board of an academic journal to exhibit in view of its important responsibilities?",
+      "options": [
+       "Insight.",
+       "Expertise",
+       "Integrity.",
+       "Diversity."
+      ],
+      "answer": "D",
+      "answer_source": "已核对修正",
+      "original_answer": "A"
+     },
+     {
+      "num": 52,
+      "stem": "What do we learn from the findings of a new study in Nature Neuroscience?",
+      "options": [
+       "The majority of top psychology and neuroscience journals reflect a variety of voices, experiences, and identities.",
+       "The editorial boards of most psychology and neuroscience journals do influence the direction their field takes.",
+       "The editorial boards of the most important journals in psychology and neuroscience are male-dominated.",
+       "The majority of editors in top psychology and neuroscience journals have relevant backgrounds."
+      ],
+      "answer": "C",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 53,
+      "stem": "What fact does the author highlight concerning the gender differences in editors of psychology journals?",
+      "options": [
+       "There were quite a few female editors who also distinguished themselves as influential psychology researchers.",
+       "The number of female editors was simply disproportionate to that of women engaged in psychology research.",
+       "The proportion of female editors was increasingly lower at senior levels.",
+       "There were few female editors who could move up to senior positions."
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "C"
+     },
+     {
+      "num": 54,
+      "stem": "What can we infer from the conclusion drawn by the team of the new study on the basis of their findings?",
+      "options": [
+       "Women's views are underrepresented in the editorial boards of top psychology and neuroscience journals.",
+       "Male editors of top psychology and neuroscience journals tend to be biased against their female colleagues.",
+       "Male researchers have enough representation in the editorial boards to ensure their publications.",
+       "Female editors have to struggle to get women's research articles published in academic journals."
+      ],
+      "answer": "A",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 55,
+      "stem": "What does the author suggest we do instead of simply blaming the inequality of editorial boards on tradition?",
+      "options": [
+       "Strike a balance between male and female editors.",
+       "Increase women's employment in senior positions.",
+       "Enlarge the body of female academics.",
+       "Implement overall structural reforms."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2023-12-2",
+  "year": 2023,
+  "month": 12,
+  "set": 2,
+  "label": "2023年12月 · 第2套",
+  "title": "2023年12月六级真题（第2套）",
+  "source": "wamich/english-exem-md；答案解析来自 Drhm1224/cet6-all-in-one，并已按外部公开答案逐题复核",
+  "answer_note": "本套 27 道题的答案文件有误，已按外部公开答案核对修正",
+  "cloze": {
+   "id": "2023-12-2-cloze",
+   "title": "2023年12月 选词填空",
+   "passage": "Our brains respond to language expressing facts differently than they do to words conveying possibility, scientists at New York University have recently found. Their work offers new insights into the impact word choice has on how we {26} between statements expressing what is real versus what is merely possible.\n\nThe researchers assert their findings are important because we are presented with false information all the time. Some of this is {27}, as is the case with deceptive advertisements, but the problem is {28} by individuals who believe they are sharing correct information. Thus, it is more important than ever to separate the factual from the possible or merely {29} in how we communicate. This is especially true as the study makes clear that information presented as fact {30} special responses in our brains, which are distinct from when we process the same content with clear indicators of {31}.\n\nIn their new study, the scientists intended to {32} how the brain computes possibilities as expressed by words such as \"may,\" \"might,\" and \"if.\" The researchers compared brain responses to statements expressing factual {33} and those expressing possibility. \"There is a monster under my bed\" exemplifies a factual statement. \"I will stay home,\" is also factual. This is opposed to statements that express possibility, like \"There might be a monster under my bed,\" or \"If it rains, I will stay home.\" The results of the study showed that factual language {34} a rapid increase in brain activity, with the brain responding more powerfully and showing more engagement with factual phrases compared to those communicating possibility. Thus, facts rule when it comes to the brain. Brain regions involved in processing {35} rapidly distinguish facts from possibilities. Further, these regions respond in a much more robust fashion to factual statements.",
+   "wordbank": [
+    {
+     "letter": "A",
+     "word": "activated"
+    },
+    {
+     "letter": "B",
+     "word": "aggravated"
+    },
+    {
+     "letter": "C",
+     "word": "ascertain"
+    },
+    {
+     "letter": "D",
+     "word": "deliberate"
+    },
+    {
+     "letter": "E",
+     "word": "differentiate"
+    },
+    {
+     "letter": "F",
+     "word": "discourse"
+    },
+    {
+     "letter": "G",
+     "word": "evokes"
+    },
+    {
+     "letter": "H",
+     "word": "inhibit"
+    },
+    {
+     "letter": "I",
+     "word": "manuscript"
+    },
+    {
+     "letter": "J",
+     "word": "marvels"
+    },
+    {
+     "letter": "K",
+     "word": "remnants"
+    },
+    {
+     "letter": "L",
+     "word": "scenarios"
+    },
+    {
+     "letter": "M",
+     "word": "speculative"
+    },
+    {
+     "letter": "N",
+     "word": "unanimous"
+    },
+    {
+     "letter": "O",
+     "word": "uncertainty"
+    }
+   ],
+   "blanks": [
+    {
+     "num": 26,
+     "answer": "E",
+     "word": "differentiate",
+     "answer_source": "已核对修正",
+     "original_answer": "H"
+    },
+    {
+     "num": 27,
+     "answer": "D",
+     "word": "deliberate",
+     "answer_source": "已核对修正",
+     "original_answer": "I"
+    },
+    {
+     "num": 28,
+     "answer": "B",
+     "word": "aggravated",
+     "answer_source": "已核对修正",
+     "original_answer": "J"
+    },
+    {
+     "num": 29,
+     "answer": "M",
+     "word": "speculative",
+     "answer_source": "已核对修正",
+     "original_answer": "A"
+    },
+    {
+     "num": 30,
+     "answer": "G",
+     "word": "evokes",
+     "answer_source": "已核对修正",
+     "original_answer": "K"
+    },
+    {
+     "num": 31,
+     "answer": "O",
+     "word": "uncertainty",
+     "answer_source": "已核对修正",
+     "original_answer": "M"
+    },
+    {
+     "num": 32,
+     "answer": "C",
+     "word": "ascertain",
+     "answer_source": "已核对修正",
+     "original_answer": "G"
+    },
+    {
+     "num": 33,
+     "answer": "L",
+     "word": "scenarios",
+     "answer_source": "已核对修正",
+     "original_answer": "N"
+    },
+    {
+     "num": 34,
+     "answer": "A",
+     "word": "activated",
+     "answer_source": "已核对修正",
+     "original_answer": "E"
+    },
+    {
+     "num": 35,
+     "answer": "F",
+     "word": "discourse",
+     "answer_source": "已核对修正",
+     "original_answer": "B"
+    }
+   ]
+  },
+  "matching": {
+   "id": "2023-12-2-matching",
+   "title": "Treasure Fever",
+   "paragraphs": [
+    {
+     "label": "A",
+     "text": "Most visitors come to Cape Canaveral, on the northeast coast of Florida, for the tourist attractions. It's home to the second-busiest cruise ship port in the world and is a gateway to the cosmos. Nearly 1.5 million visitors flock here every year to watch rockets, spacecraft, and satellites blast off into the solar system from Kennedy Space Center Visitor Complex. Nearly 64 kilometers of undeveloped beach and 648 square kilometers of protected refuge fan out from the cape's sandy shores."
+    },
+    {
+     "label": "B",
+     "text": "Yet some of Cape Canaveral's most legendary attractions lie unseen, wedged under the sea's surface in mud and sand, for this part of the world has a reputation as a deadly ship trap. Over the centuries, dozens of majestic Old World sailing ships smashed and sank on this irregular stretch of windy Florida coast. They were vessels built for war and commerce, crossing the globe carrying everything from coins to cannons, boxes of silver and gold, chests of jewels and porcelain, and pearls from the Caribbean."
+    },
+    {
+     "label": "C",
+     "text": "Cape Canaveral contains one of the greatest concentrations of colonial shipwrecks in the world. In recent years, advances in radar, diving, detection equipment, computers, and GPS have transformed the hunt. The naked eye might see a pile of rocks, but technology can reveal the precious _artifacts_ (人工制品) that lie hidden on the ocean floor."
+    },
+    {
+     "label": "D",
+     "text": "As technology renders the seabed more accessible, the hunt for treasure-filled ships has drawn a fresh tide of _salvors_ (打捞人员) and their investors — as well as marine _archaeologists_ (考古学家) wanting to bring to light the lost relics. But of late, when salvors have found vessels, their rights have been challenged in court. The big question: who should have control of these treasures?"
+    },
+    {
+     "label": "E",
+     "text": "High-stakes fights over shipwrecks pit archaeologists against treasure hunters in a vicious cycle of accusations. Archaeologists regard themselves as protectors of history, and they see salvors as careless destroyers. Salvors feel they do the hard work of searching for ships, only to have them stolen from under them when discovered. This kind of clash inevitably takes place on a grand scale. Aside from the salvors, their investors, and the maritime archaeologists who serve as expert witnesses, the battles sweep in local and international governments and organizations like UNESCO that work to protect under-water heritage. The court cases that ensue stretch on for years. Are finders keepers, or do the ships belong to the countries that made them and sent them sailing centuries ago? Where once salvors and archaeologists worked side by side, now they belong to opposing, and equally contemptuous, tribes."
+    },
+    {
+     "label": "F",
+     "text": "Nearly three million vessels lie wrecked on the Earth's ocean floor — from old canoes to the Titanic — and likely less than one percent have been explored. Some — like an ancient Roman ship found off Antikythera Greece, dated between 70 and 60 BC and carrying astonishingly sophisticated gears and dials for navigating by the sun — are critical to a new understanding of our past. No wonder there is an eternal stirring among everybody from salvors to scholars to find them."
+    },
+    {
+     "label": "G",
+     "text": "In May 2016, a salvor named Bobby Pritchett, president of Global Marine Exploration (GME) in Tampa, Florida, announced that he had discovered scattered remains of a ship buried a kilometer off Cape Canaveral. Over the prior three years, he and his crew had obtained 14 state permits to survey a nearly 260-square-kilometer area off the cape; they worked 250 days a year, backed by investor funds of, he claims, US $4 million. It was hard work. Crew members were up at dawn, dragging sensors from their expedition vessels back and forth, day in and day out, year after year, to detect metal of any kind. Using computer technology, Pritchett and his crew created intricate, color-coded maps marked with the GPS coordinates of thousands of finds, all invisible under a meter of sand."
+    },
+    {
+     "label": "H",
+     "text": "One day in 2015, the _magnetometer_ (磁力计) picked up metal that turned out to be an iron cannon; when the divers blew the sand away, they also discovered a more precious bronze cannon with markings indicating French royalty and, not far off, a famous marble column carved with the coat of arms of France, known from historical paintings. The discovery was cause for celebration. The artifacts indicated the divers had likely found the wreck of La Trinite, a 16th-century French vessel that had been at the center of a bloody battle between France and Spain that changed the fate of the United States of America."
+    },
+    {
+     "label": "I",
+     "text": "And then the legal storm began, with GME and Pritchett pitted against Florida and France. The Sunken Military Craft Act of 2004, a U.S. federal act, protects any vessel that was on a military mission, allowing the originating country to claim their ship even centuries later. In 2018, two long years after Pritchett's discovery, the federal district court ruled in favor of France. For Pritchett, the decision was devastating. Millions of dollars of investor funding and years of labor were lost."
+    },
+    {
+     "label": "J",
+     "text": "But this is far from the first time a salvor has lost all rights to a discovery. In 2012, for instance, Spain won a five-year legal battle against Odyssey Marine Exploration, which had hauled 594,000 gold and silver coins from a Spanish wreck off the coast of Portugal across the Atlantic to the United States. \"Treasure hunters can be naive,\" says attorney David Concannon, who has had several maritime archaeologists as clients and represented two sides in the battles over the Titanic for 20 years. \"Many treasure hunters don't understand they are going to have to fight for their rights against a government that has an endless supply of money for legal battles that treasure hunters are likely to lose.\""
+    },
+    {
+     "label": "K",
+     "text": "Putting an inflated price on artifacts rather than viewing them as cultural and historical treasures that transcend any price is what irritates many archaeologists. For the archaeologist, everything in a wreck matters — hair, fabric, a fragment of a newspaper, rat bones — all things speak volumes. Archaeologists don't want artifacts ending up in a private collection instead of taking humanity on a journey of understanding."
+    },
+    {
+     "label": "L",
+     "text": "George Bass is one of the pioneers of under-water archaeology, and a researcher at Texas A&M University. He has testified in court against treasure hunters, but says archaeology is not without its own serious problems. He believes archaeologists need to do a better job themselves instead of routinely criticizing treasure hunters. “Archaeology has a terrible reputation for not publishing enough on its _excavations_ (发掘) and finds,” he says. Gathering data, unearthing and meticulously preserving and examining finds, verifying identity and origin, piecing together the larger story, and writing and publishing a comprehensive paper or book can take decades. A bit cynically, Bass describes colleagues who never published because they waited so long they became ill or died. Who is more at fault, Bass asks, the professional archaeologist who carefully excavates a site and never publishes on it or the treasure hunter who locates a submerged wreck, salvages part, conserves part, and publishes a book on the operation?"
+    },
+    {
+     "label": "M",
+     "text": "Pritchett concedes that his find deserves careful excavation and preservation. “I think what I found should go in a museum,” he says. “But I also think I should get paid for what I found. Indeed, it's a bit of a mystery why governments, archaeologists, and treasure hunters can't work together — and why salvors aren't at least given a substantial finder's fee before the original owner takes possession of the vessel and its artifacts."
+    }
+   ],
+   "statements": [
+    {
+     "num": 36,
+     "statement": "Exploration of shipwrecks on the sea floor is crucial in updating our understanding of humanity's past.",
+     "answer": "F",
+     "answer_source": "已核对修正",
+     "original_answer": "E"
+    },
+    {
+     "num": 37,
+     "statement": "Quite a number of majestic ships sailing from Europe to America were wrecked off the Florida coast over the centuries.",
+     "answer": "B",
+     "answer_source": "已核对修正",
+     "original_answer": "A"
+    },
+    {
+     "num": 38,
+     "statement": "Pritchett suffered a heavy loss when a US district court ruled against him.",
+     "answer": "I",
+     "answer_source": "已核对修正",
+     "original_answer": "F"
+    },
+    {
+     "num": 39,
+     "statement": "Recently, people who found treasures in shipwrecks have been sued over their rights to own them.",
+     "answer": "D",
+     "answer_source": "已核对修正",
+     "original_answer": "C"
+    },
+    {
+     "num": 40,
+     "statement": "Pritchett claims he got support of millions of dollars from investors for his shipwreck exploration.",
+     "answer": "G",
+     "answer_source": "已核对修正",
+     "original_answer": "H"
+    },
+    {
+     "num": 41,
+     "statement": "One pioneer marine scientist thinks archaeologists should make greater efforts to publish their findings.",
+     "answer": "L",
+     "answer_source": "已核对修正",
+     "original_answer": "B"
+    },
+    {
+     "num": 42,
+     "statement": "With technological advancement in recent years, salvors now can detect the invaluable man-made objects lying buried under the sea.",
+     "answer": "C",
+     "answer_source": "已核对修正",
+     "original_answer": "I"
+    },
+    {
+     "num": 43,
+     "statement": "According to a lawyer, many treasure hunters are susceptible to loss because they are unaware they face a financially stronger opponent in court.",
+     "answer": "J",
+     "answer_source": "已核对修正",
+     "original_answer": "E"
+    },
+    {
+     "num": 44,
+     "statement": "Salvors of treasures in sunken ships and marine archaeologists are now hostile to each other.",
+     "answer": "E",
+     "answer_source": "已核对修正",
+     "original_answer": "K"
+    },
+    {
+     "num": 45,
+     "statement": "Archaeologists want to see artifacts help humans understand their past instead of being sold to private collectors at an outrageous price.",
+     "answer": "K",
+     "answer_source": "已核对修正",
+     "original_answer": "G"
+    }
+   ],
+   "complete": true,
+   "issue": ""
+  },
+  "careful": [
+   {
+    "id": "2023-12-2-careful-1",
+    "title": "Passage One",
+    "paragraphs": [
+     "Could you get by without using the internet for four and a half years? That's exactly what singer and actress Selena Gomez has done in a bid to improve her mental health.",
+     "She has spoken extensively about the relationship between her social media usage and her mental wellbeing, recalling feeling like “an addict” when she became Instagram's most followed user in 2016. “Taking a break from social media was the best decision that I've ever made for my mental health”, says she. “The unnecessary hate and comparisons went away once I put my phone down.”",
+     "Ditching the web at large, however, is a far more subtle and complicated prospect. The increasing digitisation of our society means that everything from paying a gas bill to plotting a route to a friend's house and even making a phone call is at the mercy of your internet connection. Actively opting out of using the internet becomes a matter of privilege.",
+     "Ms Gomez's multi-millionaire status has allowed her to take the “social” out of social media, so she can continue to leverage her enormous fame while keeping the _trolls_ (恶意挑衅的帖子) at bay. The fact that she's still the second most-followed woman on Instagram suggests it's entirely possible to maintain a significant web profile to promote various projects - by way of a dedicated team - without being exposed to the cruel comments, hate mail, and rape or death threats.",
+     "It goes without saying that this is fundamentally different from how the rest of us without beauty deals and films to publicise use the likes of Instagram, TikTok, and Twitter, but even the concept of a digital _detox_ (戒瘾) requires having a device and connectivity to choose to disconnect from.",
+     "The UK's digital divide has worsened over the past two years, leaving poorer families without broadband connections in their homes. Digital exclusion is a major threat to wider societal equality in the UK, so witnessing companies like Facebook championing the _metaverse_ (元宇宙) as the next great frontier when schoolchildren are struggling to complete their homework feels particularly irritating.",
+     "Consequently, it's worth bearing in mind that while deleting all social media accounts will undoubtedly make some feel infinitely better, many other people benefit from the strong sense of community that sharing platforms can breed.",
+     "Internet access will continue to grow in importance as we edge further towards web 3.0, and greater resources and initiatives are needed to provide the underprivileged with the connectivity they desperately need to learn, work, and live. It's crucial that people who feel that social media is having a detrimental effect on their mental health are allowed to switch off and for those living in digital exclusion to be able to switch on in the first place."
+    ],
+    "questions": [
+     {
+      "num": 46,
+      "stem": "What do we learn about singer and actress Selena Gomez in the past four and a half years?",
+      "options": [
+       "She has had worsening mental problems.",
+       "She has refrained from using social media.",
+       "She has won Instagram's most followers.",
+       "She has succeeded in a bid on the internet"
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "A"
+     },
+     {
+      "num": 47,
+      "stem": "Why does actively opting out of using the internet become a matter of privilege?",
+      "options": [
+       "Most people find it subtle and complicated to give up using the internet.",
+       "Most people can hardly ditch the web while avoiding hate and comparisons.",
+       "Most people can hardly get by without the internet due to growing digitisation.",
+       "Most people have been seriously addicted to the web without being aware of it."
+      ],
+      "answer": "C",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 48,
+      "stem": "Why does the author say “witnessing companies...feels particularly irritating” (Lines 2-4, Para. 6)?",
+      "options": [
+       "The UK digital divide would further worsen due to the metaverse.",
+       "The concept of the metaverse is believed to be still quite illusory.",
+       "School children would be drawn farther away from the real world.",
+       "Most families in the UK do not have stable broadband connections."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 49,
+      "stem": "What is worth bearing in mind concerning social media platforms?",
+      "options": [
+       "They are conducive to promoting societal equality.",
+       "They help many people feel connected with others.",
+       "They provide a necessary device for a digital detox.",
+       "They create a virtual community on the internet."
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "A"
+     },
+     {
+      "num": 50,
+      "stem": "What does the author think is really important for those living in digital exclusion?",
+      "options": [
+       "Having access to the internet.",
+       "Getting more educational resources.",
+       "Edging further towards web 3.0.",
+       "Opening more social media accounts."
+      ],
+      "answer": "A",
+      "answer_source": "已核对修正",
+      "original_answer": "D"
+     }
+    ]
+   },
+   {
+    "id": "2023-12-2-careful-2",
+    "title": "Passage Two",
+    "paragraphs": [
+     "Psychologists have long been in disagreement as to whether competition is a learned or a genetic component of human behavior. Whatever it is, you cannot but recognize the effect competition is exerting in academics and many other areas of contemporary life.",
+     "Psychologically speaking, competition has been seen as an inevitable consequence of human drives. According to Sigmund Freud, humans are born screaming for attention and full of organic drives for fulfillment in various areas. Initially, we compete for the attention of our parents. Thereafter, we are at the mercy of a battle between our base impulses for self-fulfillment and social and cultural norms which prohibit pure indulgence.",
+     "Current work in _anthropology_ (人类学) has suggested, however, that this view of the role of competition in human behavior may be incorrect. Thomas Hobbes, one of the great philosophers of the seventeenth century, is perhaps best remembered for his characterization of the “natural world,” that is, the world before the imposition of the will of humanity, as being “nasty, brutish, and short.” This image of the pre-rational world is still widely held, reinforced by Charles Darwin's highly influential work, _The Origin of Species_, which established the doctrine of natural selection. This doctrine, which takes for granted that those species best able to adapt to and master the natural environment in which they live will survive, has suggested that the struggle for survival is an inherent human trait which determines a person's success. Darwin's theory has even been summarized as “survival of the fittest” — a phrase Darwin himself never used — further highlighting competition's role in success.",
+     "As it has often been pointed out, however, there is nothing in the concept of natural selection that suggests that competition is the most successful strategy for survival of the fittest. Darwin asserted in _The Origin of Species_ that the struggles he was describing should be viewed as metaphors and could easily include dependence and cooperation.",
+     "Many studies have been conducted to test the importance placed on competition as opposed to other values, such as cooperation — by various cultures, and generally conclude that Americans uniquely praise competition as natural, inevitable, and desirable. In 1937, the world-renowned anthropologist Margaret Mead published _Cooperation and Competition among Primitive Peoples_, based on her studies of several societies that did not prize competition, and, in fact, seemed at times to place a negative value on it. One such society was the Zuni Indians of Arizona, and they, Mead found, valued cooperation far more than competition. After studying dozens of such cultures, Mead's final conclusion was that competitiveness is a culturally created aspect of human behavior, and that its prevalence in a particular society is relative to how that society values it."
+    ],
+    "questions": [
+     {
+      "num": 51,
+      "stem": "What does the author think is easy to see in many areas of contemporary life?",
+      "options": [
+       "The disagreement on the inevitability of competition.",
+       "The consequence of psychological investigation.",
+       "The effect of human drives.",
+       "The impact of competition."
+      ],
+      "answer": "D",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 52,
+      "stem": "According to psychology, what do people strive to do following the initial stage of their life?",
+      "options": [
+       "Fulfill individual needs without incurring adverse effects of human drives.",
+       "Indulge in cultural pursuits while keeping their base impulses at bay.",
+       "Gain extensive recognition without exposing pure indulgence.",
+       "Satisfy their own desires while observing social conventions."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 53,
+      "stem": "What do we learn about the “natural world” characterized by Thomas Hobbes?",
+      "options": [
+       "It gets misrepresented by philosophers and anthropologists.",
+       "It gets distorted in Darwin's _The Origin of Species_.",
+       "It is free from the rational intervention of humans.",
+       "It is the pre-rational world rarely appreciated nowadays."
+      ],
+      "answer": "C",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 54,
+      "stem": "What can we conclude from Darwin's assertion in _The Origin of Species_?",
+      "options": [
+       "All species inherently depend on others for survival.",
+       "Struggles for survival do not exclude mutual support.",
+       "Competition weighs as much as cooperation as a survival strategy.",
+       "The strongest species proves to be the fittest in natural selection."
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "A"
+     },
+     {
+      "num": 55,
+      "stem": "What conclusion did Margaret Mead reach after studying dozens of different cultures?",
+      "options": [
+       "It is characteristic of humans to be competitive.",
+       "Americans are uniquely opposed to cooperation.",
+       "Competition is relatively more prevalent in Western societies.",
+       "People's attitude towards competition is actually culture-bound."
+      ],
+      "answer": "D",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2023-12-3",
+  "year": 2023,
+  "month": 12,
+  "set": 3,
+  "label": "2023年12月 · 第3套",
+  "title": "2023年12月六级真题（第3套）",
+  "source": "wamich/english-exem-md；答案解析来自 Drhm1224/cet6-all-in-one，并已按外部公开答案逐题复核",
+  "answer_note": "本套 2 道题的答案文件有误，已按外部公开答案核对修正",
+  "cloze": {
+   "id": "2023-12-3-cloze",
+   "title": "2023年12月 选词填空",
+   "passage": "Modern U.S. cities were designed to make exercise unnecessary. Cars and elevators once symbolized urban areas as machines for more efficient living. Now it is clear that these improvements provide great benefits but also {26} health costs. Recent studies show that urban {27} encourages more driving and is associated with heavier weight. This {28} suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is {29} that urban planners bear this in mind.\n\nUnfortunately, urban planning still centers in large part on solving the problems of the past. Of course cities still need to {30} standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through {31} residential areas. But it's also important to create healthier cities - and the discussion is already underway. More and more city planners are paying increasing attention to encouraging physical activity by making it easier and safer for people to recreate, walk, bike, and take public transportation. Many studies of {32} show that people live the longest in environments where physical activity is part of everyday life.\n\nProviding more walkable spaces, better protected bike lanes, and more {33} spaces are important steps. But even smaller changes can be effective. Cities can close off streets on weekends to encourage communities to get out and walk. They also can provide more seating in public places, so that less-fit residents can rest during their journeys. Using public spaces in cities as places where people can exercise promotes {34}, rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that {35} less wealthy people from joining.",
+   "wordbank": [
+    {
+     "letter": "A",
+     "word": "correlation"
+    },
+    {
+     "letter": "B",
+     "word": "dense"
+    },
+    {
+     "letter": "C",
+     "word": "deter"
+    },
+    {
+     "letter": "D",
+     "word": "equity"
+    },
+    {
+     "letter": "E",
+     "word": "foster"
+    },
+    {
+     "letter": "F",
+     "word": "imperative"
+    },
+    {
+     "letter": "G",
+     "word": "impose"
+    },
+    {
+     "letter": "H",
+     "word": "irrespective"
+    },
+    {
+     "letter": "I",
+     "word": "longevity"
+    },
+    {
+     "letter": "J",
+     "word": "navigate"
+    },
+    {
+     "letter": "K",
+     "word": "recreational"
+    },
+    {
+     "letter": "L",
+     "word": "rotten"
+    },
+    {
+     "letter": "M",
+     "word": "sprawl"
+    },
+    {
+     "letter": "N",
+     "word": "vibrate"
+    },
+    {
+     "letter": "O",
+     "word": "vicinity"
+    }
+   ],
+   "blanks": [
+    {
+     "num": 26,
+     "answer": "G",
+     "word": "impose",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 27,
+     "answer": "M",
+     "word": "sprawl",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 28,
+     "answer": "A",
+     "word": "correlation",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 29,
+     "answer": "F",
+     "word": "imperative",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 30,
+     "answer": "E",
+     "word": "foster",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 31,
+     "answer": "B",
+     "word": "dense",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 32,
+     "answer": "I",
+     "word": "longevity",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 33,
+     "answer": "K",
+     "word": "recreational",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 34,
+     "answer": "D",
+     "word": "equity",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 35,
+     "answer": "C",
+     "word": "deter",
+     "answer_source": "答案文件"
+    }
+   ]
+  },
+  "matching": {
+   "id": "2023-12-3-matching",
+   "title": "Can Learning a Foreign Language Prevent Dementia?",
+   "paragraphs": [
+    {
+     "label": "A",
+     "text": "You may have heard that learning another language is one method for preventing or at least postponing the onset of dementia. Dementia refers to the loss of cognitive abilities, and one of its most common forms is _Alzheimer's disease_ (阿尔兹海默症). At this time, the causes of the disease are not well understood, and consequently, there are no proven steps that people can take to prevent it. Nonetheless, some researchers have suggested that learning a foreign language might help delay the onset of dementia."
+    },
+    {
+     "label": "B",
+     "text": "To explore this possibility more deeply, let's look at some of the common misconceptions about dementia and the aging brain. First of all, dementia is not an inevitable part of the normal aging process. Most older adults do not develop Alzheimer's disease or other forms of dementia. It is also important to remember that dementia is not the same thing as normal forgetfulness. At any age, we might experience difficulty finding the exact word we want or have trouble remembering the name of the person we just met. People with dementia have more serious problems, like feeling confused or getting lost in a familiar place. Think of it this way: If you forget where you parked your car at the mall, that's normal; if you forget how to drive a car, that may be a signal that something more serious is going on."
+    },
+    {
+     "label": "C",
+     "text": "The idea that dementia can be prevented is based on the comparison of the brain to a muscle. When people talk about the brain, they sometimes say things like “It is important to exercise your brain or 'To stay mentally fit, you have to give your brain a workout.\" Although these are colorful analogies, in reality the brain is not a muscle. Unlike muscles, the brain is always active and works even during periods of rest and sleep. In addition, although some muscle cells have a lifespan of only a few days, brain cells last a lifetime. Not only that, but it has been shown that new brain cells are being created throughout one's lifespan."
+    },
+    {
+     "label": "D",
+     "text": "While it makes for a colorful analogy, comparing the brain to a muscle is inaccurate and misleading. So, if the brain is not a muscle, can it still be exercised? Once again, researchers don't know for sure. There are now many computer, online, and mobile device applications that claim to be able to “train your brain, and they typically tap into a variety of cognitive abilities. However, research suggests that although this type of training may improve one's abilities at the tasks themselves, they don't seem to improve other abilities. In other words, practicing a letter-detection task will, over time, improve your letter-detection skills, but it will not necessarily enhance your other perceptual abilities."
+    },
+    {
+     "label": "E",
+     "text": "However, there is some reason to believe that learning languages might be different. The best evidence that foreign language learning confers cognitive benefits comes from research with those who are already _bilingual_ (双语的). Bilingualism most commonly occurs when children are exposed to two languages, either in the home (mom speaks Dutch, dad speaks Spanish) or more formally in early schooling. But bilingualism certainly occurs in adulthood as well."
+    },
+    {
+     "label": "F",
+     "text": "Bilingualism and multilingualism are actually more common than you might think. In fact, it has been estimated that there are fewer monolingual speakers in the world than bilinguals and multilinguals. Although in many countries most inhabitants share just one language, other countries have several official languages. Switzerland, for example, has four official languages: German, French, Italian, and Romansh. Throughout large parts of Africa, Arabic, Swahili, French, and English are often known and used by individuals who speak a different, native language in their home than they do in the marketplace. So bilingualism and multilingualism are to be found throughout the world. And with regard to cognitive abilities, the research on those who speak more than one language paints an encouraging picture."
+    },
+    {
+     "label": "G",
+     "text": "For one thing, bilinguals are better at multitasking. One explanation of this superiority is that speakers of two languages are continually inhibiting one of their languages, and this process of inhibition confers general cognitive benefits to other activities. In fact, bilingual individuals outperform their monolingual counterparts on a variety of cognitive tasks, such as following complex instructions, and switching to new instructions. For the sake of completeness, it should be noted that the advantages of being bilingual are not universal across all cognitive domains. Bilingual individuals have been shown to have smaller vocabularies and to take longer in retrieving words from memory when compared to monolinguals. In the long run, however, the cognitive and linguistic advantages of being bilingual far outweigh these two drawbacks."
+    },
+    {
+     "label": "H",
+     "text": "If the benefits of being bilingual spill over to other aspects of cognition, then we would expect to see a lower incidence of Alzheimer's disease in bilinguals than in monolinguals, or at least a later onset of Alzheimer's for bilinguals. In fact, there is evidence to support this claim. The psychologist Ellen Bialystok and her colleagues obtained the histories of 184 individuals who had made use of a memory clinic in Toronto. For those who showed signs of dementia, the monolinguals in the sample had an average age of 71.4 years at time of onset. The bilinguals, in contrast, received their diagnosis at 75.5 years, on average. In a study of this sort, a difference of four years is highly significant, and could not be explained by other systematic differences between the two groups. For example, the monolinguals reported, on average, a year and a half more schooling than their bilingual counterparts, so the effect was clearly not due to formal education."
+    },
+    {
+     "label": "I",
+     "text": "A separate study, conducted in India, found strikingly similar results: bilingual patients developed symptoms of dementia 4.5 years later than monolinguals, even after other potential factors, such as gender and occupation, were controlled for. In addition, researchers have reported other positive effects of bilingualism for cognitive abilities in later life, even when the person acquired the language in adulthood. Crucially, Bialystok suggested that the positive benefits of being bilingual were only found in those who used both languages all the time."
+    },
+    {
+     "label": "J",
+     "text": "But encouraging as these kinds of studies are, they still have not established exactly how or why differences between bilinguals and monolinguals exist. Because these studies looked back at the histories of people who were already bilingual, the results can only say that a difference between the two groups was found, but not why that difference occurred. Further research is needed to determine what caused the differences in age of onset between the two groups."
+    },
+    {
+     "label": "K",
+     "text": "Other studies of successful aging suggest that being connected to one's community and having plenty of social interaction is also important in delaying or even preventing the onset of dementia. Once again, however, the results are far less clear than the popular media might lead you to believe. Older individuals who lead active social lives are, almost by definition, healthier than their counterparts who rarely leave their homes or interact with others. So we can't really say whether being socially active prevents the onset of dementia, or if people who don't have dementia are more likely to be socially active."
+    },
+    {
+     "label": "L",
+     "text": "But even if studying a foreign language is not a magical cure-all, there is one thing it will do: It will make you a better speaker of a foreign language. Doing that confers a whole host of advantages we do know about."
+    }
+   ],
+   "statements": [
+    {
+     "num": 36,
+     "statement": "Research indicates that brain training is likely to boost one's ability at specific tasks, but not one's other cognitive abilities.",
+     "answer": "D",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 37,
+     "statement": "According to estimates, the number of people who speak two languages or more is greater than those who speak one language only.",
+     "answer": "F",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 38,
+     "statement": "For the time being, we do not know what causes people to lose their cognitive abilities, or what we can do to prevent it.",
+     "answer": "A",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 39,
+     "statement": "It is hard to determine whether people who are free from dementia tend to have more social activities, or more social activities keep people away from dementia.",
+     "answer": "K",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 40,
+     "statement": "There is evidence that learning foreign languages might be beneficial to boosting one's cognitive abilities.",
+     "answer": "E",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 41,
+     "statement": "It was suggested that only those who always spoke two languages could benefit from bilingualism.",
+     "answer": "I",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 42,
+     "statement": "The brain is different from muscles in that it keeps working even when the body is at rest.",
+     "answer": "C",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 43,
+     "statement": "People who speak two languages do better at a number of cognitive tasks than those who speak only one language.",
+     "answer": "G",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 44,
+     "statement": "Dementia is different from being merely forgetful and entails more serious trouble.",
+     "answer": "B",
+     "answer_source": "答案文件"
+    },
+    {
+     "num": 45,
+     "statement": "It is claimed that more monolinguals suffer from Alzheimer's disease than bilinguals.",
+     "answer": "H",
+     "answer_source": "答案文件"
+    }
+   ],
+   "complete": true,
+   "issue": ""
+  },
+  "careful": [
+   {
+    "id": "2023-12-3-careful-1",
+    "title": "Passage One",
+    "paragraphs": [
+     "Research is meant to benefit society by raising public awareness and creating products and innovations that enhance development. For research to serve its full purpose, the results must leave the confines of research laboratories and academic journals.",
+     "Findings effectively communicated can go a long way to serve the interests of the public. They can help address social injustices or improve treatments offered to patients.",
+     "Many researchers seem to be content with sharing the results of their studies in academic journals or at conferences. But few journals allow everybody to read the findings. Even articles freely available are usually written in academic language incomprehensible to the average reader.",
+     "For researchers in the tenure-track system, their main goal is winning tenure, which in part can be achieved by getting a number of papers published in prominent journals. Pressures like this mean community-level outreach is not prioritized.",
+     "Many researchers lack the writing skills to describe their results to a general audience. They may also worry about whether the public will understand their findings, or about findings being used to influence controversial policies. These concerns cause some researchers to shy away from communicating their findings outside the academic community.",
+     "Propagating research findings beyond academic publications is particularly crucial for addressing certain social discrepancies. It can help families, communities, healthcare providers, policymakers, government agencies and others to understand and respond to crises that plague society.",
+     "The benefits of sharing findings flow both ways. Engaging with other researchers and the public can lead to unexpected new connections and new ideas that could suggest fruitful new directions for research.",
+     "To benefit both researchers and the communities, the need to find innovative, accessible ways to share the work cannot be overstated.",
+     "Institutions and funding organizations should support more researchers to publish in open access journals so that the public doesn't have to pay to read them. Institutions and researchers should invest in partnerships that expand capacity for sharing results more broadly.",
+     "Furthermore, ethics committees should make it mandatory for researchers to share their results with the public. Every research participant should opt in or out of receiving results, as part of the process of giving informed consent.",
+     "There could be misunderstanding of the findings presented by the researcher because of technical terms. But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.",
+     "Sharing results with the people who are most affected by them makes us better researchers and ensures that our work can be used to improve people's lives. Institutions and collaborators must recognize the value of doing so."
+    ],
+    "questions": [
+     {
+      "num": 46,
+      "stem": "How can research serve its full purpose according to the author?",
+      "options": [
+       "With researchers being aware of public interests.",
+       "With its findings published in prominent journals.",
+       "With researchers creating products that enhance social development.",
+       "With its findings properly communicated beyond the academic circle."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 47,
+      "stem": "Why do ordinary readers find it difficult to access the results of researchers' studies?",
+      "options": [
+       "They cannot understand the academic language used for reporting these results.",
+       "They feel intimidated by the jargon researchers use to describe their findings.",
+       "They do not attend conferences where these results are freely available.",
+       "They have few chances to locate the journals that publish these findings."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 48,
+      "stem": "What is one of the reasons some researchers won't prioritize communicating their findings to the public?",
+      "options": [
+       "They can thrive on the papers published.",
+       "Their top consideration is to win tenure.",
+       "Their main goal is gaining recognition in their field.",
+       "They have to struggle to reach out to the community."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 49,
+      "stem": "How can sharing findings benefit researchers themselves?",
+      "options": [
+       "By helping them to identify new research directions.",
+       "By enabling them to understand crises plaguing society.",
+       "By enabling them to effectively address social discrepancies.",
+       "By helping them to forge ties with government agencies."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 50,
+      "stem": "Why are researchers advised to engage the services of professional writers or communication officers?",
+      "options": [
+       "To satisfy ethics committees' mandatory requirements of researchers.",
+       "To translate their study into languages accessible to readers overseas.",
+       "To make their publications correctly understood by the public.",
+       "To render their findings acceptable by prominent journals."
+      ],
+      "answer": "C",
+      "answer_source": "答案文件"
+     }
+    ]
+   },
+   {
+    "id": "2023-12-3-careful-2",
+    "title": "Passage Two",
+    "paragraphs": [
+     "Spiders make their presence felt in late August and through early autumn. This is the mating season of some of the most common varieties, when male house spiders come out of hidden corners to look for females, and garden spiders reach adult size and spin their most dazzling webs.",
+     "Yet while the spider is a familiar fixture of nursery poems or songs and Halloween decorations, its relationship with humans is complicated. Fear of spiders is common and has serious impacts on the lives of sufferers. Its prevalence appears unrelated to any rational assessment of risk. Spiders in the UK are almost all harmless. Farmland species perform valuable ecosystem services, by preying on insects that are our competitors for crops. But they are a constant source of human anxieties — with a cultural association with witches and wickedness dating back to the middle ages.",
+     "Does this perhaps explain, in part, the lack of data about how spiders are faring in our age of ecological crisis? British butterflies are the most studied group of insects in the world, due to the long tradition of collecting and observing them. But spider conservationists point out that it was only in the 1980s that the classification of house spiders was properly sorted out. And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders.",
+     "The huge reductions in the numbers of flying insects can only mean a reduction in spiders' food supply. A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for development. This means the overall picture for spiders is worrying, as it is for most creatures. But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate.",
+     "Of around 650 spider species regularly recorded in the UK, the majority thrive in marshes and wasteland. Conservation efforts, often led by determined individuals, have helped some species to recover by reintroducing them to new areas. With rewilding now firmly on the environmental policy agenda, the hope is that in future, spiders will be enabled to migrate by themselves, adapting to climate change by moving along wildlife corridors.",
+     "It seems unlikely that spiders will ever attract the same level of human enthusiasm as bees, birds, or butterflies, in spite of their unique status as nature's spinners. But as they reveal themselves in all their splendour this autumn, it would be a good thing if more animal lovers recognised the ways in which spiders are simply terrific."
+    ],
+    "questions": [
+     {
+      "num": 51,
+      "stem": "What do we learn about spiders in the UK since the middle ages?",
+      "options": [
+       "They have been generally misconceived.",
+       "They have adversely impacted crop growth.",
+       "They have been a constant reminder of bad luck.",
+       "They have made their presence felt when spinning webs."
+      ],
+      "answer": "A",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 52,
+      "stem": "What have spiders been associated with in the UK for centuries?",
+      "options": [
+       "Harm.",
+       "Suffering.",
+       "Evil.",
+       "Aggression."
+      ],
+      "answer": "C",
+      "answer_source": "已核对修正",
+      "original_answer": "B"
+     },
+     {
+      "num": 53,
+      "stem": "What partly accounts for the reduction in spiders' food supply?",
+      "options": [
+       "The long tradition of collecting insects.",
+       "Chemicals used for killing insects.",
+       "Fast reproduction of their competitors.",
+       "The extinction of a lot of wildlife."
+      ],
+      "answer": "B",
+      "answer_source": "已核对修正",
+      "original_answer": "C"
+     },
+     {
+      "num": 54,
+      "stem": "What does the passage say is conservationists' biggest worry?",
+      "options": [
+       "A variety of spiders are threatened due to pollution of marshes and wasteland.",
+       "Certain species of spiders are endangered due to loss of their natural homes.",
+       "An increasing number of spiders are being killed by deadly pesticides.",
+       "More and more spider species are found losing their ability to migrate."
+      ],
+      "answer": "B",
+      "answer_source": "答案文件"
+     },
+     {
+      "num": 55,
+      "stem": "What wish does the author express close to the end of the passage?",
+      "options": [
+       "More people would recognise spiders' unique status in the ecosystem.",
+       "People would show greater enthusiasm for spiders than for butterflies.",
+       "There would be sufficient corridors for spiders to move along.",
+       "There would be more people appreciating spiders' splendour."
+      ],
+      "answer": "D",
+      "answer_source": "答案文件"
+     }
+    ]
+   }
+  ]
+ }
+]

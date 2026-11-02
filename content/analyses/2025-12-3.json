@@ -1,0 +1,373 @@
+{
+ "exam": "2025-12-3",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "空格前是 \"not a\"，后接 \"for dialect\"，需要一个表示\"同一事物的另一种叫法\"的单数名词；synonym for sth 意为\"某物的同义词\"，与紧接的转折 \"but it's related\" 逻辑吻合，故选 N synonym。",
+    "evidence": "Accent is not a {26} for dialect, but it's related.",
+    "distractors": {
+     "L": "词义与搭配均不成立——specimen 指\"标本、样本\"，\"a specimen for dialect\" 无法表达\"方言的另一种叫法\"。",
+     "J": "语义与上文逻辑冲突——reality 指\"现实\"，此处若用则与后文\"ideal rather than a reality\"的对照重复，且\"not a reality for dialect\"讲不通。",
+     "A": "词义无关——affix 是构词学术语\"词缀\"，与\"口音与方言是否同一概念\"的讨论毫无关系。"
+    }
+   },
+   "27": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "主语位置需指人的复数名词，且与后半句 \"but linguists often point out\" 构成\"外行 vs 专家\"的对照；laymen 意为\"外行人、门外汉\"，正指那些想当然认为每国只有一种标准口音的普通人，故选 G laymen。",
+    "evidence": "Many {27} presume that there is a single standard way of speaking in each country, with one single standard accent, and that this perceived standard is {28} the best form of speech, but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a {29} .",
+    "distractors": {
+     "H": "词性错误——此处需可数名词复数作主语，multiple 是形容词，不能单独作主语。",
+     "I": "主体偷换——properties 指\"性质、特性\"，\"properties presume\"（性质认为）不成立，也无法与后文 linguists 形成人的对照。",
+     "E": "词性错误——句中需名词作主语，influential 为形容词，须修饰名词或作表语。"
+    }
+   },
+   "28": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "系动词 is 与表语 the best form of speech 之间需副词修饰，并表达人们\"想当然认为这种标准本身天生就是最好的言语形式\"这一偏见；inherently 意为\"本质上、天生地\"，故选 F inherently。",
+    "evidence": "and that this perceived standard is {28} the best form of speech",
+    "distractors": {
+     "K": "语义方向错误——reciprocally 意为\"相互地、对等地\"，用来描述双方彼此的关系，无法修饰\"这种标准本身最好\"这一判断。",
+     "O": "句法不成立——unanimous 指\"（意见）一致同意的\"，须修饰人或意见，不能作副词修饰 is ... the best form of speech。",
+     "E": "词性错误——此处需副词修饰系表结构，influential 是形容词。"
+    }
+   },
+   "29": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "rather than 前后须构成\"理想 vs 现实\"的对立，且需与冠词 a 搭配的单数名词；reality 意为\"现实（真正存在的事物）\"，\"被理解为一种理想而非现实\"语义通顺，故选 J reality。",
+    "evidence": "but linguists(语言学家) often point out that the concept of a standard accent is better understood as an ideal rather than a {29} .",
+    "distractors": {
+     "L": "语义偏离——specimen 指\"样本、标本\"，\"an ideal rather than a specimen\"不能表达\"理想与现实\"的反义对照。",
+     "A": "词义无关——affix 指\"词缀\"，属形态学术语，与 ideal 构不成任何概念对立。",
+     "I": "单复数与语义均不成立——properties 为复数，与冠词 a 冲突，且\"特性\"与 ideal 不能构成\"理想—现实\"的对立。"
+    }
+   },
+   "30": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "空格修饰复数名词 supposed standards，需表数量的形容词；后文 \"depending on time and place\" 说明这类标准不止一个，multiple 意为\"多个的、多种的\"，与\"历代出现过多种所谓标准\"一致，故选 H multiple。",
+    "evidence": "One reason linguists agree there is no one true standard is that, through the years, there have been {30} supposed standards, depending on time and place.",
+    "distractors": {
+     "O": "语义矛盾——unanimous 指\"意见一致的\"，而此处强调不同时空下多种标准并存，恰与\"一致\"相反。",
+     "E": "语义不符——influential 指\"有影响力的\"，不能表示数量上的\"多个\"，与后文列举不同时代的标准不搭。",
+     "B": "词性错误——此处需限定名词 supposed standards 的形容词，correlate 是动词。"
+    }
+   },
+   "31": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "介词短语 \"across the __\" 需一个表示\"范围、各类\"的名词，与 broadcast outlets 搭配；across the spectrum 为固定表达，意为\"涵盖各类、在各个层面\"，指各类广播机构从未始终遵守这些标准，故选 M spectrum。",
+    "evidence": "broadcast outlets across the {31} have never consistently held to those standards anyway.",
+    "distractors": {
+     "D": "搭配不成立——\"across the domains\"不是英语固定表达，domain 通常与介词 in 连用（in the domain of）。",
+     "I": "语义与搭配不成立——\"across the properties\"不能表示\"各类广播机构\"，properties 指事物自身的性质。",
+     "J": "语义不成立——\"across the reality\"无法表达\"在整个范围、各类机构中\"，reality 强调真实存在而非范围。"
+    }
+   },
+   "32": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "系动词 is 后需形容词作表语，说明\"标准口音\"这一观念的性质；后文 \"many workplace and educational environments perpetuate the idea\" 表明该观念流传广、影响大，influential 意为\"有影响力的\"，故选 E influential。",
+    "evidence": "Even so, this idea of a standard accent is {32} and many workplace and educational environments perpetuate the idea that accents that {33} from the current standard are less appropriate, or even inappropriate.",
+    "distractors": {
+     "O": "语义矛盾——\"这一观念是一致的\"讲不通，unanimous 用于描述多方意见相同，而非某个观念本身。",
+     "H": "语义与词性均不当——multiple 表数量\"多个的\"，此处需说明观念的影响力，而非观念的数目。",
+     "K": "词性错误——此处需形容词作表语，reciprocally 是副词，且\"相互地\"与观念的性质无关。"
+    }
+   },
+   "33": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "定语从句 \"accents that __ from the current standard\" 需与 from 搭配的动词原形；deviate from 意为\"偏离、背离\"，指偏离现行标准的口音被认为不那么得体，与后文 \"less appropriate\" 呼应，故选 C deviate。",
+    "evidence": "many workplace and educational environments perpetuate the idea that accents that {33} from the current standard are less appropriate, or even inappropriate.",
+    "distractors": {
+     "B": "搭配不成立——correlate 通常与 with 连用（correlate with），\"correlate from\"不是英语搭配。",
+     "A": "语义与搭配不成立——affix 作动词意为\"附上、粘贴\"，\"accents that affix from the standard\"无法表达\"偏离标准\"。",
+     "K": "词性错误——关系从句中缺谓语动词，reciprocally 是副词，不能作谓语。"
+    }
+   },
+   "34": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "\"in __ such as government, law and service-oriented workplaces\" 需能与 such as 列举搭配的复数名词，表示\"领域、行业\"；domains 意为\"领域\"，正指政府、法律、服务业等领域，故选 D domains。",
+    "evidence": "Scholars have found that southern US accent features are more accepted in {34} such as government, law and service-oriented workplaces, but less accepted in the technology sector.",
+    "distractors": {
+     "I": "语义不当——properties 指事物的\"性质、特性\"，不能指政府、法律这类职业领域。",
+     "M": "搭配不成立——\"in the spectrum such as government, law\"无法列举具体行业，spectrum 强调连续的范围而非可枚举的领域。",
+     "L": "语义不成立——specimen 指\"样本、标本\"，不能指职业领域。"
+    }
+   },
+   "35": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "情态动词 may 后需动词原形，且须与 with 搭配；correlate with 意为\"与……相关联\"，指非标准口音的接受度可能与阶级和文化的差异相关，与后半句关于行业声望的解释一致，故选 B correlate。",
+    "evidence": "The acceptability of nonstandard accents may {35} with differences in class and culture, with newer or higher prestige industries expecting more standard speech in the workplace.",
+    "distractors": {
+     "C": "搭配与逻辑不成立——deviate 与 from 搭配而非 with，且\"接受度偏离阶级与文化差异\"逻辑不通。",
+     "A": "词义与搭配不成立——affix 表\"附加、粘贴\"，\"acceptability may affix with differences\"毫无意义。",
+     "K": "词性错误——may 后需动词原形，reciprocally 是副词，不能作谓语。"
+    }
+   }
+  },
+  "passage_zh": "最好把口音理解为一种独特的、有系统的、受规则支配的说话方式。口音并不是方言的同义词，但两者相关。方言是一个涵盖性的术语，指一个社群发音、造词和排列词语的方式；口音只指其中的第一部分。许多外行人以为，每个国家都只有一种标准的说话方式，只有一种标准口音，并且认为这种被感知到的标准天生就是最好的言语形式；但语言学家常常指出，把标准口音这一概念理解为一种理想而非现实更为恰当。换句话说，没有人说“标准英语”；它只是一种想象出来的语言使用方式，只存在于语法书和文体书中。语言学家一致认为不存在唯一的真正标准，其中一个原因是：古往今来，在不同的时间与地点，曾出现过多种所谓的标准。例如，20世纪50年代英国新闻片中的英语标准，就与今天美国全国新闻广播中的标准大不相同。事实上，从来没有任何一个单一标准被完全一致地认可——而且各地的广播机构也从来没有始终如一地遵守这些标准。即便如此，标准口音这一观念仍然很有影响力，许多职场和教育环境都在强化这样一种看法：偏离当下标准的口音不那么得体，甚至不得体。学者发现，美国南方的口音特征在政府、法律和服务型职场等领域较易被接受，但在技术行业则较难被接受。非标准口音的接受度可能与阶级和文化的差异相关，较新或声望较高的行业在职场中更期待标准的言语。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "Q",
+    "my_answer": "Q",
+    "verified": true,
+    "explanation": "题干\"看到闪烁黄箭头应先让行人和车辆通过再转弯\"对应 Q 段：When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic。闪烁黄箭头、让行人与车辆先行、之后才转弯三个信息点逐一对应，故选 Q。",
+    "evidence": "When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic."
+   },
+   "37": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "题干\"红绿自动交通灯系统起源于一座美国城市\"对应 I 段末句：in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917。旧金山即美国城市，\"第一套可自动操作的红绿电灯系统\"于1917年推出，originated in an American city 正指此事，故选 I。",
+    "evidence": "Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917."
+   },
+   "38": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "题干\"某美国城市居民多认为路上省下的时间值得为升级信号灯系统花这笔钱\"对应 A 段：洛杉矶同步所有红绿灯的项目 cost over 400 million dollars，而 Ask a resident of the city and they are likely to agree that saving time on the road is well worth it——居民倾向认同省时\"非常值得\"，正与题干\"share the opinion that ... justifies the cost\"对应，故选 A。",
+    "evidence": "Ask a resident of the city and they are likely to agree that saving time on the road is well worth it."
+   },
+   "39": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "题干\"汽车的大规模生产使普通人买得起车\"对应 J 段末句：Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production。larger scale factory production 即 mass production，common people 即 ordinary people，affordable 即使其买得起，故选 J。",
+    "evidence": "Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production."
+   },
+   "40": {
+    "answer": "R",
+    "my_answer": "R",
+    "verified": true,
+    "explanation": "题干\"红绿灯的含义各地几乎相同，只是有些差异\"对应 R 段首句：Traffic light meaning is fairly consistent across the board with various deviations。fairly consistent 即 almost the same，with various deviations 即 despite some variations，故选 R。",
+    "evidence": "Traffic light meaning is fairly consistent across the board with various deviations."
+   },
+   "41": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "题干\"人行横道到20世纪中叶才出现\"对应 L 段：Crosswalks weren't even introduced until 1951。crosswalks 即 pedestrian crossings，1951 属 mid-twentieth century，\"until 1951 才引入\"说明此前并不存在，故选 L。",
+    "evidence": "Crosswalks weren't even introduced until 1951."
+   },
+   "42": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "题干\"随着城市与交通的扩张，人们竞相着手解决日益严重的交通问题\"对应 F 段首句：As traffic and cities grew, so did the race to solve growing traffic problems。race 即 raced to address，growing 即 increasing，故选 F。",
+    "evidence": "As traffic and cities grew, so did the race to solve growing traffic problems."
+   },
+   "43": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "题干\"警示性黄灯引入后驾驶更安全、事故减少\"对应 K 段末句：The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights。cautionary 即 warning，decreasing accidents 即 accidents reduced，故选 K（M 段只说黄灯让路口更安全，未提事故减少）。",
+    "evidence": "The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights."
+   },
+   "44": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "题干\"铁路的信号系统是第一盏红绿灯的基础\"对应 B 段：It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868。adapted from 即 served as the basis for，由铁路信号系统改造而来，故选 B。",
+    "evidence": "It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868."
+   },
+   "45": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "题干\"绿灯虽表示通行，仍应留意两侧车辆，以防有司机疏忽或闯红灯\"对应 N 段：Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light。check both ways 即 attention on either side，not paying attention 即 careless，running the light 即 ignoring a red light，故选 N。",
+    "evidence": "Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light."
+   }
+  },
+  "article_zh": "A) 定时红绿灯按照据称能与高峰时段相协调的时间表来设定。城市至少每两年就要监测并更新信号灯的时间表，以保持这些系统有效。在加利福尼亚州洛杉矶，一项更进一步的宏大工程——让洛杉矶每一个红灯同步——花费超过4亿美元。随便问一位市民，他们大多会认同，在路上省下的时间非常值得。如果在全国推广，同步化可使交通拥堵减少10%，空气污染减少20%。拥堵耗费时间、金钱和生命。大数据可以帮助改善数百万人安全共享道路的方式。然而，如果没有红绿灯，这一切都不可能实现。\nB) 第一盏红绿灯是19世纪60年代在伦敦发明的，但它几乎谈不上像样——也谈不上有效。1868年，铁路管理人约翰·皮克·奈特把它从铁路信号系统改造而来。铁路在夜间用红色煤气灯示意停车，白天用绿色煤气灯。1868年12月，奈特在伦敦威斯敏斯特桥附近安装了类似的煤气灯臂板信号系统。\nC) 第一盏红绿灯信号的寿命很短。安装后不到一个月，一次煤气泄漏就让其中一盏信号灯在操作它的警察面前爆炸。\nD) 伦敦这起事故之后，红绿灯的自动化进程停滞了。四十年过去，挤满城市街道的汽车才推动美国发展红绿灯。伦敦直到1929年才再次见到红绿灯。\nE) 美国是独一无二的汽车文化。与大多数在马匹还算高科技时就开始城市规划的欧洲城市不同，美国的许多城市是围绕城市蔓延、郊区住宅区和汽车来设计的。\nF) 随着交通与城市的发展，解决日益严重的交通问题的竞赛也随之展开。最早的交通信号是臂板信号。臂板信号是带有活动臂的塔，向车流示意停车或通行。它们可以手动，也可以自动。当时没有统一的设计。随着需要出现，各种型号被发明出来并投入使用。\nG) 1912年，莱斯特·怀尔是一名被主街与南200街的交通弄得筋疲力尽的警察。他研制出一种手动开关的停车灯。这个四面盒子架在十英尺高的杆子上，看起来像鸟屋，由警察手动操作。警察扳动开关，在暗红与暗绿的灯之间切换。\nH) 与1910年的臂板信号一样，第一套电动信号也用文字。但文字不再写在升降的臂板上，而是写在灯上：“stop”或“move”。十字路口四角的柱子上各自亮起。不过它并非自动，需要一个有操作员的岗亭来扳动开关。\nI) 这一系统让警察可以从街道中央移到街角。从这个有利位置，警察可以照看人群。若有急救车辆到来，警察可以扳动开关，让所有红灯亮起以清空路口。急救车辆便能毫不费力地通过。最后，1917年旧金山推出了第一套可自动（或手动）操作的红色和绿色电灯系统。\nJ) 1920年，第一套三色灯系统在底特律——也被称为美国汽车城——推出。红绿灯信号的演进不可能有比汽车城更合适的背景。福特汽车公司1903年在底特律成立（随后其他汽车公司也来了）。福特通过更大规模的工厂生产，使汽车对更多普通人、而不只是富人变得买得起。\nK) 对于涌过路口的大量新车来说，停车和通行已经不够用了。街道上除了送货马车、熙攘的人群、自行车、马车和有轨电车，还挤满了数量空前的汽车。警示性黄灯的引入提高了驾驶安全，减少了闯红灯造成的事故。\nL) 在混乱的城市街道上，红绿灯极其重要。人行横道直到1951年才出现。美国第一起行人死亡事故发生在1899年。\nM) 现代红绿灯的发展也许始于伦敦，却在美国成长起来。在克利夫兰，一位名叫加勒特·摩根的非洲裔美国发明家发明了一种价格可负担、已获专利的交通信号。黄灯使路口比旧的停车—通行系统更安全。新设计足够便宜，因此可以安装多得多的信号灯。\nN) 摩根把专利卖给了通用电气——红绿灯的普及由此开了绿灯。绿色意味着通行。就这么简单，但仍最好朝两边看看，提防可能没注意或正在闯灯的对向来车。黄色意味着减速并准备停车。它并不是全速前进的意思。虽然你可能侥幸冲进路口，但闯黄灯可能带来罚单和危险事故。红灯是明确而一致的停车警告。即使在允许红灯右转的地方，也必须先完全停稳再右转。你还必须让行任何拥有优先通行权的直行车辆。在大多数州和城市，除非另有标识，红灯可以右转。纽约市不允许红灯右转。\nO) 在大多数州，红色箭头意味着红灯时不能右转。这些情况下，绿色箭头是唯一可以转弯的时机。但在伊利诺伊、堪萨斯、路易斯安那、马里兰、密歇根、新罕布什尔、北达科他、俄勒冈、南卡罗来纳、犹他、华盛顿州和怀俄明等州，红灯箭头下完全停稳后可以右转。\nP) 闪烁红灯等同于停车标志，通常用于车流很小的十字路口。遇到闪烁红灯时，要完全彻底地停稳。闪烁红箭头同样意味着先停，然后再转弯。闪烁黄灯意味着让行或警示小心，比如在消防站外。美国禁止全方向闪烁黄灯。若遇到闪烁黄灯，你应当让行对向来车。\nQ) 闪烁黄箭头是四信号灯的一部分。有些州在受保护的绿色转弯信号（箭头）之后、稳定黄箭头之前使用它。显示闪烁黄箭头时，在让行行人和车辆之后可以转弯。稳定黄箭头在三灯信号中保持普通黄灯的小心含义，即停车或准备停车。在有闪烁黄箭头的四信号系统中，稳定黄箭头表示让行时段即将结束，红箭头即将开始，若安全可行，车辆应当停车。闯稳定黄箭头可能被开罚单。\nR) 红绿灯的含义总体上相当一致，只是存在各种差异。绿色意味着可以安全通行（不过仍应保持小心）。黄色意味着小心和让行。红色意味着危险和停车。始终防御性驾驶，遵守交通信号。"
+ },
+ "careful": {
+  "2025-12-3-careful-1": {
+   "passage_zh": "正念已被证明对健康有多种有意义的益处——它有助于减轻焦虑，并能促进慢性病患者的康复。\n这一练习基于古老佛教典籍中首次描述的一种洞见：人有能力观察自身经验而不被其卷入。这简单说来就是，我们可以察觉自己正在渴望、正在生出一个愉快的念头，甚至正在经历一种可怕的感受，而不在当下以加剧这种感觉、或让心绪飘向回忆过去、预想未来的方式作出反应。\n当我们学会不以好恶、不以好坏评判去回应经验时，这种正念练习有助于让身心平静下来。它不会使我们变得冷漠无情，而是让我们更全然地临在。\n在当代世界练习正念的挑战之一是，人的注意力已经发生了深刻转变。艺术家珍妮·奥德尔认为，在我们这个“注意力经济”中，人的注意力已被转化为大公司买卖的商品。这种经济建立在手机与社交媒体的技术革命之上，使公司能够时刻用它们的内容锁定我们的注意力。\n大多数人使用的设备是对当下时刻的持续转移。结果是，我们会觉得自己的专注力以及全然临在的能力被偷走了。但正念可以帮助我们抵抗注意力经济，去珍惜那些让生活变得特别的事物，比如与所爱之人共处。\n大多数正念研究关注的是这一练习对个人的益处，但一些学者断言，我们不仅可以为自己练习正念，也可以为他人练习。它可以帮助我们建立更牢固、更健康的人际关系。\n可悲的事实是，生活在注意力经济中，我们大多数人都成了糟糕的倾听者。然而，正如可以观察自己经历一件事而不作出反应一样，也可以观察另一个人经历一件事，而不被反应性和评判所纠缠。\n正念的礼物，是一种带着慈悲去倾听他人讲述自身经历的练习。送出这份礼物，意味着收起手机、关掉社交媒体、放下其他常见的干扰。它意味着练习全然地临在于另一个人的在场之中，以全部的注意力不带评判地倾听他们，同时克制住让这次交流围绕自己的冲动。\n如果我们以价格来衡量礼物的价值，这份礼物似乎一文不值；但在这个心不在焉的世界里，它却无比珍贵。",
+   "questions": {
+    "46": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "This practice of mindfulness can help calm the mind and the body as we learn not to react to experience with likes and dislikes or judgments of good and bad.",
+     "explanation": "第二段说正念是 observe experience without being caught up in it，第三段进一步说明我们 learn not to react to experience with likes and dislikes or judgments of good and bad，即把注意力放在当下、不对经验作好坏评判，第三段末句 more fully present 也印证这一点，与 B 完全对应。",
+     "distractors": {
+      "A": "与原文相反——第二段明确说正念使人不要在当下反应，以免 send the mind spiraling off into thinking about old memories or anticipating events，该项却把\"回想过去、预期未来\"说成正念的作用。",
+      "C": "以偏概全——原文把渴望、愉快念头、可怕情绪只作为可被观察的对象，正念要求不对其作出反应，而非把注意力集中在个人感受上。",
+      "D": "张冠李戴——原文谈的是我们自己以好坏评判（judgments of good and bad）去看待经验，与\"来自他人的评判\"无关，该项偷换了评判的来源。"
+     }
+    },
+    "47": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "human attention has been transformed into a commodity that big corporations buy and sell.",
+     "explanation": "第四段引述珍妮·奥德尔：人的注意力已经变成大公司买卖的商品（a commodity that big corporations buy and sell），即注意力被商品化、可以交易，正是 B\"人们的注意力变成了可以买卖的东西\"。",
+     "distractors": {
+      "A": "无中生有——原文没有\"对技术进步的关注会不断更新产品与服务\"的说法，这是对 technological revolution 一词的随意发挥。",
+      "C": "主体偷换——原文说公司借助手机和社交媒体的技术革命锁定我们的注意力，并不是说公司靠\"卖手机、革新社交媒体\"来获利，获利方式是买卖注意力本身。",
+      "D": "无中生有——原文通篇没有提到人们\"未经仔细思考就购买产品与服务\"，该项把注意力经济与消费冲动混为一谈。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "The devices most people use are a perpetual diversion from the present moment.",
+     "explanation": "第五段指出大多数人使用的设备是对当下时刻的持续转移，结果是专注与全然临在的能力仿佛被偷走，即常刷手机与社交媒体不断把人从此时此地引开，与 A\"它们不断让用户从此时此地分心\"一致。",
+     "distractors": {
+      "B": "程度夸大——原文只说设备是\"持续的转移物\"，并未说用户\"无力抵抗诱惑\"，这属于对 a perpetual diversion 的过度引申。",
+      "C": "主体偷换——被偷走的是我们的 ability to focus and be fully present，而\"观察经验的能力\"恰是第二段所说正念要培养的能力，两者并非同一对象。",
+      "D": "无中生有——原文没有说用户被诱使去\"认可/背书注意力经济\"，反而说正念可以帮助我们抵抗它，方向相反。"
+     }
+    },
+    "49": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "It can help us build stronger, healthier relationships.",
+     "explanation": "第六段说明一些学者主张正念不仅为自己、也可以为他人练习，紧接着给出理由 It can help us build stronger, healthier relationships，即有助于建立更牢固、更健康的人际关系，与 C\"有助于我们建立更好的人际关系\"直接对应。",
+     "distractors": {
+      "A": "张冠李戴——\"不带评判\"是第七、八段谈倾听他人时的要求，题干问的是\"一些学者所说的益处\"，学者点明的是人际关系，而非防止对他人随意评判。",
+      "B": "无中生有——原文没有任何\"从物质追求转向精神追求\"的表述，这是凭空添加的价值取向。",
+      "D": "范围混淆——\"珍惜那些让生活特别的事物\"是第五段作者本人的主张，并非第六段\"一些学者\"所说的益处，出处张冠李戴。"
+     }
+    },
+    "50": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.",
+     "explanation": "第八段说这份礼物意味着放下手机、关掉社交媒体，全然地临在于对方在场之中，以完全的注意力不带评判地倾听，并克制让交流围绕自己，即做专注的倾听者并且不妄加评判，正是 C。",
+     "distractors": {
+      "A": "曲解原意——原文要求倾听对方讲述自身经历（listening to others describe their experiences），并未建议\"坦率地互相分享\"经历。",
+      "B": "目的偷换——建立更牢固关系是第六段所说的益处，此处强调的是把全部注意力放在倾听本身，而非\"专注于建立亲密关系\"。",
+      "D": "无中生有——原文只说要把手机和社交媒体放下，并未建议去提醒对方远离这些干扰。"
+     }
+    }
+   },
+   "vocabulary": [
+    {"word": "mindfulness", "meaning": "正念；有意识地觉察当下而不作评判的状态", "note": "practice mindfulness 练习正念"},
+    {"word": "commodity", "meaning": "商品；可买卖之物", "note": "attention turned into a commodity 注意力变成商品"},
+    {"word": "amplify", "meaning": "放大；加剧（感受、效果等）", "note": "amplify the feeling 加剧这种感觉"},
+    {"word": "spiral", "meaning": "螺旋式上升；（思绪）急剧跑偏", "note": "send the mind spiraling off 让思绪一路发散"},
+    {"word": "perpetual", "meaning": "持续不断的；永久的", "note": "a perpetual diversion 持续的干扰"},
+    {"word": "diversion", "meaning": "转移注意力的事物；消遣", "note": "a diversion from the present moment 让人离开当下"},
+    {"word": "relish", "meaning": "享受；品味", "note": "relish the things that make life special"},
+    {"word": "compassion", "meaning": "同情；慈悲", "note": "listen with compassion 带着慈悲倾听"}
+   ],
+   "long_sentence": {
+    "sentence": "The practice is based on an insight first described in ancient Buddhist texts that human beings have the capacity to observe experience without being caught up in it.",
+    "analysis": "主干是 The practice is based on an insight（这一练习基于一种洞见）；first described in ancient Buddhist texts 为过去分词短语作后置定语，修饰 insight；that human beings have the capacity ... 是同位语从句，进一步说明 insight 的具体内容；从句中 to observe experience without being caught up in it 为不定式短语作后置定语修饰 capacity，意为\"有能力观察自身经验而不被其卷入\"，without being caught up in it 是介词短语作方式状语。"
+   }
+  },
+  "2025-12-3-careful-2": {
+   "passage_zh": "前几天我得登录一个以前没用过的服务。因为我是新用户，网站认为有必要核实我不是机器人，于是给我出了一道验证码测试，以判断用户是人还是机器。\n我看到的是一张路边场景的图片，上面覆着一层网格。我的“挑战”是点击网格中每一个含交通标志的格子。我照做了，心里有点恼火。接着又出现一张图片和另一层网格——同样要求辨认路标。我像羔羊一样顺从了，之后网站接受了我的输入。\n然后我才意识到，我刚才做的其实是在为一个数据集添砖加瓦，用来训练引导自动驾驶汽车的机器学习软件。所以，为了获得一项会因我的输入而在经济上受益的自动化服务的使用权，我得先做无偿劳动，帮助提升自动驾驶汽车的性能。\n妙吧？但还要注意另一层极妙的讽刺：验证码被描述为“自动化的图灵测试”。你可能记得，图灵测试当初的构想，是让人类判断一台机器的回应是否能让人分辨不出它是人还是机器人。于是我们就这样走进了一个机器让我们耍把戏来证明我们是人的世界！\n这一空前转变最奇怪的一面在于，它被讨论得太少。沸水煮青蛙的比喻浮上心头。我们是否已被数字技术如此潜移默化地驯化，以致看不出发生在自己身上的事？我们是否已被驯化成接受一个由“智能”技术统治的世界，以放弃掌控换取便利，直到我们自己也有点像机器？\n在最近一本令人惊异而发人深省的书里，两位学者——法学教授布雷特·弗里施曼和哲学家埃文·塞林格——认为对这个问题的答案是“是”。\n他们说得对。这并不带任何技术恐惧的色彩。我们塑造工具，然后工具塑造我们。技术本应提供服务于人类目的的工具。但正如机器学习验证码所示，如今相当一部分数字技术把人看作（并用作）实现并非我们之目的的手段。在这一过程中，它们把我们降格为快乐的、在别人设计的踏车上奔跑的老鼠，而那些设计者并不把我们的利益放在心上。所以回到青蛙的比喻：我们够聪明，能在为时已晚之前跳出来吗？你甚至不用去谷歌就知道答案。",
+   "questions": {
+    "51": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "Like a lamb, I complied, after which the website accepted my input.",
+     "explanation": "第二段写作者 did so, a bit irritated（照做了，但有点恼火），随后又 Like a lamb, I complied（像羔羊一样顺从地照做），说明他虽不情愿却仍乖乖完成，与 D\"他顺从地做了\"一致。",
+     "distractors": {
+      "A": "与原文相反——作者是按\"是否含交通标志\"逐一去点格子的（click on each cell ... that contained a traffic sign），并非随意乱点。",
+      "B": "态度误读——作者明说 a bit irritated，且用 like a lamb 自嘲顺从，并非\"欣然接受挑战\"。",
+      "C": "无中生有——原文没有任何\"自信完成\"的表述，强调的是恼火与羔羊般的顺从。"
+     }
+    },
+    "52": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "So we have wandered into a world in which machines make us do tricks to prove that we are humans!",
+     "explanation": "第四段点出讽刺：验证码被称为“自动化的图灵测试”，而图灵测试的本意是让人类判断机器能否以假乱真；如今却反过来由机器出题、让我们做动作来证明自己是人，即 C\"原本用来测试机器的测试，如今被机器用来测试人\"。",
+     "distractors": {
+      "A": "张冠李戴——原文没有说机器能同样通过这项测试，反而强调 machines make us do tricks to prove that we are humans。",
+      "B": "无中生有——全文没有比较机器与人在物体识别上的优劣，该项把\"机器借人的点击训练识别能力\"偷换成\"机器识别更准\"。",
+      "D": "逻辑混乱——该项说\"一项用于区分人与机器人的测试如今能做人类做不到的把戏\"，把\"机器让我们做动作\"曲解成测试本身具备能力，主语与动作关系全错。"
+     }
+    },
+    "53": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don't see what's been happening to us?",
+     "explanation": "第五段引入沸水煮青蛙的比喻后立即追问我们是否已被数字技术潜移默化地驯化到看不见发生在自己身上的事；青蛙在水中被煮却不自知，正是比喻人对智能技术带来的潜在危险毫无察觉，故选 B。",
+     "distractors": {
+      "A": "与原文相反——原文说人类\"以放弃掌控换取便利\"（trading convenience），该项却说人不愿以便利换掌控，方向颠倒。",
+      "C": "事实层面误读——作者不是\"质疑\"人是否被驯化，而是已用 Have we become so subtly conditioned ... 的近于肯定的反问断言我们被驯化却不自知。",
+      "D": "比喻误读——青蛙比喻的落点是\"察觉不到正在逼近的危险\"，而非探讨人类是否像青蛙一样生理上脆弱。"
+     }
+    },
+    "54": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours.",
+     "explanation": "第七段给出认同两位学者的理由：如今相当一部分数字技术把人看作并用作实现\"并非我们之目的\"的手段（means to ends that are not ours），正与 A\"很大一部分数字技术如今在利用人来达成它自己的目的\"一致。",
+     "distractors": {
+      "B": "无中生有——原文没有\"人类与数字技术竞赛、争夺世界控制权\"的说法，这是对 treadmills 等比喻的臆造。",
+      "C": "与原文相反——原文承认技术本应服务人类目的（Technology is supposed to provide tools that serve human ends），但指出如今大量技术反过来利用人，并非在强调其满足需求的能力。",
+      "D": "无中生有——原文没有\"技术负责思考、人做重复劳动\"的分工描述，老鼠跑踏车的比喻指人被当作手段，而非劳动分工。"
+     }
+    },
+    "55": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "So back to the frog metaphor. Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer.",
+     "explanation": "结尾以青蛙设问\"我们够聪明，能在为时已晚之前跳出来吗\"，紧接着说\"你甚至不用谷歌就知道答案\"，暗示答案是否定的：我们很可能来不及醒悟，就被数字技术带来的危险吞没，与 D 一致。",
+     "distractors": {
+      "A": "答非所问——\"不能指望技术顾及人的利益\"是第七段中段的陈述（people who do not have our interests at heart），而结尾这句反问的言外之意在于我们能否及时醒悟，二者不是同一问题。",
+      "B": "无中生有——原文并不讨论\"技术与人谁占上风\"的不确定性，而是明确暗示人处于被煮的危险之中。",
+      "C": "曲解原句——末句\"你甚至不用谷歌就知道答案\"恰恰说明答案显而易见，该项却理解成需要上网搜索，与原句用意相反。"
+     }
+    }
+   },
+   "vocabulary": [
+    {"word": "Captcha", "meaning": "验证码；用于区分人与机器的测试"},
+    {"word": "grid", "meaning": "网格；格子", "note": "a grid laid over an image 覆盖在图片上的网格"},
+    {"word": "comply", "meaning": "遵从；照做", "note": "comply with a request 按要求照做"},
+    {"word": "conceive", "meaning": "构想；设想", "note": "be conceived as 被构想为"},
+    {"word": "irony", "meaning": "讽刺；反讽"},
+    {"word": "condition", "meaning": "（动词）使形成条件反射；驯化", "note": "be conditioned by technology 被技术潜移默化"},
+    {"word": "technophobic", "meaning": "技术恐惧的；排斥新技术的"},
+    {"word": "treadmill", "meaning": "踏车；跑步机", "note": "rats running on treadmills 跑踏车的老鼠"}
+   ],
+   "long_sentence": {
+    "sentence": "In the process, they reduce us to the status of cheery rats running on treadmills(踏车) designed by people who do not have our interests at heart.",
+    "analysis": "主干是 they reduce us to the status of cheery rats（它们把我们的地位降为快乐的老鼠），reduce sb to sth 表示\"使某人沦落到某种境地\"；句首 In the process 为介词短语作状语，指\"在这一过程中\"；running on treadmills(踏车) 是现在分词短语作后置定语修饰 rats；designed by people 是过去分词短语作后置定语修饰 treadmills；who do not have our interests at heart 是定语从句修饰 people，说明设计踏车的人并不把我们的利益放在心上。"
+   }
+  }
+ }
+}

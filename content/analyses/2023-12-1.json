@@ -1,0 +1,446 @@
+{
+ "exam": "2023-12-1",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "空处是 stretch of land（一片……的土地）的前置定语，需要形容词。前文用 lifeless, barren, bone-dry 以及 at first glance 强调在路人眼中沙漠什么都没有，flat（平坦的、毫无起伏的）正好与“远处只有几座山”“更像火星电影的取景地”这种单调荒凉的观感相配——对匆匆赶路的人来说，它就是一片平平的土地。",
+    "evidence": "For most passersby humming through the Mojave on their way to try their luck in Las Vegas or heading towards the Grand Canyon, it's just a {26} stretch of land with some mountains in the distance and more {27} to be a setting for a movie that takes place on Mars.",
+    "distractors": {
+     "O": "语义方向偏差：unique 指“独特的、独一无二的”，而本句写的是路人对沙漠毫无特色的印象，恰恰要说它“没有特点”；且 unique 已由末段 a unique feel 承担，同一篇短文里一个词只用一次。",
+     "J": "词性错误：sprinkle 是动词/名词，不能作前置定语修饰 stretch of land。",
+     "C": "词性错误：extremes 是名词复数，不能直接放在 stretch of land 之前作定语。"
+    }
+   },
+   "27": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "空处在 more ___ to be 结构中，比较级由 more 承担，空处需形容词，且要能与 to be 搭配。apt 意为“易于……的、有……倾向的”，be apt to be 是固定搭配：more apt to be a setting for a movie that takes place on Mars 即“更像是一部以火星为背景的电影的取景地”，承接前句“乍看像什么”的联想。",
+    "evidence": "more {27} to be a setting for a movie that takes place on Mars.",
+    "distractors": {
+     "H": "词性错误：probably 是副词，不能作 more ___ to be 中的形容词性表语。",
+     "E": "词性错误：fractions 是名词，more fractions to be ... 句子结构不成立。",
+     "O": "比较级不成立：unique 是表绝对意义的形容词，不能用 more 构成比较级。"
+    }
+   },
+   "28": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "系动词 is 之后需要形容词或现在分词作表语，并且要与 with 搭配。be overflowing with 意为“充满、满是”，与后半句 life, mystery, and magic 连读，构成“看似死寂，实则充满生命、神秘与魔力”的转折，与首句 The desert is deceiving（沙漠会骗人）呼应。",
+    "evidence": "The desert, however, is {28} with life, mystery, and magic.",
+    "distractors": {
+     "J": "搭配不成立：is sprinkle with life 语法错误；且 sprinkle 意为“撒、点缀”，不表示“充满”。",
+     "G": "词性错误：parasites 是名词复数，不能作 is 的表语后再接 with 构成“充满”之意。",
+     "B": "搭配与语义错误：be burning with life 字面是“生命在燃烧”，与后文 mystery/magic 并列的氛围不符，也与本句“充满”的静态描述冲突。"
+    }
+   },
+   "29": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "a land of ___ 需要名词（介词 of 的宾语）。extremes 意为“极端（情况）”，用复数泛指冷热之类的极端，正好由下一句从 freezing 到 burning hot 的落差具体说明，是典型的“总—分”结构：先概括“这是一片极端之地”，再列举温差。",
+    "evidence": "The Mojave desert sees less than two inches of rain a year, and like most deserts, is a land of {29}.",
+    "distractors": {
+     "E": "语义错误：a land of fractions 意为“分数/零碎之地”，与下文“从冰点到酷热”的温度主题毫无关系。",
+     "G": "无中生有：parasites（寄生虫）在文中从未涉及，沙漠并非以寄生生物著称。",
+     "K": "词性/搭配错误：steer 是动词，不能作 of 的宾语；且 a land of steer 结构不成立。"
+    }
+   },
+   "30": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "空处修饰 hot，需要形容词或现在分词，与前面的 freezing 构成冷热对照。burning hot 是英语固定搭配，意为“酷热难当”，说明温差可以从冰点一直跨到酷热，既呼应前句 a land of extremes，也支撑后文“不仅季节之间，甚至同一天之内”都如此。",
+    "evidence": "Temperature fluctuations vary from freezing to {30} hot, not only between seasons, but even within the same day.",
+    "distractors": {
+     "D": "搭配不成立：flat hot 不是英语搭配，flat 修饰 hot 无法表达“酷热”。",
+     "F": "搭配不成立：overflowing 不能修饰形容词 hot；be overflowing with 才是它在本篇的用法。",
+     "I": "词性错误：sparingly 是副词，不能放在 hot 前作修饰语（sparingly hot 语义也不成立）。"
+    }
+   },
+   "31": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "become ___ with 需要形容词性表语。be/become synonymous with 是固定搭配，意为“与……成为同义词、与……被画上等号”。句意是这种宽边帽已经和优胜美地一类地方紧密联系在一起，成为那些地方的标志，说明保护区的工作人员在向国家公园文化看齐。",
+    "evidence": "The folks managing and working there wear the wide-_brimmed_ (宽边的) hats that have become {31} with places like Yosemite.",
+    "distractors": {
+     "A": "搭配不成立：become apt with 不是英语搭配，apt 常接 to do 或 for。",
+     "M": "语义与搭配双重不符：帽子“变得结实”与“和优胜美地联系在一起”无关，become sturdy with 也不能表达“与……挂钩”。",
+     "I": "词性错误：sparingly 是副词，不能作 become 的表语。"
+    }
+   },
+   "32": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "空格在 opportunities to ___ your interest 中，to 后需动词原形，且要能带 interest 作宾语。stimulate 意为“激发、促进”，stimulate your interest 即“激发你的兴趣”，与前面 rich with history, culture, biodiversity 以及 especially for anyone who loves the outdoors 共同说明保护区能提供的丰富体验。",
+    "evidence": "The preserve is rich with history, culture, biodiversity, and endless opportunities to {32} your interest, especially for anyone who loves the outdoors.",
+    "distractors": {
+     "K": "搭配不成立：steer your interest 无此搭配；steer 的宾语通常是车辆、方向或事业。",
+     "J": "搭配不成立：sprinkle your interest 无此搭配，sprinkle 表示“撒、点缀（实物）”。",
+     "E": "词性/搭配错误：fractions 是名词，不能放在 to 之后作动词用。"
+    }
+   },
+   "33": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "空处与 a few spare tires 一同作 requires 的并列成分，需要一个副词表达推测语气。probably 意为“大概、很可能”，说明除了耐心，恐怕还得备几只备用轮胎才能在这片未铺路的“道路”网里穿行——语气上是作者的善意提醒，而非确定的要求。",
+    "evidence": "For a photographer, it requires patience and {33} a few spare tires to maneuver the network of unpaved \"roads\", but the rewards are plenty.",
+    "distractors": {
+     "I": "语义相反：sparingly 意为“有节制地、少量地”，而本句强调要多带备用轮胎的充分准备。",
+     "A": "词性错误：apt 是形容词，无法在 patience and ___ a few spare tires 中充当副词性成分。",
+     "M": "词性错误：sturdy 是形容词，不能修饰“a few spare tires to maneuver”这一动作性内容。"
+    }
+   },
+   "34": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "空处修饰 pair of shoes，需要形容词，并与 good 并列。sturdy 意为“结实的、坚固的”，与“在沙漠未铺路的地面上行驶、需要耐久装备”的语境吻合，也和同段紧接的 a lot of preparation、Plenty of water, spare tires, and a full tank of gas 一起构成“装备要硬”的描写。",
+    "evidence": "Photographing here requires a good, {34} pair of shoes and a lot of preparation.",
+    "distractors": {
+     "A": "搭配与语义错误：a good, apt pair of shoes 不成立，apt 形容人或时机“恰当的、易于……的”，不形容鞋的耐用程度。",
+     "O": "语义偏差：一双鞋真正需要的是结实耐磨，“独特”与后文强调的准备事项无关。",
+     "I": "词性错误：sparingly 是副词，不能与形容词 good 并列修饰 shoes。"
+    }
+   },
+   "35": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "a ___ feel 需要形容词修饰 feel（氛围、感觉）。unique 意为“独特的”，与前文“这一带的地貌由古代火山和地质力量塑造，其中许多至今犹存”相呼应：正是这些地质遗迹让该地区有了一种独有的气质，也为摄影提供了斑斓背景。",
+    "evidence": "During my last outing, I was surprised to see how much of the area was shaped by ancient volcanoes and geological forces, much of which remains today, giving the area a {35} feel and painting a colorful background for great photographs.",
+    "distractors": {
+     "D": "语义矛盾：flat（平坦的、单调的）作 a flat feel 会与“火山区、地质力量塑造、彩色背景”相冲突。",
+     "A": "搭配不成立：a apt feel 冠词与词义都不合，apt 不用于描述“氛围”。",
+     "K": "词性错误：steer 是动词，不能作 feel 的前置定语。"
+    }
+   }
+  },
+  "passage_zh": "沙漠是会骗人的。乍看之下，它毫无生机，荒芜贫瘠，干得透顶。对大多数匆匆穿过莫哈韦沙漠、前往拉斯维加斯碰运气或者赶往大峡谷的路人来说，那不过是一片平坦的土地，远处立着几座山，更像是一部以火星为背景的电影的取景地。然而，这片沙漠却充满生命、神秘与魔力。\n\n莫哈韦沙漠一年的降水量不足两英寸，而且和大多数沙漠一样，它是一片极端之地。气温从冰点严寒一路变到灼热酷暑，不仅季节之间如此，甚至在同一天之内也是如此。\n\n在这片广袤的、面积达 2.5 万平方英里的沙漠中心，是莫哈韦国家保护区。在那里管理和工作的人戴着宽边帽，这种帽子已经与优胜美地等地方画上了等号。保护区有着丰富的历史、文化、生物多样性，还有无数激发你兴趣的机会，对任何热爱户外的人来说尤其如此。对一名摄影师来说，这里需要耐心，而且恐怕还得备上几只备用轮胎，才能在这片未铺路的“道路”网中穿行，但回报是丰厚的。\n\n在这里拍照需要一双结实的好鞋和充分的准备。要探索国家公园体系中的这一部分（它是全美第三大），需要大量的水、备用轮胎和加满的油箱。\n\n不过，和所有沙漠一样，如果你有耐心，就会得到回报，因为它们往往慢慢地揭示自己的秘密。在上一次出游中，我惊讶地发现，这一带的地貌有那么多是由古代火山和地质力量塑造的，其中许多至今犹存，赋予这片土地一种独特的气质，也为拍出好照片铺就了色彩斑斓的背景。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "题干说“据说许多非洲国家的农业生产率一个世纪以来一直很低”。E 段借非洲开发银行副行长 Jennifer Blanke 之口说 Farm productivity hasn't improved in many parts of Africa for 100 years：hasn't improved ... for 100 years 对应 has remained low for a century，many parts of Africa 对应 in many African countries，题干开头的 It is said that 正对应原文的引语形式（says Jennifer Blanke），是同义改写加引语转换。",
+    "evidence": "Farm productivity hasn't improved in many parts of Africa for 100 years."
+   },
+   "37": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "题干说“把农场与其产品的大买家连接起来，可以促进非洲农民采用先进的耕作技术”。H 段首句 One way of spreading knowledge is to link farms to big buyers of their harvests 把“连接农场与大买家”定义为传播知识的一种方式；接着以英国饮品巨头帝亚吉欧为例：它 organised farmers into groups，并 improved supply chains for them to get seeds and fertiliser，即通过大买家的订单纽带让农户用上良种、化肥等更好的技术。linking farms to buyers 对应 Building connections，advanced farming techniques 对应 seeds and fertiliser 等改良投入。",
+    "evidence": "One way of spreading knowledge is to link farms to big buyers of their harvests."
+   },
+   "38": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "题干说“非洲部分地区升温远快于平均水平，南部非洲近半个世纪的升温速度约为全球的两倍”。B 段原句 Parts of the continent are already warming much more quickly than the average 对应 Parts of Africa are getting warmer much faster than the average；冒号后的 temperatures in southern Africa have increased by about twice the global rate over the past 50 years 与 southern Africa witnessing roughly twice the global warming rate over the last half century 一一对应。",
+    "evidence": "Parts of the continent are already warming much more quickly than the average: temperatures in southern Africa have increased by about twice the global rate over the past 50 years."
+   },
+   "39": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "题干说“改进的耕作方法使肯尼亚农民显著提高了农业产量”。G 段开篇 Better techniques help, too（更好的技术同样有帮助）点明主题，随即给出肯尼亚小咖啡农的例子：只靠 following a few simple guidelines on caring for their bushes（如每株只留三根主枝），收入就能提高 40%；段末又说照做的人 get bigger harvests for a season or two。techniques/guidelines 对应 improved farming practices，increase ... by 40% 与 bigger harvests 对应 increase farm production remarkably，Kenyan farmers 为原词重现。",
+    "evidence": "Better techniques help, too. Small coffee farmers in Kenya are able to increase their incomes by 40% by following a few simple guidelines on caring for their bushes, such as trimming all but three of their stems."
+   },
+   "40": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "题干说“非洲特别容易受全球变暖影响，部分原因是即使没有气候变化，它也难以为不断增长的人口提供食物”。C 段首句 Africa is particularly vulnerable, in part because it is already struggling to feed itself ... even without climate change 与之结构相合：particularly vulnerable 对应 especially susceptible，in part because 对应 partly because，struggling to feed itself 与 put food on the plates of a fast-growing population 对应 difficulty feeding its increasing population，even without climate change 为原词照应。",
+    "evidence": "Africa is particularly vulnerable, in part because it is already struggling to feed itself and it will have to vastly increase yields and productivity if it is to put food on the plates of a fast-growing population, even without climate change."
+   },
+   "41": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "题干说“使用化肥和改良种子能帮助非洲小农户大幅提高作物产量”。F 段说过去二十年重点放在 getting small farmers to use fertiliser and, more important, better seeds（让小型农户用化肥、更要用良种），紧接着 The results can be impressive（效果可能十分显著）；同段随后用改良高粱增产 40%、世界银行灌溉项目使埃塞俄比亚土豆从每公顷约 8 吨增至 35 吨来具体印证 increase crop yields impressively。",
+    "evidence": "Much of the focus has been on getting small farmers to use fertiliser and, more important, better seeds. The results can be impressive."
+   },
+   "42": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "题干说“事实证明，从传统农业转向建立能为非洲小农户带来技术和投资的企业更为重要”。I 段首句 An even more important change is the move from traditional farming to building businesses that can profitably bring technology and investment to small farmers 与之逐项对应：even more important 对应 proved even more important，the move from traditional farming 对应 shift from traditional farming，building businesses that ... bring technology and investment to small farmers 对应 setting up businesses that can bring technology and investment to small farmers，profitably 说明这类企业的商业可持续性。",
+    "evidence": "An even more important change is the move from traditional farming to building businesses that can profitably bring technology and investment to small farmers."
+   },
+   "43": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "题干说“世界上每个人都必须承受气候变化的后果，非洲人尤其如此”。A 段先判断 Climate change is an issue that will affect everyone on the planet，对应 Everyone in the world will have to bear the consequences；紧接着 For Africans its consequences will be particularly bitter，对应 especially Africans。后半句 whereas other regions were able to grow rich by burning coal and oil ... 进一步解释为何非洲人受损更重。",
+    "evidence": "Climate change is an issue that will affect everyone on the planet. For Africans its consequences will be particularly bitter: whereas other regions were able to grow rich by burning coal and oil, Africa will pay much of the human price without having enjoyed the benefits."
+   },
+   "44": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "题干说“非洲农业劳动力人均产出的提高远逊于亚洲”。D 段 And although output per worker has improved by more than half over the past 30 years in Africa, that is still far behind the 2.5 times improvement in Asia 中，output per worker 为原词，improved by more than half 对应 Improvement in farm output per worker，still far behind ... in Asia 正对应 falls far short of that in Asia，让步结构也保留了“虽有进步但仍落后”的对比关系。",
+    "evidence": "And although output per worker has improved by more than half over the past 30 years in Africa, that is still far behind the 2.5 times improvement in Asia."
+   },
+   "45": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "题干说“长期来看，非洲小农场提高生产率的潜力相当有限，尤其因为气候变暖和人口增长”。J 段 But over the longer run small-scale farming can go only so far, especially in the face of climate change and population pressure：over the longer run 对应 In the long term，small-scale farming 对应 small farms in Africa，go only so far 对应 the potential ... is quite limited，climate change and population pressure 对应 the warming climate and a growing population。",
+    "evidence": "But over the longer run small-scale farming can go only so far, especially in the face of climate change and population pressure."
+   }
+  },
+  "article_zh": "A) 在肯尼亚中部的山丘上，阳光下的茶树泛着近乎青柠般的绿光，农民们对气候变化了如指掌。“雨季不再可预测了，”一位农民说，“该下雨的时候不下，然后一下子全来了。”气候变化是一个会影响到地球上每个人的问题。对非洲人来说，它的后果将格外苦涩：别的地区可以靠烧煤和石油致富，而非洲将付出其中很大一部分人力代价，却没能享受到那些好处。“非洲只占全球温室气体排放的 2%，但却是预计受气候影响最严重的大陆，”管理世界银行 80 亿美元气候投资基金的玛法尔达·杜阿尔特说。\n\nB) 尽管气候变化的确切影响存在巨大的不确定性，但已有足够的信息可以说，全球变暖是非洲繁荣的主要威胁之一。非洲部分地区升温的速度已远超平均水平：过去 50 年里，南部非洲的气温上升幅度约为全球平均水平的两倍。即使全球把排放削减到足以将变暖控制在 1.5℃ 以内，非洲的热浪仍会加剧，疾病也会蔓延到目前尚未受影响的地区。农业同样会受到沉重打击。目前用于种植玉米的土地中约有 40% 将不再适合种玉米。总体而言，据估计玉米产量会下降 18%–22%。\n\nC) 非洲尤其脆弱，部分原因是它本已在为养活自己而挣扎；而且即使没有气候变化，它也必须大幅提高产量和生产率，才能把食物摆上快速增长的人口的餐桌。联合国粮农组织估计，到 2050 年，全球粮食产量需要比 2009 年的水平提高约 70%，才能满足人口数量与胃口同时增长带来的需求，而这一新增需求很大一部分将出现在非洲。然而非洲每年已经进口价值约 500 亿美元的粮食，这一数字预计在未来五年内还要再翻一番以上。自给自足并不是非洲的目标，但它花在进口粮食上的钱比买资本货物还多，这一事实说明它仍有改进的空间。\n\nD) 找出原因并不难。大多数农场规模极小，靠人力耕作，依赖降雨。非洲一半以上的人口以务农为生。尽管过去几十年非洲的农业总产量有所攀升，但这主要因为务农的人更多、耕种的土地也更多了。可是在许多地方已经没有多余的土地可种。卢旺达的地块小到可以把 250 块拼成一块普通美国农场。而且，尽管过去 30 年里非洲每个劳动力的产出提高了逾一半，却仍远落后于亚洲 2.5 倍的提升幅度。玉米产量通常每公顷不到两吨，只有美国的五分之一。\n\nE) 非洲农民的低生产率反映在国家经济统计之中——尽管吸收了如此多的劳动力，农业却只创造 15% 的 GDP。“他们甚至连自己的家人都养不活，”非洲开发银行负责农业的副行长詹妮弗·布兰克说，“非洲许多地方的农业生产率一百年来毫无提高。”\n\nF) 一个原因是，在独立后的最初几十年里，许多非洲政府专注于让经济工业化，忽视了农业。另一些政府则通过压低国营垄断企业收购农作物的价格，用廉价食品补贴城市工人，从而损害了农业。加纳对可可粉出口课以重税，导致 20 世纪 60 年代到 80 年代间产量暴跌一半，尽管全球可可价格大涨。不过在过去二十年左右，政府和捐助方已开始重新把农业看作是为每年进入劳动力市场的 1300 万年轻人提供就业的途径。重点大多放在让小型农户使用化肥，更重要的是使用更好的种子。效果可能十分显著。例如改良品种的高粱，产量能比普通品种高出 40%。基础设施也很重要。世界银行在埃塞俄比亚的一个灌溉项目帮助农民把土豆产量从每公顷约 8 吨提高到 35 吨。\n\nG) 更好的技术也有帮助。肯尼亚的小咖啡种植户只要遵循几条简单的灌木养护指南——比如每株只留三根主枝、其余全部剪掉——就能把收入提高 40%。他们的许多邻居并不采纳这些建议，因为这看起来违背直觉：他们认为枝干越多，咖啡豆就应该越多。然而在看到照做的人一两个季度收获更多之后，很多人也开始照做了。\n\nH) 传播知识的一种办法，是把农场与收购其收成的大买家连接起来。英国饮品巨头帝亚吉欧在肯尼亚西部建啤酒厂时，想用当地农作物酿出足够便宜、能与非法自酿酒竞争的啤酒。它把农民组织成小组，为他们改善获取种子和化肥的供应链，然后同意收购他们的谷物。如今它已为大约 1.7 万名农民提供了市场。负责其非洲业务的约翰·奥基夫说，在整个地区，五年里它对当地原材料的使用量翻了一番，达到约 80%。\n\nI) 一项更重要的变化，是从传统农业转向建立企业，由这些企业以有利可图的方式把技术和投资带给小农户。年轻的肯尼亚人泰塔·恩盖蒂奇在学工程时想挣点外快。他东拼西凑了 2 万肯尼亚先令（约 200 美元）去种番茄，结果一切都不顺：作物遭了虫害。“接着一场大洪水吞掉了我们所有的本钱，”他说。恩盖蒂奇先生坚持了下来，研究购买温室，以保护作物免受虫害和雨淋。最便宜的温室每座要 2500 多美元，于是他自己设计了一款，价格只要一半。很快邻居们开始向他订货，如今他的公司 Illuminum Greenhouses 已售出 1400 多座温室，为约 6000 人提供生计。生意并未止步于此：他还供应化肥、优质种苗，以及能提高产量的智能传感器。\n\nJ) Illuminum 的成功表明，技术能帮助即使很小的农场也变得更高产。因为非洲人口中有如此大的比例靠农业谋生，即使生产率只有很小的提高，也能提升数百万人的收入。但从更长的时间看，小规模农业能起的作用是有限的，尤其是在气候变化和人口压力面前。\n\nK) “如果我们真的想让人们摆脱贫困，就必须资助那些能让他们每月至少挣到 100 美元收入的项目，这样他们才付得起医疗和教育，”恩盖蒂奇先生说，“那些让他们靠种豆子或玉米每月多挣 2 美元的项目，是达不到这个目标的。”要实现这种大幅跃升，需要在工厂和城市里有更好的工作。"
+ },
+ "careful": {
+  "2023-12-1-careful-1": {
+   "passage_zh": "近几十年来共和党的一大“成功”，就是不遗余力地宣扬一条关于经济增长的简单公式：减税。\n\n这条公式并不奏效，但这丝毫没有影响它的受欢迎程度。而对减税的狂热虽然招来了众多批评者，却缺少明显的竞争对手。\n\n民主党政治人物往往以“帮助那些被经济增长甩在后面的人”作为竞选主张。而当民主党人真的谈论如何鼓励经济增长时，他们的说法常常与共和党人如出一辙。\n\n这不仅是对民主党的政治难题，也是美国的经济难题。这个国家需要一个关于增长驱动力的更好的叙事。近几十年来的惨痛教训指向一个颇有希望的候选方案：提高工资。\n\n提高美国工人的工资，应当成为经济决策者的优先事项。我们不妨少关注国内生产总值（GDP）增长的季度数据，转而关注工人工资增长了多少，这样大家都会过得更好。\n\n暂且把支持提高工资的那个耳熟能详的理由——公平——放在一边。本文的论点是：更高的工资能为经济增长这台引擎添加燃料。\n\n说明这种好处最著名的例子，或许是 1914 年亨利·福特决定给 T 型车装配线上的工人每天 5 美元。他这么做是为了提高产量——他是在支付溢价，以维持一支可靠的劳动力队伍。而意想不到的好处是，福特的工厂工人也成了福特的顾客。\n\n同样的逻辑今天依然成立：消费驱动着美国经济，而工资更高的工人能花更多的钱。\n\n主流经济学家坚持认为，不可能“下令式”地实现工资的可持续增长，因为薪酬水平反映的是市场力量准确无误的判断。传统智慧认为，生产率的增长是提高工资的唯一途径。以这种眼光看，为提高工资而进行的谈判都是适得其反的。最低工资法会推高失业，因为工资这块“池子”里的钱就那么多，如果一些人拿得更多，另一些人就什么也拿不到。\n\n正是在这种世界观的背景下，“减税能够带动繁荣”的说法才流行起来：富人将投资，生产率将提高，工资将上涨。\n\n在现实世界里，事情要复杂得多。工资受到雇主与工人之间拉锯战的影响，而一直以来赢的都是雇主。一个明确的证据是，大约自 1970 年以来，生产率增长与工资增长之间的差距不断扩大：生产率已经增长了一倍多，而工资远远落在后面。\n\n把注意力放在工资增长上，将为“减税具有神奇魔力”这一极具吸引力却又过于简单的信念提供一剂矫正药。",
+   "questions": {
+    "46": {
+     "answer": "D",
+     "my_answer": "B",
+     "verified": false,
+     "conflict_reason": "原文第 2 段“And while the cult of tax cuts has attracted many critics, it lacks for obvious rivals.”——lacks for obvious rivals 意为“缺少明显的对手／替代方案”，正是 B 所说的“没有其他可替代的方案”；文件答案 D（公众对这一公式存在误解）在原文中找不到依据，全文把它的流行归因于“思想市场上无对手”（第 2 段）和“主流经济学的世界观”（第 9–10 段），从未提到“误解”。",
+     "evidence_paragraph": 2,
+     "evidence_quote": "And while the cult of tax cuts has attracted many critics, it lacks for obvious rivals.",
+     "explanation": "题干问“减税这个公式既然无效，为什么仍然流行”。第 2 段先说 The formula doesn't work, but that has not affected its popularity（公式不管用，却不妨碍它受欢迎），紧接着用 while 让步：减税的狂热虽然招来众多批评者，却 lacks for obvious rivals——缺少明显的竞争对手，也就是拿不出别的方案来取代它。可见它继续流行不是因为有效，而是因为替代品缺席，与 B“似乎没有其他可选方案来替代它”完全一致。",
+     "distractors": {
+      "A": "无中生有（添加传播范围信息）：原文只说它 attracted many critics（招来很多批评者），从未讨论批评者的声音“是否传遍全国”；批评者存在与声音被听见是两回事。",
+      "C": "主体扩大化：relentless propagation 的主语是 the Republican Party（共和党），不是“所有政策制定者”；第 3 段还说民主党在增长议题上 often sound like Republicans，恰恰说明并非全体决策者都在传播这一公式。",
+      "D": "因果无据（错误归因）：第 2 段把流行归因于“缺少对手”，第 9–10 段归因于主流经济学的世界观，全文没有“公众误解公式”这一条因果。"
+     }
+    },
+    "47": {
+     "answer": "A",
+     "my_answer": "B",
+     "verified": false,
+     "conflict_reason": "原文第 5 段“Raising the wages of American workers ought to be the priority of economic policymakers.”以及第 4 段末句“point to a promising candidate: higher wages”，作者开出的药方就是提高劳动者报酬，即 B（Increasing the compensation for labor）；文件答案 A“帮助被经济增长甩在后面的人”是第 3 段民主党的竞选主张，作者随后指出那只是分配层面的诉求，并未把它当作拉动增长的措施。",
+     "evidence_paragraph": 5,
+     "evidence_quote": "Raising the wages of American workers ought to be the priority of economic policymakers.",
+     "explanation": "题干问作者认为拉动美国经济增长更有效的措施是什么。第 4 段说近几十年的惨痛教训指向一个颇有希望的候选方案 higher wages；第 5 段明确 Raising the wages of American workers ought to be the priority of economic policymakers，并主张少看 GDP 季度数据、多看工人工资的增长；第 6 段又强调本文的论据是更高的工资能为经济增长的引擎添燃料。compensation for labor 即 wages，故 B 正确。",
+     "distractors": {
+      "A": "张冠李戴（主体错位）：以帮助 people left behind by economic growth 为竞选主张的是第 3 段的民主党人，作者只在段末指出美国需要一个更好的增长叙事，并未把“帮扶落后者”当作增长措施。",
+      "C": "与原文主张相反：第 5 段明确说要 paying less attention to quarterly updates on the growth of the nation's GDP，而 C 主张把 GDP 增长置于优先地位。",
+      "D": "褒贬方向相反：全文批判减税公式 doesn't work，第 12 段更把“减税的魔力”视为需要用工资增长来矫正的迷信，D 主张“推出更广泛的减税”，与作者立场背道而驰。"
+     }
+    },
+    "48": {
+     "answer": "B",
+     "my_answer": "A",
+     "verified": false,
+     "conflict_reason": "原文第 8 段“The same logic still holds: Consumption drives the American economy, and workers who are paid more can spend more.”——作者的逻辑链条是“工资提高→消费增加→经济增长”，即 A；文件答案 B 把第 7 段福特“paying a premium to maintain a reliable workforce”（为维持可靠劳动力而支付溢价）的手段误读为“吸引更多顾客”的手段，原文的“意外好处”是工人变成顾客，而非提高薪资为了招徕顾客。",
+     "evidence_paragraph": 8,
+     "evidence_quote": "The same logic still holds: Consumption drives the American economy, and workers who are paid more can spend more.",
+     "explanation": "题干问作者观点背后的逻辑是什么。第 6 段说本文的论据是 higher wages can fuel the engine of economic growth；第 7 段用福特 1914 年把日薪提到 5 美元的例子说明工资提高带来的意外好处——工厂工人也成了福特的顾客；第 8 段总结 The same logic still holds: Consumption drives the American economy, and workers who are paid more can spend more。链条即“工人工资增长→消费扩大→经济增长”，与 A 完全吻合。",
+     "distractors": {
+      "B": "曲解福特案例（手段与结果混淆）：第 7 段说福特提高日薪是为了 increase production、paying a premium to maintain a reliable workforce，其“意外好处（unexpected benefit）”才是工人成为顾客；B 把“维持可靠劳动力”的手段替换成“吸引更多顾客”。",
+      "C": "因果倒置：原文的箭头是“工资提高→消费增加”，C 说“消费刺激了提高工资的愿望”，把因果顺序颠倒。",
+      "D": "无中生有：第 6 段只是把“公平”这一常见理由暂时搁置（Set aside, for the moment），并未判定它过时；作者是用“增长”这一新理由来补充它。"
+     }
+    },
+    "49": {
+     "answer": "A",
+     "my_answer": "C",
+     "verified": false,
+     "conflict_reason": "原文第 9 段“The conventional wisdom held that productivity growth was the only route to higher wages.”——传统观点认为生产率的增长是提高工资的唯一途径，正是 C；文件答案 A（公平）是第 6 段作者明确“暂时搁置”的常见理由（Set aside, for the moment, the familiar argument for higher wages: fairness），属于作者要另辟论证的角度，与“传统智慧”的立场相反。",
+     "evidence_paragraph": 9,
+     "evidence_quote": "The conventional wisdom held that productivity growth was the only route to higher wages.",
+     "explanation": "题干问按传统观点（conventional wisdom），提高工资的依据是什么。第 9 段直说 The conventional wisdom held that productivity growth was the only route to higher wages——生产率的增长被认为是提高工资的唯一途径，因此“依据”就是生产率的提高，即 C。",
+     "distractors": {
+      "A": "张冠李戴：fairness 是第 6 段被作者明确“暂时搁置”的常见理由，属于作者刻意回避的论证角度，不是传统智慧给出的依据。",
+      "B": "偷换主体：把提高工资视为经济决策者的优先事项，是第 5 段作者自己的主张，不能算作“传统观点”给出的依据。",
+      "D": "答非所问（概念偏移）：unerring judgment of market forces 解释的是“为什么无法人为地实现工资的可持续增长”这一前提，回答的是“为什么抬不动工资”，而不是“靠什么提高工资”这一途径问题。"
+     }
+    },
+    "50": {
+     "answer": "C",
+     "my_answer": "A",
+     "verified": false,
+     "conflict_reason": "原文第 11 段“One clear piece of evidence is the widening gap between productivity growth and wage growth since roughly 1970. Productivity has more than doubled; wages have lagged far behind.”——工资远远落后于生产率，即人们没能看到工资与生产率相应的增长，正是 A；文件答案 C（两党围绕减税的拉锯）把原文“雇主与工人之间的拉锯战（a tug of war between employers and workers）”的主体换成了政党，属张冠李戴。",
+     "evidence_paragraph": 11,
+     "evidence_quote": "One clear piece of evidence is the widening gap between productivity growth and wage growth since roughly 1970. Productivity has more than doubled; wages have lagged far behind.",
+     "explanation": "题干问过去约五十年美国“现实世界”的情况。第 11 段说自 1970 年前后起，生产率增长与工资增长之间的差距不断扩大：生产率已经增长一倍多（Productivity has more than doubled），而工资远远落在后面（wages have lagged far behind）。也就是说工资没有随着生产率同步增长，与 A“人们没有看到工资与生产率相应的增长”一致。",
+     "distractors": {
+      "B": "无中生有（主体偷换）：原文比较的是生产率与工资两个指标，没有谈贫富差距（the haves and have-nots），也没有说人们因此 disheartened。",
+      "C": "张冠李戴：原文的 tug of war 发生在雇主与工人之间，并说 employers have been winning；C 换成共和党与民主党围绕减税的拉锯。",
+      "D": "绝对化（程度失当）：原文只说工资 lagged far behind（远远落后），即增长不同步，并未断言生产率与工人福祉之间的联系“已经消失”，且把 wages 换成了含义更宽的 well-being。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "propagation",
+     "meaning": "传播，宣扬；繁殖",
+     "note": "the relentless propagation of a simple formula 不遗余力地宣扬一个简单公式"
+    },
+    {
+     "word": "relentless",
+     "meaning": "持续不断的，不留情面的",
+     "note": "relentless propagation／relentless pressure 持续的施压"
+    },
+    {
+     "word": "cult",
+     "meaning": "狂热崇拜，迷信；教派",
+     "note": "the cult of tax cuts 对减税的迷信"
+    },
+    {
+     "word": "left behind",
+     "meaning": "被甩在后面的，落伍的",
+     "note": "people left behind by economic growth 被经济增长落下的人"
+    },
+    {
+     "word": "counterproductive",
+     "meaning": "适得其反的，产生反效果的",
+     "note": "efforts to negotiate higher wages were counterproductive 谈涨薪的努力适得其反"
+    },
+    {
+     "word": "unerring",
+     "meaning": "准确无误的，从不出错的",
+     "note": "the unerring judgment of market forces 市场力量准确无误的判断"
+    },
+    {
+     "word": "premium",
+     "meaning": "溢价，额外费用；保险费",
+     "note": "pay a premium to maintain a reliable workforce 支付溢价以维持可靠劳动力"
+    },
+    {
+     "word": "antidote",
+     "meaning": "矫正方法，解药",
+     "note": "an antidote to the belief in the magical power of tax cuts 对“减税魔力”信念的矫正"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Minimum-wage laws would raise unemployment because there was only so much money in the wage pool, and if some people got more, others would get none.",
+    "analysis": "主干：Minimum-wage laws would raise unemployment（最低工资法会推高失业），would 表示作者转述传统观点时的推测性判断。because 引导原因状语从句，从句由 and 连接两个并列分句：① there was only so much money in the wage pool 是 there be 存在句，“only so much”表示“就这么多、有上限”，即工资总量这块“池子”的钱是固定的；② if some people got more, others would get none 是“条件从句＋主句”的假设句，用过去式 got／would 表示与现在事实相反的虚拟假设（假设性地多给一部分人）。整句逻辑是：可分配工资总量固定，则抬高一部分人的工资必然使另一部分人失去就业机会——这正是作者要批判的“工资池固定”论，为下文“生产率增长才是唯一途径”这一传统智慧作铺垫。"
+   }
+  },
+  "2023-12-1-careful-2": {
+   "passage_zh": "期刊编辑决定什么能发表、什么不能发表，这会影响其他学者的职业发展，也会影响一个领域的发展方向。既然如此，人们自然会希望期刊尽其所能建立一个多元化的编委会，以反映多样的声音、经历和身份。\n\n遗憾的是，《自然·神经科学》上的一项新研究读来令人沮丧。该团队发现，顶级心理学与神经科学期刊的大多数编辑是男性，且常驻美国：这种局面可能在放大该领域既有的性别不平等，并影响什么样的研究得以发表。\n\n研究发现，心理学期刊的编辑中男性占 60%。在每个资历层级上，男性编辑都显著多于女性编辑；在超过四分之三的期刊中，男性构成编辑的多数。关键在于，女性编辑的比例显著低于女性心理学研究者的总体比例。\n\n神经科学期刊中的差异更为鲜明：70% 的编辑是男性，在 88% 的期刊中男性占据了编委会职位的大多数。就这一领域而言，女性编辑的比例并没有显著低于从事神经科学研究的女性比例——这一发现揭示出该领域更广泛层面上长期存在的性别差距。\n\n基于研究结果，该团队得出结论：“在心理学与神经科学最知名学术期刊的编辑职位上，男性的观念、价值观和决策偏见被过度代表。”\n\n科学领域的性别不平等常被归因于资深学者更可能是男性，因为历史上科学一直由男性主导：于是有人认为，随着时间推移、更多女性升到资深职位，这个领域会变得更平等。然而本研究表明，即使是心理学期刊中的初级职位，也往往不成比例地由男性占据，尽管事实上初级心理学教师中女性多于男性。\n\n这意味着，女性学者数量不足并不是问题的症结。真正的症结在于女性在科学中处于劣势的结构性原因。例如，女性薪酬更低、承担的育儿需求更大，这可能导致她们的论文和科研经费更少——而期刊在决定任命谁时看的正是这些。与其把编委会的不平等简单归咎于传统，我们更应当主动打破这些既有的障碍。\n\n期刊编辑缺乏多样性，很可能还加剧了心理学的“WEIRD”（西方的、受过教育的、工业化的、富裕的、民主的）问题。如果期刊编辑大多是来自美国的男性，那么无论是否有意识，他们大概都会更看重与西方男性人群相关的研究论文。",
+   "questions": {
+    "51": {
+     "answer": "A",
+     "my_answer": "D",
+     "verified": false,
+     "conflict_reason": "原文第 1 段“You'd hope, then, that journals would do everything they can to establish a diverse editorial board, reflecting a variety of voices, experiences, and identities.”——考虑到编辑职责重要，人们期望的正是“多元的”编委会，diverse 直接对应 Diversity（D）；文件答案 A（insight，洞见）在全文任何段落都没有作为编委会应具备的特质出现。",
+     "evidence_paragraph": 1,
+     "evidence_quote": "You'd hope, then, that journals would do everything they can to establish a diverse editorial board, reflecting a variety of voices, experiences, and identities.",
+     "explanation": "题干问：考虑到学术期刊编委会肩负的重要职责，人们会期望它体现出什么。第 1 段先说明编辑决定发表与否、影响他人职业和整个领域的走向，随后用 You'd hope, then 顺理成章地给出期望——期刊应尽力建立一个 diverse editorial board，reflecting a variety of voices, experiences, and identities。diverse／a variety of 正对应 D“Diversity（多样性）”。",
+     "distractors": {
+      "A": "无中生有：insight（洞见）在全文从未被列为编委会应有的特质，第 1 段的落点是“多元”。",
+      "B": "答非所问：experiences 只是第 1 段列举的多元维度之一，且 expertise（专业能力）并非原文讨论的期望点，原文强调的是 voices, experiences, and identities 的“多样性”。",
+      "C": "无中生有：integrity（诚信、正直）在全文任何段落都未出现，属凭空添加的正面品质。"
+     }
+    },
+    "52": {
+     "answer": "B",
+     "my_answer": "C",
+     "verified": false,
+     "conflict_reason": "原文第 2 段“The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the United States”，第 3、4 段的数据（心理学 60% 为男性、神经科学 70%，多数期刊编辑职位被男性占据）进一步说明这种“男性主导”，正是 C；文件答案 B“影响领域走向”是第 1 段对编辑职能的一般性描述，不是这项研究“发现”的内容。",
+     "evidence_paragraph": 2,
+     "evidence_quote": "The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the United States: a situation that may be amplifying existing gender inequalities in the field and influencing the kind of research that gets published.",
+     "explanation": "题干问从《自然·神经科学》新研究的发现可以得知什么。第 2 段给出该 team finds 的核心结论：顶级心理学与神经科学期刊的大多数编辑是男性，且多在美国；第 3 段补充心理学期刊男性编辑占 60%、超过四分之三的期刊男性占多数；第 4 段补充神经科学期刊 70% 为男性、88% 的期刊男性占多数。这与 C“心理学与神经科学最重要期刊的编委会由男性主导”一致。",
+     "distractors": {
+      "A": "与原文相反：第 1 段说“希望”编委会反映 a variety of voices, experiences, and identities，第 2 段紧接着说研究发现读来 disheartening（令人沮丧），恰恰说明这种多样性并未实现。",
+      "B": "张冠李戴（function vs finding）：influencing the direction that a field takes 是第 1 段对编辑职责的一般性陈述，不是本项研究的新发现；题干问的是研究发现。",
+      "D": "无中生有：研究只统计了编辑的性别与所在国家，从未提及编辑的“相关背景（relevant backgrounds）”。"
+     }
+    },
+    "53": {
+     "answer": "C",
+     "my_answer": "B",
+     "verified": false,
+     "conflict_reason": "原文第 3 段“Crucially, the proportion of female editors was significantly lower than the overall proportion of women psychology researchers.”——女性编辑所占比例显著低于女性心理学研究者所占比例，即二者“不成比例”，正是 B；文件答案 C（女性编辑比例随资历升高而越来越低）在原文中没有依据：原文只说 at each level of seniority 男性编辑都显著多于女性，并未讲“层级越高、女性占比越低”的趋势。",
+     "evidence_paragraph": 3,
+     "evidence_quote": "Crucially, the proportion of female editors was significantly lower than the overall proportion of women psychology researchers.",
+     "explanation": "题干问作者在心理学期刊编辑的性别差异上强调了什么事实。第 3 段用 Crucially（关键在于）引出全段要害：the proportion of female editors was significantly lower than the overall proportion of women psychology researchers——女性在编辑职位上的占比显著低于女性在心理学研究者中的占比，两者不相称，即 B“女性编辑的人数与从事心理学研究的女性人数极不相称”。",
+     "distractors": {
+      "A": "无中生有（方向相反）：原文没有称赞任何“有影响力的女性研究者或编辑”，反而强调女性在编辑职位上比例偏低。",
+      "C": "偷换概念（把“各层级都偏低”改成“越高越低”）：原文只说 at each level of seniority 男性编辑都显著多于女性，是横向比较，并未给出“女性比例随职级上升而不断下降”的纵向趋势。",
+      "D": "无中生有：原文并未讨论女性编辑“很少能升到高级职位”，第 6 段讨论的是初级职位同样被男性不成比例地占据。"
+     }
+    },
+    "54": {
+     "answer": "B",
+     "my_answer": "A",
+     "verified": false,
+     "conflict_reason": "原文第 5 段结论“the ideas, values, and decision-making biases of men are overrepresented in the editorial positions of the most recognized academic journals in psychology and neuroscience.”——男性的观念与决策偏见被“过度代表”，反推即女性的观念与视角代表性不足，正是 A；文件答案 B（男性编辑对女同事有偏见）是原文未作的过度推断，结论谈的是观念与决策偏见在编辑职位上的过度代表，并非个人对同事的敌意。",
+     "evidence_paragraph": 5,
+     "evidence_quote": "the ideas, values, and decision-making biases of men are overrepresented in the editorial positions of the most recognized academic journals in psychology and neuroscience.",
+     "explanation": "题干问从研究团队基于其发现得出的结论可以推断什么。第 5 段的结论是：在顶级心理学与神经科学期刊的编辑职位上，男性的观念、价值观和决策偏见被过度代表（overrepresented）。既然某一群体的观念被“过度代表”，另一群体（女性）的观念就必然“代表性不足”，这正是 A 的推断。",
+     "distractors": {
+      "B": "过度推断（有罪推定）：结论只说男性的观念与决策偏见在编辑职位上被过度代表，并未说男性编辑在个人层面对女同事存有偏见或敌意。",
+      "C": "褒贬错置：overrepresented 在原文是批评性表述，C 却读成“男性代表性充足、足以保障其发表”，把批评说成了正面保障，且“确保发表”原文无据。",
+      "D": "无中生有（主体偏移）：全文讨论的是女性在编辑职位上比例偏低，没有涉及女性编辑为发表女性研究文章而“艰难挣扎”的经历。"
+     }
+    },
+    "55": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "Rather than simply blaming the inequality of editorial boards on tradition, we should be actively breaking down these existing barriers.",
+     "explanation": "题干问作者建议我们应当做什么，而不是把编委会的不平等简单归咎于传统。第 7 段先否定“女性学者不足”这一解释——a lack of female academics is not the problem，指出真正原因是女性在科学中处于劣势的 structural reasons（薪酬更低、育儿负担更重，导致论文与经费更少）；段末以 Rather than ... we should 给出主张：actively breaking down these existing barriers。打破造成劣势的结构性障碍，即 D“实施整体的结构性改革”。",
+     "distractors": {
+      "A": "范围过窄（手段错位）：作者主张针对成因动手，而不是单纯在人数上“搞平衡（strike a balance）”；第 7 段列举的都是薪酬、育儿、评价标准这类结构性问题。",
+      "B": "张冠李戴：把更多女性提升到高级职位，正是第 6 段被作者质疑的旧说——认为随着时间推移更多女性升到资深岗位，领域自然会平等。",
+      "C": "因果倒置：第 7 段明确说 a lack of female academics is not the problem（女性学者不足不是问题），C 主张“扩大女性学者队伍”，恰是作者否定的方向。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "editorial board",
+     "meaning": "编辑委员会",
+     "note": "establish a diverse editorial board 建立多元化的编委会"
+    },
+    {
+     "word": "disheartening",
+     "meaning": "令人沮丧的，使人泄气的",
+     "note": "makes for disheartening reading 读来令人沮丧"
+    },
+    {
+     "word": "amplify",
+     "meaning": "放大，加剧；扩音",
+     "note": "amplify existing gender inequalities 放大既有的性别不平等"
+    },
+    {
+     "word": "seniority",
+     "meaning": "资历，年资；资深",
+     "note": "at each level of seniority 在每个资历层级上"
+    },
+    {
+     "word": "stark",
+     "meaning": "（差异）鲜明的，明显的；荒凉的",
+     "note": "The differences were even starker 差异更为鲜明"
+    },
+    {
+     "word": "overrepresented",
+     "meaning": "代表性过度的，比例过高的",
+     "note": "men's ideas are overrepresented 男性的观念被过度代表"
+    },
+    {
+     "word": "disproportionately",
+     "meaning": "不成比例地，过分地",
+     "note": "held disproportionately by men 不成比例地由男性占据"
+    },
+    {
+     "word": "barrier",
+     "meaning": "障碍，壁垒",
+     "note": "breaking down these existing barriers 打破这些既有障碍"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Yet this study showed that even the junior roles in psychology journals tended to be held disproportionately by men, despite the fact that there are actually more female than male junior psychology faculty.",
+    "analysis": "主干：this study showed that ...（本研究表明……），句首 Yet 与上一句“随着更多女性升至资深职位，领域会变平等”的乐观论调形成转折。that 引导宾语从句，从句主干为 the junior roles in psychology journals tended to be held disproportionately by men（心理学期刊中的初级职位往往不成比例地由男性占据）：tended to be held 是被动结构，by men 引出施动者，disproportionately 修饰 held，强调“比例失衡”；even 进一步强调“连初级职位也如此”。despite the fact that 引导让步性的同位语从句，that 从句 there are actually more female than male junior psychology faculty 说明现实中的初级教师女性多于男性——人才储备与职位分配的性别比例正好相反，从而驳倒“女性资历不够”的解释。"
+   }
+  }
+ }
+}

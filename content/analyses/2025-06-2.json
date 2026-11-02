@@ -1,0 +1,437 @@
+{
+ "exam": "2025-06-2",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "空格前是情态动词 can，后接 being frozen / being exposed / being blasted 三个动名词并列作宾语，因此必须填及物动词原形。survive 意为“经受住、从……中活下来”，survive being frozen at -272°C（经受零下272度冷冻）是地道搭配，且与下一句 can endure conditions that don't even exist on Earth 的 endure 同义呼应。",
+    "evidence": "It can {26} being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being {27} with 500 times the dose of X-rays that would kill a human.",
+    "distractors": {
+     "L": "搭配与语义双重不成立：tempt 的用法是 tempt sb to do sth（引诱某人做某事），不能直接接 being done；且“引诱被冷冻”在语境中不成立，本句讲的是生物“承受”极端条件。",
+     "M": "结构不成立：thrill 作动词意为“使激动、使兴奋”，主语应是事物、宾语是人（The idea thrilled him），不能用“生物 + thrill + being done”表示“承受……”，与全文“顽强地活下来”的主题无关。",
+     "G": "词性与语义均不符：probing 是现在分词，不能直接跟在情态动词 can 后作谓语；probe 意为“探查、调查”，也无法与“被冷冻、被暴露于真空”构成“经受”的意思。"
+    }
+   },
+   "27": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "being {27} with 500 times the dose of X-rays 是被动语态，需填过去分词；blast sb/sth with sth 意为“用……猛烈轰击、照射”，be blasted with X-rays（被 X 射线轰击）与前后的 being frozen、being exposed to the vacuum 并列，都是它“扛得住”的极端条件，故填 blasted。",
+    "evidence": "It can {26} being frozen at -272° Celsius, being exposed to the vacuum of outer space and even being {27} with 500 times the dose of X-rays that would kill a human.",
+    "distractors": {
+     "G": "搭配不成立：probe 意为“探查、仔细调查”，通常直接带宾语（probe the wound），不与 with 连用表“用……照射”；且“被 X 射线探查”偏离本句“承受致死剂量辐射”的语义。",
+     "O": "词义与搭配均不符：unfold 意为“展开、铺开”（不及物或及物），既不能构成 be unfolded with 的结构，也无法表达“受到射线轰击”。",
+     "L": "词形与语义不符：tempt 用于 be tempted to do（受诱惑去做），be tempted with 不表示“被照射”；本句客观陈述它承受辐射剂量，与“诱惑”无关。"
+    }
+   },
+   "28": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "handle the {28} of space travel 中 the 之后需要名词，与 of space travel 构成“太空旅行的……”。rigors 意为“艰苦、严酷的条件”，the rigors of space travel（太空旅行的严酷考验）与上句 conditions that don't even exist on Earth、下句 prepare humans and crops 的语境完全吻合；此处用复数泛指多种艰难条件。",
+    "evidence": "And researchers are looking to the microscopic animals to learn how to prepare humans and crops to handle the {28} of space travel.",
+    "distractors": {
+     "H": "语义与搭配不成立：recurrence 意为“再次发生、复发”（the recurrence of the disease），指同一事件重复出现；the recurrence of space travel 既不合逻辑，也表达不出“艰苦条件”。",
+     "A": "搭配与语义双重不成立：adaptations 意为“适应”，the adaptations of space travel 会被读成“太空旅行的适应（物）”，与“为应对太空旅行的艰难做准备”相反；此处需要的是旅行带来的考验，而非对旅行的适应。",
+     "E": "语义不符：feat 意为“功绩、壮举”，指做成的一件了不起的事；prepare humans and crops to handle the feat of space travel 把“成就”当成要“应对”的对象，逻辑颠倒。"
+    }
+   },
+   "29": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "its 后需名词，且与介词 to 搭配：adaptations to sth 意为“对……的适应（性改变）”。句意是“缓步类动物的不可摧毁性源于它对环境的适应”，破折号后 which may seem surprising, since it lives in seemingly comfortable places 正是在质疑“它明明住在看似舒适的地方，为何需要适应”，说明前文填的必须是“适应”。",
+    "evidence": "The tardigrade's indestructibility stems from its {29} to its environment—which may seem surprising, since it lives in {30} comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall.",
+    "distractors": {
+     "H": "搭配错误：recurrence 与 to 不搭配（应为 recurrence of sth），且“不可摧毁性源于它对环境的复发”语义不通。",
+     "F": "语义不通：interior 指“内部”，its interior to its environment 结构不成立（interior 不与 to 这样搭配表“适应”），也无法解释下句“它住在看似舒适的地方”这一反差。",
+     "D": "词性/结构错误：evolved 是过去分词（或形容词“进化而来的”），its evolved to its environment 缺少名词中心词，语法不成立；本空需要能被 its 修饰的名词。"
+    }
+   },
+   "30": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "空格位于形容词 comfortable 之前，需要一个副词来修饰它。seemingly comfortable = 看似舒适：破折号后 which may seem surprising（这看似令人意外）正说明“舒适”只是表象，下文 But it turns out that a tardigrade's damp, mossy home can dry out many times each year 进一步交代真相，前后构成“看似—实则”的对照，逻辑严密。",
+    "evidence": "The tardigrade's indestructibility stems from its {29} to its environment—which may seem surprising, since it lives in {30} comfortable places, like the cool, wet patches of moss(青苔) that dot a garden wall.",
+    "distractors": {
+     "N": "修饰对象错误：unanimously 意为“全体一致地”，只修饰表达意见、决定、通过的动词（unanimously agreed/approved），不能修饰形容词 comfortable。",
+     "C": "词性与语义均不符：catastrophic 是形容词，不能修饰另一个形容词 comfortable；且“灾难性地舒适”自相矛盾，此处要表达的是“表面上舒适”。",
+     "K": "词性错误：survive 是动词原形，不能放在形容词 comfortable 前作修饰语。"
+    }
+   },
+   "31": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "Drying is pretty {31} for most living things 是“主语 + be + 副词 + 表语”结构，pretty 在此为程度副词“相当”，空格需形容词。catastrophic 意为“灾难性的”，与紧接的 It does damage to cells（它会损伤细胞）以及“对人类等大多数生物是致命的”相呼应。",
+    "evidence": "Drying is pretty {31} for most living things.",
+    "distractors": {
+     "J": "词性错误：seemingly 是副词，不能作表语；若填它，句子缺少形容词，语法不成立（且“干燥看似对大多数生物……”意思不完整）。",
+     "E": "语义与主语不匹配：feat 是名词“功绩”，Drying is pretty feat for most living things 既语法不通（缺冠词），也与后句“造成细胞损伤”的负面评价相反。",
+     "A": "词性错误：adaptations 是复数名词，不能作表语表性质；且“干燥对大多数生物是适应”与本段“干燥具有破坏性、缓步类动物才是例外”的逻辑相反。"
+    }
+   },
+   "32": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "have {32} special strategies 是现在完成时，需填过去分词（及物动词）。evolve 意为“逐渐演化出、发展出”，evolve special strategies（演化出特殊策略）与上文 indestructibility stems from its adaptations、下文 its cells produce several strange proteins 的“进化获得”语义链条一致。",
+    "evidence": "Tardigrades, however, have {32} special strategies for dealing with these kinds of damage.",
+    "distractors": {
+     "O": "词形与语义均不符：have unfolding 不是完成时（缺过去分词），且 unfold 意为“展开”，不能表示“演化出策略”。",
+     "B": "搭配不成立：blast 意为“猛烈冲击、轰击”，blast strategies 无法表达“发展出策略”，也与“应对损伤的办法”这一语义无关。",
+     "A": "词性错误：adaptations 是名词，have adaptations special strategies 结构不成立；且本空需要一个动词来说明这些策略是“演化出来的”。"
+    }
+   },
+   "33": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "fill the cell's {33} 中所有格后需名词，表示“填满细胞的……”。interior 意为“内部”，fill the cell's interior（充满细胞内部）与上文“蛋白质自组装成长纤维”的空间描述吻合。",
+    "evidence": "But as water disappears, the proteins self-assemble into long fibers that fill the cell's {33} .",
+    "distractors": {
+     "I": "语义不成立：rigors 意为“严酷、艰苦”，the cell's rigors（细胞的严酷）是抽象性质，不能被长纤维“填满”，且 rigors 已用于第28空。",
+     "H": "语义不成立：recurrence 意为“再次发生”，the cell's recurrence 指“细胞的复发”，无法被纤维填充，也与本句描述的空间位置无关。",
+     "E": "语义与搭配不成立：feat 意为“功绩”，fill the cell's feat 逻辑不通，纤维填充的是细胞的物理空间而非“成就”。"
+    }
+   },
+   "34": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "preventing them from breaking or {34} 中 or 连接两个并列成分，前面是动名词 breaking，后面须同为 -ing 形式。unfold 在生物化学中指蛋白质“解折叠、变性”，与 breaking（断裂）并列，正是缺水时细胞膜和蛋白质受到的两种损伤，故填 unfolding。",
+    "evidence": "The fibers support the cell's membranes(细胞膜) and proteins, preventing them from breaking or {34} .",
+    "distractors": {
+     "G": "语义不成立：probe 意为“探查”，proteins 不会“探查”，且 break or probe 无法并列成两种“损伤方式”。",
+     "H": "词性错误：recurrence 是名词，不能与动名词 breaking 并列作 from 的宾语（应为 recurring 才可能并列）。",
+     "L": "语义不成立：tempt 意为“引诱”，蛋白质被“引诱”毫无意义，与“防止其断裂或……”的损伤语境无关。"
+    }
+   },
+   "35": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "accomplish this {35} 中 accomplish 后需名词宾语，this 后应接单数名词。feat 意为“功绩、壮举”，指前文 humans ever succeed in reaching the stars 这一了不起的成就，故填 feat；standing on the shoulders of... 也印证这是“人类的壮举”。",
+    "evidence": "So if humans ever succeed in reaching the stars, they may accomplish this {35} , in part, by standing on the shoulders of the tiny eight-legged endurance specialists in your backyard.",
+    "distractors": {
+     "M": "语义不符：thrill 意为“兴奋、快感”，是一种情绪而非可“完成”的事情；accomplish this thrill 搭配不成立，抵达星辰是成就而非快感。",
+     "G": "搭配与语义不符：probing 作名词指“探查（行为）”，accomplish this probing 无法表达“完成这一壮举”，且与前文“人类抵达星辰”的宏大成就层次不符。",
+     "N": "词性错误：unanimously 是副词，不能作 accomplish 的名词宾语（this 后也不能接副词）。"
+    }
+   }
+  },
+  "passage_zh": "地球上没有哪种生物比微小的缓步类动物更顽强。它能经受住零下272摄氏度的冷冻、暴露在外太空的真空中，甚至被500倍于人类致死剂量的X射线轰击。换句话说，这种生物能忍受地球上根本不存在的条件。研究人员正把目光投向这种微小的动物，想学会如何让人类和农作物做好准备，以应对太空旅行的严酷考验。缓步类动物这种不可摧毁的能力源于它对环境的适应——这或许令人意外，因为它生活在看似舒适的地方，比如点缀着花园围墙的凉爽潮湿的青苔斑块。但事实证明，缓步类动物潮湿、长满青苔的家每年可能干透很多次。对大多数生物来说，干透是相当灾难性的。它对细胞造成的损伤，在有些方面与冷冻、真空和辐射如出一辙。然而，缓步类动物演化出了应对这类损伤的特殊策略。当缓步类动物干透时，它的细胞会产生几种奇怪的蛋白质，这些蛋白质与其他任何动物体内的蛋白质都不同。在水里，这些蛋白质是无定形的；但随水分消失，它们会自动组装成长纤维，填满细胞内部。这些纤维支撑着细胞膜和细胞内的蛋白质，防止它们断裂或解折叠。仿效缓步类动物，有朝一日或许能帮助人类移居外太空。农作物可以被改造以产生缓步类动物的蛋白质，使这些作物在航天器上（那里的辐射水平高于地球）生长得更高效。因此，如果人类真有成功抵达星辰的一天，他们能成就这一壮举，部分原因或许正是站在了后院里这些小小的、八条腿的耐力专家的肩膀上。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "E 段交代误解的来源：2006 年粮农组织（FAO）的报告称牲畜产生全球18%的温室气体，并得出“牲畜对气候的损害超过所有交通运输方式之和”的结论。题干“粮农组织得出结论：农场动物产生的温室气体比所有交通运输方式加起来还多”即 The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined 的同义改写（The FAO concluded ↔ The agency drew a startling conclusion；producing more greenhouse gases ↔ doing more to harm the climate；all modes of transportation combined 原样对应）。",
+    "evidence": "The agency drew a startling conclusion that livestock was doing more to harm the climate than all modes of transportation combined."
+   },
+   "37": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "K 段谈发展中经济体肉类需求上升，但随后用数据对比：2015 年发达国家人均年肉类消费92公斤，而中东和北非24公斤、东南亚18公斤，并明确 meat consumption per person in these regions still lags that of developed countries。题干“发展中国家的人均肉类消费远少于美国这样的国家”正是该句的同义改写（developing countries ↔ these regions；much less ↔ still lags；countries like the U.S. ↔ developed countries）。",
+    "evidence": "But meat consumption per person in these regions still lags that of developed countries."
+   },
+   "38": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "H 段叙述作者2010年演讲指出粮农组织的方法缺陷后写道 To its credit, the FAO immediately owned up to its error。To its credit（值得称道/值得赞扬）↔ 题干 worthy of praise；owned up to its error（坦承错误）↔ admitted its mistake；immediately 与“一经指出就承认”对应，指出的动作即同段 I pointed out this flaw during a speech。",
+    "evidence": "To its credit, the FAO immediately owned up to its error."
+   },
+   "39": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "A 段开篇说，随着气候变化的规模和影响日益令人警觉，肉类成了众矢之的，并写道 Advocates for the protection of the natural environment from destruction or pollution urge the public to eat less meat。题干“环保人士努力让人们少吃肉以对抗气候变化”对应：Environmentalists ↔ Advocates for the protection of the natural environment（保护自然环境免遭破坏或污染的主张者）；try hard ↔ urge（力劝）；to combat climate change ↔ 首句 As the scale and impacts of climate change become increasingly alarming。",
+    "evidence": "Advocates for the protection of the natural environment from destruction or pollution urge the public to eat less meat."
+   },
+   "40": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "I 段指出许多人以为每周少吃一次肉就能显著影响气候，但一项近期研究显示，即使美国人从饮食中彻底去除所有动物蛋白，美国的温室气体排放也只减少2.6%。题干“近期研究表明，即便美国人完全不吃肉，美国的温室气体减排幅度也很小”正是该句改写：Recent research ↔ one recent study；quit eating meat altogether ↔ eliminated all animal protein from their diets；slight ↔ only 2.6 percent。",
+    "evidence": "But according to one recent study, even if Americans eliminated all animal protein from their diets, they would reduce U.S. greenhouse gas emissions by only 2.6 percent."
+   },
+   "41": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "M 段讲反刍动物能分解人类无法消化的纤维素，并引用粮农组织数据：全球多达70%的农业用地是只能用作反刍牲畜放牧地的牧场。题干“世界上一半以上的农田只适合牛这类动物放牧”即此句改写：More than half ↔ as much as 70 percent；farmland ↔ agricultural land；suitable only for animals like cows to graze on ↔ can only be utilized as grazing land for ruminant livestock。",
+    "evidence": "According to the FAO, as much as 70 percent of all agricultural land globally is range land that can only be utilized as grazing land for ruminant livestock."
+   },
+   "42": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "D 段首句说 A healthy portion of meat's negative reputation centers on the assertion that livestock is the largest source of greenhouse gases worldwide，即肉类坏名声的很大一部分来自“牲畜是全球最大温室气体来源”这一断言。题干 allegation ... is responsible for meat's bad reputation 正是 negative reputation centers on the assertion 的改写（allegation ↔ assertion；farm animals produce the world's largest portion of greenhouse gases ↔ livestock is the largest source of greenhouse gases worldwide）。",
+    "evidence": "A healthy portion of meat's negative reputation centers on the assertion that livestock is the largest source of greenhouse gases worldwide."
+   },
+   "43": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "L 段先说把动物从美国农业中移除会在小程度上降低排放，但 it would also make it harder to meet people's nutritional requirements；段末又总结 Raising livestock is a way to add nutritional and economic value to plant agriculture。题干“饲养农场动物使人更容易满足营养需求”即“移除动物会更难满足营养需求”的反向表述（nutritional needs ↔ nutritional requirements），落点在 L 段的“饲养有营养价值”。",
+    "evidence": "Removing animals from U.S. agriculture would lower national greenhouse gas emissions to a small degree, but it would also make it harder to meet people's nutritional requirements."
+   },
+   "44": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "C 段明确表态：abandoning meat and meat products is not the environmental panacea many would have us believe（放弃肉类和肉制品并不是许多人想让我们相信的那种环境问题的万灵药）。题干“作者不相信放弃肉类及肉制品能包治环境问题”正是该句的同义改写：cure-all ↔ panacea（原文已注“万灵药”）；The author doesn't believe ↔ is not ... many would have us believe。",
+    "evidence": "However, abandoning meat and meat products is not the environmental panacea(万灵药) many would have us believe."
+   },
+   "45": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "J 段指出过去70年美国农业在技术、遗传和管理上的变化使畜牧生产更高效、温室气体强度更低，并以粮农组织数据说明自1961年以来牲畜直接排放下降11.3%而肉类产量翻倍以上。题干“过去几十年美国农业技术与管理的变化提高了效率并减少了肉类生产的温室气体排放”即此句改写：Changes in ... technology and management ↔ technological, genetic and management changes；increased efficiency ↔ more efficient；reduced greenhouse gas emissions ↔ less greenhouse gas-intensive。",
+    "evidence": "Moreover, technological, genetic and management changes that have taken place in U.S. agriculture over the past 70 years have made livestock production more efficient and less greenhouse gas-intensive."
+   }
+  },
+  "article_zh": "A) 随着气候变化的规模和影响日益令人警觉，肉类成了人们采取行动的热门目标。主张保护自然环境免遭破坏和污染的人呼吁公众少吃肉。一些活动人士甚至呼吁对肉类征税以减少消费。\n\nB) 这些论证背后的一个关键主张是：在全球范围内，肉类生产产生的温室气体比整个交通运输部门还要多。然而，正如我将要说明的，这个主张明显是错误的。而它一直流传下来，导致人们对肉类与气候变化之间的关联产生了错误的假设。\n\nC) 我最近的研究聚焦于畜牧业影响空气质量和气候变化的各种方式。在我看来，无论是选择动物蛋白还是选择素食，都有很多理由。但是，放弃肉类和肉制品并不是许多人想让我们相信的那种环境问题的万灵药。而且若走极端，它还可能带来有害的营养后果。\n\nD) 肉类负面名声的很大一部分集中在这样一个断言上：牲畜是全球最大的温室气体来源。例如，总部位于华盛顿特区的世界观察研究所2009年发表的一项分析断言，全球51%的温室气体排放来自牲畜的饲养和加工。而根据美国环境保护署的数据，2016年美国温室气体排放的最大来源是发电（占总排放量的28%）、交通运输（28%）和工业（22%）。整个农业合计占9%，而全部畜牧业在这9%中又不到一半，仅占美国温室气体排放总量的3.9%。这与“牲畜的排放相当于甚至超过交通运输”的说法大相径庭。\n\nE) 为什么会有这样的误解？2006年，联合国粮食及农业组织（FAO）发表了一份题为《牲畜的巨大阴影》的研究报告，引起了国际社会的广泛关注。报告称，牲畜产生了全球18%的温室气体排放。该机构还得出一个惊人的结论：牲畜对气候的损害超过所有交通运输方式的总和。后一个说法是错误的，此后已被该报告的第一作者亨宁·施坦费尔德纠正。\n\nF) 问题在于，粮农组织的分析人员用全面的生命周期评估法研究牲畜的气候影响，而在分析交通运输时却用了另一种方法。对牲畜，他们考虑了与肉类生产相关的每一个因素，包括化肥生产的排放、把森林转为牧场造成的排放、种植饲料的排放，以及牲畜从出生到死亡的直接排放（粪便以及从胃里排出的气体）。\n\nG) 然而，当他们考察交通运输的碳足迹时，却忽略了制造车辆材料和零件、组装车辆以及维护道路、桥梁和机场对气候的影响。他们只考虑了成品轿车、卡车、火车和飞机排出的尾气。结果，粮农组织对牲畜与交通运输温室气体排放的比较被严重扭曲了。\n\nH) 我在2010年3月22日于旧金山向同行科学家发表演讲时指出了这一缺陷，随后引来大量媒体报道。值得称道的是，粮农组织立即承认了自己的错误。遗憾的是，该机构最初关于牲畜要为世界温室气体排放的绝大部分负责的说法早已被广泛报道。时至今日，我们仍在艰难地“收回”这口已经敲响的钟。在最近一次评估报告中，粮农组织估计牲畜产生的排放占人类活动造成的全球温室气体排放的14.5%。目前还没有对交通运输做过可比的全生命周期评估。不过，正如施坦费尔德所指出的，交通运输与牲畜的直接排放可以相互比较，分别为14%和5%。\n\nI) 许多人仍然认为，哪怕每周只少吃一次肉，也会对气候产生显著影响。但一项近期研究显示，即使美国人从饮食中彻底去除所有动物蛋白，美国的温室气体排放也只减少2.6%。根据我们在加州大学戴维斯分校的研究，如果全美都推行“无肉星期一”，减排幅度也只有0.5%。\n\nJ) 此外，过去70年美国农业在技术、遗传和管理上发生的变化，使畜牧生产更高效、温室气体强度更低。根据粮农组织的统计数据库，自1961年以来，美国牲畜的直接温室气体排放总量下降了11.3%，而牲畜肉类产量增加了一倍以上。\n\nK) 发展中经济体和新兴经济体对肉类的需求正在上升，尤其是在中东、北非和东南亚。例如，在肯尼亚饲养山羊等牲畜，是许多小农户和牧民重要的食物和收入来源。但这些地区的人均肉类消费量仍落后于发达国家。2015年，发达国家人均年肉类消费量为92公斤，而中东和北非为24公斤，东南亚为18公斤。尽管如此，考虑到发展中国家预计的人口增长，像美国这样的国家一定有机会把自己的可持续畜牧饲养做法摆到桌面上来。\n\nL) 把动物从美国农业中移除会在小程度上降低全国温室气体排放，但也会使人更难满足人们的营养需求。许多批评畜牧业的人急于指出，如果农民只种植物，他们就能为每个人生产出更多磅数的食物和更多卡路里。但人类还需要许多必需的大量营养素和微量营养素来维持健康。考虑到美国成人和儿童肥胖率居高不下，很难有力地论证美国存在热量缺口。此外，并非所有植物部位都可食用或为人所需。饲养牲畜是为植物农业增加营养和经济价值的一种方式。\n\nM) 举例来说，牲畜所吃植物中的能量大多存在于纤维素中，而纤维素对人类和许多其他哺乳动物来说是无法消化的。但牛、羊等反刍动物能分解纤维素，释放出这一巨大资源中所含的太阳能。根据粮农组织的数据，全球多达70%的农业用地是只能用作反刍牲畜放牧地的牧场。\n\nN) 目前预计世界人口到2050年将达到98亿。养活这么多人将带来巨大挑战。按每份计，肉类的热量密度高于素食选择，而反刍动物主要靠不适合人类食用的饲料茁壮成长。饲养牲畜还为发展中国家的农户提供了急需的收入。在世界范围内，畜牧业为10亿人提供生计。\n\nO) 气候变化需要迫切关注，而畜牧业的总体环境足迹很大，影响空气、水和土地。这些因素，再加上迅速增长的世界人口，给了我们充足的理由继续努力提高畜牧业的效率。我认为应当从以科学为依据的事实出发。"
+ },
+ "careful": {
+  "2025-06-2-careful-1": {
+   "passage_zh": "我们为什么如此担心自己的职业？部分原因与钱有关，但我们的恐惧也有其心理层面。\n\n我们担忧，是因为我们猜想——而且猜得没错——这个世界上到处都是那种可怕的人，随时准备无情而迅速地评判我们：这种人我们可以称之为势利眼。\n\n势利眼就是那种只取我们身上相对很小的一部分，就据此得出僵化结论、决定我们值得他们投注多少注意力的人。在过去，那部分可能是你的血统和王室关系。而如今，势利眼只在意一件事：你靠什么谋生。\n\n这就解释了为什么在任何新的社交场合，我们被问到的第一个问题都是“你是做什么的”；而根据我们的回答，势利眼要么满面笑容地欢迎我们，要么就把我们冷落在一边。\n\n也正因如此，我们才被一股拼命想有所成就、想给人留下深刻印象的迫切冲动所驱使。\n\n有时我们的行为被误认为贪婪与虚荣，但它不止于此。我们对名车、好工作和大房子的兴趣，很多与物质主义无关；它与一种渴求有关——在我们的社会里，尊重与敬意只能通过获取物质财富才能得到。我们追求的不是物品本身，而是借拥有这些物品可能得到的爱。下次我们看到有人开着法拉利，不应该因他们的贪心而谴责他们，而应怜悯他们对世人关爱的需求之强烈。\n\n势利眼的根源在于缺乏想象力与自信，不知该如何判断世界上谁有价值。势利眼在“什么样的人才算优秀”这一信念上既残酷地误入歧途，又盲目顺从。对势利眼而言，只有那些已经成名、已经成功的人才值得尊重。在他们怯懦而刻板的心智里，容不下这样的想象：某人也许聪明、善良或优秀，却被社会彻底忽视，其优点藏在一层不为人熟知的帷幕之下，至今尚未找到明显的发挥出口。\n\n应对势利眼的真正答案，并不是说世上的好人坏人没有高下之分，而是坚持认为：高下总出现在不断出人意料的地方，且不带任何显眼的高贵标志。而且，由于我们如此不擅于判断他人的价值，我们的终极责任仍然是：对几乎每一个从我们路上经过的人，都保持善良、善意、好奇与想象。",
+   "questions": {
+    "46": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "We worry because we suspect—not wrongly—that the world is full of a frightening sort of person ready to judge us ruthlessly and swiftly: a person we can call a snob.",
+     "explanation": "首段说对职业的担忧“一部分与钱有关”，但还有一个心理层面；第2段随即交代这个心理原因：我们担心（而且担心得没错）世上到处都是一种可怕的人，随时准备无情而迅速地评判我们——这种人作者称为 snob（势利眼）。A 项“害怕被以势利的方式评判”正是该句的概括：judge us ruthlessly and swiftly ↔ judged in a snobbish manner。",
+     "distractors": {
+      "B": "无中生有：原文的评判者是社交场合中任何一位势利眼（a person we can call a snob），并未出现“挑错的上司/经理（fault-finding managers）”，也没谈职场上级。",
+      "C": "主体偷换：ruthlessly 修饰的是势利眼“无情地评判我们”，不是“员工常被粗暴对待”；原文没有讨论雇主如何对待雇员。",
+      "D": "张冠李戴：本段解释的是“怕被人评判”的心理，全文自始至终没有提到找工作难（hunting for a job）这一话题。"
+     }
+    },
+    "47": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "Nowadays, the snob cares about one thing only: what you do for a living.",
+     "explanation": "第3段对比今昔：从前势利眼在意的是你的血统与王室关系，而如今 the snob cares about one thing only: what you do for a living——只看你靠什么谋生。第4段又说任何新社交场合第一个问题都是 What do you do?，势利眼据此决定笑脸相迎还是冷落你。可见今日的势利眼以职业评判人，C 正确。",
+     "distractors": {
+      "A": "时间错位：dig into a person's past（追问家世血统）是 In the past 的势利眼做法，题干问的是 nowadays 的势利眼，原文明确说现在只看职业。",
+      "B": "范围过宽、未落到“今日”特征：draw a rigid conclusion 是第3段对“势利眼”的一般性定义（takes a relatively small part of us and uses it to come to a rigid conclusion），它只说结论僵化，没有点明今日势利眼据以判断的具体依据是职业，不如 C 精确。",
+      "D": "曲解原文：第4段的“新的社交场合”（in any new social context）是指我们被别人问“你做什么工作”的场合，而不是势利眼有意把人“放进社会语境中”去评判。"
+     }
+    },
+    "48": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "It has to do with a hunger for the respect and esteem that is only available in our societies through the acquisition of material goods.",
+     "explanation": "第6段说，我们对名车、好工作、大房子的兴趣“与物质主义无关”，而是与一种渴求有关：在我们的社会里，尊重与敬意只能通过获取物质财富才能得到；作者强调 It isn't the goods themselves we seek, it is the love we stand to gain through our possession of them。D 项“这种兴趣源于对社会认可的渴望”正是 respect and esteem / love from the world 的同义概括。",
+     "distractors": {
+      "A": "因果错位：原文说下次看到开法拉利的人，不应因贪心而谴责他（we shouldn't condemn them for their greed），这是作者劝阻别人的反应，不是“人们对物质的兴趣”产生的原因。",
+      "B": "方向相反：原文明确 It isn't the goods themselves we seek，即追求的不是物品本身带来的舒适，而是借物品得到的尊重与爱；B 说“与它们提供的舒适很有关系”恰好被原文否定。",
+      "C": "主客体颠倒：原文是我们应当怜悯那些靠物质拼命求爱的人（we should pity them for the intensity of their need for love），而非“这种兴趣招来富人的怜悯而非尊重”。"
+     }
+    },
+    "49": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "For snobs, it is the already acclaimed and already successful who are the only ones worthy of respect.",
+     "explanation": "第7段说势利眼在“怯懦而刻板的心智”里只承认 already acclaimed and already successful（已经成名、已经成功）的人才值得尊重，他们是 the only ones worthy of respect。A 项“有名声与财富的人”即“已经成名、已经成功”的同义改写。",
+     "distractors": {
+      "B": "望文生义：timid regimented minds 是作者贬斥势利眼的说法（他们思想怯懦、刻板划一），不是“值得尊重的人”的特征；题干问的是势利眼认为谁值得尊重。",
+      "C": "张冠李戴：clever, kind or good 是作者相信可能被社会忽视者的品质（someone might be clever, kind or good—and yet... overlooked），恰恰是势利眼想象不到、也不承认的，绝非他们尊敬的对象。",
+      "D": "误读比喻：qualities lying hidden beneath an unfamiliar veil 指这些人的优点“藏在不为人熟知的帷幕之下”，是“未被发现”而非“伪装、乔装（in disguise）”，更不是势利眼所赏识的。"
+     }
+    },
+    "50": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "And because we are such poor judges of the worth of others, our ultimate duty remains to be kind, good, curious and imaginative about pretty much everyone who ever crosses our path.",
+     "explanation": "末段给出结论：正因为我们极不擅于判断他人的价值，我们的终极责任仍是对几乎每一个从我们路上经过的人保持善良、善意、好奇与想象。B 项“对我们生活中恰好遇到的人保持善良与好奇”即 kindness/curiosity 与 everyone who ever crosses our path（↔ those who we happen to meet in our lives）的同义改写。",
+     "distractors": {
+      "A": "与原文相反：作者说 The true answer to snobbery is not to say that there is no such thing as a better or worse person，即不要否认人有优劣之别，A 项恰恰是作者否定的说法。",
+      "C": "误读：原文说 better or worse exist in constantly unexpected places（优劣总出现在不断出人意料的地方），讲的是“在哪里出现”不可预料，而不是“优劣标准在不断变化”。",
+      "D": "无中生有：末段强调的是我们对他人价值的判断力很差（such poor judges），因此要以善意与好奇相待，并未提出按“鲜明的性格特征”来评判人的方法。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "snob",
+     "meaning": "势利眼，势利的人",
+     "note": "a person we can call a snob 我们可称之为势利眼的人；全文核心概念，另有 snobbery（势利）"
+    },
+    {
+     "word": "ruthlessly",
+     "meaning": "无情地，冷酷地",
+     "note": "judge us ruthlessly and swiftly 无情而迅速地评判我们；第46题出处"
+    },
+    {
+     "word": "vanity",
+     "meaning": "虚荣（心）",
+     "note": "mistaken for greed and vanity 被误认为贪婪与虚荣"
+    },
+    {
+     "word": "materialism",
+     "meaning": "物质主义，拜金主义",
+     "note": "has nothing to do with materialism 与物质主义无关；第48题的反向提示"
+    },
+    {
+     "word": "esteem",
+     "meaning": "尊重，敬重；<正>认为",
+     "note": "the respect and esteem 尊重与敬意；与 respect 近义连用加强语气"
+    },
+    {
+     "word": "acclaimed",
+     "meaning": "受赞扬的，广受赞誉的",
+     "note": "the already acclaimed and already successful 已经成名且已经成功的人；第49题答案所在"
+    },
+    {
+     "word": "regimented",
+     "meaning": "严格管制的，刻板划一的",
+     "note": "timid regimented minds 怯懦而刻板的心智；regiment 原义“团、编成团”"
+    },
+    {
+     "word": "outlet",
+     "meaning": "出口，发泄途径；销路",
+     "note": "having as yet discovered no obvious outlet （品质）尚未找到明显的发挥出口"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "A snob is anyone who takes a relatively small part of us and uses it to come to a rigid conclusion about how much of their attention we deserve.",
+    "analysis": "主干：A snob is anyone（势利眼就是那样一种人）——主语 A snob，系动词 is，表语 anyone。who takes a relatively small part of us and uses it to come to a rigid conclusion... 是修饰 anyone 的定语从句，从句内由 and 并列两个谓语 takes 与 uses。介词短语 about how much of their attention we deserve 作 conclusion 的后置定语，其中 how much... 是介词 about 的宾语从句（宾语从句用陈述语序 we deserve）。理解要点：takes a relatively small part of us 指“只取我们身上很小的一部分（如职业）”，come to a rigid conclusion 指“得出僵化的结论”，全句即“以一点论全人”。"
+   }
+  },
+  "2025-06-2-careful-2": {
+   "passage_zh": "女性在历史上一直挣得比男性少。但在20世纪80年代的美国，她们开始快速赶上来。那十年间，性别薪酬差距大约每年缩小一个百分点。如果这个趋势延续下去，到2017年性别工资差距本应已经消除。\n\n但这个趋势并没有延续，差距依然巨大。\n\n根据哈佛大学学者的一项新研究，这种停滞——或许有悖直觉——可以归因于州与联邦层面家庭休假政策的出台。\n\n这些学者认为，在20世纪90年代，随着各国政府开始推出休假政策，主要是女性利用了这些政策。休假政策或许帮助这些女性留在了职场——而不是为成家而退出——但重返职场的人发现，她们的工资增长幅度低于男性。\n\n事实上，美国引入家庭休假之后，性别工资趋同的速度降到了每年仅0.03个百分点，并一直保持在该水平。\n\n长期关注职场薪酬平等进程的人早已看到，世界上许多国家的进展都在放缓。事实上，进展在疫情期间开始出现逆转。\n\n性别薪酬差距是这种缺乏平等的最突出例子之一，如今几乎在各地仍然存在。母职惩罚已成为解释其中原因的一个简称：在许多地方，尤其是富国，女性在进入生育年龄之前与男性收入相同；而有了孩子的女性开始看到自己的薪水落在男性同侪之后。\n\n部分原因是女性承担了更多家中无偿劳动，这会侵占她们可用于工作的时间和用于职业发展的精力。但另一个原因是，母亲在加薪和晋升时被跳过，也因为离开职场会让女性落后，即使那段时间是自愿离开、并有公司或政府政策支持。\n\n如果当初没有引入休假政策会怎样？这项研究没有探讨这个问题，只表示：如果20世纪80年代的趋势延续下去，我们现在本已实现同酬。\n\n不过，通往薪酬平等的路也有可能无论如何都会停滞。如果女性在20世纪80年代取得的进展是靠消除偏见之类的东西实现的，那么一旦这些较易控制的问题得到解决，女性方面仍会存在问题——因为哺乳能力等生理因素，她们是要生育并在最初几周照顾孩子的人，这迫使她们中断工作，无论这种中断是否被强制规定。",
+   "questions": {
+    "51": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "During that decade, the gender pay gap closed by about one percentage point a year.",
+     "explanation": "第1段说美国女性在1980年代开始迅速赶上（began to catch up—fast），十年间性别薪酬差距大约每年缩小一个百分点；若该趋势延续，到2017年差距本该消失。可见当时差距在快速缩小，B 正确（shrinking rapidly ↔ catch up—fast / one percentage point a year）。",
+     "distractors": {
+      "A": "程度不足：slowly 与原文 fast、每年缩小一个百分点（照此30年即可消除差距）的速度明显不符。",
+      "C": "时间错位：the gap remains yawning 是1980年代趋势中断之后的现状（第2段），不是1980年代的情形。",
+      "D": "同样错位：remained substantial 是趋势停滞后的结果；1980年代的特征恰恰是差距在迅速缩小，D 把它说成“仍然巨大”属时间错位。"
+     }
+    },
+    "52": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "After family leave was introduced in the US, in fact, the rate of gender wage convergence fell to just 0.03 percentage points per year, and has remained there ever since.",
+     "explanation": "第5段直接给出结果：美国引入家庭休假制度后，性别薪酬趋同的速度降到每年仅0.03个百分点，并一直停在这个水平；第3段也说这种停滞（stagnation）可归因于州与联邦的家庭休假政策。B 项“性别薪酬趋同的速度开始明显下降”正是该句的同义改写。",
+     "distractors": {
+      "A": "张冠李戴：progress began to reverse during the pandemic 是第6段讲疫情时期的情况，不是引入家庭休假政策造成的直接结果。",
+      "C": "无中生有：原文只说休假政策可能帮助女性留在职场（help those women to stay in the workplace—instead of dropping out），并未说“产后重返职场的趋势由此开始”。",
+      "D": "无中生有：本段与该研究都没有说“差距缩小引起更多关注”；相反，第6段说关注薪酬平等进程的人早已长期看着进展放缓。"
+     }
+    },
+    "53": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "Part of this is because women take on more of the unpaid labor at home, which can eat into time available for work and energy for career advancement.",
+     "explanation": "第8段解释“母职惩罚”：部分原因是女性在家中承担更多无偿劳动，这会占用可用于工作的时间和用于职业晋升的精力。C 项“女性花大量时间精力照顾家庭”即该句的同义改写（take on more of the unpaid labor at home ↔ spend... taking care of the family；eat into time... and energy ↔ huge amounts of time and energy）。题干 partly 对应原文 Part of this。",
+     "distractors": {
+      "A": "无中生有且方向相反：原文说的是精力被家务侵占（eat into ... energy for career advancement），并未说女性本身缺乏职业进取心。",
+      "B": "概念混淆：原文是 mothers are passed over for raises and promotion（母亲在加薪和晋升中被跳过、被忽视），是企业不给机会，而非女性主动“放弃大量机会”。",
+      "D": "张冠李戴：原文提到 out of the workplace 的间歇即便有公司或政府政策支持（supported by company or government policy）也仍让女性落后，可见症结不在于“缺乏政策支持”。"
+     }
+    },
+    "54": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "The study doesn't go into that question, other than to say that if the 1980s trend continued, we would have been at parity by now.",
+     "explanation": "第9段说研究没有讨论“若没有引入休假政策会怎样”，只表示：如果1980年代的趋势延续下去，我们现在就已经实现同酬（parity）了。D 项“若1980年代趋势延续，本可实现同酬”正是该句的同义改写（attained ↔ would have been at parity；continuation ↔ trend continued）。",
+     "distractors": {
+      "A": "假设颠倒：原文的条件是 if the 1980s trend continued（趋势延续），并没有提出“若可控问题未解决就会停滞”；末段反而说即使这些较可控问题已解决，问题依然存在。",
+      "B": "无中生有：原文从未提到公司（business corporations）与政府是否合作对实现同酬的影响。",
+      "C": "范围扩大且逻辑颠倒：erase bias 是1980年代已取得的进展（gains were made through the erasure of things like bias），但末段指出即使偏见被消除，女性仍会因生育育儿而落后，因此“完全消除性别偏见就能实现同酬”与原意不符。"
+     }
+    },
+    "55": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 10,
+     "evidence_quote": "there would still have been an issue with women—who are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated.",
+     "explanation": "末段做出最终判断：即便把偏见这类“较可控的问题”都解决了，问题仍会出在女性身上——因为哺乳能力等生理因素决定了她们要生育、并在最初几周照顾孩子，不得不断开工作，无论这种中断是否被法规强制（whether or not those breaks were mandated）。故归根结底阻碍女性与男性同酬的是生育与育儿，B 正确。",
+     "distractors": {
+      "A": "张冠李戴：tackling biases 是1980年代已着手的“较可控问题”，作者明确说这些问题解决之后问题依然存在，因此不是“最终”原因。",
+      "C": "因果倒置：原文说 whether or not those breaks were mandated，即是否强制规定并不改变结果；强制休假（mandate breaks）不是障碍所在。",
+      "D": "无中生有：原文只提到 biological factors like the ability to breastfeed，并未说女性“缺乏资源”去解决生理问题。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "catch up",
+     "meaning": "赶上，缩小差距",
+     "note": "they began to catch up—fast 她们开始迅速赶上；第51题关键"
+    },
+    {
+     "word": "yawning",
+     "meaning": "（差距）巨大的，张着大口的",
+     "note": "the gap remains yawning 差距依然巨大；比 big 更形象"
+    },
+    {
+     "word": "stagnation",
+     "meaning": "停滞，不流动",
+     "note": "the stagnation can be put down to... 停滞可归因于……"
+    },
+    {
+     "word": "counterintuitively",
+     "meaning": "违背直觉地，出乎意料地",
+     "note": "perhaps counterintuitively 或许有悖直觉；修饰后面“归咎于家庭休假政策”"
+    },
+    {
+     "word": "convergence",
+     "meaning": "趋同，汇聚",
+     "note": "the rate of gender wage convergence 性别薪酬趋同的速度；第52题答案所在"
+    },
+    {
+     "word": "parity",
+     "meaning": "同等，平等（尤指薪酬、地位）",
+     "note": "lack of parity 缺乏平等；at parity 达到同等水平；第54题答案所在"
+    },
+    {
+     "word": "motherhood penalty",
+     "meaning": "母职惩罚（因生育育儿而承受的收入与晋升损失）",
+     "note": "has become a shorthand for describing why 已成为解释原因的简称"
+    },
+    {
+     "word": "eat into",
+     "meaning": "消耗，侵蚀，占用",
+     "note": "eat into time available for work and energy 占用工作时间与精力；第53题出处"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "If women's gains in the 1980s were made through the erasure of things like bias, once those less uncontrollable problems had been addressed, there would still have been an issue with women—who are the ones to bear children and take care of them in the early weeks because of biological factors like the ability to breastfeed, forcing them to take breaks, whether or not those breaks were mandated.",
+    "analysis": "这是一个含虚拟语气的多重复合句。主句是 there would still have been an issue with women（仍会存在女性方面的问题），属与过去事实相反的虚拟（would have been）。前面两个状语从句：If women's gains in the 1980s were made through the erasure of things like bias 是条件状语从句（gains were made through... 指1980年代的进展是靠消除偏见之类取得的）；once those less uncontrollable problems had been addressed 是时间状语从句（“一旦那些较可控的问题得到解决”）。破折号后 who are the ones to bear children and take care of them in the early weeks... 是修饰 women 的非限制性定语从句，其中 because of biological factors like the ability to breastfeed 说明原因，forcing them to take breaks（现在分词短语作结果状语，“迫使她们中断工作”）进一步说明后果，whether or not those breaks were mandated（让步状语从句，“无论这种中断是否为法规所要求”）收束全句。句意：即便把偏见这类较可控的问题都解决了，问题仍会出在女性身上——因为哺乳等生理因素使她们必须生育并在最初几周照顾孩子，从而不得不中断工作，无论这种中断是否被强制规定。"
+   }
+  }
+ }
+}

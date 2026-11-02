@@ -1,0 +1,437 @@
+{
+ "exam": "2025-12-1",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "空格位于疑问句 But is it ___ too late to start? 中，too late 前需要副词修饰。ever 用于疑问句表示“在任何时候”，is it ever too late to start? 即“（现在开始）会不会为时已晚（无论何时都不算晚）”，与后文“40 岁以后开始锻炼仍能获益、四五十岁开始也不晚”的结论完全呼应。",
+    "evidence": "But is it {26} too late to start?",
+    "distractors": {
+     "K": "词性正确但搭配与语义不成立：particularly 表程度强调（“特别、尤其”），particularly too late 不是英语习惯搭配，且本句问的是“是否存在任何时候开始都太晚”的时点问题，不是程度问题。",
+     "B": "副词词性对，语义错：arbitrarily 意为“任意地、武断地”，arbitrarily too late 在句中不成立，全文也未涉及“武断”的意味。",
+     "N": "词性错：stereotype 是名词（“刻板印象”），无法填入 too late 前的副词位置；用 its stereotype 之类也无法使句子成立。"
+    }
+   },
+   "27": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "介词 of 后需名词，early 作定语修饰该名词，构成 risk of early ___（过早……的风险）。mortality 意为“死亡”，early mortality 指“过早死亡、早亡”，与后半句“与一生坚持锻炼者的风险降幅相似”以及本段后面的 32%–35% 降幅形成医学统计语境上的呼应。",
+    "evidence": "New research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early {27} which were similar to those of people who exercised consistently throughout their lives.",
+    "distractors": {
+     "G": "drop 作名词可表“下降”，但 early drop（早期的下降）不能作 risk of 的中心词，语义变成“早期下降的风险”；且 28 空才是表示降幅的名词，这里需要的是“死亡”这一被修饰对象。",
+     "A": "复数名词与结构不符：adolescents 指“青少年”，risk of early adolescents 意为“早期青少年的风险”，语义不成立，且 early mortality 才是固定医学表达。",
+     "L": "复数名词，搭配不成立：patterns 意为“模式”，risk of early patterns（早期模式的风险）在句中讲不通，本文 patterns 用于 34 空表“运动模式”。"
+    }
+   },
+   "28": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "空前有不定冠词 a，空后是 of 32% to 35%，需要可数名词单数表示“降幅”。drop 作名词即“下降、跌幅”，a drop of 32% to 35% 意为“32% 到 35% 的降幅”，与上一句 declines in their risk 构成同义复现。",
+    "evidence": "This was a {28} of 32% to 35% compared to people who did not exercise.",
+    "distractors": {
+     "N": "名词单数形式对，但语义与搭配错：stereotype 意为“刻板印象”，a stereotype of 32% to 35% 不能与百分比搭配表示幅度大小，且全文无“刻板印象”之意。",
+     "I": "名词单数形式对，语义错：maneuver 意为“策略、机动动作”，a maneuver of 32% to 35% 无法表示降幅，与前句 declines 也不构成同义复现。",
+     "A": "复数名词不能紧跟 a；且 adolescents 指人，a adolescents of 32% 语法与语义双重不成立。"
+    }
+   },
+   "29": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "空格是修饰 diseases 的形容词，且后面用 such as heart disease and cancer 举例。chronic 意为“慢性的”，chronic diseases（慢性病）正是心脏病、癌症的类属概括，与“中年开始锻炼可降低其发病率”的语义一致。",
+    "evidence": "Those who began exercising in middle age also saw reductions in their incidence of {29} diseases, such as heart disease and cancer, which were similar to the steady exercisers.",
+    "distractors": {
+     "D": "形容词词性对，搭配不成立：cognitive 意为“认知的”，只修饰 functioning、ability、decline 等，不与 diseases 搭配（cognitive diseases 非英语表达），本文 32 空才是 cognitive。",
+     "O": "形容词词性对，语义与类属错：vocal 意为“嗓音的、发声的”，vocal diseases 既非地道搭配，也无法与心脏病、癌症归为同类。",
+     "K": "词性错：particularly 是副词，不能直接修饰名词 diseases；此处也没有程度递进的需要。"
+    }
+   },
+   "30": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "主语 the authors 为复数，需一个一般过去时的谓语动词并接 that 宾语从句。concede that... 意为“（不得不）承认……”，与从句内容“有人可能把研究结果理解为可以推迟锻炼，但这是错误的”构成让步语气：作者先承认这种解读存在，再否定它。",
+    "evidence": "The authors of the study {30} that some might interpret the study's findings to mean that they can delay starting an exercise program but this would be a mistake.",
+    "distractors": {
+     "M": "词性、时态都对，但语义方向相反：refute 意为“驳斥、反驳”，作者此处是主动承认（让步）这种误读的存在，再指出其错误，而不是驳斥一项研究的结论。",
+     "F": "及物动词但搭配不成立：disregard 意为“忽视”，不能接 that 从句作宾语（disregard that... 不合语法），语义上“作者忽视”也与下文的观点陈述矛盾。",
+     "N": "作动词意为“对……形成刻板印象”，不能像 concede 那样引出 that 从句，而且全文讨论的是研究结论的解读方式，并未涉及任何“刻板印象”。"
+    }
+   },
+   "31": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "that 引导定语从句修饰 benefits，should not 后需动词原形；disregard 意为“忽视、不理会”，we should not disregard（我们不应忽视）这些身心益处，与下一句 These real health benefits include... 的展开说明顺承。",
+    "evidence": "There are other benefits, both mental and physical, to staying consistently active that we should not {31} .",
+    "distractors": {
+     "M": "及物动词，但语义反了：refute 意为“驳斥”，should not refute the benefits（不应驳斥这些益处）与下文“这些实实在在的益处包括……”相矛盾——益处是需要重视的，不是需要驳斥的。",
+     "E": "语义与语气不符：concede 意为“承认”，should not concede 变成“不应承认这些益处”，与作者正在肯定益处的立场相反。",
+     "I": "搭配不成立：maneuver 作动词指“操纵（物体）、巧妙移动”，不能以 benefits 为宾语表示“不予理会”，本句需要与“重视”相对的“忽视”之意。"
+    }
+   },
+   "32": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "空格是修饰 functioning 的形容词，better ___ functioning 与后面的 lowered risk of gaining weight 并列列举“实实在在的健康益处”。cognitive 意为“认知的”，cognitive functioning（认知功能）是健康话题中的固定搭配。",
+    "evidence": "These real health benefits include better {32} functioning and lowered risk of gaining weight.",
+    "distractors": {
+     "C": "形容词词性对，但搭配不成立：chronic 表“慢性的、长期的”，修饰 disease、condition、pain 等，不与 functioning 搭配（chronic functioning 意为“长期运作”，非健康术语）。",
+     "O": "形容词词性对，语义范围不符：vocal functioning 指“发声功能”，而本句列举的是笼统的身心健康益处，且与“体重增加风险降低”并列时指向的是大脑认知功能。",
+     "K": "词性错：particularly 是副词，无法修饰名词 functioning。"
+    }
+   },
+   "33": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "空格位于系动词 is 与形容词 important 之间，需程度副词修饰 important。particularly important 意为“尤为重要”，与后面 given the global obesity epidemic（鉴于全球肥胖流行）补充的强调性理由相配。",
+    "evidence": "The latter is {33} important given the global obesity epidemic.",
+    "distractors": {
+     "B": "副词词性对，语义不成立：arbitrarily important 意为“任意地重要”，逻辑上讲不通——重要性不是任意决定的。",
+     "H": "ever 一般用于疑问句、否定句或最高级/比较结构（如 the best ever），在肯定陈述句 is ever important 中不合语法与语义；且 ever 已用于 26 空。",
+     "N": "词性错：stereotype 是名词（或动词“对……有刻板印象”），不能填入 is 与 important 之间的副词位置。"
+    }
+   },
+   "34": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "those 后须接复数可数名词，keep up those ___（保持这些……）的宾语应指前文“年轻时养成的锻炼习惯”。patterns 意为“模式”，exercise patterns（运动模式/习惯模式）与 if you make a habit of exercising when you are young 呼应。",
+    "evidence": "In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those {34} later in life.",
+    "distractors": {
+     "A": "复数名词形式合，但指人：those adolescents 意为“那些青少年”，keep up those adolescents（保持那些青少年）语义不成立，与 keep up 表“保持（习惯）”的用法冲突。",
+     "G": "单数形式不能跟在 those 之后（those drop 不成立）；若视作不可数用法，drop 表“下降”也无法与 keep up 构成“保持习惯”之意。",
+     "C": "形容词不能作 those 的中心词：those chronic 缺少被修饰的名词，句子不成立。"
+    }
+   },
+   "35": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "or 连接与 children 并列的成分，需表示“人”的复数名词，且与 children 构成年龄上的递进。adolescents 意为“青少年”，children or adolescents（儿童或青少年时期）与“越早开始越好”的论证一致。",
+    "evidence": "It is ideal, then, for people to start exercising when they are children or {35} , and it is good to maintain an active lifestyle at all times regardless of your age.",
+    "distractors": {
+     "L": "复数名词但与 children 并列不成立：children or patterns 变成“儿童或模式”，无法充当 when they are 的表语指人。",
+     "J": "不可数名词且指事不指人：children or mortality（儿童或死亡）与“从什么年龄开始锻炼”的语境完全不符。",
+     "D": "形容词不能单独作表语指人：when they are children or cognitive 语法不成立。"
+    }
+   }
+  },
+  "passage_zh": "到目前为止，人们普遍认为：对那些长期保持锻炼习惯的人来说，规律运动会带来各种各样的健康益处。但（现在才开始）任何时候都不算太晚吗？一项新研究考察了那些在 40 多岁以后把运动量提高到超过年轻时水平的人，结果这些人的过早死亡风险出现了下降，其降幅与一生都坚持锻炼的人相似。与不运动的人相比，这相当于 32% 到 35% 的降幅。那些中年才开始锻炼的人，其慢性病（如心脏病和癌症）的发病率也有所降低，降幅与坚持锻炼者相近。那么，何必一生都坚持锻炼呢？该研究的作者承认，有些人可能会把研究结果解读为自己可以推迟开始锻炼计划，但这样做是错误的。保持长期活跃还有其他益处，无论是心理上还是身体上的，这些益处我们不应忽视。这些实实在在的健康益处包括更好的认知功能以及更低的增重风险。鉴于全球肥胖流行，后者尤为重要。此外，专家还断言越早开始越好，因为如果你年轻时养成了锻炼的习惯，就更有可能在日后的生活中保持这些（运动）模式。因此，理想的情况是让人们从儿童或青少年时期就开始锻炼；而无论年龄多大，始终保持积极的生活方式都是有益的。不过，这项研究确实表明：如果你一直不运动，那么从四五十岁开始运动，你仍然能够获益。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "C 段说全自动汉堡餐厅“如今已成为可能”，且由“极少人工监管”管理。题干 It is now possible to fully automate a burger restaurant with little human supervision 是 Fully automated burger restaurants managed with minimal human oversight ... are now a possibility 的同义改写：fully automate ↔ Fully automated；with little human supervision ↔ managed with minimal human oversight；It is now possible ↔ are now a possibility。",
+    "evidence": "Fully automated burger restaurants managed with minimal human oversight — where customers order at screens, pay electronically, and eat food cooked and delivered by robots — are now a possibility."
+   },
+   "37": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "H 段以美国披萨外送公司 Zume 为例，说更难的工作（如给披萨加配料）仍由人完成。题干 At a robot-powered US company, complicated tasks still have to be performed by humans 对应 At the robot-powered US pizza-delivery company Zume, the more difficult jobs ... are still done by humans：robot-powered US company ↔ the robot-powered US pizza-delivery company Zume；complicated tasks ↔ the more difficult jobs；still have to be performed by humans ↔ are still done by humans。",
+    "evidence": "At the robot-powered US pizza-delivery company Zume, the more difficult jobs, such as topping pizzas, are still done by humans."
+   },
+   "38": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "D 段指出：在这个急于削减人工成本、增加利润的行业里，进一步的自动化似乎不可避免。题干 More automation appears to be a certainty in industries eager to cut labor costs and raise profits 与 In an industry keen to slash labor costs and increase profits, further automation seems inevitable 逐层对应：a certainty ↔ inevitable；industries eager to ↔ an industry keen to；cut labor costs and raise profits ↔ slash labor costs and increase profits。",
+    "evidence": "In an industry keen to slash labor costs and increase profits, further automation seems inevitable."
+   },
+   "39": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "L 段首句说餐厅科技领域令人难堪的失败常常登上头条。题干 There are often front-page reports of failures in technological innovation of the restaurant industry 中的 front-page reports ↔ hit the headlines（登上头条即头版报道）；often ↔ frequently；failures in technological innovation of the restaurant industry ↔ Embarrassing failures in restaurant tech。",
+    "evidence": "Embarrassing failures in restaurant tech frequently hit the headlines."
+   },
+   "40": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "A 段先以 Like most chefs, Flippy is not afraid of hard work 点明它不怕辛苦，随后说这些是长时间重复劳动，但你不会听到 Flippy 抱怨。题干 Robot-chef Flippy does not fear laborious work, nor does it make any complaints 即这两处的合并改写：laborious work ↔ long hours of repetitive work；does not fear ↔ is not afraid of；nor does it make any complaints ↔ you won't hear Flippy complain。",
+    "evidence": "These are long hours of repetitive work, where the boss demands absolute consistency. But you won't hear Flippy complain or say anything, in fact."
+   },
+   "41": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "F 段引述 Flyt 首席执行官的话：几百年来第一次，数字化让我们得以创造新形态的餐厅。题干 Digital technology makes it possible for businesses to innovate restaurant models 与之同义：digital technology ↔ digital；makes it possible ↔ is allowing us to；innovate restaurant models ↔ create new versions of restaurants。",
+    "evidence": "For the first time in a few hundred years, digital is allowing us to create new versions of restaurants."
+   },
+   "42": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "M 段首句说，对“人类待客艺术”的这种依恋会让那些把自动化视为职业威胁的员工感到欣慰。题干 Fondness for human warmth in catering to customers will give hope to employees who are afraid of losing jobs to robots 对应 That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs：Fondness ↔ attachment；human warmth in catering to customers ↔ the human art of hospitality；will give hope ↔ will be heartening；afraid of losing jobs to robots ↔ see automation as a threat to jobs。",
+    "evidence": "That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs."
+   },
+   "43": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "J 段说餐饮业正严重缺乏熟练厨师（据 People 1st 统计缺口 1.1 万人），并引述“旨在让流程更傻瓜化的自动化系统正试图填补这一缺口”。题干 There is an acute shortage of experienced chefs in the catering industry and automated cooking is expected to fill the gap 与之对应：acute shortage ↔ severe shortage；experienced chefs ↔ skilled chefs；automated cooking is expected to fill the gap ↔ Automation systems ... are trying to bridge that gap。",
+    "evidence": "The restaurant industry is currently suffering a severe shortage of skilled chefs — a deficit of 11,000, according to the skills agency People 1st."
+   },
+   "44": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "O 段说未来十年内，传统砖瓦门店餐厅的岗位必然会减少，尤其是因为自动化会助推其快速增长的竞争对手——外送，随后举 Domino、Just Eat 试验机器人与无人机配送为例。题干 Over the coming decade, many jobs in traditional restaurants will disappear due to robot delivery 即该句的改写：Over the coming decade ↔ over the next 10 years；traditional restaurants ↔ conventional bricks-built restaurants；will disappear ↔ jobs will go；due to robot delivery ↔ automation will boost their rapidly growing rival: delivery（结合本段 robot delivery 的例证）。",
+    "evidence": "Invariably, over the next 10 years, jobs will go in conventional bricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery."
+   },
+   "45": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "G 段引述谢菲尔德大学人工智能与机器人学教授 Noel Sharkey 的话：“要看到五星级机器人厨师，大概还需要很长时间。”题干 According to an expert in AI and robotics, it may be quite some time before a master robot-chef appears 与之对应：an expert in AI and robotics ↔ professor of AI and robotics；quite some time ↔ a very long time；a master robot-chef ↔ a five-star robot-chef。",
+    "evidence": "\"It'll probably be a very long time before we see a five-star robot-chef,\" says Noel Sharkey, professor of AI and robotics at the University of Sheffield."
+   }
+  },
+  "article_zh": "A) 和大多数厨师一样，Flippy 不怕辛苦。自去年夏天以来，这意味着它要在加州帕萨迪纳的 Caliburger 餐厅上上午 11 点到晚上 7 点的班，还要在洛杉矶道奇体育场的 Chick-N-Tots 做短时帮工。这些都是长时间的重复性工作，而老板要求绝对的一致。但事实上，你不会听到 Flippy 抱怨，也不会听它说任何话。因为 Flippy 是个机器人——一只以 3D 热成像扫描仪为眼睛、与云端相连的机械臂——它能翻汉堡，或每小时炸 80 篮食物，能监控这些食物，甚至事后还能做清理。\n\nB) Flippy 由 Cali 集团旗下的 Miso Robotics 研发。该集团首席执行官约翰·米勒把它形容为“一家碰巧卖芝士汉堡的科技公司”。Cali 研发新机器，并在其遍布全球的 Caliburger 餐厅里进行实地测试，Flippy 今年将被部署到这些餐厅。Flippy 并不孤单。同样在加州，Bear Robotics 研发了一款自动导引机器人 Penny，迄今已服务了 4 万名食客。\n\nC) 十年前，机器人厨师和机器人服务员还是纯粹的科幻。如今它们已成为现实，而且价格让它们成为看起来合理的投资。从 5 月起，Penny 将以订阅制方式交付，Bear Robotics 首席运营官胡安·伊格罗斯说这能带来“立竿见影的回报”。据报道，Flippy 的售价在 6 万到 10 万美元之间。由极少人工监管的全自动汉堡餐厅——顾客在屏幕上点单、以电子方式付款、吃由机器人烹饪并送上的食物——如今已成为可能。\n\nD) 技术已经具备，只需要以经济划算、且食客愿意接受的方式把它整合起来。在一个急于削减人工成本、提高利润的行业里，进一步的自动化似乎不可避免。在加州 Kang Nam Tofu House 进行八个月测试后，Bear Robotics 把 28% 的销售增长归功于 Penny。与此同时，在美国的测试中，麦当劳目前正在其 1300 家英国餐厅安装的自助点餐屏，据报使订单金额提高了 30%。\n\nE) 人们认为个性化是这项技术吸引力的关键，同时它也能源源不断地向顾客推送所谓的“加购”项目（套餐、附加品、更大杯的饮料）。很快，当你登录某家餐厅的应用程序时，它就能利用你的数据和购买记录向你推荐菜品——把从天气到你当下心情的一切都考虑在内（如果你在能读取你表情的屏幕上点单的话）。\n\nF) “眼下人们在选择上不得不妥协。我们面对的是一份‘一刀切’的菜单。最终，技术能让我们做出个性化的选择。你爱吃辣的和鸡肉？这就是和你口味相近的人最常点的菜，”餐饮科技公司 Flyt 的首席执行官汤姆·韦弗说。他兴致勃勃地谈起赫尔辛基的快闪餐厅 Take-In——一家提供全套服务的餐厅，食客可以从各家外送服务点餐送到店里。“几百年来第一次，数字化让我们得以创造出新形态的餐厅。”\n\nG) 如果说商业街上的快餐已经做好了自动化准备，那么自动化对高端餐厅的影响可能更为微妙、缓慢。“要看到五星级机器人厨师，大概还需要很长时间，”谢菲尔德大学人工智能与机器人学教授诺埃尔·夏基说。“除了人工智能在创造力上的差距之外，高超的烹饪还涉及对食材的细微理解以及精细的烹调，这对机器人来说极具挑战。把易碎的食物摆到盘子里会慢得令人难以置信。”\n\nH) 目前，机器人的功能还很有限。需要有人给 Penny 装上盘子，再由食客自己把盘子端走。在由机器人驱动的美国披萨外送公司 Zume，诸如给披萨加配料这类更难的活儿仍由人来做。但即将上市的 Moley 展示了未来可能达到的精细程度。它的机械臂以《厨艺大师》冠军蒂姆·安德森的动作为原型设计，固定在灶台上方，被编程为用生食材烹制菜肴。它面向家庭使用而设计，但还计划推出商用版本，这为餐厅厨房实现连技术上极具挑战的任务也能自动化提供了可能。\n\nI) 目前，QSR Automations 供应给 Mitchells & Butlers 旗下酒吧或肯德基的厨房技术还没那么光鲜。QSR 系统无需厨师喊出食客的订单，而是自动把这些订单分发到各个屏幕上。厨房屏幕随后告诉厨师每道菜何时开始烹制，好让你的炸鱼、薯条和豌豆在同一时间一起做好。\n\nJ) 餐饮业目前严重缺乏熟练厨师——据技能机构 People 1st 统计，缺口达 1.1 万人。“旨在让整个流程更‘傻瓜化’的自动化系统正试图填补这一缺口，”《餐厅》杂志主编斯特凡·乔姆卡说。\n\nK) 在简化或提升顾客体验方面，在线订座一直是互联网时代轻松取得的成功。餐桌自助点单与结账被视为下一个里程碑。在那之前，早期采用者——比如在曼彻斯特 33 Oldham Street 经营酒吧、使用了 Ordoo 应用的安迪·史密斯——很可能会看到认可度不断增长，但仍“低于预期”。\n\nL) 餐厅科技方面令人难堪的失败常常登上头条。TGI Fridays 的无人机伤了一名《布鲁克林日报》摄影师；美国汉堡连锁 Shake Shack 不得不放弃开设完全无现金点单门店的计划。但乔姆卡说，如果这类技术只提供“对并不真正存在的问题的解决方案”，就可能偏离目标。他补充说，“自动结账”可能有用。但在高档餐厅里，“你有多需要晚餐快点上桌呢？”\n\nM) 对“人类待客艺术”的这种依恋，会让那些把自动化视为职业威胁的员工感到欣慰。“联合工会担心，如果没有保障措施，任何好处都会绕过服务员这类低薪岗位的工人，”该工会伦敦地区官员戴夫·特恩布尔说。“我们敦促议员们确保自动化不会像此前的历次工业革命那样，只让少数富人受益。”\n\nN) 行业的准则是，自动化将使其能够更有效地调配员工。工作岗位会发生变化，即便数量不会立即减少。“自助点单屏意味着前厅需要更多人手。去年我们招聘了 1000 名新经理，”麦当劳首席运营官杰森·克拉克说。Caliburger 有一个项目，把员工再培训为机器人工程师或“厨师技师”。\n\nO) 但归根结底，通过减少用人或以更低的工资雇人来降低管理费用，才是吸引大品牌拥抱技术的原因。未来十年内，传统砖瓦门店餐厅的岗位必然会减少，尤其是因为自动化会助推其快速增长的竞争对手：外送。Domino 和 Just Eat 等公司都已试验过机器人和无人机配送，这在冰岛雷克雅未克已经合法。“机器人送餐是未来，”诺埃尔·夏基说。“小型、时速 4 英里的地面机器人很安全，而且能一天 24 小时工作。”\n\nP) 再结合对预期订单量的机器学习，以及 QSR 等系统逐分钟生成的烹饪数据，这支机器人车队几乎可以做到即时送达。“餐厅会在订单到来之前就备好食物，”Just Eat 工程总监丹尼尔·理查森预言。“我可以对家人说‘我们吃披萨吧’，我的智能助手会听到，10 分钟后食物就送到我家门口。”目前还没有人给出确切的时间表。但在餐厅里，也在你家门口，机器人正在到来。"
+ },
+ "careful": {
+  "2025-12-1-careful-1": {
+   "passage_zh": "许多人把友谊看作一条慰藉的毯子：一个可以靠着哭泣的肩膀，一个可以倾诉心事的可靠之人。然而，在我们急于追求个人成功的过程中，我们往往会在途中失去朋友，而这已经成为这一过程的一部分。\n\n伴随日常生活而来的混乱与无尽的动荡，是追求稳定友谊路上的一大障碍。作为学生，我们用这个借口轻描淡写地甩掉那些我们曾以为是所爱之人的人。\n\n我们不应把人生看作一场赛跑——每个人都走在通往某种成功的自己的路上——而必须重新学会珍视我们在这条跑道上建立起的联系。我们必须重新评估激进的、个体式自由的危害。\n\n激进的个人主义把个体的自由抬高到集体之上。例如它主张，作为集体主义一个例子的全民医保，威胁到了许多美国人的梦想。\n\n我们中的许多人都是个人主义文化的受害者。社会倾向于庆祝个人成就，并基于这样一种假设来称赞它：赢或成功是比别人更努力的结果。\n\n作为一个社会，我们把“在通往成功的路上失去朋友”这一观念奉为偶像。我记得高中时听到过这样的话：“别担心失去友谊，只管专心学习、考上大学。从长远看，那才是唯一重要的。”这种说法并非我的独有经历。它在许多成功故事中被宣扬，也深深嵌入我们看待成长的方式之中。励志演讲者会鼓动听众对“失去朋友这一不可避免的结局”安之若素。和朋友待得太久？你是在浪费本可以更好地用于成就的时间。把时间投入到人际关系上？不如把时间投入到工作上。\n\n这种不断追求成功的需要，使我们看不清伴随日常生活而来的变化旋风。人们期望我们切实地成功——获奖、升职、拿更高的分数。为了成功我们失去朋友，而令人悲哀的是，这已变得司空见惯。\n\n我们不能对失去友谊安之若素，因为朋友是我们的锚。是的，去追求成功吧。挑战自己。突破极限。但与那些自称的成功专家所说的相反，独自完成并不会让你更成功，也不会让你比在他人帮助下取得成就的人更优秀。\n\n努力培养健康的人际关系，并在你繁忙得似乎无暇顾及他人的日程中维持它们。虽然我们可能生活在一个珍视独立追求成就的社会里，但在路上有人支持和爱你，远比任何最终结果都重要。",
+   "questions": {
+    "46": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process.",
+     "explanation": "首段指出：在急于追求个人成功的过程中，我们往往会在途中失去朋友。急于求成导致的是“把朋友丢在路上”，即有意无意地忽视与朋友的联系，D 项 They ignore their ties with friends 正是 lose friends along the way 的概括改写（our eagerness to seek individual success ↔ when people are eager to pursue individual success）。",
+     "distractors": {
+      "A": "张冠李戴：首段 a shoulder to cry on 是作者对“友谊”的比喻性定义（友谊像一条慰藉的毯子），并非说追求个人成功的人“缺少可以哭泣的肩膀”。",
+      "B": "偷换概念：同上，a reliable soul to confide in 是友谊的定义句，被误当成“追求成功者的处境”；原文没有说他们找不到可以倾诉的人。",
+      "C": "无中生有：原文说 lose friends（失去已有的朋友），并未说 cannot find reliable friends（找不到可靠的朋友），“失去”与“找不到”是两回事。"
+     }
+    },
+    "47": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "We must reevaluate the harm of radical, individual freedom.",
+     "explanation": "第 3 段在提出“不应把人生看作一场赛跑”之后，用 We must reevaluate the harm of radical, individual freedom 明确给出建议：重新评估激进个人自由的危害。A 项 Reexamine its detrimental effects 与其同义（reevaluate ↔ reexamine；harm ↔ detrimental effects；radical individualism ↔ radical, individual freedom）。",
+     "distractors": {
+      "B": "褒贬方向相反：对失去所爱之人“不以为意”（shrug off）是作者批评的态度——第 2 段说我们用这个借口 shrug off losing people，作者要求的是重新珍视而非继续置之不理。",
+      "C": "主体偷换：chaos and never-ending turmoil 指日常生活本身带来的混乱动荡，是“追求稳定友谊路上的障碍”，不属于“激进个人主义”，作者也没有建议“避开”它。",
+      "D": "张冠李戴+无中生有：aggressive obstacle 同样是描述日常生活的混乱，原文任何一处都没有提出“清除路上的障碍”这类行动建议。"
+     }
+    },
+    "48": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person.",
+     "explanation": "第 5 段点明美国社会对个人成就的“假设”（assumption）：赢或成功是比别人更努力的结果。D 项 It reflects a person's exceptional endeavor（体现个人超常的努力）正是 working harder than the next person 的同义改写，是题干所问“假设的内容”。",
+     "distractors": {
+      "A": "混淆层次：celebrate、commend 是社会对成就采取的“做法/态度”，题干问的是这个做法背后的“假设内容”，二者是被说明对象与说明内容的关系，用 A 回答等于答非所问。",
+      "B": "无中生有：全文只在第 4 段提到全民医保“威胁许多美国人的梦想”，并未主张个人成就是“实现梦想的可靠途径”。",
+      "C": "主体偏移：individualistic culture 是第 5 段首句交代的社会环境（我们成了个人主义文化的受害者），不是题干所问“对个人成就的假设”的内容。"
+     }
+    },
+    "49": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "Spend too much time with friends? You're losing time better utilized on your achievements. Invest time in your relationships? Invest time in your work instead.",
+     "explanation": "第 6 段先说 it's preached in many success stories，随后用设问句给出其宣扬的具体主张：和朋友待太久是浪费时间，把时间投到人际关系上不如投到工作上。B 项 Investing one's time in work instead of connecting with friends 即 Invest time in your work instead 的改写。",
+     "distractors": {
+      "A": "以偏概全：academic gains 只对应段落里“专心学习、考上大学”这一高中阶段的例子，成功故事宣扬的核心是以成就/工作取代与朋友的相处，不是“重视学业”。",
+      "C": "与原文相反：原文宣扬的正是“别管失去的友谊、专注学习与工作”，强化友谊恰恰是作者在第 9 段才提出的主张。",
+      "D": "无中生有+范围过窄：原文只说 getting into college，从未提 prestigious，且这只是例子之一，不能概括“许多成功故事所宣扬的”内容。"
+     }
+    },
+    "50": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.",
+     "explanation": "第 8 段说朋友是我们的锚、不能对失去友谊安之若素；第 9 段进一步强调路上有人支持与爱远比任何最终结果重要。由此可推知 B 项 No one can afford to neglect close friends（任何人都承受不起忽视密友的代价）——afford to neglect 对应 cannot be complacent with losing friendships 与 far more important than any end result。",
+     "distractors": {
+      "A": "绝对化：第 8 段确有 Challenge yourself. Push limits.，但作者只是鼓励，并未把“突破极限”说成成功的必要条件（without pushing limits 无法成立）。",
+      "C": "程度过强：作者批评的是 radical individualism 的危害，从未断言 collectivism 优于 individualism；第 4 段只是转述激进个人主义对全民医保的攻击。",
+      "D": "无中生有：原文只说与那些自称的成功专家相反、独自奋斗并不让人更成功，并未说他们会把人们“引向毁灭”。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "comfort blanket",
+     "meaning": "（比喻）慰藉之物，可依靠的安慰",
+     "note": "Many see friendships as a comfort blanket 许多人把友谊看作一条慰藉的毯子"
+    },
+    {
+     "word": "eagerness",
+     "meaning": "热切，急切",
+     "note": "in our eagerness to seek individual success 在我们急于追求个人成功之时；第 46 题出处"
+    },
+    {
+     "word": "confide",
+     "meaning": "倾诉，吐露（心事）",
+     "note": "confide in sb 向某人倾诉；a reliable soul to confide in 一个可以倾诉心事的可靠之人"
+    },
+    {
+     "word": "turmoil",
+     "meaning": "混乱，动荡",
+     "note": "the chaos and never-ending turmoil 混乱与无尽的动荡"
+    },
+    {
+     "word": "shrug off",
+     "meaning": "对……不以为意，轻描淡写地摆脱",
+     "note": "shrug off losing people 把失去某些人不当回事；作者批评这种态度"
+    },
+    {
+     "word": "complacent",
+     "meaning": "自满的，安于现状的",
+     "note": "be complacent with/about sth 对某事安之若素；We cannot be complacent with losing friendships"
+    },
+    {
+     "word": "anchor",
+     "meaning": "锚；（比喻）支柱、依靠",
+     "note": "they are our anchors 朋友是我们的锚"
+    },
+    {
+     "word": "tangibly",
+     "meaning": "切实地，有形地",
+     "note": "We are expected to tangibly succeed 人们期望我们取得看得见的成功"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.",
+    "analysis": "主干为“having people ... is far more important than any end result”：主语是动名词短语 having people to support and love you on the way（其中 to support and love you on the way 是修饰 people 的不定式后置定语），谓语 is，表语 far more important than any end result 为比较结构。句首 Although 引导让步状语从句，从句主干是 we may be living in a society，that treasures the independent pursuit of achievement 是修饰 society 的定语从句。理解要点：让步从句交代“社会推崇独立追求成就”这一背景，主句用“途中有支持与爱远比任何最终结果重要”作对比收束全文主旨——成功不应以牺牲朋友为代价。"
+   }
+  },
+  "2025-12-1-careful-2": {
+   "passage_zh": "在诺贝尔和平奖获奖演讲中，马丁·路德·金说：“我相信，不带武器的真理和无条件的爱终将在现实中胜出。”\n\n五十多年后，我们的社会仍在艰难地把真相与幻想、事实与虚构区分开来。从气候变化之争到关于如何教授奴隶制历史的争论，美国正处在十字路口。而争取公平的斗争正是这些至关重要讨论的核心。\n\n一项又一项研究表明，不平等造成了骇人的后果。花旗银行 2020 年的一份报告指出，如果过去二十年中与高等教育相关的公平问题得到了充分解决，“黑人学生的终身收入本可以增加 900 亿至 1130 亿美元”。\n\n这个统计数字代表了我们作为一个国家未能正视的众多问题。它也凸显了一个事实：我们正在错失弥合分歧的宝贵机会。然而，通过传承金的遗产，我们能让国家重回通往真正公平的道路。\n\n学生——成年人也是如此——如果不了解今天这些冲突的最初起因，就根本无法理解它们。这意味着我们有责任帮助他们把美国历史与当下事件联系起来。这也意味着要给他们工具，去应对自己生活中的不平等与偏见。坚持这些原则，加上对诚实对话的承诺，能帮助每个学生更好地认识我们已经走了多远，并更清晰地看到我们尚未走过的路。\n\n通过对“需要更多合格、多元的教育工作者”这一需求进行更真实的剖析，我们能够改善全国学校的招聘、培训和留任策略。\n\n不幸的是，我们根深蒂固的分歧正在拖延这些进步。最近一项调查发现，77% 的美国人认为国家“比以往任何时候都更加分裂”。但关于两极分化加剧的报道不应促使我们彼此回避。相反，它们应迫使我们直面共同的问题。\n\n我们并不像某些人所暗示的那样，生活在一个“后种族社会”。在种族不平等问题上，我们根本承受不起把头埋在沙子里的代价。除非我们诚实地面对不容忍、偏见，以及这些社会病症如何影响我们彼此相待的方式，不公正就会继续纠缠我们。但我们的孩子和孙辈理应得到更好的。\n\n在这个马丁·路德·金纪念日以及此后的日子里，让我们承诺携手打破现状。让我们继续建设一个更好、更具包容性的国家；用马丁·路德·金的话说，“一个与自身和平相处的社会，一个能与自己的良知共存的社会。”",
+   "questions": {
+    "51": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "More than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction.",
+     "explanation": "第 2 段说五十多年后社会“仍在艰难地把真相与幻想区分开来”，并把争取公平的斗争说成这些讨论的核心；第 5 段说这能让人“更清晰地看到我们尚未走过的路”。合起来即 C 项 It still has a long way to go before equity can be truly realized（真正实现公平还有很长的路要走）。",
+     "distractors": {
+      "A": "曲解词义：原文是 separate truth from fantasy（把真相与幻想区分开），A 项译成 transform fiction into reality（把幻想变成现实），偷换了动词与宾语关系。",
+      "B": "主体偷换：成为这些重要讨论焦点的是 the battle for equity（争取公平的斗争），不是美国本身。",
+      "D": "夸大+以偏概全：原文举的是气候变化、如何教授奴隶制等具体分歧，77% 的调查数据出现在第 7 段且说的是“更分裂”，不能推出“几乎每个议题都意见不一”。"
+     }
+    },
+    "52": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 – $113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades.",
+     "explanation": "第 3 段引花旗 2020 年报告，用虚拟语气指出：如果过去二十年与高等教育相关的公平问题得到了充分解决，黑人学生的终身收入本可以增加 900 亿至 1130 亿美元。虚拟语气反过来说明这二十年里高等教育领域的公平问题并未解决、黑人学生因此受损，故 A 项 They have been unfairly treated regarding higher education 正确。",
+     "distractors": {
+      "B": "主体偷换+无中生有：原文没有说黑人学生在“奋力抗争”，解决问题的主体是国家（a nation）与教育机构（recruiting, training, retention）。",
+      "C": "时态与事实相反：could have increased 是虚拟语气表“本可以增加（实际没有）”，C 项说成 have boosted（已经增加），与原文语气相反。",
+      "D": "无中生有：文中没有任何关于黑人学生“认识到种族歧视后果”的表述。"
+     }
+    },
+    "53": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "However, by honoring King's legacy, we can get our country back on the path toward true equity.",
+     "explanation": "紧接“我们正错失弥合分歧的宝贵机会”之后，第 4 段给出办法：通过传承马丁·路德·金的遗产（honoring King's legacy），让国家重回真正公平之路。C 项 By continuing to pursue Martin Luther King Jr.'s cause 正是 honoring King's legacy 的改写，与题干 bridge the differences that divide them 直接对应。",
+     "distractors": {
+      "A": "张冠李戴：address our shared issues head-on 出自第 7 段，针对的是“两极分化”与共同问题，不是题干“弥合分歧”所在句所给的答案。",
+      "B": "无中生有：原文强调我们正在 missing out on（错失）宝贵机会，并未提出“抓住每个机会促进种族和睦”。",
+      "D": "曲解：valuable opportunities 指的是弥合分歧的机会，原文说这些机会正被错失，而不是要人们“努力去识别极其宝贵的机会”。"
+     }
+    },
+    "54": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\".",
+     "explanation": "第 7 段引用调查：77% 的美国人认为国家“比以往任何时候都更加分裂”。77% 即“大多数美国人”的看法，D 项 It has become increasingly split 与之对应（more divided than ever before ↔ increasingly split）。",
+     "distractors": {
+      "A": "无中生有+主客体错乱：compel 在原文中说的是“这些报道应迫使我们直面共同问题”（reports ... should compel us），与“美国人的看法”无关。",
+      "B": "主体偷换：拖延进步的是“我们根深蒂固的分歧”（our deeply rooted divisions），不是美国人“认为国家在拖延”。",
+      "C": "与原文相反：调查显示多数人认为国家更分裂，说明两极分化在加剧，而非“使自己免于两极分化”。"
+     }
+    },
+    "55": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "On this Martin Luther King Day and beyond, let's commit to working together to disrupt the status quo. Let's continue to build a better, more inclusive nation",
+     "explanation": "末段发出号召：让我们承诺携手（working together）打破现状，继续建设一个更好、更具包容性的国家。B 项 Make joint efforts to tackle the nation's equity issues 正是 working together to disrupt the status quo 与全文“争取公平”主题的概括。",
+     "distractors": {
+      "A": "张冠李戴：our children and our grandchildren deserve better 是要求改变的理由（我们欠后代更好的社会），不是作者建议的具体行动。",
+      "C": "曲解：原文要求 get honest about intolerance, bias（诚实地面对不容忍与偏见），而非“克制”自己的不容忍；正视问题不等于压制。",
+      "D": "与原文相反+无中生有：作者主张 disrupt the status quo（打破现状），而非“恢复社会秩序”。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "equity",
+     "meaning": "公平，公正",
+     "note": "the battle for equity 争取公平的斗争；与 equality（均等）语义相近但强调公平对待"
+    },
+    {
+     "word": "appalling",
+     "meaning": "骇人的，令人震惊的",
+     "note": "inequity has had appalling consequences 不平等造成了骇人的后果"
+    },
+    {
+     "word": "confront",
+     "meaning": "正视，面对（问题）",
+     "note": "issues we've failed to confront 我们未能正视的问题"
+    },
+    {
+     "word": "polarization",
+     "meaning": "两极分化",
+     "note": "reports of increased polarization 关于两极分化加剧的报道"
+    },
+    {
+     "word": "compel",
+     "meaning": "迫使，使不得不",
+     "note": "compel sb to do sth；they should compel us to address our shared issues head-on"
+    },
+    {
+     "word": "status quo",
+     "meaning": "现状",
+     "note": "disrupt the status quo 打破现状；第 55 题出处"
+    },
+    {
+     "word": "inclusive",
+     "meaning": "包容的，兼容并蓄的",
+     "note": "a better, more inclusive nation 一个更好、更具包容性的国家"
+    },
+    {
+     "word": "intolerance",
+     "meaning": "不容忍，偏狭",
+     "note": "get honest about intolerance, bias 诚实地面对不容忍与偏见"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Students — and adults for that matter — simply cannot understand the conflicts we have today without understanding what caused them in the first place.",
+    "analysis": "主干是“Students ... cannot understand the conflicts”：simply 加强否定语气，we have today 是省略了关系代词 that/which 的定语从句，修饰 conflicts。破折号之间的 and adults for that matter 是插入语，把主语范围从学生扩大到成年人（for that matter 意为“就此而言、同样”）。without understanding what caused them in the first place 是介词短语作条件状语，相当于 if they do not first understand what caused them；其中 what caused them 是介词 understanding 的宾语从句（用陈述语序）。理解要点：作者用双重否定（cannot ... without ...）强调“不了解冲突的起因，就无从理解当下的冲突”，为下文“帮助年轻人把美国历史与当下事件联系起来”的主张作铺垫。"
+   }
+  }
+ }
+}

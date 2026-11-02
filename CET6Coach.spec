@@ -1,0 +1,43 @@
+# -*- mode: python ; coding: utf-8 -*-
+a = Analysis(
+    ['main.py'],
+    pathex=[],
+    binaries=[],
+    datas=[
+        ('CET6Coach.ico', '.'),
+        ('content/vocabulary.json', 'content'),
+        ('content/reading.json', 'content'),
+        ('content/exams_scraped.json', 'content'),
+        ('content/writing.json', 'content'),
+        ('content/translation.json', 'content'),
+        ('content/accumulation_seed.json', 'content'),
+        ('content/analyses', 'content/analyses'),
+    ],
+    hiddenimports=[],
+    hookspath=[],
+    hooksconfig={},
+    runtime_hooks=[],
+    excludes=['pytest', 'numpy', 'pandas', 'matplotlib'],
+    noarchive=False,
+)
+pyz = PYZ(a.pure)
+exe = EXE(
+    pyz,
+    a.scripts,
+    a.binaries,
+    a.datas,
+    [],
+    name='CET6Coach',
+    debug=False,
+    bootloader_ignore_signals=False,
+    strip=False,
+    upx=False,
+    console=False,
+    disable_windowed_traceback=False,
+    argv_emulation=False,
+    target_arch=None,
+    codesign_identity=None,
+    entitlements_file=None,
+    icon=['CET6Coach.ico'],
+    version='version_info.txt',
+)

@@ -1,0 +1,437 @@
+{
+ "exam": "2024-12-2",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "空处在 cast a ... over 的框架里，需要一个名词作 cast 的宾语，构成固定搭配 cast a shadow over sth.（给……蒙上阴影）。上文说讨论令人沮丧而非富有成效，负面情绪正好为“建立共同理解的努力”投下阴影，语义完全吻合；shadow 为单数名词，符合 a ... over 的结构。",
+    "evidence": "Negative energy can then cast a {26} over your efforts to build a shared understanding.",
+    "distractors": {
+     "G": "可作名词，但 cast a halt over 搭配不成立；halt 的常见搭配是 come to a halt / bring sth. to a halt，不表示“投下、笼罩”的隐喻义。",
+     "K": "名词但语义不合：scenario 指“设想的情形、剧情”，cast a scenario over your efforts 既不成搭配，也无法表达“负面情绪遮蔽努力”的意象。",
+     "D": "词性错误：erode 是动词原形（侵蚀），不能放在 a 与 over 之间充当名词中心词。"
+    }
+   },
+   "27": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "空处与 appreciation、warm comments 并列，共同说明如何 Sprinkle in positivity，需要修饰 smiles 的形容词，表示“温情的、亲昵的”。affectionate smiles（亲昵的微笑）与 warm comments、appreciation 同属正面情绪的表达方式，语境一致。",
+    "evidence": "Sprinkling in positivity via appreciation, {27} smiles, and warm comments helps.",
+    "distractors": {
+     "E": "语义主体错位：flattered 意为“感到受宠若惊的”，描述的是人的感受，不能修饰 smiles（微笑不会“被奉承”），与并列的 warm comments 感情色彩也不搭。",
+     "O": "搭配与语义不合：vigorous 意为“有力的、精力充沛的”，多修饰动作、运动或努力（vigorous exercise），与 smiles 搭配不自然，也与本句“注入正能量”的温和语境相悖。",
+     "H": "语义方向相反：overburdened 表示“负担过重的”，与 Sprinkling in positivity 的正面语境冲突，也无法修饰 smiles。"
+    }
+   },
+   "28": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "主语 the dialogue 为第三人称单数，后接 from collaborative to adversarial，表示“从协作骤然转为对抗”，需要第三人称单数的位移动词，构成 flip from A to B（从 A 翻转成 B）。这与后文 anger erupts 的突变关系一致，也解释了 progress 随即中止。",
+    "evidence": "If the tone of a dialogue heats up and anger erupts, the dialogue {28} from collaborative to adversarial, and progress is likely to come to an immediate {29} .",
+    "distractors": {
+     "C": "主语与语义均不合：elapse 意为“（时间）流逝”，主语只能是时间；对话不会“流逝”，也无法表达“翻转成对抗”。",
+     "D": "词形与语义双重不合：主语为第三人称单数，需要 -s 形式，erode 是原形；且 erode 表“逐渐侵蚀”，与 from ... to ... 所表示的突变转折不符。",
+     "J": "语义与搭配不合：propagate 意为“传播、繁殖”，不接 from A to B 表状态转变；且此处需 propagates，词形也不符。"
+    }
+   },
+   "29": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "come to an immediate ___ 是固定搭配 come to a halt（停下来、中止），空处需名词，halt 表“停止”。与前半句“对话从协作转向对抗”的后果一致：一旦对抗，进展马上中止。",
+    "evidence": "If the tone of a dialogue heats up and anger erupts, the dialogue {28} from collaborative to adversarial, and progress is likely to come to an immediate {29} .",
+    "distractors": {
+     "K": "名词但搭配不成立：come to an immediate scenario 不是英语表达；scenario 表“情形、设想”，不含“停止”义。",
+     "F": "词性错误：flips 是动词第三人称单数，不能作 come to an immediate 之后的名词（宾语）中心词。",
+     "C": "词性错误：elapses 是动词第三人称单数（时间流逝），不能作名词；即便取“时间流逝”义，也与“进展中止”相反。"
+    }
+   },
+   "30": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "空处在主语 The silent partner 与谓语 tires of 之间，需要副词修饰谓语，表“通常、往往”。typically 表惯常情形，与下句 Usually, both would prefer more equal give and take 的频率语气一致。",
+    "evidence": "The silent partner {30} tires of only listening, while the talker can feel {31} .",
+    "distractors": {
+     "B": "副词但语义不合：approximately 表“大约”，用于修饰数量或数字，不能表示“往往、通常”的频率意义。",
+     "M": "副词但语义不合：tentatively 表“试探性地、暂时地”，修饰 tires of only listening 会变成“试探性地厌倦”，与沉默一方在失衡对话中逐渐生厌的语义不符。",
+     "O": "词性错误：vigorous 是形容词，不能修饰谓语动词 tires。"
+    }
+   },
+   "31": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "feel 后需形容词或过去分词作表语，描述说话者的感受。上文说 one participant does most of the talking，独霸发言权的一方要独自撑起对话，故 feel overburdened（感到不堪重负）。下一句 Usually, both would prefer more equal give and take 正是“双方都不满意”的佐证，故这里不是“受用”而是“负担重”。",
+    "evidence": "The silent partner {30} tires of only listening, while the talker can feel {31} .",
+    "distractors": {
+     "E": "语义方向错：flattered 表“受宠若惊、被奉承的愉快”，若说话者“受用”，就与紧接着的 Usually, both would prefer more equal give and take（双方都希望更对等）矛盾。",
+     "A": "用法错：affectionate 形容“待人亲昵、有感情的”，用于描述待人方式（如 affectionate smiles），不用于描述说话者自身“被对话压得疲惫”的状态。",
+     "O": "语义不合：vigorous 表“精力充沛的、有力的”，与“独自说太多而觉得负担重”的处境相反。"
+    }
+   },
+   "32": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "情态动词 can 后须接动词原形，空处带宾语 symmetry，表示“语速与音量的差异会侵蚀、削弱对称性”。erode 本义“侵蚀”，此处引申为渐进削弱，与后两句“说得快/大声的一方占用更多时间、说得慢/轻的一方拿不到发言机会”的渐进过程吻合。",
+    "evidence": "Different rates of speech and levels of voice volume can {32} symmetry as well.",
+    "distractors": {
+     "F": "词形与语义不合：can 后需原形，flips 是第三人称单数；且 flip symmetry 不成搭配，flip 表“翻转”，不能表“逐渐削弱”。",
+     "C": "词性/用法错：elapses 是第三人称单数且为不及物动词，主语须为时间，不能带 symmetry 作宾语。",
+     "J": "语义方向相反：propagate 意为“传播、繁殖”，与“对称性被削弱”相反；语法虽合，语义完全不合。"
+    }
+   },
+   "33": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "is more ___ 需形容词作表语，说明“表达风格更有力”，从而解释某人意见为何 carry more sway（更有分量）。vigorous 表“有力的、强劲的”，与下一句“另一观点因表达迟疑而被忽略”构成正反对照。",
+    "evidence": "One person's input may carry more sway because their style of expression is more {33} .",
+    "distractors": {
+     "A": "语义方向不对：affectionate 表“亲昵的、有感情的”，属温情维度，不能解释“意见更有分量、更有影响力”的强势效果。",
+     "H": "搭配对象错：overburdened 表“负担过重的”，只能描述人或系统承受压力，不能形容 style of expression。",
+     "M": "词性错误：tentatively 是副词，is more ___ 的位置需要形容词；且“试探性”正是下一空所描述的另一方的特征。"
+    }
+   },
+   "34": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "is expressed more ___ 需要方式副词修饰 expressed，说明某观点因表达得“迟疑、不确定”而容易被 get lost，与上一句“表达更有力者意见更有分量”形成对照。tentatively（试探性地、不确定地）正合此意。",
+    "evidence": "One viewpoint may tend to get lost because it is expressed more {34} .",
+    "distractors": {
+     "B": "副词但语义不合：approximately 表“大约”，修饰数量，不能表示“表达得迟疑不决”的方式。",
+     "O": "词性错误：vigorous 是形容词，不能修饰被动结构中的 expressed；若换成副词 vigorously 则意为“有力地”，与 get lost 的结果相反。",
+     "E": "词性错误：flattered 是形容词/过去分词，不能作 expressed 的方式状语；语义上“被奉承地表达”也不成立。"
+    }
+   },
+   "35": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "If either partner fairly consistently ___ or evaporates：主语 either partner 为第三人称单数，需要第三人称单数的不及物动词，与 or evaporates 并列，描述“始终占主导”与“悄然淡出”两种失衡模式。predominates（占主导、占优势）与 evaporates 构成强弱两极，正好概括上文“一方独霸发言权／一方沉默”的对称性失衡。",
+    "evidence": "If either partner fairly consistently {35} or evaporates, modifying the pattern will be helpful.",
+    "distractors": {
+     "C": "语义与主语不合：elapse 指时间流逝，主语须为时间，不能以 either partner 作主语表示“占主导”。",
+     "F": "语义不合：flip 表“翻转、翻过来”，不含“在对话中占上风”义，也无法与 or evaporates 构成“主导—淡出”的对立。",
+     "J": "词形与语义双重不合：主语为第三人称单数，需要 propagates；且 propagate 意为“传播”，通常带宾语，不能单独表示“一方占主导”。"
+    }
+   }
+  },
+  "passage_zh": "你有没有过这样的经历：和你在意的人讨论一件重要的事，却发现这场讨论令人沮丧，而不是富有成效？这时，负面情绪就会给你建立共同理解的种种努力蒙上一层阴影。事实上，协作式的问题解决对话是需要技巧的。出色的倾听能力必不可少。通过表示欣赏、送出亲昵的微笑、说出温暖的话语来注入正能量，会有所帮助；把你的情绪基调保持在平静区间的那种关键能力同样有用。如果对话的基调升温、怒气爆发，对话就会从协作转向对抗，进展也很可能立刻中止。此外，有效的对话通常还有另一个重要特征：对称性。对话中的对称性指的是双方说话量的平衡。你们各自都得到了同等的说话时间吗？当某一方说了绝大部分的话时，这种不对称或者说失衡，往往会让其中一方或双方感到恼火。沉默的一方通常会厌倦一味倾听，而说话的一方则可能觉得不堪重负。通常，双方都更希望有一种更对等的你来我往。说话的语速和音量高低同样会侵蚀对称性。语速更快或声音更大的一方很容易开始占用更多说话时间；语速较慢或声音较柔的一方则可能难以拿到发言机会。当一方的意见比另一方的更被看重时，对话也会失去平衡。某人的意见可能更有分量，因为他的表达风格更有力度；而另一种观点则可能因为表达得更为迟疑而容易被忽略。如果双方中任何一方总是稳定地占据主导、或总是悄然消失，那么改变这种模式会是有益的。对话会让人觉得更有成效，与此同时，双方的关系总体上也可能让人觉得更积极。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "题干说“当月亮正好位于地球与太阳之间时，我们看不到它”。E 段讲新月时我们的卫星正好停在“我们与太阳之间”（parked right between us and the sun），此时我们能看到的一面在阴影里，故 It's invisible to us during the new moon。题干 We cannot see the moon ↔ invisible to us；positioned right between the earth and the sun ↔ parked right between us and the sun，属同义改写。",
+    "evidence": "It's invisible to us during the new moon, because our satellite is parked right between us and the sun; the so-called dark side of the moon is lit up like Las Vegas, but the side we can see is in shadow."
+   },
+   "37": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "题干说火山喷发可能让月亮呈现“阴郁的蓝色”。K 段先确认 A moon can indeed take on a moody blue color，随后给出成因（颗粒大小恰好合适地散布空中），并明确 Big clouds of ash from volcanic eruptions or fires can do the trick。题干 assume a moody blue color ↔ take on a moody blue color；Volcanic eruptions may cause ↔ ash from volcanic eruptions can do the trick，是同义合并。",
+    "evidence": "A moon can indeed take on a moody blue color, but this only happens when particles of just the right size disperse through the sky—and it has nothing to do with the moon's status as \"blue\". Big clouds of ash from volcanic eruptions or fires can do the trick, but it doesn't happen often, and the stars would certainly have to align for two such rare instances to occur at once."
+   },
+   "38": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "题干说 2 月的超级月亮出现时，月球离地球最近。G 段末尾说 1 月这次之所以 super，是因为日期正合 1 月内月球离我们最近的时刻，但 the moon won't actually be at its closest for the year until February's supermoon。题干 closest to the earth ↔ at its closest；when the supermoon occurs in February ↔ until February's supermoon，同义改写。",
+    "evidence": "January's super blood wolf moon eclipse is super because the date lines up with the closest the moon will get to us during January, but the moon won't actually be at its closest for the year until February's supermoon, which you can expect plenty of undue excitement over."
+   },
+   "39": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "题干说超级血狼月没什么不寻常，也不会像血淋淋的狼头。B 段直接说 there is nothing truly mysterious or otherwise special about this moon，and it will not look like a bloody wolf head in the sky。题干 nothing unusual ↔ nothing truly mysterious or otherwise special；bear no resemblance to a bloody wolf head ↔ will not look like a bloody wolf head。",
+    "evidence": "As we'll explain below, there is nothing truly mysterious or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that."
+   },
+   "40": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "题干说当反射光穿过比平时更厚的大气层时月亮呈橙色。H 段说 The moon can also look orange whenever it's rising or setting, or if it hangs low in the horizon all night，原因是 the light bouncing off of it has to travel through a thicker atmosphere there。题干 appear orange ↔ look orange；light reflecting from it ↔ the light bouncing off of it；a thicker atmosphere 原样对应。",
+    "evidence": "The moon can also look orange whenever it's rising or setting, or if it hangs low in the horizon all night—the light bouncing off of it has to travel through a thicker atmosphere there, which scatters more blue light away."
+   },
+   "41": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "题干说“狼月”之名源自美洲印第安人文化这一说法违背逻辑。M 段先转述很多网站的说法（wolf moon 是 “Native American” cultures 中一年首次满月的传统名称，并反问美国今天就登记有 573 个部落民族），最后给出判断：The idea that ... is illogical。题干 contrary to logic ↔ is illogical；claim the name originates from the cultures of American Indians ↔ the traditional name ... in “Native American” cultures。",
+    "evidence": "The idea that hungry, howling wolves were such a universal constant in January that all of North America with its different cultures, geographies, and languages spontaneously came up with the same nickname is illogical."
+   },
+   "42": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "题干说月球轨道不是正圆，所以与地球距离变化。F 段首句为 The moon isn't always exactly the same distance from Earth, because its orbit isn't perfectly circular。题干 not a hundred-percent circle ↔ isn't perfectly circular；its distance from the earth changes ↔ isn't always exactly the same distance，逐句同义改写。",
+    "evidence": "The moon isn't always exactly the same distance from Earth, because its orbit isn't perfectly circular."
+   },
+   "43": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "题干说某月或某季的满月在不同文化中有专门名称。N 段首句 Many cultures have traditional names for the full moon in a given month or season。题干 gets a specific name ↔ have traditional names；in different cultures ↔ Many cultures；“a given month or season”原样对应。",
+    "evidence": "Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to draw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon."
+   },
+   "44": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "题干说很多人对月亮为何有规律地变大变小一无所知，却装作知道。D 段说 There are probably loads of folks who walk around pretending they totally know why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not。题干 lots of people ↔ loads of folks；act like they know ↔ pretending they totally know；know absolutely nothing ↔ but who totally do not；change its size regularly ↔ get bigger and smaller at regular intervals。",
+    "evidence": "There are probably loads of folks who walk around pretending they totally know why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not."
+   },
+   "45": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "题干说同一日历月里出现两次满月时，俗称蓝月。J 段说 a blue moon is a nickname for when two full moons fall in the same calendar month。题干 appears twice in the same month ↔ two full moons fall in the same calendar month；is nicknamed ↔ is a nickname for，完全同义。",
+    "evidence": "it's certainly special: a blue moon is a nickname for when two full moons fall in the same calendar month, and we hadn't previously had two in one year since 1999."
+   }
+  },
+  "article_zh": "A) 蓝月、玫瑰月、超级月亮。不知为什么，所有网站似乎都认定你特别想知道关于这些月亮的一切。有的标题会宣布：“别错过本周末的超级月亮，太惊艳了！”另一些则会抱怨：“超级月亮其实没什么大不了，你们都在毁了天文学。”\n\nB) 最新的例子是“超级血狼月食”——这名字听起来像一首情绪浓烈的歌，我九年级时可能会配着它跳一段现代舞；但它实际上是定于1月20日发生的一次天文现象。正如下文将要说明的，这个月亮并没有什么真正神秘或特别之处，它也不会看起来像天空中一个血淋淋的狼头或诸如此类疯狂的东西。我们把历史上用来标记一年中各次满月的所有限定词全都拼在一起，就得到了这些“超级”月相事件；而在互联网时代，我们会变得有点过于兴奋。\n\nC) 请把本文当作你了解一切观月新闻的常备资料。以下是关于最新这次月相事件你需要知道的事情。\n\nD) 听着，不知道也没关系。大概有很多人四处走动时装作完全明白天上那个东西为什么会有规律地变大变小，其实他们根本不知道。\n\nE) 月球绕地球公转，并且被潮汐锁定——这意味着它总是向我们展示同一面，而不像我们地球这样自转。这就是为什么即使它绕着我们转，你也总能看到月亮上那张“人脸”（或者按你的文化偏好，是月兔）。不过，月亮在满月时又大又亮，只是因为它反射太阳的光。月亮一直在运动，所以它被阳光照射的角度不断变化。在新月时我们看不到它，因为我们的卫星正好停在地球和太阳之间；所谓月球的“暗面”其实亮得像拉斯维加斯的灯火，而我们能看到的那一面正处于阴影中。满月发生在太阳、地球、月球排成一线且地球位于太阳与月球之间时，阳光照在我们能看到的那一面，于是月圆。其他所有月相都只是在这两个极端之间过渡。\n\nF) 月球与地球的距离并不总是完全相同，因为它的轨道并非完美的圆形。我们把最近点称为近地点（perigee），最远点称为远地点（apogee）。2018年最近的近地点和最远的远地点都出现在1月，两者相差约3万英里。\n\nG) 你在意这个平常的距离变化，是因为它能让月亮变得“超级”。当满月出现在接近近地点时，它看起来会稍大一些。说实话，差别并不那么显著；但如果你有条件把超级月亮和能显示出这一点点尺寸增加的东西拍在一起，效果还是相当酷的。1月的超级血狼月食之所以“超级”，是因为日期正好落在1月月球离我们最近的时候；但月球今年离我们最近的时刻其实要等到2月的超级月亮，你可以预料到那又会引来大量过度的兴奋。\n\nH) 血月只出现在月全食期间（在任一地点，一年可能出现几次）。当月球滑过地球的阴影时，我们就会给它染上一层红色。月亮在升起或落下时，或整夜低悬在地平线上时，也可能看起来是橙色——从它反射过来的光在那里要穿过更厚的大气层，这会散射掉更多蓝光。但那种深沉、不祥的红色，你大概只能在月食时看到。\n\nI) 很多关于月亮的标题纯属胡闹（你并不需要为一次蓝月特别激动，它看起来就是一次普通的满月），但如果你的地区能看到血月，那你确实该从床上爬起来去看，尽管它们不过是月食，并不是天空诸神之间血战的证据。\n\nJ) 2018年3月，我们迎来了那年的第二次“蓝月”，广受称颂。虽然这并不一定属于“天哪快出门看看”那种特别，但它确实特别：蓝月是同一个日历月里出现两次满月时的俗称，而自1999年以来我们还没在一年里遇到过两次。直到2037年才会再发生。天文学家戴维·查普曼解释说，这不过是我们历法的一种怪癖；自从我们不再按月亮行事、而开始按太阳和季节来安排生活之后，我们就不再能每月稳定地有一次满月了。月相周期平均为29.53天，所以大多数月份我们仍然会有一个新月和一个满月。但每隔一段时间，某个月就会从另一个月那里“偷”走一次满月。2018年（以及1999年，还有2037年），1月和3月都在月初和月末各有一次满月，让2月陷入了黑暗。\n\nK) 一年出现两次蓝月很罕见，但单个蓝月每隔几年就会有一次。另外，有趣的事实是：它其实并不是蓝色的。月亮确实可能呈现出一种阴郁的蓝色，但这只有在大小恰好合适的颗粒散布在空中时才会发生——而且这与月亮是不是“蓝”月毫无关系。火山喷发或大火产生的大片灰云可以做到这一点，但这并不常发生，而要让两次如此罕见的情形同时出现，星星们真的得排得恰到好处。\n\nL) 你也许听说过，2018年那次格外特殊的第二次蓝月还是一次“逾越节月”（Paschal moon）。这是真的！那只是说它是春季的第一次满月，而这一次满月常被用来确定复活节的日期。这些都是历法上的无稽之谈，我们不愿再深入。\n\nM) 有时你会看到一个标题，堆砌的限定词多到让你头晕。也许是“超级蓝血蠕虫月”？或者是“超级血狼月”？很多网站会告诉你，“狼月”是“美洲原住民”文化中一年里第一次满月的传统名称；这种说法颇为奇怪，因为仅今天美国就有573个登记在册的部落民族，更不用说历史上。认为饥饿嚎叫的狼在1月是如此普遍的常态，以至整个北美——拥有不同文化、地理和语言——会不约而同地想出同一个绰号，这不合逻辑。\n\nN) 许多文化对某个月份或某个季节的满月都有传统名称，所以如果你想把一篇关于“月亮看起来比平时稍大”的报道大肆渲染一番，可用的名单相当长。但这些名称都基于人类的历法、活动和民间传说；你在4月走到户外，并不会看到一轮粉色的月亮——虽然我真希望如此。"
+ },
+ "careful": {
+  "2024-12-2-careful-1": {
+   "passage_zh": "随着人口增长和全球城市化不断加速，大量注意力集中在城市的可持续性上，而对乡村的关注却少得可怜。\n\n乡村生活让人联想到紧密相连的社群、归属感以及朴素宁静的生活。然而，尽管其中某些或全部要素确实存在于乡村，保守与就业机会匮乏也同样存在。而乡村社群之所以陷入困境，主要是由于后者。受城市地区更佳经济状况吸引，世界各地的乡下人纷纷迁出，这加剧了人口稠密城市的过度拥挤，也让乡村陷入荒凉。\n\n那么，面对这些变化，乡村该如何确保自身的存续？或者说，它是否应该存续？由于住所与设施之间距离遥远，加上公共交通常常时断时续，住在乡村的人更多依赖汽车出行。乡村居民维持其大多为独立式住宅的建筑也要消耗更多能源。我们或许在城市里像箱子一样堆叠而居，但这带来了乡村无法企及的能源效率。乡村的能源需求导致人均碳排放高于城市，因此赞同这样一种生活方式其实是不负责任的。\n\n保护乡村是个热门话题。那些在城市里发家致富的人常在乡间购置第二套住房，隔三差五去住一住，以便“体验”一下所谓简单的生活。其副作用是，需求增加推高了房价，使本地人无力承担。这一难题至今尚无解决办法，因为市场力量正进一步把居民挤出乡村。对那些相信乡村保护的人来说，这令人痛惜。\n\n虽然理想化的乡村图景很普遍，但现实是乡村生活一直在演变。工业化带来了劳动分工的增加，改变了乡村人之间的社会联系。互联网把昔日异域的文化带进了乡村。交通联系与负担能力的改善使世界更加通达，造就了一个“地球村”。考虑到这些变化，乡村的演变无疑是必然的。\n\n也许乡村还应为未来大幅的人口增长做好准备。随着世界各地城市迅速扩张，当前这一代城市人将如何应对大规模城市化的必然社会变化？对更简单生活的向往会变得更强烈，从而推动一场乡村复兴吗？\n\n随着世界持续城市化，呼吁保护乡村的声音很可能会更加响亮。但变化是必然的。我们知道世界上会从尘土中崛起新的城市，现有城市会成长为巨城；而乡村的未来却没那么清楚。",
+   "questions": {
+    "46": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "Attracted by the improved economics of urban areas, country-dwellers across the world are moving out, contributing to the excessive crowdedness of densely populated cities, and leaving the countryside in desolation.",
+     "explanation": "第2段指出，受城市更佳经济状况吸引，乡下人纷纷迁出，结果是城市更拥挤、乡村 leaving the countryside in desolation（陷入荒凉）。题干问“乡村如今变成了什么样”，desolation 正是“荒凉、荒废”，与 Somewhat deserted 同义，故选 A。",
+     "distractors": {
+      "B": "偷换主体：原文的 urbanisation 指“全球城市化带来的压力”（第1段），被城市化的是城市而非乡村；乡村是因为人口外流而荒凉，并非自身被城市化。",
+      "C": "张冠李戴：closely-knit communities 是第2段开头所说的“乡村生活给人的联想”（Rural life is associated with...），属于对乡村的固有印象，而不是题干所问的“当下实际变成了什么样”；该段随即用 yet 转折指出还有保守与就业不足。",
+      "D": "以偏概全：conservatism 只是作者让步时提到的乡村“也存在”的一面（Yet whilst ... so do conservatism...），且原文用 yet/so do 结构把重心落在就业机会匮乏导致人口外流上；haunted（被……困扰）的程度和词义也无原文依据。"
+     }
+    },
+    "47": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "Rural energy requirements result in higher carbon emissions per person than in the city, so it is actually irresponsible to endorse such a lifestyle choice.",
+     "explanation": "第3段说城市里“像箱子一样堆叠”反而带来乡村无法企及的能源效率（this brings energy efficiency that the countryside cannot match），乡村的能源需求使人均碳排放高于城市，因此赞同这种生活方式是不负责任的。作者对乡村生活方式的评价正是“相对低能效”，故选 B。",
+     "distractors": {
+      "A": "无中生有且语气过强：第3段开头虽有“乡村如何确保存续”的设问，但那只是引出讨论；作者在第5段明确说 an evolving countryside is inevitable（乡村会演变），并未断言乡村生活方式难以存续，survive≠存续与否的断言。",
+      "C": "程度夸大且答非所问：原文只说乡村居民是 heavier automobile users（更多用车），并未说“高度依赖”；更关键的是“多用汽车”是作者列举的成因之一，作者对这一生活方式的评价落在能源效率与碳排放上。",
+      "D": "张冠李戴：第4段的“富裕城里人买第二居所”是作者批评的做法（房价上涨、本地人买不起），作者称之为 irresponsible/deplorable，并非“较富裕的人会认可这种生活方式”的正面判断。"
+     }
+    },
+    "48": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "A solution has yet to be found for this challenge, for market forces are further forcing residents out of the countryside. For those who believe in rural preservation, this is deplorable.",
+     "explanation": "第4段说富人买乡间第二居所推高房价、本地人买不起，市场力量进一步把居民挤出乡村，并明确表态：对那些相信乡村保护的人来说，这令人痛惜（deplorable）。题干问作者怎么看，答案落在“不利于乡村保护”，故选 D。",
+     "distractors": {
+      "A": "偷换落点且语气过强：传统乡村生活受冲击对应第5段“乡村一直在演变”（工业化、互联网），而买第二居所的直接后果原文点明为推高房价、把居民挤出，并非“必然破坏传统乡村生活”；bound to 也过强。",
+      "B": "无中生有：原文只谈房价上涨、本地人无力承担、居民被市场力量挤出，从未提到“社会稳定”这一维度。",
+      "C": "无中生有：原文没有“经济振兴”的表述，这类购房反而带来需求与房价上涨的压力，作者的批评角度是乡村保护而非经济振兴。"
+     }
+    },
+    "49": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "Considering these changes, surely an evolving countryside is inevitable.",
+     "explanation": "第5段列举工业化带来的劳动分工变化、互联网带入外来文化、交通与负担能力改善造就“地球村”，最后总结：考虑到这些变化，乡村的演变无疑是必然的。题干问工业化与技术进步的背景下乡村如何，答案即“注定会（逐渐）改变”，故选 A。",
+     "distractors": {
+      "B": "与原文相反：第5段开头说理想化的乡村观很常见，但现实的乡村一直在演变（an idealised view ... while the reality is），idealised 正是被作者指为与 reality 不符的看法。",
+      "C": "范围过窄且方向偏差：原文只说互联网把外来文化“带入”乡村（introduced once foreign cultures into the countryside），是被动传入，并非乡村主动 embrace；且这只是全段三个例证之一。",
+      "D": "无中生有：原文讲的是劳动分工增加带来的社会联系变化、文化传入与出行便利，没有“日益多样化”的概括，段末结论落在演变必然性上。"
+     }
+    },
+    "50": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "We know that the world is going to see new cities emerging from the dust and current cities growing into megacities, but the future of the countryside is less clear.",
+     "explanation": "末段把城市与乡村的未来并置：城市会新建、会成长为巨城（前景明确），而乡村的未来 less clear（较不明朗）。题干问“与城市相比作者如何看待乡村的未来”，less clear 即“更难预料”，故选 D。",
+     "distractors": {
+      "A": "张冠李戴：本地人处境更难（房价被推高、买不起）是第4段谈第二居所时的内容，不是作者对乡村未来的预测。",
+      "B": "无中生有：原文涉及“相似”的只有未来乡村复兴与城市增长并列出现的可能，从未说乡村的未来会像城市那样。",
+      "C": "答非所问且比较对象丢失：末段确有 change is inevitable，但题干问的是“与城市相比”，原文的对照是城市前景可知、乡村前景 less clear；C 丢了比较关系，且“less likely to stay static”并非原文措辞。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "scarce",
+     "meaning": "稀少的，不足的",
+     "note": "scarce attention is paid to the countryside 对乡村的关注少得可怜；与 abundant 相对"
+    },
+    {
+     "word": "closely-knit",
+     "meaning": "（关系）紧密的",
+     "note": "closely-knit communities 关系紧密的社群；第46题所在段落的固有印象"
+    },
+    {
+     "word": "desolation",
+     "meaning": "荒凉，荒芜；荒废",
+     "note": "leaving the countryside in desolation 让乡村陷入荒凉；第46题答案依据"
+    },
+    {
+     "word": "intermittent",
+     "meaning": "间歇的，断断续续的",
+     "note": "intermittent public transport 时断时续的公共交通"
+    },
+    {
+     "word": "detached",
+     "meaning": "（房屋）独立式的，不与邻屋相连的",
+     "note": "mostly detached buildings 大多是独立式住宅；英式常见说法"
+    },
+    {
+     "word": "endorse",
+     "meaning": "赞同，支持，认可",
+     "note": "irresponsible to endorse such a lifestyle choice 赞同这种生活方式是不负责任的；第47题评价的落点"
+    },
+    {
+     "word": "deplorable",
+     "meaning": "令人痛惜的，应受谴责的",
+     "note": "For those who believe in rural preservation, this is deplorable 对信乡村保护的人来说这令人痛惜；第48题答案依据"
+    },
+    {
+     "word": "renaissance",
+     "meaning": "复兴，再生",
+     "note": "fueling a rural renaissance 推动乡村复兴；与 the Renaissance 文艺复兴同形"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Attracted by the improved economics of urban areas, country-dwellers across the world are moving out, contributing to the excessive crowdedness of densely populated cities, and leaving the countryside in desolation.",
+    "analysis": "主干：country-dwellers ... are moving out（乡下人正在迁出）。句首 Attracted by the improved economics of urban areas 是过去分词短语作原因状语，其逻辑主语就是主句主语 country-dwellers（“受城市更佳经济状况吸引”）。后面 contributing to ... 与 leaving ... 是两个并列的现在分词短语作结果状语，说明“迁出”造成的双重后果：一方面加剧城市的过度拥挤（contributing to the excessive crowdedness of densely populated cities），另一方面让乡村陷入荒凉（leaving the countryside in desolation）。三个分词短语共同构成“原因—动作—结果”的链条，也正是第46题“乡村变得荒凉”的依据。"
+   }
+  },
+  "2024-12-2-careful-2": {
+   "passage_zh": "像“美在观者眼中”这样的说法很少受到质疑。它们已深深嵌入我们的意识，以至于人们认为持不同看法是荒谬的。然而，至少对这样一个假设提出一点质疑也许是有益的，因为人们会从审美角度评价环境、情境和人。我们可能会发现我们仍然相信它是正确的，但也可能会发现情况比我们设想的要复杂得多。\n\n《认知》（Cognition）杂志最近发表了一项探讨审美品味的研究。结果显示，人们在自然物的审美评价上高度一致，但对人工制品（即人造物）的分歧更大。\n\n研究发现，共同品味在面孔和自然景观上最为普遍，在建筑和艺术作品中最不普遍。其假设是，比例或对称这类普遍讨人喜欢的特征在起作用。\n\n对自然景观的偏好可能是通过生活经验习得的。人们在成长过程中可能更偏爱宜居性、安全性和开阔性等因素。景观的某些细节会变化，但基本要素更为共通，例如水、开阔的空间以及被人照料过的痕迹。\n\n艺术和建筑与自然空间不同，它们没有同等的接触机会。因此，人们在它们身上没有同等程度的共同品味。\n\n共享品味在人造制品上一致性较低，其原因可能更多与风格要素有关，而不是“行为后果”。\n\n所有这些推论似乎都合理（至少是可能的），但我认为可能还有一个他们没有得出的有趣的哲学结论。看来我们的审美偏好或审美评价是有客观基础的。我并不是说这意味着美是完全客观的，只是说可能存在某些普遍的客观原则在起作用，也就是说，美并不完全存在于观者的眼中。\n\n自然以共通的方式在世界各地呈现出某些普遍的审美特征，比如光辉。它在各地并不完全相同，但却是共通的。例如，不同地方的日落都足够相似，因此几乎具有普遍的吸引力。\n\n可能存在的普遍审美原则——如比例、适切、光辉等等——都是笼统的类别，它们允许各种各样的具体体现。当人们参与制作建筑或艺术中的人造制品时，他们以独特的方式运用这些非常笼统的概念。但他们运用原则的方式可能并不具有普遍吸引力。\n\n这就是为什么体验不同文化及其人造制品很重要，因为它让我们接触到接近或建构美的不同方式。而且，质疑我们的假设总是好的。",
+   "questions": {
+    "51": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "Statements, like \"beauty is in the eye of the beholder(观看者)\", are rarely questioned.",
+     "explanation": "第1段首句说，像“美在观者眼中”这样的说法 are rarely questioned（很少受到质疑），并补充它已深深嵌入我们的意识、人们认为持不同看法是荒谬的。题干问文章对这种说法说了什么，rarely questioned 即“几乎从未被质疑”，故选 A。",
+     "distractors": {
+      "B": "偷换概念：原文的 aesthetically 指“人们会从审美角度评价环境、情境和人”，不是说这句俗语本身可以被“从审美角度解读”。",
+      "C": "主体颠倒：原文说人们认为 think otherwise 才是 absurd（换一种想法才荒唐），即怀疑该说法的人被视为荒谬，而不是“很多人觉得这句话荒谬”。",
+      "D": "无中生有：原文只说它成了共识、很少被质疑，并提议至少可以提出质疑（push back on this assumption），从未说人们“长期被它误导”。"
+     }
+    },
+    "52": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.",
+     "explanation": "第2段给出研究结论：人们对自然物的审美评价高度一致（agree very much），但对人工制品（artifacts / human-made objects）分歧更大（disagree more）。题干问研究说明了什么，C 的 less consensus on objects shaped by human craft 正是 disagree more about artifacts 的同义改写，故选 C。",
+     "distractors": {
+      "A": "以偏概全：研究恰恰发现人们对自然物的审美高度一致（shared taste），分歧集中在人造物上，不能概括为“审美因人而异”。",
+      "B": "偷换概念：研究比较的是评价的一致程度（agree / disagree），不是自然美与人造美的优劣高低，原文没有这类价值排序。",
+      "D": "范围过宽：一致只体现在面孔与自然景观上，对建筑与艺术作品一致性最低，研究明确指出人工制品上分歧更大，故“总体一致”的概括不成立。"
+     }
+    },
+    "53": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "Art and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have the same level of shared taste.",
+     "explanation": "第5段解释人造物审美分歧的原因：艺术与建筑不同于自然空间，它们没有同等的接触机会（do not have the same level of exposure），因此人们的共同品味也没那么一致。题干 come into people's view less often 正是 exposure（曝光、接触）较低的同义改写，故选 D。",
+     "distractors": {
+      "A": "张冠李戴：设计样式繁多属第9段“普遍审美原则可有多种具体体现”的内容，原文并没有把“样式多”当作人造物审美分歧的原因。",
+      "B": "反向误读：第6段说的恰是“人造物共同品味较低可能更多与风格要素有关，而不是 behavioral consequences”，B 把被排除的解释当成了原因。",
+      "C": "偷换概念：原文的 natural spaces / exposure 指与自然的接触量，不是“占地空间大小”，与面积对比无关。"
+     }
+    },
+    "54": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world.",
+     "explanation": "第8段说自然以共通的方式（in a common way）在全世界呈现出某些普遍的审美特征（如光辉），并以日落为例：不同地方的日落足够相似，因此几乎具有普遍吸引力。题干 displays aesthetic traits in a similar way the world over 正是 in a common way throughout the world 的同义改写，故选 B。",
+     "distractors": {
+      "A": "以偏概全：radiance 只是文中列举的普遍审美特征之一，本句重心是“以共通方式呈现于世界各地”，把 radiance 夸大为唯一机制不成立。",
+      "C": "张冠李戴：a wide array of embodiments 出自第9段谈“普遍原则允许各种具体体现（尤其是人造物）”，不是落日之例要说明的内容。",
+      "D": "主体与逻辑错：提出并运用普遍审美原则的是人（making artifacts 时 apply these very general concepts），自然是“呈现”这些特征，而非“确立原则”。"
+     }
+    },
+    "55": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "When people get involved in making artifacts in architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal.",
+     "explanation": "第9段说普遍审美原则只是笼统类别，允许各种体现方式；人们制作人造物时以独特方式运用这些概念，但“他们运用原则的方式可能并不具有普遍吸引力”（may not have universal appeal）。题干问人造物为何不总具普遍吸引力，C 的 the way their creators apply the principle may not be pleasing to everybody 正是该句的同义改写，故选 C。",
+     "distractors": {
+      "A": "与作者立场相反：第7段明确说我们的审美偏好有客观基础（there is an objective ground to our aesthetic preferences），作者并不认为审美完全主观，故“不受客观标准约束”不对。",
+      "B": "与原文相反：第9段说普遍原则 are general categories, which allow for a wide array of embodiments（允许而非阻止多样体现）。",
+      "D": "偷换落点：原文说的是创作者以 unique ways “运用（apply）”这些笼统概念，其结果可能没有普遍吸引力；D 改成“各按自己偏好解释原则”，回避了原文的落点（运用方式不同→接受度不同），也没点出 universal appeal 的缺失。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "beholder",
+     "meaning": "观看者，观察者",
+     "note": "beauty is in the eye of the beholder 美在观者眼中；behold 意为“看、注视”"
+    },
+    {
+     "word": "embedded",
+     "meaning": "深植于，嵌入的",
+     "note": "embedded in our consciousness 深植于我们的意识之中"
+    },
+    {
+     "word": "push back on",
+     "meaning": "对……提出质疑，反驳",
+     "note": "push back on this assumption 对这个假设提出质疑；第51题所在段落"
+    },
+    {
+     "word": "artifact",
+     "meaning": "人工制品，人造物",
+     "note": "artifacts, or human-made objects 人工制品，即人造物；与 natural objects 相对，第52题核心词"
+    },
+    {
+     "word": "symmetry",
+     "meaning": "对称（性）",
+     "note": "proportion or symmetry 比例或对称；被认为是普遍讨喜的特征"
+    },
+    {
+     "word": "habitability",
+     "meaning": "宜居性",
+     "note": "habitability, safety, and openness 宜居性、安全性与开阔性；形容词 habitable"
+    },
+    {
+     "word": "radiance",
+     "meaning": "光辉，光亮；容光焕发",
+     "note": "universal aesthetic features, such as radiance 诸如光辉这样的普遍审美特征；第54题依据"
+    },
+    {
+     "word": "embodiment",
+     "meaning": "体现，具体表现",
+     "note": "allow for a wide array of embodiments 允许各种各样的体现；动词 embody"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Possible universal principles of beauty—such as proportion, fittingness, radiance, and others—are general categories, which allow for a wide array of embodiments.",
+    "analysis": "主干：Possible universal principles of beauty ... are general categories（可能存在的普遍审美原则是笼统的类别）。两个破折号之间的 such as proportion, fittingness, radiance, and others 是对主语 principles of beauty 的举例说明，属于插入成分，去掉后句子结构完整。逗号后 which allow for a wide array of embodiments 是非限制性定语从句，先行词为 general categories（不是 principles），说明“正因为这些原则只是笼统类别，才容许各式各样的具体体现”。这一让步性表述为第55题埋下伏笔：原则普遍，但具体运用方式多种多样，因而人造物的美未必人人认同。"
+   }
+  }
+ }
+}

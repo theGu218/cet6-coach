@@ -1,0 +1,437 @@
+{
+ "exam": "2024-12-3",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "空格前是 infant，后接 rate，需要一个能与 rate 构成固定医学统计搭配的名词。infant mortality rate（婴儿死亡率）是固定短语，与前面的 a low life expectancy（预期寿命低）并列，共同描述发展中国家的健康状况。",
+    "evidence": "In developing countries there is a low life expectancy, a high infant {26} rate, high levels of unemployment and illiteracy, nutritional levels below acceptable standards and widespread disease with very little or poor quality medical assistance.",
+    "distractors": {
+     "B": "搭配不成立且语义偏离：casualty 指事故或战争中的“伤亡人员、死伤者”，是可数的个体，infant casualty 指“婴儿伤亡个案”，并不构成 infant casualty rate 这一固定统计术语，也不表示“死亡率”。",
+     "D": "语义不成立：extent 表“程度、范围”（如 to some extent），infant extent rate 无法构成有意义的搭配，与“率”的统计含义无关。",
+     "K": "词性可放但语义不通：overt 是形容词，意为“公开的、不加掩饰的”（overt hostility），修饰 rate 只能得到“公开的婴儿比率”，与句中描述贫困与疾病的语境完全不符。"
+    }
+   },
+   "27": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "空格位于形容词 wealthy 之前，需要一个能修饰形容词的副词来表示程度之高。incredibly 意为“极其、难以置信地”，incredibly wealthy and luxurious lives 即“极其富有、奢华的生活”，与前半段对贫困的描写形成两极对照。",
+    "evidence": "Others live {27} wealthy and luxurious lives and so the wealth is distributed in a very {28} manner.",
+    "distractors": {
+     "N": "语义方向错误：sceptically 意为“怀疑地”，修饰的是人对某事的态度；此处描述的是他人生活富裕的程度，不是“怀疑地生活”。",
+     "G": "词性错误：immediate 是形容词，不能修饰另一个形容词 wealthy，副词位置必须用副词。",
+     "L": "词性错误：praiseworthy 是形容词“值得称赞的”，不能作副词修饰 wealthy。"
+    }
+   },
+   "28": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "空格修饰名词 manner，需要形容词，并与前半句“有人极度富有、有人极度贫困”呼应。unequal 意为“不平等的、不均等的”，distributed in a very unequal manner 即“以极不均等的方式分配”，强调贫富悬殊。",
+    "evidence": "Others live {27} wealthy and luxurious lives and so the wealth is distributed in a very {28} manner.",
+    "distractors": {
+     "K": "语义偏差：overt 意为“公开的、不掩饰的”，in an overt manner 只说明“不加掩饰”，不能表达分配上的“不均等”，也不是本句要说的贫富悬殊。",
+     "M": "词性错误：probe 是动词/名词“探究、探查”，不能修饰名词 manner。",
+     "B": "词性错误：casualty 是名词“伤亡人员”，不能修饰 manner，且与“财富分配方式”语义毫无关系。"
+    }
+   },
+   "29": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "空格需要一个与主语 We all 搭配的动词，后接 when 从句说明引发这种反应的情形。applaud 意为“赞赏、鼓掌欢迎”，We all applaud when very rich people pledge to give away most of their billions 即“当巨富承诺捐出大部分财产时我们都会叫好”，与 but they are usually left with millions 的转折构成对比。",
+    "evidence": "We all {29} when very rich people pledge to give away most of their billions, but they are usually left with millions to pass on, still much more than most people would expect to earn in their lifetime.",
+    "distractors": {
+     "M": "语义不搭配：probe 意为“探究、盘问”，probe 后通常接被探究的对象，不能直接接 when 从句表示“对捐赠承诺的反应”。",
+     "C": "语义方向相反：exclude 意为“排除、不包括”，与句中“我们全都……（叫好）”这一正面反应正好相反。",
+     "E": "搭配不成立：group 作动词意为“把……归类、聚集”，必须带宾语，不能单独接 when 引导的时间状语从句表示态度。"
+    }
+   },
+   "30": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "空格修饰 salaries，需要形容词，并与后面的 very high when compared globally 构成“即便……也……”的让步关系。moderate 意为“中等的、适度的”，comparatively moderate salaries 指“相对而言不算高的薪水”，全句意为：即便西方中等水平的薪水，放到全球比较也非常高。",
+    "evidence": "Even comparatively {30} salaries in the west are very high when compared globally.",
+    "distractors": {
+     "J": "词性错误：mortality 是名词“死亡率、必死性”，不能修饰名词 salaries。",
+     "G": "语义不成立：immediate 意为“立即的、直接的”，immediate salaries 无法表示薪水水平的高低。",
+     "F": "语义偏差：hierarchical 指“按等级划分的、等级制的”，与之比较的是薪金在全球范围内的水平高低，不是薪金的等级结构。"
+    }
+   },
+   "31": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "空格在 is morally 之后作表语，需要形容词，表示对“捐给慈善”这一行为的道德评价。praiseworthy 意为“值得称赞的”，与后半句 but charitable behaviour tends to be regarded as above and beyond the call of duty 构成对照：它值得称赞，却不被视为必须履行的义务。",
+    "evidence": "Most people agree that giving to charity is morally {31} but charitable behaviour tends to be regarded as above and beyond the call of duty.",
+    "distractors": {
+     "A": "词性错误：applaud 是动词，不能作 is morally ... 这一结构中的形容词表语。",
+     "D": "词性错误：extent 是名词“程度、范围”，不能作表语形容词，也无法表达道德评价。",
+     "E": "词性错误：group 是名词/动词，既不能作表语形容词，也不能表示“值得称赞”。"
+    }
+   },
+   "32": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "空格修饰 community，需要形容词，与 one's 连用表示“自己所在的、身边的社区”。immediate 除“立即的”之外还有“最接近的、直接的”之义，one's immediate community 即“自己身边的社区”，与前面 giving aid to poorer nations（对外援助）形成“远/近”的对照。",
+    "evidence": "The majority of arguments in this vein refer to giving aid to poorer nations but they may also refer to giving time within one's {32} community.",
+    "distractors": {
+     "F": "语义不符：hierarchical 指“等级制的”，修饰 community 只能表示“等级化的社区”，不能表达“自己身边的社区”。",
+     "K": "语义不符：overt 意为“公开的、不掩饰的”，无法表达空间上的“就近、身边”。",
+     "B": "词性错误：casualty 是名词“伤亡人员”，不能修饰名词 community。"
+    }
+   },
+   "33": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "空格需要一个及物动词，后接宾语 people who are merely making ends meet，并与前一分句 place different requirements on people in different income brackets 构成递进：不仅区别对待，还把这些仅能维持生计的人完全“排除”在外。exclude 意为“排除、不包括”，与 entirely 搭配自然。",
+    "evidence": "Arguments tend to place different requirements on people in different income brackets and {33} entirely people who are merely making ends meet.",
+    "distractors": {
+     "M": "语义不搭配：probe 意为“探究、追问”，与“把某类人排除在道德要求之外”的意思不符，probe entirely people 的结构也不成立。",
+     "E": "语义相反：group 作动词意为“归类、聚集”，与后半句“完全排除在外”的方向相反。",
+     "A": "语义相反：applaud 意为“称赞、叫好”，而本句说的是对这些人不提要求、将其排除。"
+    }
+   },
+   "34": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "空格与后置的 together 构成短语动词，再接宾语 all those arguments，表示“把这些论证汇总到一起”。group together 是固定搭配，意为“归并、汇集”，与句末 despite the fact that there is wide disagreement 的让步语气相衔接。",
+    "evidence": "I will {34} together all those arguments that place a moral requirement on people to give to charity, despite the fact that there is wide disagreement as to the {35} of that moral requirement.",
+    "distractors": {
+     "M": "搭配不成立：probe 不与 together 构成短语动词，probe together 无此用法。",
+     "A": "搭配不成立：applaud 不能与 together 搭配表示“汇总论证”。",
+     "C": "语义方向相反：本句是要把这些论证“汇集”起来统一讨论，exclude（排除）方向完全相反。"
+    }
+   },
+   "35": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "空格在 the ... of that moral requirement 结构中作中心名词，说明对“这一道德要求”的分歧在于其“程度”。extent 意为“程度、限度”，the extent of that moral requirement 即“该道德要求的程度”，与 wide disagreement as to（关于……存在广泛分歧）搭配自然。",
+    "evidence": "I will {34} together all those arguments that place a moral requirement on people to give to charity, despite the fact that there is wide disagreement as to the {35} of that moral requirement.",
+    "distractors": {
+     "B": "语义不通：casualty 指“伤亡人员、牺牲品”，the casualty of that moral requirement 无法表达“道德要求的程度”。",
+     "K": "词性错误：overt 是形容词，不能充当 the ... of 结构的中心名词。",
+     "M": "语义偏差：probe 作名词指“探究、调查”，the probe of that moral requirement 意为“对该道德要求的探究”，而此处谈的是要求本身的分量、程度。"
+    }
+   }
+  },
+  "passage_zh": "全球约 23% 的人口生活在绝对贫困之中。在发展中国家，人的预期寿命很短，婴儿死亡率很高，失业率和文盲率居高不下，营养水平低于可接受的标准，疾病流行而医疗救助极少或质量很差。另一些人却过着极其富裕奢华的生活，因此财富的分配极为不均。这些是慈善问题中的核心问题，不过慈善还包括许多其他领域，比如帮助老年人。当非常富有的人承诺捐出他们的大部分财产时，我们都会鼓掌叫好，但他们通常还会留下数百万传给后人，这仍然远远超过大多数人一生所能期望挣到的钱。即使是西方相对中等的薪水，放在全球范围内比较也是非常高的。一个年薪两万英镑的人完全负担得起每年捐出两千英镑，之后仍有余钱生活，甚至还能享受一些奢侈品。多数人同意，捐给慈善机构在道德上值得称赞，但慈善行为往往被视为超出职责要求之外的行为。然而也有人主张，慈善行为是道德上必需的。这意味着不施善行就是错的。这类观点中的大多数论及向较贫穷的国家提供援助，但也可能涉及在自己身边的社区里付出时间。这些论证往往对不同收入阶层的人提出不同要求，而把那些仅仅勉强维持生计的人完全排除在外。也有人主张，人人都应按自己收入的一定比例做出贡献。我将把所有那些要求人们有道德义务向慈善机构捐款的论证汇总起来，尽管对于这一道德义务的程度存在广泛分歧。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "G 段写现代世界劳动分工扩展，每个人都越来越依赖他人满足基本需要，紧接着又说我们反而觉得自己越来越彼此独立。题干 People became more and more reliant on others for basic needs ... even though they might feel less so 正是这两句的合并改写：became more and more dependent on others ↔ became more and more reliant on others；we feel ourselves to be more and more independent ↔ even though they might feel less so。",
+    "evidence": "Each person became more and more dependent on others for their basic needs. And yet, robbed of the engagement with our neighbors and with our local communities that our ancestors were forced into by circumstance, we feel ourselves to be more and more independent of one another."
+   },
+   "37": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "C 段说贸易这一议题让自由主义者和民粹主义者有机会真正达成共识，富有成果的辩论或许真能发生，而不是我们习惯了的那套“谴责换来反谴责”的仪式。题干 productive debates might be possible ↔ Fruitful debates might actually take place；the familiar mutual condemnation in discussing other issues ↔ the familiar ritual ... of condemnation met with counter-condemnation。",
+    "evidence": "Fruitful debates might actually take place in this area, as opposed to the familiar ritual we've become accustomed to of condemnation met with counter-condemnation."
+   },
+   "38": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "I 段解释第一个原因就是金钱：金钱使我们不必把人当人看就能买到他人的劳动，交易之前不必建立任何关系，因此金钱使我们感到自己比实际上更加独立。题干 We feel greater independence than we actually possess ↔ money makes us feel more independent than we actually are；buy things without building any relationships ↔ No relationship has to be built before an exchange can take place。",
+    "evidence": "No relationship has to be built before an exchange can take place. Simply agree on a price, and you can have any goods you wish without taking a second thought for the human being involved on the other side of the transaction. In this way, money makes us feel more independent than we actually are."
+   },
+   "39": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "D 段开门见山地指出：现代世界贸易的问题并不是金钱的问题（isn't a matter of dollars and cents），而是虚假意识的问题（a matter of false consciousness）。题干 The trouble with today's trade ↔ the problem with trade in the modern world；stems from misconceptions rather than money ↔ isn't a matter of dollars and cents ... It's a matter of false consciousness。",
+    "evidence": "Strange as it might sound, the problem with trade in the modern world isn't a matter of dollars and cents. It's a matter of false consciousness."
+   },
+   "40": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "M 段结论句提出自由贸易者未来取胜的条件：他们必须设法在美国消费者与外国生产者之间建立情感纽带。题干 advocates of free trade must try to forge bonds of affection between consumers at home and producers overseas 与之一一对应；For their arguments to prevail ↔ If free-traders are going to win policy arguments in the future。",
+    "evidence": "If free-traders are going to win policy arguments in the future, they'll have to find a way of forging bonds of affection between American consumers and foreign producers."
+   },
+   "41": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "J 段讲匿名性是第二个根源：与托克维尔用来作比较的祖先不同，我们并不认识与自己打交道的人，无论在经济领域还是政治领域。题干 According to Tocqueville, unlike our ancestors ↔ As opposed to the ancestors Tocqueville compares us to；we and the people we do trade with are strangers to each other ↔ we do not know the people with whom we have to do。",
+    "evidence": "As opposed to the ancestors Tocqueville compares us to, we do not know the people with whom we have to do, in either the economic or the political sphere."
+   },
+   "42": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "E 段描述原始社会：劳动分工尚未发展，要求每个人、每个家庭或部落在满足自身基本物质需要时相对独立。题干 In primitive societies, people had to rely mostly on themselves to meet their personal needs ↔ the division of labor was as yet undeveloped ..., requiring each person, family, or tribe to be relatively independent when it came to meeting their own basic material needs。",
+    "evidence": "In primitive societies, he notes, the division of labor was as yet undeveloped for the most part, requiring each person, family, or tribe to be relatively independent when it came to meeting their own basic material needs."
+   },
+   "43": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "H 段说任何美国家庭里几乎没有任何一件商品，其制造和销售不依赖遍布全球的众多不同的人。题干 Few commodities in American homes are not reliant on people abroad in the process of manufacture and sale ↔ There is scarcely a single commodity in any American household that isn't dependent for its manufacture and sale ... on scores of different people spread out across the entire globe（scarcely a single ... isn't 的双重否定等于 few ... are not）。",
+    "evidence": "There is scarcely a single commodity in any American household that isn't dependent for its manufacture and sale, through one supply chain or another, on scores of different people spread out across the entire globe."
+   },
+   "44": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "A 段对比两派立场：自由贸易者指出对消费者的好处，保护主义者则指出为这种全球化经济付出代价的是国内生产者，代价是失去生计、社区被掏空。题干 Protectionists argue against free trade ↔ Protectionists point to ...；the losses suffered by domestic producers and communities ↔ lost livelihoods and hollowed-out communities。",
+    "evidence": "Protectionists point to the domestic producers who've paid the price for this globalized economy in the form of lost livelihoods and hollowed-out communities."
+   },
+   "45": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "L 段指出这是自由贸易捍卫者面临的最大挑战：我们的大脑天生为部落生活而设，部落并不善待陌生人，因此让人们对外国陌生人产生依赖感和感激之情是一项艰难的任务。题干 It is extremely hard ↔ an uphill task；make people feel dependent on and grateful to strangers overseas ↔ Impressing a sense of dependence upon and gratitude toward foreign strangers。",
+    "evidence": "Our brains are hardwired for tribal life, and tribes do not take kindly to strangers. Impressing a sense of dependence upon and gratitude toward foreign strangers is therefore an uphill task."
+   }
+  },
+  "article_zh": "A) 贸易是这样一个政策领域：民粹主义者与古典自由主义者之间的敌意在这里表现得最为明显。自由贸易者指出，零关税贸易为全世界的消费者带来了不可否认的好处，也明显缓解了那些原先封闭的市场已被打开的世界角落的贫困。保护主义者则指出，为这种全球化经济付出代价的是国内生产者，代价是失去生计、社区被掏空。\nB) 持续进行的保守派内战常常退化为毫无实质内容的部落式混战，但贸易是一个罕见的例外。争论双方都有充实、经过深思熟虑的政策主张。\nC) 因此，作为一个讨论议题，贸易为自由主义者和民粹主义者提供了一个真正达成共识的机会。在这个领域，富有成果的辩论或许真能发生，而不是我们已经习惯的那套仪式：谴责换来反谴责。\nD) 听起来或许奇怪，现代世界贸易的问题并不是金钱的问题，而是虚假意识的问题。这一观察必定会让一些读者脑中响起马克思主义的警铃，但它最早是由亚历克西·德·托克维尔在 1840 年提出的。\nE) 托克维尔在追踪人类经济从原始社会到现代社会的发展时，观察到几个世纪以来一个悖论不断展开：经济现实与人们对这些现实的经验越来越相互偏离。他指出，在原始社会，劳动分工大体上尚未发展，这就要求每个人、每个家庭或每个部落在满足自身基本物质需要方面相对独立。人们自己建造住所，自己耕种土地，自己照料牲畜。这并不是否认存在基本的贸易形式，但大体而言，我们原始的祖先过着相当自给自足、尽管极度贫困的生活。\nF) 然而，古代和史前世界那种纯粹地方性、面对面的经济与政治组织方式，不断让这些原始民族深切感受到他人的不可控现实以及他人的需要。正如托克维尔所指出的：“一个人一旦开始在公共场合处理共同事务，他就开始觉察到自己并不像最初想象的那样独立于同类，而且为了获得他们的支持，他常常必须把自己的合作借给他们。”\nG) 现代世界到来时，劳动分工在社会中越来越广泛地扩展。每个人都越来越依赖他人来满足自己的基本需要。然而，由于被剥夺了我们祖先因环境所迫而不得不与邻居、与当地社区发生的交往，我们反而觉得自己越来越彼此独立。当我们越来越依赖他人时，我们却越来越意识不到自己对别人的依赖。这就是现代世界贸易的悖论。\nH) 这一悖论所产生的虚假意识，对我们关于自由贸易的辩论造成了严重破坏。任何一个美国家庭里，几乎没有任何一件商品在其制造和销售过程中不依赖遍布全球各地的众多不同的人，通过这样或那样的供应链。但正如托克维尔在 1840 年已经预见的那样，我们并不觉得自己依赖这些陌生人。我们自身的物质福祉依赖他们的劳动这一感觉，从未触动过我们的民族意识。我们很少带着感激之情去思考全球化的自由贸易通道。\nI) 这有两个原因。第一个，直截了当地说，就是金钱。金钱让我们能够购买他人的劳动成果，而完全不把对方当人来看待。与我们原始乡镇中的祖先不同，我们很少需要面对面见到那些发明、制造、运输或供应我们商品的人。在交易发生之前，不需要建立任何关系。只要在价格上达成一致，你就能得到任何想要的商品，而无需再想交易另一头的那个人。这样，金钱使我们感到自己比实际上更加独立。我们每个人都感觉到金钱对同类的掌控。我们知道，只要出价足够高，就能把自己从耗时费力的建立关系的工作中赎买出来。金钱在这方面有点像魔法。它给了我们一套可以照做的仪式，并承诺只要照做，我们就能对他人施加权力。由此产生一种幻觉：有足够的钱买东西，等同于自己知道如何制造它。对那些构成供应链的无名男女的感激，很少进入我们的意识。\nJ) 事实上，匿名性是自由贸易悖论的第二个根源。现代性把每个人都从地点和社区的限制中解放出来。大体而言，我们交易时是与陌生人交易；我们投票时是为陌生人投票；我们观看、阅读或聆听故事时，讲故事的人也是陌生人。与我们被托克维尔用来作比较的祖先不同，我们并不认识与自己打交道的人，无论是在经济领域还是在政治领域。这不过是市场奇迹的阴暗面：市场有史以来第一次让陌生人相互照料。它们也让我们每个人越来越多地把自己的生活完全作为陌生人度过。托克维尔——相当悲观地——这样描述我们：每个人都孤立存在，就像对他人命运而言的陌生人；他的孩子和私人朋友构成了他的整个人类。至于其余的同胞，他就在他们身边，但他看不见他们。他触碰他们，但他感觉不到他们。他只存在于自身之中，并且只为自身而存在。\nK) 那倒数第二句话，是对我们每个人在现代经济中如何行事所能期待的最贴切概括：“他触碰他们，但他感觉不到他们。”\nL) 这是自由贸易捍卫者面临的最大挑战。人类要对陌生人产生感激之情极为困难，而让我们如此富有的全球市场也使彼此成了陌生人。我们的大脑天生为部落生活而设，而部落并不善待陌生人。因此，要让人们对外国陌生人产生依赖感和感激之情，是一项艰难的任务。\nM) 如果自由贸易者将来要在政策辩论中获胜，就必须设法在美国消费者与外国生产者之间建立情感纽带。只有通过去除那些为我们供应海外商品和服务的男男女女的匿名性，并在国界之间创造出一种超越经济利益的情谊与关系，自由贸易才能取得胜利。否则，保护主义者以民族主义团结的形式所拥有的天生生物学优势，注定会在投票箱前获胜。"
+ },
+ "careful": {
+  "2024-12-3-careful-1": {
+   "passage_zh": "网上有数百个性格测试声称能确定你的右脑还是左脑占主导地位。据说左脑型的人讲逻辑，擅长语言和数学，而右脑型的人更有想象力、情商更高、空间推理能力更强。只有一个问题：大脑并不是这样运作的。\n科普爱好者多少接受了这个想法并把它推而广之，如今它已经融入流行文化，而且不会消失。\n尽管这种信念长久存在，所谓“右脑型”或“左脑型”并不存在。你更偏向创造力还是逻辑，与你大脑的某一半球是否占主导毫无关系。但关于我们大脑两半球如何协同工作的真正科学，有时比小说还离奇。\n人脑分为两个半球，左半球和右半球。在所有脊椎动物中，右半球控制身体左侧，反之亦然。而且，由于脑损伤患者的行为表现，科学家早已知道大脑的不同区域做不同的事情。\n但许多科学家对这一想法感到难以接受，因为“左右两半球运作方式不同”这一说法本身就破坏了“自然趋向完美对称”的观念。\n神经科学家的工作揭示了不同半球对不同活动的重要性。然而，他们的研究很快在公众中遭到一些误读：有人推断有创造力的人必定是右脑型，讲逻辑的人必定是左脑型。已经证明，不仅性格与大脑两半球无关，而且人本来就不是什么右脑型或左脑型。“我们有左脑主导的人和右脑主导的人，且这与性格有关”这一想法完全错误。神经科学界从未支持过这一点。神经科学家不相信，也从来没有相信过。\n科学家了解到的是，左半球与右半球之间确实存在非常重要的差异。只不过这些差异与性格无关，也与认知策略更讲逻辑还是更自由奔放、更有创造性无关。尽管研究者已经证明了大脑半球影响我们生活的方式有其局限，但理解这类观念为何吸引人并不困难。人们对自己和朋友永远充满兴趣，人们思考世界的方式上的细微差异对他们来说确实很有意义。当你做出一个网上测试告诉我们一些关于自己的情况时，我们就会被它吸引。它令人无法抗拒。但你必须对它持极大的保留态度。",
+   "questions": {
+    "46": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "There are hundreds of personality quizzes online that assert they can ascertain whether the right or left half of your brain is dominant.",
+     "explanation": "第 1 段首句说网上数百个性格测试声称能 ascertain whether the right or left half of your brain is dominant（确定右脑还是左脑占主导）。B 项 Determine whether one is left-brained or right-brained 正是这一声称的同义改写：right or left half dominant 就是右脑型/左脑型。",
+     "distractors": {
+      "A": "偷换对象：distinguish between the two hemispheres 指“分辨两个半球（各自的功能）”，而原文说的是判断哪一侧占主导，进而给人贴上左脑型/右脑型的标签，不是分辨两个半球本身。",
+      "C": "以偏概全：原文只说左脑型的人擅长 language and math，那是由脑侧主导推导出的能力描述，测试真正声称判定的是脑侧主导，而不是“更像语言学家还是数学家”。",
+      "D": "无中生有：原文没说测验能判断大脑“如何完成不同任务”；不同区域分工是第 4 段科学家已知的事实，与本句测验的声称无关。"
+     }
+    },
+    "47": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "But the actual science of how the two halves of our brains work together is sometimes stranger than fiction.",
+     "explanation": "第 3 段末句说 the actual science of how the two halves of our brains work together is sometimes stranger than fiction。C 项 How the two hemispheres of our brains cooperate 用 cooperate 改写 work together，正是作者所指。",
+     "distractors": {
+      "A": "断章取义：创造力与某一半球占主导的关系正是原文否定的伪科学（第 3 段说创造力与哪一半球占主导无关），作者并不认为它“比小说还离奇”。",
+      "B": "偷换字词：alternately（交替地）篡改了 work together（协同工作），原文强调的是两半球合作而非轮流工作。",
+      "D": "与原文相反：原文明确说不存在一个半球支配另一个半球的情况（there's no such thing as being right-brained or left-brained），D 项恰是被否定的错误观念。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "But many scientists struggled with this idea, because the very suggestion that the left and right halves of the brain operate differently disrupted the idea that nature tends toward perfect symmetry.",
+     "explanation": "第 5 段说许多科学家对这一想法感到难以接受，因为“左右两半球运作不同”这一说法本身就破坏了“自然趋向完美对称”的观念。A 项 It contradicts the assumption that the two hemispheres of the brain are symmetrical 正是 disrupted the idea that nature tends toward perfect symmetry 的准确改写。",
+     "distractors": {
+      "B": "扩大并偷换概念：原文说的是 nature tends toward perfect symmetry（自然趋向完美对称），指大脑结构的对称；B 项改成 the universe has been evolving in a consistent manner（宇宙以一致方式演化），主体和内容都被替换。",
+      "C": "颠倒因果：原文说科学家难以接受的是“两半球运作方式不同”，C 项却说这与“两半球协同工作”相冲突，而协同工作恰是原文认可的事实。",
+      "D": "张冠李戴：右半球控制身体左侧是第 4 段陈述的已知事实，与第 5 段科学家抵触“运作不同”毫无关系。"
+     }
+    },
+    "49": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "The idea that we have left-dominant people and right-dominant people, and that this is related to personality, is categorically false. That's never been supported in the neuroscience community. Neuroscientists don't believe that and never have.",
+     "explanation": "第 6 段明确指出“存在左脑主导的人和右脑主导的人、且这与性格有关”这一想法 categorically false，神经科学界从未支持过，科学家从来不相信。这正是 A 项所述被长期否定的信念。",
+     "distractors": {
+      "B": "与原文相反：第 7 段明确说 there are really important differences between the left hemisphere and the right hemisphere，两半球确实存在重要差异，这是被认可的事实而非被否定的观念。",
+      "C": "与原文相反：原文恰恰主张性格与两半球无关，这是经研究证明的结论，不是神经科学家否定的信念。",
+      "D": "与原文相反：第 4 段说 different areas of the brain do different things 是科学家早已知道的事实，正是神经科学支持的观点。"
+     }
+    },
+    "50": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "When you come up with an online quiz that tells us something about ourselves, we're drawn to that. It's irresistible. But you have to take it with an enormous grain of salt.",
+     "explanation": "第 7 段末句 But you have to take it with an enormous grain of salt，take sth with a grain of salt 意为“对某事持保留态度、不要全信”，即 D 项 Question its reliability（怀疑其可靠性）。",
+     "distractors": {
+      "A": "指向失当：challenge its authority（挑战其权威）针对的是权威地位，而习语 a grain of salt 提醒的是内容“不可全信”，问题在可信度而非权威。",
+      "B": "无中生有：原文没有提到测验的 originality（原创性），也没有要求审视其是否独创。",
+      "C": "无中生有：原文说 It's irresistible 讲的是人们被吸引的心理，并未要求评估其受欢迎程度。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "ascertain",
+     "meaning": "查明，确定",
+     "note": "ascertain whether/what ... 查明是否/什么；比 find out 正式"
+    },
+    {
+     "word": "dominant",
+     "meaning": "占主导地位的，支配的",
+     "note": "dominant hemisphere 优势半球；be dominant over ..."
+    },
+    {
+     "word": "spatial",
+     "meaning": "空间的",
+     "note": "spatial reasoning 空间推理；spatial awareness"
+    },
+    {
+     "word": "misinterpretation",
+     "meaning": "误解，误读",
+     "note": "动词 misinterpret；常见搭配 misinterpret sth as ..."
+    },
+    {
+     "word": "categorically",
+     "meaning": "断然地，绝对地",
+     "note": "categorically false/deny 完全错误/断然否认"
+    },
+    {
+     "word": "cognitive",
+     "meaning": "认知的",
+     "note": "cognitive strategy 认知策略；cognitive ability"
+    },
+    {
+     "word": "subtle",
+     "meaning": "细微的，不易察觉的",
+     "note": "subtle differences 细微差别；subtlety n."
+    },
+    {
+     "word": "take sth with a grain of salt",
+     "meaning": "对某事持保留态度，不可全信",
+     "note": "本课重点习语，亦作 with a pinch of salt"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "It is proven that not only is personality unrelated to the different halves of the brain, but people aren't really right- or left-brained to begin with.",
+    "analysis": "主句是形式主语结构 It is proven that ...（已经得到证明的是……），that 从句才是真正的主语内容。从句用 not only ... but (also) ... 连接两个并列分句，并因 not only 置于句首而使用部分倒装：not only is personality unrelated to the different halves of the brain（不仅性格与大脑两半球无关），正常语序为 personality is unrelated to ...；第二个分句 but people aren't really right- or left-brained to begin with（而且人本来就不是什么右脑型或左脑型）用正常语序。be unrelated to 是“与……无关”的固定搭配；to begin with 意为“从根本上说、本来”，不是“首先”。整句是对“左/右脑型决定性格”这一流行观念的双重否定。"
+   }
+  },
+  "2024-12-3-careful-2": {
+   "passage_zh": "135 名学生、4 位教师、一间巨大的教室：这就是亚利桑那州最大校区梅萨市韦斯特伍德高中九年级课堂的样子。在那里，一种创新的教学模式已经站稳脚跟，并正在向该学区的其他学校乃至更远的地方推广。\n五年前，面对教师流动率高、学生入学人数下降的困境，韦斯特伍德的领导者决定尝试一些不同的做法。他们与亚利桑那州立大学教育学院的教授合作，试点了一种被称为“团队教学”的课堂模式，它让教师们能够打破在空间或年级上分隔各自课堂的墙。\n教师们共享大群学生——有时 100 人或更多——并在集体授课、一对一干预、小型学习小组，或教师们作为一个团队当天商定的任何优先事项之间轮换。有时看起来像混乱的场面，实际上是一个精心编排的计划：每天上午，韦斯特伍德的各团队开会，为团队当天要重点关注的每一位学生敲定个性化方案。\n通过给教师更多合作的机会，梅萨的管理者希望填补人员空缺，并提升教师士气和留任率。初步研究表明，这场赌博可能会得到回报。\n“教师们正在做很了不起的事，但一位教师走进另一间教室去看看发生了什么，这非常少见，”梅萨公立学校学监安迪·福利斯说。“我们这个行业进步如此缓慢，是因为我们在孤立中工作。”\n当然，彻底改革教学方法无法解决教师的所有不满，比如低薪，但梅萨的早期结果显示，团队教学或许有助于扭转低士气。在对该学区数百名教师的调查中，研究者发现，在团队中工作的教师报告了更高的工作满意度、更频繁地与同事合作，以及与学生的更积极互动。\n教师们说，团队的另一个好处是他们可以互相帮助改进教学。在一次备课会上，英语教师杰夫·霍尔与一位科学教师分享了一份教学评价：她最近那堂关于她称之为“生物学的中心法则”的课让他和其他队友都感到困惑。\n“如果这门科学对我来说都太令人困惑，你能想象孩子们感受到的挫败吗？”霍尔说。但他说，这位科学教师自己本来不会知道这种困惑。\n这种模式并不适合所有人。一些被询问是否愿意加入团队的教师表示他们更喜欢独自工作。团队教学也可能成为排课上的噩梦，尤其是在像韦斯特伍德这样只有部分教职员工以团队方式工作的学校。还有一些棘手的问题，比如如何根据 135 名学生的表现来评价四位教师。但就目前而言，它似乎行之有效。",
+   "questions": {
+    "51": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "What looks at times like chaos is in fact a carefully orchestrated plan: Each morning, the Westwood teams meet to hammer out a personalized program for every student the team will focus on that day.",
+     "explanation": "第 3 段说 What looks at times like chaos is in fact a carefully orchestrated plan（有时看起来像混乱，实际上是精心编排的计划）。D 项 It is closely coordinated despite seeming confusion 是其改写：carefully orchestrated ↔ closely coordinated；looks at times like chaos ↔ despite seeming confusion。",
+     "distractors": {
+      "A": "字面误解比喻：第 2 段 dissolve the walls that separate their classes 指打破班级、年级之间的分隔，A 项理解成“在没有墙壁的教室里上课”。",
+      "B": "无中生有：原文没有说学生可以自行选择最喜欢的老师。",
+      "C": "以偏概全：原文说教师在大班授课、一对一干预、小组学习之间轮换，并非把同伴互助置于课堂讲授之上。"
+     }
+    },
+    "52": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "By giving teachers more opportunity to collaborate, Mesa's administrators hoped to fill staffing gaps and boost teacher morale and retention. Initial research suggests the gamble could pay off.",
+     "explanation": "第 4 段末句 Initial research suggests the gamble could pay off。pay off 意为“取得成功、得到回报”，B 项 It could turn out to be a success 正是这句话的改写。",
+     "distractors": {
+      "A": "与原文矛盾：第 6 段明确说 overhauling teaching approaches can't fix all the frustrations teachers have, such as low pay，该模式并不能提高工资。",
+      "C": "无中生有：全文没有提到降低整体成本，管理者期待的是填补人员空缺、提升士气与留任率。",
+      "D": "曲解比喻：gamble 是作者对“试点”的比喻（tried something different），pay off 说的是可能成功；D 项把“可能成功”退回成“最终不过是一场赌博”。"
+     }
+    },
+    "53": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "\"Teachers are doing fantastic things, but it's very rare a teacher walks into another room to see what's happening,\" said Andi Fourlis, superintendent of Mesa Public Schools. \"Our profession is so slow to advance because we are working in isolation.\"",
+     "explanation": "第 5 段福利斯说 Our profession is so slow to advance because we are working in isolation。C 项 Progress is slow due to lack of collaboration among teachers 是这句话的直接改写：slow to advance ↔ progress is slow；working in isolation ↔ lack of collaboration。",
+     "distractors": {
+      "A": "无中生有：福利斯并未说“不彻底改革教学模式就无法提升士气”，她只解释了行业进步缓慢的原因。",
+      "B": "曲解原因：她说的是教师很少走进另一间教室去看（very rare a teacher walks into another room），原因是各自孤立工作，不是“太忙”。",
+      "D": "以偏概全：Teachers are doing fantastic things 只是她话中的让步成分，重点在 but 之后“在孤立中工作导致行业进步缓慢”。"
+     }
+    },
+    "54": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "\"If the science is too confusing for me, can you imagine the frustration you feel as kids?\" Hall said. But the science teacher, he said, wouldn't have known about the confusion on her own.",
+     "explanation": "第 7、8 段写霍尔把课堂评价分享给科学教师：她讲“生物学的中心法则”那堂课让队友都听不懂，而 the science teacher ... wouldn't have known about the confusion on her own（若非同事反馈，她本人不会知道这种困惑）。这说明团队教学中的教师互助能让教师知道自己的讲授被如何接收。",
+     "distractors": {
+      "A": "无中生有：原文只讲了一个具体的反馈案例，并未论证文科教师与理科教师“互补”。",
+      "B": "以偏概全：文中只有一位英语教师听不懂一堂生物课，不能推广为“文科教师完全弄不懂理科内容”。",
+      "D": "偷换条件：让科学教师知道困惑的是同事/团队的反馈，而不是 performance appraisal 这份评价本身；且她知道的是“学生和同事的困惑”，不是“自己制造的困惑”。"
+     }
+    },
+    "55": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "There are also thorny questions like how to evaluate four teachers on the performance of 135 students.",
+     "explanation": "第 9 段在列举该模式的难题时明确提出：There are also thorny questions like how to evaluate four teachers on the performance of 135 students。D 项 How to assess each teacher's performance 正是 evaluate four teachers 的改写，assess 与 evaluate 同义。",
+     "distractors": {
+      "A": "偷换问题：原文说部分教师宁愿独自工作，这是该模式推广的阻力，但作者列为“棘手问题”的是如何评价教师，而不是“如何处理独自工作的教师”。",
+      "B": "范围过窄：scheduling nightmare 指排课本身就难以安排，B 项退化为“课表里该放什么内容”。",
+      "C": "张冠李戴：招募志愿者时有人拒绝只是事实陈述，作者并未把它列进 thorny questions。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "turnover",
+     "meaning": "人员更替率；营业额",
+     "note": "high teacher turnover 教师流动率高；staff turnover"
+    },
+    {
+     "word": "pilot",
+     "meaning": "试行，试点（v.）；试验性的（adj.）",
+     "note": "pilot a program 试点一个项目；a pilot study 试点研究"
+    },
+    {
+     "word": "orchestrate",
+     "meaning": "精心安排，周密筹划",
+     "note": "carefully orchestrated 精心编排的；orchestration n."
+    },
+    {
+     "word": "morale",
+     "meaning": "士气，斗志",
+     "note": "boost/raise morale 提升士气；low morale 士气低落（勿与 moral 混淆）"
+    },
+    {
+     "word": "retention",
+     "meaning": "保留，留任",
+     "note": "teacher retention 教师留任率；retain v."
+    },
+    {
+     "word": "appraisal",
+     "meaning": "评价，评估",
+     "note": "performance appraisal 绩效/教学评价；appraise v."
+    },
+    {
+     "word": "bewilder",
+     "meaning": "使困惑，使迷惑",
+     "note": "be bewildered by ... 被……弄糊涂；bewildering adj."
+    },
+    {
+     "word": "thorny",
+     "meaning": "棘手的，麻烦的",
+     "note": "a thorny question/issue 棘手的问题"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "The teachers share large groups of students—sometimes 100 or more—and rotate between group instruction, one-on-one interventions, small study groups, or whatever the teachers as a team agree is a priority that day.",
+    "analysis": "主干是并列谓语：The teachers share large groups of students ... and rotate between ...（教师们共享大群学生，并在……之间轮换）。破折号中的 sometimes 100 or more 是对 large groups of students 的补充说明，可视为插入语。rotate between A, B, C, or D 中 between 后接四个并列成分：group instruction（集体授课）、one-on-one interventions（一对一干预）、small study groups（小型学习小组），以及 whatever the teachers as a team agree is a priority that day 这一名词性从句。该名词性从句由 whatever 引导，内部主语是 the teachers as a team（作为一个团队的教师们），agree 后省略了 that，is a priority that day 是 agree 的宾语从句，意为“团队当天一致认为的优先事项”。注意 intervention 在此是教育术语“干预、个别辅导”，不是“干涉”。"
+   }
+  }
+ }
+}

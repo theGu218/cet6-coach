@@ -1,0 +1,373 @@
+{
+  "exam": "2025-06-1",
+  "cloze": {
+    "blanks": {
+      "26": {
+        "answer": "J",
+        "my_answer": "J",
+        "verified": true,
+        "explanation": "语法上需要形容词或过去分词作 were 的表语，主语 They 指 Charlene 和同学；上一句刚说他们搜到了 HFC 这个正在壮大的运动，语义应为“被吸引住、产生了兴趣”。intrigued（被激起好奇心的）与“发现运动→被吸引→投入”的逻辑链一致。",
+        "evidence": "to rid college campuses of artificial herbicides(灭草剂). They were {26} .",
+        "distractors": {
+          "K": "语义方向错误：juvenile 意为“幼稚的、少年的”，不能描述“被某事物吸引”的心理状态，且与后文投入行动的行为逻辑不符",
+          "H": "词性错误：incidentally 是副词，不能跟在系动词 were 后作表语",
+          "G": "语态/形式错误：hampering 是现在分词表主动进行，此处需要表被动心理状态的过去分词；且语义为“妨碍”，与“被运动吸引”相反"
+        }
+      },
+      "27": {
+        "answer": "B",
+        "my_answer": "B",
+        "verified": true,
+        "explanation": "空格修饰 fear，需要一个表“长期的、持续的”的形容词；后文“at the time, looking for an outlet”说明这种恐惧是长期困扰她的状态，chronic（长期的、慢性的）为固定搭配 chronic fear/anxiety。",
+        "evidence": "Like many, Charlene experiences climate anxiety—a {27} fear of a climate catastrophe—and was, at the time, looking for an {28} .",
+        "distractors": {
+          "A": "搭配不成立：aesthetic 意为“审美的”，aesthetic fear 不是英语搭配，且与“对气候灾难的恐惧”语义无关",
+          "C": "搭配不成立：contaminated 意为“被污染的”，只能修饰具体物体（水源、土壤等），不能修饰抽象情感 fear",
+          "K": "语义方向错误：juvenile 指“幼稚的、幼年的”，用于形容“恐惧”会变成“幼稚的恐惧”，与“长期存在的焦虑”这一含义不符"
+        }
+      },
+      "28": {
+        "answer": "L",
+        "my_answer": "L",
+        "verified": true,
+        "explanation": "不定冠词 an 后需单数可数名词；前文说气候焦虑长期困扰她，此处应为“寻找一个宣泄/寄托的出口”，outlet 正是“（情感、精力的）出口、发泄途径”的固定用法，后文“找到了具体可以专注的领域”正是这个出口的具体化。",
+        "evidence": "Like many, Charlene experiences climate anxiety—a {27} fear of a climate catastrophe—and was, at the time, looking for an {28} .",
+        "distractors": {
+          "I": "语义不成立：infringement 意为“侵权、违反”，looking for an infringement 搭配不通，且与“缓解焦虑”的语境无关",
+          "N": "单复数错误：vibrations 是复数名词，不能与不定冠词 an 连用；语义“振动”也与语境无关",
+          "A": "语义不成立：aesthetic 作名词指“审美观、美学”，放在此处与“寻找缓解焦虑的途径”无法衔接"
+        }
+      },
+      "29": {
+        "answer": "F",
+        "my_answer": "F",
+        "verified": true,
+        "explanation": "介词 for 后需名词，且被 healthier, safer, cleaner 三个形容词并列修饰，指“为所有人争取更健康、更安全、更清洁的环境”，environment 与这三个形容词及 for all 搭配自然，也是环保话题的高频搭配。",
+        "evidence": "she said she felt she \"had found a specific area to focus on that still fit into the larger picture of fighting for a healthier, safer, cleaner {29} for all.\"",
+        "distractors": {
+          "A": "词性错误：aesthetic 作形容词不能充当 for 的介词宾语中心词",
+          "I": "搭配不成立：infringement 意为“侵权”，“更健康、更安全、更清洁的侵权”语义荒谬",
+          "N": "单复数与语义不符：vibrations 为复数，与 a ... environment 的单数结构冲突；且“振动”无法被 healthier/cleaner 修饰"
+        }
+      },
+      "30": {
+        "answer": "A",
+        "my_answer": "A",
+        "verified": true,
+        "explanation": "空格修饰 goals，需形容词；上一句到这一句的逻辑是：高校为把校园弄得“漂亮”而使用合成农药和化肥，即追求“美观的”目标，aesthetic goals（审美目标）与后文“美丽的校园意味着修剪完美的草坪”完全对应。",
+        "evidence": "Most institutions of higher education rely on synthetic pesticides and fertilizers to achieve {30} goals.",
+        "distractors": {
+          "B": "搭配不成立：chronic 意为“慢性的、长期的”，chronic goals 不是英语搭配，也无法与“修剪完美的草坪”对应",
+          "K": "语义不符：juvenile 意为“幼稚的、青少年的”，修饰 goals 与“为美观而养护校园”的动机无关",
+          "D": "词性错误：conventionally 是副词，不能修饰名词 goals"
+        }
+      },
+      "31": {
+        "answer": "D",
+        "my_answer": "D",
+        "verified": true,
+        "explanation": "空格位于 these ___ managed campuses 中，修饰过去分词 managed 构成的方式状语，需副词；上文说校园按“绿草如茵、修剪完美”的常规审美标准打理，conventionally（按惯例地、常规地）正好表达“按常规方式养护”这一含义。",
+        "evidence": "But these {31} managed campuses can come at a cost: increased cancer risk, {32} waterways, poisoned wildlife and lifeless soil.",
+        "distractors": {
+          "H": "语义方向错误：incidentally 意为“偶然地、顺便地”，与“按既定标准一贯地打理”相反，也与下文“代价”的因果逻辑不搭",
+          "C": "词性错误：contaminated 是形容词/过去分词，不能作状语修饰 managed",
+          "A": "词性错误：aesthetic 是形容词，不能作副词状语修饰 managed"
+        }
+      },
+      "32": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "空格在并列宾语中修饰 waterways，与 poisoned wildlife、lifeless soil 一样描述污染后果，需形容词/过去分词；contaminated waterways（被污染的水道）与“癌症风险上升、野生动物中毒、土壤失去生机”构成同类危害的排比。",
+        "evidence": "But these {31} managed campuses can come at a cost: increased cancer risk, {32} waterways, poisoned wildlife and lifeless soil.",
+        "distractors": {
+          "A": "语义不符：aesthetic waterways 意为“美观的水道”，与并列项“中毒的野生动物、死寂的土壤”这种危害性描述不同类",
+          "K": "搭配不成立：juvenile 意为“幼年的、幼稚的”，juvenile waterways 不成立",
+          "G": "形式与语态错误：hampering 为现在分词表主动，此处需表被动结果的过去分词；且语义“妨碍”不能修饰 waterways"
+        }
+      },
+      "33": {
+        "answer": "E",
+        "my_answer": "E",
+        "verified": true,
+        "explanation": "increase 后需名词作宾语，且与 indirect 搭配；本段主题是农药使用加剧全球气候危机，原因句说这些化学品可能含石油基成分，因此会增加“间接排放”，emissions（排放物，尤指温室气体）与 climate crisis、petroleum-based 语义链吻合。",
+        "evidence": "The use of chemicals to get rid of insects or unwanted plant life can increase indirect {33} as they can include petroleum-based ingredients.",
+        "distractors": {
+          "L": "语义不成立：outlet 意为“出口、宣泄途径”，indirect outlet 无法与“石油基成分→气候危机”的因果链衔接",
+          "I": "搭配不成立：infringement 意为“侵权”，increase indirect infringement 既非英语搭配，也与气候话题无关",
+          "H": "词性错误：incidentally 是副词，不能作 increase 的宾语"
+        }
+      },
+      "34": {
+        "answer": "G",
+        "my_answer": "G",
+        "verified": true,
+        "explanation": "空格后接宾语 the ability of soils，构成现在分词短语作结果状语，与后面的 and thus reducing... 并列；语义上“农药减少土壤中的生命”会“妨碍土壤吸收碳、保持水分的能力”，hampering（妨碍、削弱）与 reducing 形成同向递进。",
+        "evidence": "Pesticide use also decreases the life in soil, {34} the ability of soils to absorb carbon or retain water and thus reducing campuses' ability to recover quickly from climate-related extreme weather events like droughts and floods.",
+        "distractors": {
+          "O": "搭配不成立：weeding 意为“除草”，weeding the ability of soils 动宾搭配荒谬",
+          "M": "语义不符：rotating 意为“轮换、旋转”，与“土壤吸收碳和保水能力下降”这一后果无关",
+          "C": "形式错误：contaminated 为过去分词，表被动完成，而此处需现在分词表主动造成的结果，且其后需接宾语 the ability"
+        }
+      },
+      "35": {
+        "answer": "O",
+        "my_answer": "O",
+        "verified": true,
+        "explanation": "介词 with 后需动名词，且该动名词要能带宾语 the campus grounds；本句对比“使用有毒化学品”与“学生动手帮忙”，除草（weeding）正是替代喷洒除草剂的校园养护劳动，与全文 herbicide 主题呼应。",
+        "evidence": "Instead of using toxic chemicals, students working with HFC help out with {35} the campus grounds.",
+        "distractors": {
+          "M": "语义不符：rotating 意为“轮换、轮作”，rotating the campus grounds 与“用人工劳作代替化学除草”的对比不成立",
+          "G": "语义方向相反：hampering 意为“妨碍”，help out with hampering the campus grounds 与“帮忙”矛盾，褒贬方向颠倒",
+          "N": "语法不成立：vibrations 是名词（复数），不能带宾语 the campus grounds"
+        }
+      }
+    },
+    "passage_zh": "大二那年，Charlene Duong 得知自己校园里正在使用有毒的合成杀虫剂。她感到震惊，却并不意外，也明白自己必须做点什么。Charlene 和几位同学一起快速上网搜索，发现了一个规模不大但正在壮大的运动，由 Herbicide-Free Campus（HFC，“无除草剂校园”）组织发起，目标是让大学校园摆脱人工除草剂。他们被这个运动吸引住了。和许多人一样，Charlene 患有“气候焦虑”——一种对气候灾难长期存在的恐惧——当时她正想找一个出口。在发现 HFC 运动时，她说自己感觉“找到了一个可以专注的具体领域，而且它依然契合为所有人争取更健康、更安全、更清洁的环境这一更大图景”。大学土地养护中有毒除草剂的使用并不罕见。多数高等教育机构依靠合成杀虫剂和化肥来实现美观的目标。所谓“美丽”的校园，意味着绿草如茵、修剪完美的草坪，以及花坛和铺好的步道。但这些按常规方式打理的校园可能要付出代价：癌症风险上升、水道被污染、野生动物中毒、土壤失去生机。校园使用农药也加剧着全球气候危机。用化学品清除昆虫或不需要的植物，会间接增加排放，因为其中可能含有石油基成分。农药使用还减少了土壤中的生命，削弱土壤吸收碳和保持水分的能力，从而降低校园从干旱、洪水等气候相关极端天气事件中迅速恢复的能力。学生们与 HFC 合作，不用有毒化学品，而是帮忙给校园除草。Charlene 说：“这项工作提醒我在减少除草剂使用、让校园保持安全健康的过程中专注于当下。”"
+  },
+  "matching": {
+    "statements": {
+      "36": {
+        "answer": "G",
+        "my_answer": "G",
+        "verified": true,
+        "explanation": "G 段引用 Robert Putnam 的话，点出图书馆的双重功能：人们来图书馆主要为了找信息（looking mainly for information），却在那里彼此相遇（find each other there）；随后又列举新妈妈、老年人、青少年在馆内结识的例子。题干 in search of information 对应 looking mainly for information，build connections 对应 find each other。",
+        "evidence": "People may go to the library looking mainly for information, but they find each other there."
+      },
+      "37": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "C 段写“图书馆即社区建设者”支持者的主张：除非你走出去改变邻里（changing neighborhoods），否则就没有完成你该做的工作（not completing the work you are to do）。题干 advocates 对应 Supporters，not doing their job well 对应 not completing the work，change their communities 对应 changing neighborhoods。",
+        "evidence": "Supporters of libraries as community builders claim that unless you are out there changing neighborhoods, you are not completing the work you are to do."
+      },
+      "38": {
+        "answer": "I",
+        "my_answer": "I",
+        "verified": true,
+        "explanation": "I 段指出：在教育日益昂贵（education is increasingly expensive）的时代，公共图书馆为所有人免费提供信息和教育机会，不论其社会经济地位（regardless of their socio-economic status）。题干 costs of education continually rising 即 increasingly expensive，all people can have access to education 即 free for all people。",
+        "evidence": "In a time when education is increasingly expensive, public libraries provide information and educational opportunities free for all people, regardless of their socio-economic status."
+      },
+      "39": {
+        "answer": "D",
+        "my_answer": "D",
+        "verified": true,
+        "explanation": "D 段讲基于场所的经济发展：图书馆像商场里的主力百货店一样吸引大量人流（attract large numbers of people），为周边地区众多商家和组织创造经济机会（creating economic opportunities ... in the surrounding area）。题干 draw large crowds 对应 attract large numbers of people，neighboring areas 对应 surrounding area。",
+        "evidence": "Like a major department store in a mall, libraries attract large numbers of people, creating economic opportunities for numerous businesses and organizations in the surrounding area."
+      },
+      "40": {
+        "answer": "A",
+        "my_answer": "A",
+        "verified": true,
+        "explanation": "A 段开头即说：在日益数字化的世界里（in an increasingly digital world），图书馆作为社区与文化中心的角色有时被低估（at times undervalued）。题干 more and more digitalized 对应 increasingly digital world，underestimate 对应 undervalued，role ... community and cultural centers 逐词对应。",
+        "evidence": "But in an increasingly digital world, we see the role of libraries as community and cultural centers at times undervalued."
+      },
+      "41": {
+        "answer": "L",
+        "my_answer": "L",
+        "verified": true,
+        "explanation": "L 段说：面向儿童和青少年的免费辅导、作业帮助项目与暑期阅读项目，有助于弥合影响学生学业成绩的经济鸿沟（help bridge the economic divide）。题干 programs for children and adolescents 对应 for kids and teens，narrow the gap between students from varying economic backgrounds 对应 bridge the economic divide。",
+        "evidence": "Free tutoring, homework help programs, and summer reading programs for kids and teens help bridge the economic divide that impacts students' academic performance."
+      },
+      "42": {
+        "answer": "F",
+        "my_answer": "F",
+        "verified": true,
+        "explanation": "F 段讲档案馆：有序的档案馆是人们可以查考自己的祖先与移民史（research their ancestry and immigration history）等的地方。题干 research on their family history 对应 ancestry，how their ancestors came to settle in the new land 对应 immigration history。",
+        "evidence": "An organized archive is a place where people can research their ancestry and immigration history, do environmental research, and more."
+      },
+      "43": {
+        "answer": "H",
+        "my_answer": "H",
+        "verified": true,
+        "explanation": "H 段指出：尽管音乐会和戏剧票价不断上涨，公共图书馆的活动（音乐会、作者来访、画廊展览）常常免费提供，使任何收入水平的人都能参加（enabling people of any income level to attend）。题干 cultural events 对应 concerts/author visits/gallery displays，different income levels 对应 any income level，free of charge 为原文用语。",
+        "evidence": "Despite the rising costs of concert and theater tickets, public library events (including concerts, author visits, and gallery displays) are often offered free of charge, enabling people of any income level to attend."
+      },
+      "44": {
+        "answer": "B",
+        "my_answer": "B",
+        "verified": true,
+        "explanation": "B 段指出图书馆不只是书和成排的电脑（More than just books and banks of computers），并总结说图书馆履行社区建设者、艺术中心、青少年支持等身份，其作用“不止于信息”（more than just about information）。题干 Besides being an information provider 正是 more than just about information 的改写，many other important services 对应段中列举的三重角色。",
+        "evidence": "Libraries serve in these capacities and are more than just about information."
+      },
+      "45": {
+        "answer": "K",
+        "my_answer": "K",
+        "verified": true,
+        "explanation": "K 段讲公民对话：公共图书馆借助“真人图书馆”“苏格拉底咖啡馆”等项目，帮助建立由差异构成的小型共同体（small communities of difference），鼓励人们通过对话彼此交流与学习。题干 small communities of people with different backgrounds and ideologies 即 small communities of difference 的展开说明。",
+        "evidence": "Public libraries, through such programs as The Human Library and Socrates Café, can help build small communities of difference that encourage people to interact with and learn from each other through dialogue."
+      }
+    },
+    "article_zh": "A) 图书馆员了解自己社区服务的价值，读者也认可其重要性。但在日益数字化的世界里，我们看到图书馆作为社区与文化中心的角色有时被低估。当不断缩减的市政预算遇上不停歇的技术革命，那些专注于面对面地建设社区、启发并教育读者了解艺术、文学与音乐、帮助读者参与公民对话的公共图书馆服务，就显得有些过时。但恰恰是这些缩减的预算和技术中介化生活的冲击，使公共图书馆的文化与社区供给比以往任何时候都更重要。\n\nB) 许多人指出公共图书馆给社区带来的价值。图书馆不只是书和成排的电脑，它仍然是人们聚在一起探索、交流与想象的地方。图书馆为社区增值、作为读者文化中心的具体方式包括：社区建设者、艺术中心，以及青少年的守护者。图书馆以这些身份发挥作用，而不仅仅是提供信息。\n\nC) 作为社区建设者，图书馆从事着了不起的工作。从微型的公共图书馆到拥有多家分馆的大型城市机构，全美各地的图书馆都在以令人振奋的方式建设社区、支持本地文化。这些做法鼓舞人心，希望能鼓励有志于社区服务与文化外联的图书馆员彼此建立联系、交流想法、结成伙伴关系。支持“图书馆即社区建设者”的人声称：除非你走出去改变邻里，否则你就没有完成你该做的工作。加强邻里、维护社区的文化生活，是重大的责任。\n\nD) 基于场所的经济发展强调在城镇广场和萧条社区提供有吸引力、功能完善且以社区为本的场所（如图书馆）的重要性。就像商场里的主力百货店一样，图书馆吸引大量人流，为周边地区的众多商家与组织创造经济机会。大城市、中等城市甚至小城镇都已成功把图书馆改造为充满活力的社区枢纽。\n\nE) 作为关键的市政机构和社区教育的聚焦点，图书馆是建设宜居、环境友好城镇的重要参与者。城市图书馆理事会发布报告，详述图书馆在地方层面推进可持续发展的独特方式。除了确保图书馆建设项目考虑环境影响之外，图书馆还能带头支持本地食品与手工业者，例如皮博迪研究院图书馆与本地商家合作在自家庭院开创农夫市集，又如里士满公共图书馆的种子借阅图书馆——它“培育适应本地生长的植物品种，并促进社区韧性、自力更生与分享文化”。\n\nF) 档案馆保存与社区（包括少数群体）相关的历史文物、口述历史、数字历史项目与学术著作。有幸拥有档案管理员的社区，在整理历史记录与文物方面具有巨大优势。有序的档案馆是人们可以查考自己的祖先与移民史、从事环境研究等的地方。档案管理员是保存工作的倡导者，其职责包括协调地图与画作的修复、重要记录的数字化以及口述历史项目的创建。有了马萨诸塞记忆路演和退伍军人历史项目这样的项目，档案馆重要性的证据随处可见。\n\nG) 用罗伯特·帕特南的话说：“人们去图书馆可能主要是为了找信息，但他们在那里找到了彼此。”新妈妈们在婴儿故事时间建立联系；常常面临人生艰难转折的老年人参加活动，发现自己交到了新朋友；青少年放学后在图书馆的青少年空间相聚；读者在期刊室讨论时事。在图书馆，建设社区的联结时刻都在发生。\n\nH) 正如基思·理查兹所说：“公共图书馆是伟大的平等器。”尽管音乐会和戏剧票的价格不断上涨，公共图书馆的活动（包括音乐会、作者来访和画廊展览）常常免费提供，使任何收入水平的人都能参加。此外，图书馆的读书小组让人们探索和讨论文学艺术，而“伟大故事俱乐部”则把处境不利的青少年引入文学。最棒的是：这一切都免费并向公众开放。\n\nI) 在教育日益昂贵的时代，公共图书馆为所有人免费提供信息与教育机会，不论其社会经济地位如何。全美各地图书馆提供的美国图书馆协会“让我们谈谈它”项目，是图书馆中学者主持的学习机会的绝佳范例。此外，许多图书馆开设课程和讨论项目，有些甚至提供在线继续教育课程，如 Universal Class 数据库。\n\nJ) 图书馆员知道，读者不只是信息消费者，他们也是信息生产者。读者利用图书馆获取知识，以创作自己新的独立作品。越来越多的图书馆提供空间与服务，满足那些想学习如何编辑维基百科、建立博客或播客、创办自己的杂志等需求的人。许多图书馆开设艺术或写作工作坊和小组，有些还提供音乐练习室。北卡罗来纳州夏洛特的 ImaginOn 等项目提供了令人振奋的范本，把社区伙伴关系、创造力与创作提升到新的层次。\n\nK) 公民对话的衰落部分源于：人们很容易只与背景和意识形态相似的人一起看新闻、买东西、交往——无论虚拟世界还是现实世界。公共图书馆通过“真人图书馆”和“苏格拉底咖啡馆”等项目，可以帮助建立由差异构成的小型共同体，鼓励人们通过对话相互交流与学习。图书馆既通过积极推广这些项目来促进公民对话，又为所有人示范并维护自由探究与表达的原则，从而帮助个人重新认识公民对话在美国生活中的重要性与日益增长的需要。\n\nL) 为儿童和青少年提供的免费辅导、作业帮助项目与暑期阅读项目，有助于弥合影响学生学业成绩的经济鸿沟。聘请私人辅导老师的费用远远超出许多图书馆读者所能承担，因此图书馆通过在线、电话、当面，甚至社交媒体和作业应用提供作业帮助与辅导。年度暑期阅读项目也对学生的表现产生积极影响；根据多明尼加大学图书馆与信息科学研究生院 2010 年的一项研究，学生的阅读技能从这些全国性的热门活动中得到提升。\n\nM) 通过图书馆的馆藏、项目和实体空间，孩子们学会分享、参与社区、参加艺术活动，并探索眼前的世界和更广阔的世界。为儿童提供创新图书馆服务的例子无疑数不胜数，其中包括中郡公共图书馆的“自然探索园”，它引导孩子们了解自然世界。\n\nN) 这些例子只是全美（以及全世界）公共图书馆为建设并维系牢固社区联结所做的众多了不起的事情中的几个。我们鼓励你在自己的图书馆尝试其中一些想法，也希望这些想法能帮助你更好地说服社区领袖认识公共图书馆在大大小小社区中所扮演的重要角色。"
+  },
+  "careful": {
+    "2025-06-1-careful-1": {
+      "passage_zh": "从全国来看，六分之一的儿童一年缺课 15 天或更多。教育官员对如此多的课时被错过深表痛惜。\n\n这些长期缺勤的学生因错过大量课堂教学而在学业上受损。2015 年，美国教育部长回应这一危机，呼吁社区支持每个学生天天到校并在学校取得成功。他的公开信指出，一年中因任何原因——无论有正当理由还是无故——缺课达到 10% 的学日，是学业成绩低下的主要原因。\n\n担心孩子是否到校上学是有道理的。毕竟，如果学生不出现，老师就无法教他们。\n\n但如果美国的出勤危机远不止是学生缺课呢？如果它反映的是这些学生所面临的家庭与社区危机——比如被赶出家中公寓、担心社区里的安全，或生病——呢？\n\n作为社会科学家，我们研究了有正当理由的缺勤与无故缺勤同儿童学业成绩的关系。\n\n我们发现，由家长说明理由的缺勤几乎不会损害孩子的学习。事实上，没有无故缺勤、却有 15 到 18 次有理由缺勤的孩子，考试成绩与从未缺勤的同龄人相当。\n\n与此同时，哪怕只有一次无故缺勤，孩子的平均学业表现也远差于没有无故缺勤的同龄人。\n\n我们认为，无故缺勤是儿童与家庭所面临的诸多挑战（包括经济与医疗困难）的强烈信号。无故缺勤可以有力地提示这些校外挑战如何影响孩子的学业进步。\n\n我们的证据表明，无故缺勤确实有问题，但原因与人们通常所想的不同。缺课、尤其是无故缺课，其意义主要在于它是孩子与家庭可能正面临诸多危机的信号，而不太在于它是因错过教学而导致成绩下降的原因。\n\n我们如何看待缺课，对教育政策很重要。学校的出勤政策通常要求学校和家庭为孩子们缺课的天数负责，无论是有理由还是无故缺勤。\n\n这些政策假定，因任何原因缺课都会因错过课堂教学而损害孩子的学业。它们还假定学校能通过减少学生缺勤来有效干预。我们发现这两种假定都不成立。\n\n结果，这些出勤政策最终不成比例地惩罚了正应对校外危机的家庭，并给服务于这些家庭的学校施加压力，要它们让学生更常到校。\n\n因此我们建议改为把无故缺勤当作一个信号，据此把资源导向最需要帮助的孩子和家庭。",
+      "questions": {
+        "46": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 2,
+          "evidence_quote": "His open letter stated that missing 10% of school days in a year for any reason—excused or unexcused—is a primary cause of low academic achievement.",
+          "explanation": "第 2 段直接引述公开信的判断：一年中因任何原因缺课达 10% 的学日，是低学业成绩的“主要原因”，C 项“low academic achievement is mainly attributed to school absences”正是 primary cause 的同义改写（mainly attributed to = a primary cause of）。",
+          "distractors": {
+            "A": "张冠李戴：公开信的内容指向“缺课与低成绩的因果关系”，而“必须迅速应对缺课危机”是作者对教育官员呼吁的转述性概括，信中并未这样表述紧迫性",
+            "B": "偷换主体与情感色彩：deplorable 对应的是教育官员对“如此多课时被错过”的态度，原文并未评价长期缺勤学生的成绩“可悲”",
+            "D": "范围过宽、泛化为笼统担忧：信给出的是具体因果判断（缺 10% 学日→低成绩），不是对美国教育“令人担忧”的一般性评论"
+          }
+        },
+        "47": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 6,
+          "evidence_quote": "We find that absences excused by a parent do little to harm children's learning.",
+          "explanation": "第 6 段是研究结论的原句：家长说明理由的缺勤“几乎不会损害”孩子的学习，A 项 have little impact on children's learning 即 do little to harm children's learning 的改写；紧接着第 7 段反向说明无故缺勤影响显著，两句构成对照。",
+          "distractors": {
+            "B": "与原文相反：第 7 段说哪怕只有一次无故缺勤，成绩也远差于没有无故缺勤的同龄人，说明两类缺勤差别很大",
+            "C": "无中生有并加了比较级：原文只说有理由缺勤“不造成伤害”、成绩与全勤同龄人“相等”，从未说会比全勤者表现“更好”",
+            "D": "张冠李戴：原文说无故缺勤是反映孩子与家庭所面临挑战的“信号”，而不是缺勤本身构成对学校与家庭的挑战"
+          }
+        },
+        "48": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 8,
+          "evidence_quote": "We believe unexcused absence is a strong signal of the many challenges children and families face, including economic and medical hardships.",
+          "explanation": "第 8 段明确说无故缺勤是儿童与家庭所面临诸多挑战（含经济与医疗困难）的“强烈信号”，B 项 point directly to many of the out-of-school challenges 正是 a strong signal of the many challenges 的改写，out-of-school 对应 economic and medical hardships 这类校外因素。",
+          "distractors": {
+            "A": "与原文相反：第 9 段明确说缺课“不太在于”是因错过教学导致成绩下降，而是作为危机的信号，A 项正是作者否定的流行看法",
+            "C": "无中生有：原文批评现行政策对家庭的惩罚过重、压力过大，从未说政府“通常忽视”无故缺勤",
+            "D": "方向偷换：原文所说的危机是孩子与家庭“已经面临”的（face），D 项改成向他们发出“未来可能出现”的危机的信号"
+          }
+        },
+        "49": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 11,
+          "evidence_quote": "They also assume that schools will be able to effectively intervene by reducing student absences.",
+          "explanation": "第 11 段列出出勤政策的两项假定，第二项正是“学校能通过减少缺勤有效干预”，即学校有能力靠干预提升成绩；B 项 Schools can boost children's academic performance by effective intervention 与该假定一一对应（作者随后说“neither to be the case”，正说明这是政策假定）。",
+          "distractors": {
+            "A": "因果链条错位：原文的假定是“缺课使学生失去课堂教学，故到校重要”，A 项把“减少缺勤数量”本身当成成绩的决定因素，偷换了手段与原因",
+            "C": "张冠李戴：政策要求学校与家庭为“缺勤天数”负责，并未假定二者应为“校外危机”负责；原文恰恰指出政策因此不公平地惩罚面临校外危机的家庭",
+            "D": "偷换概念：原文的假定关乎“是否错过课堂教学（数量）”，D 项换成“教学质量”与成绩相关，与政策假定不符"
+          }
+        },
+        "50": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 13,
+          "evidence_quote": "We instead suggest using unexcused absence from school as a signal to channel resources to the children and families who need them most.",
+          "explanation": "第 13 段给出作者的建议：把无故缺勤当作信号，把资源调配给最需要的孩子和家庭。C 项 Directing resources to helping needy children 即 channel resources to the children and families who need them most 的直接改写。",
+          "distractors": {
+            "A": "答非所问、以偏概全：作者把无故缺勤视为危机的信号，但具体建议是据此“调配资源”，而不是停留在“查明原因”这一环节",
+            "B": "范围过宽：原文批评的是现行出勤政策的问责逻辑与惩罚后果，建议是资源倾斜，并未提出“重构考勤政策”这样笼统的主张",
+            "D": "与原文相反：原文批评政策“给学校施压让学生更常到校”，作者反对继续加压，D 项恰是被作者否定的做法"
+          }
+        }
+      },
+      "vocabulary": [
+        {"word": "deplore", "meaning": "强烈谴责；对……深感痛惜", "note": "deplore the waste of resources"},
+        {"word": "chronically", "meaning": "长期地；慢性地", "note": "chronically absent students 长期缺勤的学生"},
+        {"word": "attendance", "meaning": "出勤；出席人数", "note": "school attendance policies 出勤政策"},
+        {"word": "unexcused", "meaning": "未经准许的；无故的", "note": "unexcused absence 无故缺勤"},
+        {"word": "achievement", "meaning": "成绩；成就", "note": "academic achievement 学业成绩"},
+        {"word": "intervene", "meaning": "干预；介入", "note": "effectively intervene by reducing absences"},
+        {"word": "disproportionately", "meaning": "不成比例地；过分地", "note": "disproportionately punish families"},
+        {"word": "signal", "meaning": "信号；迹象（n.）；预示（v.）", "note": "a strong signal of many challenges"}
+      ],
+      "long_sentence": {
+        "sentence": "His open letter stated that missing 10% of school days in a year for any reason—excused or unexcused—is a primary cause of low academic achievement.",
+        "analysis": "主干为 His open letter stated that...，that 引导宾语从句；从句主语是动名词短语 missing 10% of school days in a year（动名词 missing 带自己的宾语和时间状语），谓语是 is，表语是 a primary cause of low academic achievement。两个破折号之间的 for any reason—excused or unexcused—是对介词短语 for any reason 的补充说明（无论有理由还是无故），不参与句子主干。理解要点：主句动词 stated 决定这是“公开信的表述”，而从句主语是“缺课行为”本身而非学生。"
+      }
+    },
+    "2025-06-1-careful-2": {
+      "passage_zh": "拿到学士学位后，我决心做自己热爱的事。我直奔研究生院，去研究那些令我着迷的社会问题。\n\n将近十年间，我告诉每一个遇到的人，他们也应该这样做。“追随你的热情，”我劝道，“就业的事以后再说。”\n\n直到我开始研究这条被广泛接受的职业建议，我才明白它其实多么有问题。\n\n作为社会学家，我访谈了大学生和职场人士，想弄清追求梦想究竟意味着什么——我在本文中称之为“热情原则”。为撰写新书所做的研究中，这一原则的发现让我震惊。\n\n调查显示，美国公众长期以来高度重视“热情原则”，把它当作职业决策中的优先考虑。在面临工作不稳定的人群中，它更受欢迎。\n\n热情原则的拥护者觉得它很有说服力，因为他们相信：追随自己的热情既能为劳动者提供努力工作所需的动力，也能提供一个获得满足感的地方。\n\n然而我发现，追随热情未必带来满足感，反而是延续过度工作的最强文化力量之一。我还发现，提倡追求热情会延续社会不平等，因为并非每个人都有相同的经济资源，能让他们从容地追求热情。\n\n尽管热情原则广受欢迎，但并非人人都有把热情变成稳定、高薪工作所需的资源。出身富裕家庭的热衷者更能等到一份自己热爱的工作出现，而不必在此期间为助学贷款发愁。他们也更有条件去做无薪实习以踏入行业门槛，而由父母替他们付房租。他们还常常能借助父母的人脉网络找到工作。调查显示，工人阶级和第一代大学毕业者无论身处哪个职业领域，在追求热情时都比更富有的同龄人更容易最终从事低薪的非技术性工作。\n\n那些向所有人推销“追随热情”之路、却不拉平竞争场地的大学、雇主和职业顾问，正在帮助延续求职者之间的社会经济不平等。\n\n受益的不只是条件优越的热衷者，雇用热情员工的雇主同样受益。潜在雇主对热情应聘者表现出更大兴趣，部分原因在于他们相信这些应聘者会努力工作而不期待加薪。他们甚至会为从事自己热爱的工作而牺牲高薪、工作稳定和闲暇时间。",
+      "questions": {
+        "51": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 2,
+          "evidence_quote": "For almost a decade, I told everyone I encountered that they should do the same.",
+          "explanation": "第 1 段说自己决心“做自己热爱的事”，第 2 段紧接着说近十年里他告诉每个人“也应该这样做”，并劝人 follow your passion。the same 指的就是“做自己痴迷的事”，D 项 Do whatever they are zealous for 正是 follow your passion / do what I love 的改写。",
+          "distractors": {
+            "A": "张冠李戴：作者建议的是“追随热爱”，而非“找出最有吸引力的工作”这一求职技巧；原文也没有“fascinating job”之说",
+            "B": "语义空转：作者转述的是“follow your passion”这一具体建议，B 项把它抽象成“追随便被广泛接受的职业建议”，既丢了实质内容，也与“就业的事以后再说”的自由选择含义不符",
+            "C": "角度偏差：原文强调以“热爱的事”为职业方向，C 项的 with passion 只是“满怀热情地从事职业”，未体现“以热爱为择业依据”这层意思"
+          }
+        },
+        "52": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 4,
+          "evidence_quote": "I was stunned by what I found out about this principle in the research for my new book.",
+          "explanation": "第 4 段说研究中关于这一原则的发现让他“震惊”（stunned），而第 7 段交代了具体发现：该原则不带来满足感，反而延续过度工作与社会不平等。A 项 astonished by its consequences 即 stunned 的同义改写，consequences 指第 7 段所述的后果。",
+          "distractors": {
+            "B": "与原文相反：作者在第 3、9 段明确说这一建议“有问题”（problematic），并未进一步确信其合理",
+            "C": "时序与态度相反：作者说正是做了研究之后才明白这条建议有问题，并非认定自己当初照做是“对的”",
+            "D": "张冠李戴：令他震惊的是研究揭示的负面后果；“广受欢迎”是第 5 段调查显示的公众态度，不是令他惊讶的发现"
+          }
+        },
+        "53": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 8,
+          "evidence_quote": "Passion-seekers from wealthy families are better able to wait until a job they are passionate about comes along without worrying about student loans in the meantime.",
+          "explanation": "第 8 段说明把热情变成稳定高薪工作靠的是资源：富裕家庭子女不必为助学贷款发愁（经济后盾）、父母替他们付房租以承担无薪实习，还能借助父母的人脉网络（社会关系）。D 项 Financial backing and social connections 概括的正是这两类资源。",
+          "distractors": {
+            "A": "以偏概全并偷换因果：无薪实习只是有经济后盾者的手段之一，而“接受低薪工作”恰是追随热情后落到低薪岗位的结果，不是把热情变成好工作的条件",
+            "B": "无中生有：全段未提“学业准备充分”或“良好的职业咨询”是条件，反而批评职业顾问助推这条路径",
+            "C": "主体错位：努力工作和牺牲闲暇是第 10 段中雇主看重的员工“热情”表现，使雇主受益，而非求职者获得好工作的资源条件"
+          }
+        },
+        "54": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 7,
+          "evidence_quote": "I also found that promoting the pursuit of one's passion helps perpetuate social inequalities due to the fact that not everyone has the same economic resources to allow them to pursue their passion with ease.",
+          "explanation": "第 7 段明确指出提倡追求热情会“延续”（perpetuate）社会不平等，第 9 段进一步说向所有人推销这条路径而不拉平竞争场地，会帮助延续求职者间的社会经济不平等。C 项 Socioeconomic inequality is likely to persist 即 perpetuate 的改写。",
+          "distractors": {
+            "A": "无中生有：原文说工人阶级毕业生更易落到“低薪的非技术岗位”，并未说会有更多人失业",
+            "B": "与原文相反：作者说这条信条“延续”不平等，人们并不因此更不在意不平等",
+            "D": "无中生有：原文只批评推广该路径的职业顾问“帮助延续不平等”，没有提到他们会失去信誉"
+          }
+        },
+        "55": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 10,
+          "evidence_quote": "Potential employers showed greater interest in passionate applicants in part because they believed the applicants would work hard at their jobs without expecting an increase in pay.",
+          "explanation": "第 10 段说雇主受益于“热情原则”：他们青睐热情应聘者，因为认定这些人会拼命工作却不要求加薪，甚至为热爱的工作牺牲高薪、稳定与闲暇。B 项 exploit these workers' passion to benefit themselves 正是对这一利用关系的概括。",
+          "distractors": {
+            "A": "与原文相反：原文说工人为了热爱的工作“牺牲”高薪与工作稳定，雇主并未提供这些",
+            "C": "与原文相反：第 9 段说这条路径是 without leveling the playing field，雇主并未为工人拉平竞争场地",
+            "D": "张冠李戴：鼓励工人实现理想的是“追随热情”的文化与职业顾问（第 6、9 段），雇主是利用这种热情为自己谋利的一方"
+          }
+        }
+      },
+      "vocabulary": [
+        {"word": "investigate", "meaning": "调查；研究", "note": "investigate the social problems that fascinated me"},
+        {"word": "counsel", "meaning": "建议；劝告（v.）", "note": "\"Follow your passion,\" I counseled."},
+        {"word": "problematic", "meaning": "成问题的；有疑问的", "note": "understood how problematic it really was"},
+        {"word": "sociologist", "meaning": "社会学家", "note": "as a sociologist, I interviewed..."},
+        {"word": "fulfillment", "meaning": "满足感；成就感", "note": "a place to find fulfillment"},
+        {"word": "perpetuate", "meaning": "使延续；使长存", "note": "perpetuate social inequalities"},
+        {"word": "instability", "meaning": "不稳定（性）", "note": "those facing job instability"},
+        {"word": "socioeconomic", "meaning": "社会经济的", "note": "socioeconomic inequalities"}
+      ],
+      "long_sentence": {
+        "sentence": "I also found that promoting the pursuit of one's passion helps perpetuate social inequalities due to the fact that not everyone has the same economic resources to allow them to pursue their passion with ease.",
+        "analysis": "主干为 I also found that...，that 引导宾语从句；从句主语是动名词短语 promoting the pursuit of one's passion（promoting 带宾语 the pursuit of one's passion），谓语是 helps perpetuate（help 后接不带 to 的不定式），宾语是 social inequalities。due to the fact that... 是原因状语，其中 that 引导同位语从句解释 the fact，从句主干为 not everyone has the same economic resources；不定式 to allow them... 作 resources 的后置修饰，说明资源的作用。理解要点：作者用 due to the fact that 把“资源不均”设为“延续不平等”的根源。"
+      }
+    }
+  }
+}

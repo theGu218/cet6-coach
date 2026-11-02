@@ -1,0 +1,457 @@
+{
+ "exam": "2023-12-2",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "H",
+    "my_answer": "E",
+    "verified": false,
+    "conflict_reason": "文件答案为 H（indulging），我独立判断为 E（differentiate）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 indulging（“沉溺、纵容”的现在分词/动名词），而 how we ___ between 之后需要的是能与 between 搭配的动词原形，indulging 词形不符，语义上“我们在真实与可能的陈述之间沉溺”也不成立。另外，文件这套答案的 10 个词（indulging、innumerable、mortality、attributes、odds、regulatory、inclined、still、diminishing、comprised）无一出现在本题 A–O 的选项词表内（本题词表为 activated、aggravated、ascertain、deliberate、differentiate、discourse、evokes、inhibit、manuscript、marvels、remnants、scenarios、speculative、unanimous、uncertainty），可见这批答案与本题原文并不配套。",
+    "explanation": "how we ___ between ... 需要一个直接接 between 的动词原形，构成固定搭配 differentiate between A and B（在 A 与 B 之间作区分）。语境是“措辞如何影响我们区分真实陈述与仅仅可能的陈述”，与下段 separate the factual from the possible 完全同义呼应。",
+    "evidence": "Their work offers new insights into the impact word choice has on how we {26} between statements expressing what is real versus what is merely possible.",
+    "distractors": {
+     "C": "搭配不成立：ascertain 是及物动词，其后直接接宾语（如后文 ascertain how the brain computes possibilities），不能与 between 连用；且 ascertain 侧重“查明、核实”，不含“把两类东西分辨开”的对比义。",
+     "H": "搭配与词义双重不成立：inhibit 意为“抑制、阻止”，是及物动词，既不能接 between，也无法表达“在真实与可能之间作区分”。",
+     "N": "词性错误：unanimous 是形容词（一致同意的），而 how we ___ between 的位置必须填动词原形，词性不符。"
+    }
+   },
+   "27": {
+    "answer": "I",
+    "my_answer": "D",
+    "verified": false,
+    "conflict_reason": "文件答案为 I（innumerable），我独立判断为 D（deliberate）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 innumerable（“无数的”，形容词），虽然 is 后可以接形容词，但语义不通：前句说我们不断遭遇虚假信息，Some of this 指其中一部分，“其中一部分是无数的”自相矛盾；且紧随的 as is the case with deceptive advertisements 举例说明的是“有意为之”这一性质，innumerable 讲的是数量。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "空格位于系动词 is 之后作表语，需形容词；后半句 as is the case with deceptive advertisements（正如欺骗性广告那样）举例说明这一类虚假信息是“有意为之”的，与 but 之后“另一些人并非有意、只是相信自己在分享正确信息”形成“故意 / 无意”的对照。deliberate 作形容词即“蓄意的、故意的”。",
+    "evidence": "Some of this is {27}, as is the case with deceptive advertisements, but the problem is {28} by individuals who believe they are sharing correct information.",
+    "distractors": {
+     "M": "语义方向错位：本空要和 but 另一侧的“无意（相信自己分享的是正确信息）”构成对照，落点是“是否故意”，而 speculative 指内容“推测性的、不确定的”，说的是确定程度；且 speculative 在本文中应填 {29}。",
+     "N": "主语与词义不成立：unanimous 指“（一群人）意见一致”，其主体必须是人或群体，不能说 Some of this（虚假信息本身）是 unanimous 的。",
+     "A": "词性/语态错误：若在 is 后填过去分词则构成被动语态，但“虚假信息被激活”讲不通，此处需要形容词表语。"
+    }
+   },
+   "28": {
+    "answer": "J",
+    "my_answer": "B",
+    "verified": false,
+    "conflict_reason": "文件答案为 J（mortality），我独立判断为 B（aggravated）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 mortality（“死亡率”，名词），而该空由 is ___ by 构成被动结构，必须填过去分词，填名词会失去谓语；语义上“问题被这些人死亡率”也根本不成句。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "空格与 is 构成被动结构，by individuals who believe they are sharing correct information 是施动者；但语义不是“被某人做某事”，而是“因这些人而变得更糟”，aggravate 意为“使恶化、加重”，the problem is aggravated by ... 即“问题被……加剧”。",
+    "evidence": "Some of this is {27}, as is the case with deceptive advertisements, but the problem is {28} by individuals who believe they are sharing correct information.",
+    "distractors": {
+     "H": "语义方向相反：inhibit 意为“抑制、阻止”，若填此处则成了“问题被这些人抑制”，与 but 之后“因此区分事实与可能比以往更重要”的递进逻辑相反。",
+     "K": "词性错误：remnants 是名词复数“残余、残迹”，无法与 is 构成被动语态谓语。",
+     "A": "搭配不成立：activate 意为“激活、启动”，其宾语多为反应、机制等，与 problem 搭配时不能表达“被加剧/恶化”这一含义。"
+    }
+   },
+   "29": {
+    "answer": "A",
+    "my_answer": "M",
+    "verified": false,
+    "conflict_reason": "文件答案为 A（attributes），我独立判断为 M（speculative）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 attributes（“属性、特质”，名词，或动词第三人称单数），而 the possible or merely ___ 需要与“可能的”构成递进、表示确定程度的形容词；attributes 既非形容词，也不含“推测、不确定”之义。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "该空与 the factual、the possible 并列，前面还有 merely 修饰，需形容词，表示“仅仅是推测性的”那一类内容；separate the factual from the possible or merely speculative 意为把事实性的东西与可能的、或纯属猜测的东西分开。speculative 与全文强调的 possibility 语义一致。",
+    "evidence": "Thus, it is more important than ever to separate the factual from the possible or merely {29} in how we communicate.",
+    "distractors": {
+     "N": "语义不成立：unanimous“一致同意的”描述的是群体的态度，不能形容“仅是猜测”的信息内容，与 the factual、the possible 这组按确定程度划分的类别也不同类。",
+     "I": "词性错误：manuscript 是名词“手稿、原稿”，不能作 the possible or merely ___ 中与形容词并列的成分。",
+     "A": "词性与词义双重错误：activated 是动词过去式/过去分词，不能作与 the factual、the possible 并列的形容词；且“被激活的”说的是动作结果，“仅仅是推测的”说的是确定程度，两者不在同一语义维度上。"
+    }
+   },
+   "30": {
+    "answer": "K",
+    "my_answer": "G",
+    "verified": false,
+    "conflict_reason": "文件答案为 K（odds），我独立判断为 G（evokes）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 odds（“可能性、几率”，名词），而该空是从句谓语（information presented as fact ___ special responses in our brains），必须填单数第三人称动词，填名词会使从句缺谓语。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "主语 information presented as fact 是单数第三人称，从句谓语需一般现在时单三形式；evoke 意为“唤起、引起（反应、记忆、情感）”，evoke responses 是常见搭配。后文 the brain responding more powerfully ... with factual phrases 正是对这一“唤起”的进一步说明。",
+    "evidence": "This is especially true as the study makes clear that information presented as fact {30} special responses in our brains, which are distinct from when we process the same content with clear indicators of {31}.",
+    "distractors": {
+     "H": "词义方向相反：inhibit 意为“抑制”，与同段后半句“大脑对事实性短语反应更强烈、投入更多”直接矛盾——事实性信息是引发而非抑制反应。",
+     "C": "主体与搭配不成立：ascertain 意为“查明、弄清”，其主语通常是人或研究，information 不能“查明”大脑的反应。",
+     "J": "搭配不成立：marvel 作动词意为“惊叹、感到惊奇”，是不及物用法（marvel at），不能带 responses 作宾语。"
+    }
+   },
+   "31": {
+    "answer": "M",
+    "my_answer": "O",
+    "verified": false,
+    "conflict_reason": "文件答案为 M（regulatory），我独立判断为 O（uncertainty）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 regulatory（“监管的”，形容词），而介词 of 后需要名词作 indicators of 的中心词，indicators of regulatory 语法不成立；此处应指 may、might、if 所标记的那种“不确定性”。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "介词 of 后需名词作 indicators of 的中心词；本段前文一直在讲 may、might、if 这类表可能的词语，clear indicators of uncertainty 即“明确的不确定性标志”，与前面的 information presented as fact（以事实呈现的信息）形成对照。",
+    "evidence": "This is especially true as the study makes clear that information presented as fact {30} special responses in our brains, which are distinct from when we process the same content with clear indicators of {31}.",
+    "distractors": {
+     "F": "语义范围过宽：discourse 指“话语、语篇”整体，而此处要的是与“事实”相对的那种“不确定”，discourse 无法表达 may/might/if 所标记的不确定性。",
+     "J": "语义与所指不成立：indicators of marvels（奇迹的标志）在本段没有对应对象，全段讨论的是表可能的词语，不是奇观。",
+     "I": "语义不成立：manuscript“手稿”是具体文本实物，不能作“处理可能性内容时的语言标志”的中心词，单数也与 indicators of 的复数逻辑不合。"
+    }
+   },
+   "32": {
+    "answer": "G",
+    "my_answer": "C",
+    "verified": false,
+    "conflict_reason": "文件答案为 G（inclined），我独立判断为 C（ascertain）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 inclined（“倾向于”，过去分词/形容词），而 intended to 后必须接动词原形，词形直接排除；语义上“打算倾向于大脑如何计算可能性”也不成句。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "intended to 后必须接动词原形；ascertain 意为“查明、弄清”，ascertain how the brain computes possibilities 即“弄清大脑如何计算可能性”，与随后 the researchers compared brain responses ... 的实验设计相衔接。",
+    "evidence": "In their new study, the scientists intended to {32} how the brain computes possibilities as expressed by words such as \"may,\" \"might,\" and \"if.\"",
+    "distractors": {
+     "H": "语义不通：研究目的是“弄清”大脑如何运作，若填 inhibit 则成了“打算抑制大脑如何计算可能性”，与全文的实验描述相悖。",
+     "G": "词形错误：intended to 后须接动词原形，evokes 是第三人称单数形式，语法上不能填入。",
+     "E": "搭配不成立：differentiate 表示“区分”时须接 between 或直接接及物宾语，此处后接 how 引导的从句，句子会变成“打算区分大脑如何计算”，语义残缺；本文 differentiate 的用法在 {26} 的 between 结构中。"
+    }
+   },
+   "33": {
+    "answer": "N",
+    "my_answer": "L",
+    "verified": false,
+    "conflict_reason": "文件答案为 N（still），我独立判断为 L（scenarios）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 still（“仍然”，副词），而 expressing 后需要名词作宾语，副词不能充当；且此处要与并列的 possibility 同类，表示“陈述所表达的内容类别”。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "expressing 后需名词，且要与并列的 those expressing possibility 相对、同类；statements expressing factual scenarios 指表达“事实性情形”的陈述，紧接的下文 There is a monster under my bed、I will stay home 恰是这类描述具体情形的句子，对应后文表达可能性的 There might be a monster ...。",
+    "evidence": "The researchers compared brain responses to statements expressing factual {33} and those expressing possibility.",
+    "distractors": {
+     "K": "语义搭配不成立：remnants 意为“残余、残迹（物）”，statements expressing factual remnants（表达事实性残迹的陈述）不成话，与“陈述所表达的内容类别”不搭配。",
+     "N": "词性错误：unanimous 是形容词，不能作 expressing 的宾语，也不能与 possibility 并列充当同一层级的类别名词。",
+     "F": "搭配不成立：discourse 指“话语、语篇”这一整体范畴，不能说 statements expressing factual discourse（陈述表达话语），且它与单数 possibility 不构成同一维度的对立。"
+    }
+   },
+   "34": {
+    "answer": "E",
+    "my_answer": "A",
+    "verified": false,
+    "conflict_reason": "文件答案为 E（diminishing），我独立判断为 A（activated）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 diminishing（“递减的、减少中的”，现在分词/形容词），而 factual language ___ a rapid increase 需要谓语，且研究所述为已发生的结果、应用过去式；语义上“事实性语言减少大脑活动的增强”与后文 responding more powerfully 也相互矛盾。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "showed that 从句中缺谓语，主语 factual language 为单数，所述是研究已得的结果，须用过去式；activate 意为“激活、使启动”，activate a rapid increase in brain activity 即“引发大脑活动的迅速增强”，与后文 responding more powerfully、more engagement 层层递进。",
+    "evidence": "The results of the study showed that factual language {34} a rapid increase in brain activity, with the brain responding more powerfully and showing more engagement with factual phrases compared to those communicating possibility.",
+    "distractors": {
+     "B": "语义方向相反且搭配受限：aggravate 意为“使恶化、加重”，带贬义，其宾语通常是 problem、situation 等负面事物，而此处要表达的是中性的“激活/引发”大脑活动增强。",
+     "H": "语义方向相反：inhibit 意为“抑制”，与紧随其后的 responding more powerfully（反应更强烈）直接冲突。",
+     "C": "主体不成立：ascertain 意为“查明、弄清”，主语应是有认识能力的人或研究，factual language 无法“查明”大脑活动的增加。"
+    }
+   },
+   "35": {
+    "answer": "B",
+    "my_answer": "F",
+    "verified": false,
+    "conflict_reason": "文件答案为 B（comprised），我独立判断为 F（discourse）。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）就本空而言，文件在此空填 comprised（“由……组成”，过去分词/动词），而介词 in 后需要名词作 processing 的宾语，动词形式不能成立；comprised 通常还需与 of 搭配，此处搭配也不成立。另外，文件这 10 个词（indulging…comprised，完整清单见第 26 题的冲突说明）无一出现在本题 A–O 的选项词表内，可见这批答案与本题原文并不配套。",
+    "explanation": "介词 in 后需名词作 processing 的宾语；discourse 意为“话语、语言运用”，brain regions involved in processing discourse 即“负责加工语言话语的脑区”，与全文“措辞/语言如何影响大脑”的主题一致，也解释了这些脑区为何能迅速区分事实与可能性。",
+    "evidence": "Brain regions involved in processing {35} rapidly distinguish facts from possibilities.",
+    "distractors": {
+     "K": "语义不成立：processing remnants（加工残余）与本句“区分事实与可能性”这一语言加工功能不符，全文也未涉及任何“残迹”被加工。",
+     "I": "范围过窄：manuscript 指具体的“手稿”实物，而此处说的是脑区对语言/话语的加工能力，不是对某一份手稿的处理。",
+     "O": "语义过窄且自相矛盾：若填 uncertainty，则成了“加工不确定性的脑区迅速区分事实与可能性”，既排除了它同时加工事实内容的一面，也与本句强调的两类内容辨别的功能不合；uncertainty 在本文中用于 {31}。"
+    }
+   }
+  },
+  "passage_zh": "我们的大脑对表达事实的语言的反应，与对传达可能性的词语的反应并不相同，纽约大学的科学家最近发现了这一点。他们的研究为“措辞如何影响我们在表达真实与仅仅可能的两类陈述之间作出区分”提供了新的洞见。\n\n研究人员断言他们的发现很重要，因为我们一直面对着虚假信息。其中一些是蓄意的，正如欺骗性广告那样，但这个问题又被那些相信自己是在分享正确信息的人所加剧。因此，在交流中把事实性的东西与可能的、或仅仅是推测性的东西区分开来，比以往任何时候都更重要。这一点尤其正确，因为该研究清楚表明，以事实形式呈现的信息会在我们的大脑中唤起特殊的反应，这些反应不同于我们处理带有明确不确定性标志的同样内容时的反应。\n\n在他们新的研究中，科学家们打算弄清大脑如何计算由“may”“might”“if”这类词所表达的可能性。研究人员比较了大脑对表达事实情形（factual scenarios）的陈述与对表达可能性的陈述的反应。“我床下有个怪物”是一个事实性陈述的例子。“我要待在家里”同样是事实性的。这与表达可能性的陈述相反，比如“我床下可能有怪物”，或者“如果下雨，我就待在家里”。研究结果显示，事实性语言激活了大脑活动的迅速增强：与传达可能性的短语相比，大脑对事实性短语反应更强烈、投入更多。因此，就大脑而言，事实占支配地位。参与话语加工的大脑区域能迅速把事实与可能性区分开来。此外，这些区域对事实性陈述的反应要强劲得多。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "E",
+    "my_answer": "F",
+    "verified": false,
+    "conflict_reason": "文件答案为 E，我独立判断为 F。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 E 段通篇讲打捞者、投资者、考古学家与政府在沉船所有权上的对立、联合国教科文组织等各方卷入以及诉讼一拖数年，没有一处涉及“探索沉船对更新人类历史认识的作用”，因此不能作为本题出处。我的依据：题干说“对海底沉船的探索对更新我们对人类过去的认识至关重要”。F 段先说近三百万艘沉船中被探索的不到百分之一，随后以安提基特拉附近的古罗马沉船为例，指出这类沉船 are critical to a new understanding of our past；题干 crucial in updating our understanding of humanity's past 正是 critical to a new understanding of our past 的同义改写（crucial↔critical，updating ... past↔a new understanding of our past）。",
+    "explanation": "题干说“对海底沉船的探索对更新我们对人类过去的认识至关重要”。F 段先说近三百万艘沉船中被探索的不到百分之一，随后以安提基特拉附近的古罗马沉船为例，指出这类沉船 are critical to a new understanding of our past；题干 crucial in updating our understanding of humanity's past 正是 critical to a new understanding of our past 的同义改写（crucial↔critical，updating ... past↔a new understanding of our past）。",
+    "evidence": "Some — like an ancient Roman ship found off Antikythera Greece, dated between 70 and 60 BC and carrying astonishingly sophisticated gears and dials for navigating by the sun — are critical to a new understanding of our past."
+   },
+   "37": {
+    "answer": "A",
+    "my_answer": "B",
+    "verified": false,
+    "conflict_reason": "文件答案为 A，我独立判断为 B。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 A 段讲的是卡纳维拉尔角的旅游价值——全球第二繁忙的邮轮港口、每年近150万游客看火箭发射、未开发海滩与保护区，全段没有“旧大陆船只在此沉没”的内容，与题干所问的历史事实不符。我的依据：题干说“几个世纪以来，相当多从欧洲驶往美洲的宏伟船只在这段佛罗里达海岸外沉没”。B 段交代这一带是“船只坟场”，并写明 Over the centuries, dozens of majestic Old World sailing ships smashed and sank on this irregular stretch of windy Florida coast；Quite a number of↔dozens of，majestic ships↔majestic Old World sailing ships，sailing from Europe to America↔Old World（旧大陆，即欧洲）的船越洋而来，over the centuries 原样对应。",
+    "explanation": "题干说“几个世纪以来，相当多从欧洲驶往美洲的宏伟船只在这段佛罗里达海岸外沉没”。B 段交代这一带是“船只坟场”，并写明 Over the centuries, dozens of majestic Old World sailing ships smashed and sank on this irregular stretch of windy Florida coast；Quite a number of↔dozens of，majestic ships↔majestic Old World sailing ships，sailing from Europe to America↔Old World（旧大陆，即欧洲）的船越洋而来，over the centuries 原样对应。",
+    "evidence": "Over the centuries, dozens of majestic Old World sailing ships smashed and sank on this irregular stretch of windy Florida coast."
+   },
+   "38": {
+    "answer": "F",
+    "my_answer": "I",
+    "verified": false,
+    "conflict_reason": "文件答案为 F，我独立判断为 I。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 F 段讲海底沉船总数（近300万艘，探索不足百分之一）以及安提基特拉古罗马沉船对理解过去的价值，既未出现普里切特，也未出现法院判决，无法支撑题干。我的依据：题干说“当美国一家地区法院作出不利于他的裁决时，普里切特遭受了重大损失”。I 段写 2018 年 the federal district court ruled in favor of France（即判他败诉），紧接着说 For Pritchett, the decision was devastating，并点明 Millions of dollars of investor funding and years of labor were lost；suffered a heavy loss↔devastating + were lost，US district court↔federal district court，ruled against him↔ruled in favor of France。",
+    "explanation": "题干说“当美国一家地区法院作出不利于他的裁决时，普里切特遭受了重大损失”。I 段写 2018 年 the federal district court ruled in favor of France（即判他败诉），紧接着说 For Pritchett, the decision was devastating，并点明 Millions of dollars of investor funding and years of labor were lost；suffered a heavy loss↔devastating + were lost，US district court↔federal district court，ruled against him↔ruled in favor of France。",
+    "evidence": "In 2018, two long years after Pritchett's discovery, the federal district court ruled in favor of France."
+   },
+   "39": {
+    "answer": "C",
+    "my_answer": "D",
+    "verified": false,
+    "conflict_reason": "文件答案为 C，我独立判断为 D。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 C 段讲近年雷达、潜水、探测设备、计算机和GPS让海底搜寻改观，落点是技术揭示人工制品，全段不涉及“权利在法庭上被质疑”的诉讼情形。我的依据：题干说“近来，在沉船中发现宝物的人因其所有权而被起诉”。D 段用 of late（近来）引出：But of late, when salvors have found vessels, their rights have been challenged in court，随后提出 The big question: who should have control of these treasures?。Recently↔of late，have been sued over their rights to own them↔their rights have been challenged in court（在法庭上被质疑所有权）。",
+    "explanation": "题干说“近来，在沉船中发现宝物的人因其所有权而被起诉”。D 段用 of late（近来）引出：But of late, when salvors have found vessels, their rights have been challenged in court，随后提出 The big question: who should have control of these treasures?。Recently↔of late，have been sued over their rights to own them↔their rights have been challenged in court（在法庭上被质疑所有权）。",
+    "evidence": "But of late, when salvors have found vessels, their rights have been challenged in court."
+   },
+   "40": {
+    "answer": "H",
+    "my_answer": "G",
+    "verified": false,
+    "conflict_reason": "文件答案为 H，我独立判断为 G。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 H 段讲2015年磁力计发现铁炮、青铜炮与刻有法国纹章的大理石柱，并据此推断是16世纪法国船“拉特里尼泰号”，全段没有“投资人出资多少”的信息。我的依据：题干说“普里切特声称他的沉船勘探得到了投资人数百万美元的支持”。G 段叙述他三年间取得 14 份州许可证、每年工作 250 天，并写明 backed by investor funds of, he claims, US $4 million；Pritchett claims↔he claims，got support of millions of dollars from investors↔backed by investor funds of ... US $4 million。",
+    "explanation": "题干说“普里切特声称他的沉船勘探得到了投资人数百万美元的支持”。G 段叙述他三年间取得 14 份州许可证、每年工作 250 天，并写明 backed by investor funds of, he claims, US $4 million；Pritchett claims↔he claims，got support of millions of dollars from investors↔backed by investor funds of ... US $4 million。",
+    "evidence": "they worked 250 days a year, backed by investor funds of, he claims, US $4 million."
+   },
+   "41": {
+    "answer": "B",
+    "my_answer": "L",
+    "verified": false,
+    "conflict_reason": "文件答案为 B，我独立判断为 L。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 B 段讲这一带是有名的“船只坟场”、数十艘旧大陆帆船几个世纪来在此沉没及其运载的货物，与“考古学家应当更努力发表成果”的主张毫无对应。我的依据：题干说“一位海洋科学先驱认为考古学家应更努力地发表其研究成果”。L 段介绍 George Bass 是水下考古学的开创者之一（one of the pioneers of under-water archaeology），他主张 archaeologists need to do a better job themselves，并直言“Archaeology has a terrible reputation for not publishing enough on its excavations and finds”；pioneer marine scientist↔pioneers of under-water archaeology + researcher at Texas A&M，make greater efforts to publish↔在发表上做得不够、需要改进。",
+    "explanation": "题干说“一位海洋科学先驱认为考古学家应更努力地发表其研究成果”。L 段介绍 George Bass 是水下考古学的开创者之一（one of the pioneers of under-water archaeology），他主张 archaeologists need to do a better job themselves，并直言“Archaeology has a terrible reputation for not publishing enough on its excavations and finds”；pioneer marine scientist↔pioneers of under-water archaeology + researcher at Texas A&M，make greater efforts to publish↔在发表上做得不够、需要改进。",
+    "evidence": "He believes archaeologists need to do a better job themselves instead of routinely criticizing treasure hunters."
+   },
+   "42": {
+    "answer": "I",
+    "my_answer": "C",
+    "verified": false,
+    "conflict_reason": "文件答案为 I，我独立判断为 C。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 I 段讲法律风暴、2004年《沉没军用船只法》、2018年法院判法国胜诉以及普里切特损失的数百万资金和多年劳作，全段没有技术探测人造物品的内容。我的依据：题干说“近年来随着技术进步，打捞者如今能探测到埋在海底的极其珍贵的人造物品”。C 段写 In recent years, advances in radar, diving, detection equipment, computers, and GPS have transformed the hunt，并说 technology can reveal the precious artifacts that lie hidden on the ocean floor；technological advancement↔advances in radar, diving, detection equipment, computers, and GPS，invaluable man-made objects↔precious artifacts，lying buried under the sea↔hidden on the ocean floor。",
+    "explanation": "题干说“近年来随着技术进步，打捞者如今能探测到埋在海底的极其珍贵的人造物品”。C 段写 In recent years, advances in radar, diving, detection equipment, computers, and GPS have transformed the hunt，并说 technology can reveal the precious artifacts that lie hidden on the ocean floor；technological advancement↔advances in radar, diving, detection equipment, computers, and GPS，invaluable man-made objects↔precious artifacts，lying buried under the sea↔hidden on the ocean floor。",
+    "evidence": "The naked eye might see a pile of rocks, but technology can reveal the precious _artifacts_ (人工制品) that lie hidden on the ocean floor."
+   },
+   "43": {
+    "answer": "E",
+    "my_answer": "J",
+    "verified": false,
+    "conflict_reason": "文件答案为 E，我独立判断为 J。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 E 段讲双方互相指责、冲突规模扩大、政府与联合国教科文组织等各方卷入以及诉讼经年，全段没有出现律师，也没有“寻宝者不了解自己面对的是财力无穷的政府、所以很可能败诉”这一引语。另外，文件在 36 与 43 两题上给出的都是 E，而段落信息匹配每题只对应一个段落，同一字母重复出现本身就说明这套答案与本题不配套。我的依据：题干说“据一位律师说，许多寻宝者容易蒙受损失，因为他们没有意识到自己在法庭上面对的是财力更强的对手”。J 段引用 attorney David Concannon 的原话：Many treasure hunters don't understand they are going to have to fight for their rights against a government that has an endless supply of money for legal battles that treasure hunters are likely to lose；a lawyer↔attorney，susceptible to loss↔likely to lose，financially stronger opponent↔a government that has an endless supply of money。",
+    "explanation": "题干说“据一位律师说，许多寻宝者容易蒙受损失，因为他们没有意识到自己在法庭上面对的是财力更强的对手”。J 段引用 attorney David Concannon 的原话：Many treasure hunters don't understand they are going to have to fight for their rights against a government that has an endless supply of money for legal battles that treasure hunters are likely to lose；a lawyer↔attorney，susceptible to loss↔likely to lose，financially stronger opponent↔a government that has an endless supply of money。",
+    "evidence": "Many treasure hunters don't understand they are going to have to fight for their rights against a government that has an endless supply of money for legal battles that treasure hunters are likely to lose."
+   },
+   "44": {
+    "answer": "K",
+    "my_answer": "E",
+    "verified": false,
+    "conflict_reason": "文件答案为 K，我独立判断为 E。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 K 段讲考古学家反感给器物标虚高价格、认为沉船里样样都重要、不希望器物进私人收藏，讨论的是价值取向而非打捞者与考古学家如今彼此敌视的关系状态。我的依据：题干说“沉船宝藏的打捞者与海洋考古学家如今彼此敌视”。E 段描述双方互相指责（archaeologists see salvors as careless destroyers，salvors feel ... stolen from under them），并以 Where once salvors and archaeologists worked side by side, now they belong to opposing, and equally contemptuous, tribes 收束；now hostile to each other↔now they belong to opposing, and equally contemptuous, tribes（contemptuous 即“彼此轻蔑”）。",
+    "explanation": "题干说“沉船宝藏的打捞者与海洋考古学家如今彼此敌视”。E 段描述双方互相指责（archaeologists see salvors as careless destroyers，salvors feel ... stolen from under them），并以 Where once salvors and archaeologists worked side by side, now they belong to opposing, and equally contemptuous, tribes 收束；now hostile to each other↔now they belong to opposing, and equally contemptuous, tribes（contemptuous 即“彼此轻蔑”）。",
+    "evidence": "Where once salvors and archaeologists worked side by side, now they belong to opposing, and equally contemptuous, tribes."
+   },
+   "45": {
+    "answer": "G",
+    "my_answer": "K",
+    "verified": false,
+    "conflict_reason": "文件答案为 G，我独立判断为 K。（可核对的旁证：本套文件的答案与 2023-06-2 那套的答案逐项完全相同——选词填空十个词、段落匹配十个字母、精读十个字母无一不同——而两套原文毫无关系，可见这批答案是从别处整份复制来的。）文件所给的 G 段讲普里切特团队三年取得14份州许可证、每年工作250天、以投资人400万美元资金支持并用传感器扫描、绘制坐标地图，全段没有考古学家对器物归属与价格的态度。我的依据：题干说“考古学家希望器物帮助人类理解自己的过去，而不是被以离谱的价格卖给私人收藏者”。K 段先批评 Putting an inflated price on artifacts rather than viewing them as cultural and historical treasures ... irritates many archaeologists，末句又说 Archaeologists don't want artifacts ending up in a private collection instead of taking humanity on a journey of understanding；sold to private collectors at an outrageous price↔inflated price + ending up in a private collection，help humans understand their past↔taking humanity on a journey of understanding。",
+    "explanation": "题干说“考古学家希望器物帮助人类理解自己的过去，而不是被以离谱的价格卖给私人收藏者”。K 段先批评 Putting an inflated price on artifacts rather than viewing them as cultural and historical treasures ... irritates many archaeologists，末句又说 Archaeologists don't want artifacts ending up in a private collection instead of taking humanity on a journey of understanding；sold to private collectors at an outrageous price↔inflated price + ending up in a private collection，help humans understand their past↔taking humanity on a journey of understanding。",
+    "evidence": "Archaeologists don't want artifacts ending up in a private collection instead of taking humanity on a journey of understanding."
+   }
+  },
+  "article_zh": "A) 大多数游客来佛罗里达东北海岸的卡纳维拉尔角，是为了这里的旅游景点。这里拥有全球第二繁忙的邮轮港口，也是通往宇宙的门户。每年有近150万游客涌向这里，在肯尼迪航天中心游客中心观看火箭、航天器和卫星发射升空、飞向太阳系。近64公里未开发的海滩和648平方公里的保护区从这片海角的沙滩向外铺展开来。\n\nB) 然而，卡纳维拉尔角一些最具传奇色彩的看点却隐而未见，它们被卡在海底的泥与沙里，因为这一带素有“船只坟场”的恶名。几个世纪以来，数十艘宏伟的旧大陆帆船在这段海风强劲、海岸线不规则的佛罗里达海岸撞毁沉没。这些船为战争与贸易而造，航行全球，运载着从钱币到大炮、成箱的金银、成箱的珠宝与瓷器，以及来自加勒比海的珍珠。\n\nC) 卡纳维拉尔角是世界上殖民地时期沉船最集中的地方之一。近年来，雷达、潜水、探测设备、计算机和GPS的进步改变了这场搜寻。肉眼也许只看到一堆石头，但技术能揭示隐藏在海底的珍贵人工制品。\n\nD) 随着技术让海底变得更易触及，寻找满载宝藏的船只吸引了一股新的打捞人员和投资者的浪潮——以及希望让失落的遗物重见天日的海洋考古学家。但近来，当打捞者找到船只时，他们的权利在法庭上受到质疑。大问题是：谁该对这些宝藏拥有控制权？\n\nE) 围绕沉船的高风险争斗使考古学家与寻宝者陷入相互指责的恶性循环。考古学家视自己为历史的保护者，把打捞者看作粗心的破坏者；打捞者则觉得自己做的是搜寻船只的苦活，结果一找到就被从眼皮底下夺走。这类冲突必然大规模上演。除了打捞者、投资者和作为专家证人的海洋考古学家之外，这些争斗还把地方与国际政府以及像联合国教科文组织这样致力于保护水下遗产的组织卷入其中。随之而来的诉讼一拖数年。是先到先得，还是这些船属于几个世纪前建造并派它们出海的国家？昔日并肩工作的打捞者与考古学家，如今分属两个相互对立、同样彼此轻蔑的阵营。\n\nF) 地球海底沉睡着近300万艘船——从古老的独木舟到泰坦尼克号——而已被探索的可能不足百分之一。有些船——比如在希腊安提基特拉附近发现的一艘古罗马船，年代在公元前70年至公元前60年之间，载有惊人精密的齿轮和用于依太阳导航的刻度盘——对重新理解我们的过去至关重要。难怪从打捞者到学者，人人都对它们心怀长久的躁动。\n\nG) 2016年5月，佛罗里达州坦帕的环球海洋勘探公司（GME）总裁、名为博比·普里切特的打捞者宣布，他在卡纳维拉尔角外一公里处发现了某艘船散落的遗存。此前三年里，他和船员取得了14份州许可证，勘察海角外近260平方公里的海域；他们一年工作250天，他说背后有400万美元的投资人资金支持。这是辛苦活。船员天不亮就起身，拖着传感器在考察船后一趟趟来回，日复一日、年复一年，以探测任何金属。借助计算机技术，普里切特和船员绘制出精细的、按颜色编码的地图，上面标着数千处发现的GPS坐标，而这些全都隐在一米厚的沙下，肉眼看不见。\n\nH) 2015年的一天，磁力计探测到的金属结果是一门铁炮；当潜水员把沙子冲开时，他们还发现了一门更珍贵的青铜炮，上面的标记表明它属于法国王室，不远处还有一根刻着法国纹章的大理石柱，这种纹章见于历史画作。这一发现值得庆祝。这些器物表明潜水员很可能找到了“拉特里尼泰号”的残骸，那是一艘16世纪的法国船，曾处于法西之间一场改变了美国命运的血腥战役的中心。\n\nI) 随后法律风暴开始了，GME和普里切特对上佛罗里达州和法国。2004年的《沉没军用船只法》是美国联邦法，保护任何执行军事任务的船只，允许原属国在几个世纪后仍可主张其船只。2018年，在普里切特发现沉船整整两年之后，联邦地区法院判法国胜诉。对普里切特而言，这一判决是毁灭性的。数百万美元的投资人资金和多年劳作的成果都付诸东流。\n\nJ) 但这远不是第一次打捞者失去对其发现的所有权。例如2012年，西班牙在历时五年的诉讼中战胜了奥德赛海洋探索公司，该公司曾把从葡萄牙海岸外一艘西班牙沉船上打捞的59.4万枚金银币运过大西洋送到美国。“寻宝者可能很天真，”律师戴维·康坎农说，他曾有几位海洋考古学家做委托人，并在围绕泰坦尼克号的争斗中代表过双方长达20年。“许多寻宝者不明白，他们得为自身权利去同一个为官司准备着无穷资金的政府抗争，而这些官司寻宝者很可能会输。”\n\nK) 真正让许多考古学家反感的，是给器物贴上虚高的价格，而不是把它们看作超越任何价格的文化与历史瑰宝。在考古学家看来，沉船里的一切都重要——头发、织物、一片报纸碎片、老鼠骨头——样样都能说明很多。考古学家不希望器物最终进入私人收藏，而不是带人类踏上一段理解的旅程。\n\nL) 乔治·巴斯是水下考古学的开创者之一，也是得克萨斯A&M大学的研究员。他曾在法庭上指证寻宝者，但他说考古学本身也有严重问题。他认为考古学家应该自己做得更好，而不是照例批评寻宝者。“考古学有个糟糕的名声，就是因为对它的发掘与发现发表得不够，”他说。收集数据、挖出并精心保存与检验发现物、核实其身份与来源、拼合出更大的故事、撰写并发表一篇全面的论文或一本书，可能要花几十年。巴斯略带嘲讽地描述那些因等得太久而生病或去世、从未发表成果的同行。巴斯问：谁的过错更大——是仔细发掘一处遗址却从不就此发表成果的专业考古学家，还是找到一处水下沉船、打捞一部分、保存一部分、并就此出版一本书的寻宝者？\n\nM) 普里切特承认他的发现值得仔细发掘与保存。“我认为我找到的东西应该进博物馆，”他说。“但我也认为我应该为我的发现得到报酬。”确实，政府、考古学家和寻宝者为什么不能合作，以及为什么在原主取得船只及其器物之前不给打捞者一笔可观的发现者酬金，这实在是个谜。"
+ },
+ "careful": {
+  "2023-12-2-careful-1": {
+   "passage_zh": "你能在四年半里完全不用互联网吗？歌手兼演员赛琳娜·戈麦斯为了改善心理健康，正是这样做的。\n\n她曾详细谈过自己使用社交媒体与心理健康之间的关系，回忆2016年自己成为Instagram上粉丝最多的人时，感觉像个“瘾君子”。“远离社交媒体是我为自己的心理健康做过的最好的决定，”她说。“我一放下手机，那些无谓的憎恨和比较就消失了。”\n\n不过，彻底放弃整个网络要微妙和复杂得多。我们社会日益数字化，意味着从缴纳燃气费、规划去朋友家的路线，甚至打个电话，一切都要听凭网络连接的摆布。主动选择不用互联网因此成了一件关乎特权的事。\n\n戈麦斯女士亿万富翁的身份让她得以把“社交”从社交媒体中拿掉，于是她既能继续利用自己巨大的名气，又能让那些恶意挑衅的帖子无法近身。她如今仍是Instagram上粉丝第二多的女性，这一事实说明：通过一个专门的团队维持重要的网络形象来宣传各种项目，同时不必面对残酷的评论、仇恨邮件以及强奸或死亡威胁，是完全可能的。\n\n不用说，这与我们这些既没有美容生意、也没有电影要宣传的人使用Instagram、TikTok和Twitter的方式有本质区别；但即便是“数字戒瘾”这一概念，也要求你首先拥有一台设备和网络连接，才有资格选择断开连接。\n\n过去两年，英国的数字化鸿沟加剧了，使较贫困的家庭家中没有宽带连接。数字排斥是对英国更广泛社会平等的重大威胁，因此，当小学生们还在为完成作业发愁时，却看到Facebook这类公司把“元宇宙”吹捧为下一个伟大前沿，就格外令人不悦。\n\n因此值得记住：虽然注销所有社交媒体账号无疑会让一些人感觉无限好起来，但还有许多人从分享平台所能培育出的强烈社群感中受益。\n\n随着我们进一步迈向web 3.0，互联网接入的重要性会持续上升，需要更多资源与举措，为弱势群体提供他们迫切需要的、用于学习、工作和生活的网络连接。至关重要的是：让那些觉得社交媒体正在损害自己心理健康的人可以关掉它，也让那些处于数字排斥之中的人首先能够把它打开。",
+   "questions": {
+    "46": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "That's exactly what singer and actress Selena Gomez has done in a bid to improve her mental health.",
+     "explanation": "题干问“过去四年半里我们了解到赛琳娜·戈麦斯的什么”。首段先设问：能否四年半不用互联网？随后回答 That's exactly what singer and actress Selena Gomez has done（这正是她所做的）——即她一直在避开使用网络/社交媒体；第2段又说“一旦我放下手机”，并称远离社交媒体是为心理健康做过的最好的决定。B 项 She has refrained from using social media 正是“她一直克制、不使用社交网络”的概括。",
+     "distractors": {
+      "A": "方向相反：首段明确她的目的是 improve her mental health，第2段说放下手机后 the unnecessary hate and comparisons went away，并称这是“最好的决定”，说明心理状况好转；worsening mental problems 与原文的改善方向相反。",
+      "C": "时间错位：成为 Instagram 粉丝最多的人是她在2016年的经历（when she became Instagram's most followed user in 2016），并不属于“过去四年半”；而且 has won Instagram's most followers 说她“赢得了最多粉丝”，与原文她此后恰恰弃用社交媒体的重点不符。",
+      "D": "词义误读并虚构内容：原文 a bid to improve her mental health 中的 bid 意为“努力、尝试”，不是“投标、竞标”，说她 succeeded in a bid on the internet 既误读了 bid，也凭空造出了“网上竞标”这件事。"
+     }
+    },
+    "47": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "The increasing digitisation of our society means that everything from paying a gas bill to plotting a route to a friend's house and even making a phone call is at the mercy of your internet connection.",
+     "explanation": "第3段先交代了原因：社会日益数字化，使缴燃气费、规划路线、打电话等一切日常事务都 at the mercy of your internet connection（听凭网络连接摆布），紧接着才得出结论——主动选择不用互联网 thus 成了一种特权。也就是说，普通人已很难脱离网络过日子。C 项 growing digitisation 对应 increasing digitisation，can hardly get by without the internet 对应 everything ... is at the mercy of your internet connection。",
+     "distractors": {
+      "A": "答非所问：subtle and complicated 是作者对“彻底弃网”这一举动本身的评价（a far more subtle and complicated prospect），并不是“成为特权”的原因；原文也没说“多数人觉得复杂”。",
+      "B": "张冠李戴：远离憎恨与比较是第2段戈麦斯自己放下手机后的收获（The unnecessary hate and comparisons went away），它回答的是“戈麦斯为何感觉变好”，并没有回答“普通人为何难以弃网”这一特权问题。",
+      "D": "无中生有：全文没有“人们未意识到自己已严重上瘾”的论述；an addict 只出现在戈麦斯回忆2016年成为 Instagram 粉丝最多者时的自我感受，并非对多数人的判断。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "Digital exclusion is a major threat to wider societal equality in the UK, so witnessing companies like Facebook championing the _metaverse_ (元宇宙) as the next great frontier when schoolchildren are struggling to complete their homework feels particularly irritating.",
+     "explanation": "该句是 so 连接的因果句：前半句给出前提——数字排斥已经是对英国更广泛社会平等的重大威胁；后半句说，在这种情形下看到 Facebook 等公司把元宇宙吹捧为“下一个伟大前沿”，而学童连作业都做不完，所以格外令人不悦。令人不悦的根据正是这种“前沿叙事”会让本已威胁社会平等的数字鸿沟进一步恶化，即 A。",
+     "distractors": {
+      "B": "无中生有：原文没有讨论元宇宙是否虚妄、能否实现（illusory），作者批评的是在数字鸿沟未弥合时就把元宇宙当作下一个前沿来推销，而非其可行性。",
+      "C": "引申虚构：原文只说 schoolchildren are struggling to complete their homework（学童难以完成作业），并未说孩子会因此“被拉得离现实世界更远”，这是原文没有的推论。",
+      "D": "范围扩大：原文是 leaving poorer families without broadband connections（较贫困家庭没有宽带），D 项改成 Most families in the UK（英国大多数家庭），把“部分贫困家庭”扩大为“多数家庭”。"
+     }
+    },
+    "49": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "Consequently, it's worth bearing in mind that while deleting all social media accounts will undoubtedly make some feel infinitely better, many other people benefit from the strong sense of community that sharing platforms can breed.",
+     "explanation": "该句用 while 作让步：注销账号会让一些人感觉好得多；但主句说 many other people benefit from the strong sense of community that sharing platforms can breed——即分享平台能培育强烈的社群感，让许多人受益，也就是帮助很多人感到自己与他人相连。B 项 help many people feel connected with others 正对应 benefit from the strong sense of community。",
+     "distractors": {
+      "A": "语义反转：第6段明说数字排斥（digital exclusion）是对更广泛社会平等的重大威胁，社交平台在此不是促进平等的力量；A 项把原文对数字鸿沟的批评反扣到平台身上。",
+      "C": "张冠李戴：第5段说数字戒瘾 requires having a device and connectivity（需要先有设备和连接），讲的是“能戒瘾的前提条件”，与“社交平台提供必要设备”完全是两回事。",
+      "D": "偷换概念：原文强调的是 the strong sense of community（强烈的情感性社群感），D 项换成 create a virtual community on the internet，把“社群感”替换为“网络虚拟社区”这一技术形态，偏离了作者所强调的人际联系。"
+     }
+    },
+    "50": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "greater resources and initiatives are needed to provide the underprivileged with the connectivity they desperately need to learn, work, and live.",
+     "explanation": "第8段说需要更多资源与举措为弱势群体提供 connectivity（网络连接），末句更直接：让那些 living in digital exclusion 的人 to be able to switch on in the first place——首先要“能打开”网络。对处于数字排斥中的人来说，真正重要的是先获得上网条件，即 A。",
+     "distractors": {
+      "B": "偷换目标：原文要提供的是 connectivity（连接），教育资源只是这种连接“用于学习、工作、生活”的用途之一（to learn, work, and live），B 项把手段的用途当成了目的本身。",
+      "C": "张冠李戴：web 3.0 是作者交代的时代背景（as we edge further towards web 3.0），“迈向 web 3.0”不是给数字排斥者的建议或他们真正需要的东西。",
+      "D": "方向相反：全文正是在批评社交媒体的负面效应，作者对处于数字排斥者的要求是“首先能连上网”（switch on in the first place），而不是“开更多账号”；opening more accounts 与 switch on 语义完全不同。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "get by",
+     "meaning": "勉强过活，设法应付",
+     "note": "get by without using the internet 不用互联网也能过日子；第46题题干出处"
+    },
+    {
+     "word": "ditch",
+     "meaning": "抛弃，丢掉；彻底放弃",
+     "note": "Ditching the web at large 干脆不用整个网络；比 give up 更口语"
+    },
+    {
+     "word": "at the mercy of",
+     "meaning": "听凭……摆布，受……支配",
+     "note": "at the mercy of your internet connection 全看网络连接；固定搭配，第47题考点"
+    },
+    {
+     "word": "digitisation",
+     "meaning": "数字化",
+     "note": "the increasing digitisation of our society 社会日益数字化（英式拼写，美式 digitization）"
+    },
+    {
+     "word": "opt out (of)",
+     "meaning": "选择退出，主动不参与",
+     "note": "opt out of using the internet 选择不使用互联网；与 opt in 相对"
+    },
+    {
+     "word": "leverage",
+     "meaning": "利用（资源、优势）",
+     "note": "leverage her enormous fame 利用她巨大的名气"
+    },
+    {
+     "word": "keep ... at bay",
+     "meaning": "使……无法近身，挡住",
+     "note": "keep the trolls at bay 把恶意挑衅者挡在外面；at bay 亦见于 keep inflation at bay"
+    },
+    {
+     "word": "detrimental",
+     "meaning": "有害的，不利的",
+     "note": "have a detrimental effect on mental health 对心理健康有害；近义 harmful"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "The increasing digitisation of our society means that everything from paying a gas bill to plotting a route to a friend's house and even making a phone call is at the mercy of your internet connection.",
+    "analysis": "主干：The increasing digitisation of our society means that ...（社会日益数字化意味着……）。主语是 The increasing digitisation of our society，谓语 means，that 引导宾语从句。从句主干为 everything ... is at the mercy of your internet connection，其中 from paying a gas bill to plotting a route to a friend's house and even making a phone call 是由 from ... to ... 构成的介词短语作后置定语，修饰 everything，列举三种日常事务并层层递进（even 提示程度加深：连打个电话都算）；三个并列成分均为动名词短语，故保持 paying / plotting / making 的形式一致。is at the mercy of 意为“听凭……摆布”，是本句的语义重心：所有日常事务的成败都取决于网络连接，这正是第47题“弃网为何成为特权”的依据。"
+   }
+  },
+  "2023-12-2-careful-2": {
+   "passage_zh": "心理学家长期以来一直对竞争究竟是人类行为中习得的成分还是遗传的成分意见不一。无论它是什么，你都不得不承认竞争在学业以及当代生活的许多其他领域所施加的影响。\n\n从心理学上讲，竞争一直被视为人类各种内驱力的必然结果。按照西格蒙德·弗洛伊德的说法，人一出生就尖叫着寻求关注，并充满在各种领域获得满足的本能驱力。起初，我们竞争的是父母的关注。此后，我们便处在两种力量的争斗之中、听凭其摆布：一边是为自我实现的基本冲动，另一边是禁止纯粹放纵的社会与文化规范。\n\n然而，当前人类学的研究表明，这种关于竞争在人类行为中作用的看法可能是错误的。17世纪的伟大哲学家之一托马斯·霍布斯也许最为人所铭记的，是他把“自然世界”，即人类意志强加于世界之前的世界，描述为“肮脏、野蛮而短暂”。这种关于前理性世界的图景至今仍被广泛持有，并被查尔斯·达尔文极具影响力的《物种起源》所强化，该书确立了自然选择的学说。这一学说不加质疑地认定：那些最能适应并掌控自己所处自然环境的物种将会生存下来，从而暗示生存斗争是一种固有的人类特性，决定着一个人的成功。达尔文的理论甚至被概括为“适者生存”——而这一说法达尔文自己从未用过——从而进一步突出了竞争在成功中的作用。\n\n然而，正如人们常常指出的，自然选择这一概念中没有任何内容表明竞争是“适者生存”最成功的策略。达尔文在《物种起源》中断言，他所描述的那些斗争应被视为隐喻，并且完全可以包含依赖与合作。\n\n为检验不同文化对竞争相对于合作等其他价值的重视程度，人们做过许多研究，结论大体是：美国人独特地把竞争赞为自然的、不可避免的和可取的。1937年，世界著名人类学家玛格丽特·米德根据她对若干并不推崇竞争的社会的考察，出版了《原始民族的合作与竞争》，这些社会事实上有时似乎还对竞争赋予负面价值。其中一个社会是亚利桑那州的祖尼印第安人，米德发现他们重视合作远甚于竞争。在研究了数十个这样的文化之后，米德的最终结论是：竞争性是文化所塑造的人类行为的一个方面，而它在某一社会中的普遍程度，取决于该社会对它的重视程度。",
+   "questions": {
+    "51": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "Whatever it is, you cannot but recognize the effect competition is exerting in academics and many other areas of contemporary life.",
+     "explanation": "题干问作者认为在当代生活的许多领域里什么是显而易见的。首段末句用 cannot but（不能不、必然）表示“无法不承认”，其宾语正是 the effect competition is exerting in academics and many other areas of contemporary life——竞争在学业和当代生活许多其他领域所产生的影响，与 D 项 The impact of competition 完全对应（effect→impact）。",
+     "distractors": {
+      "A": "张冠李戴：首段确实提到心理学家对竞争是习得还是遗传意见不一（have long been in disagreement），但那是学者之间的分歧，不是“在当代生活许多领域中显而易见”的现象；题干问的是 areas of contemporary life 中的情形。",
+      "B": "概念错位：psychological investigation 是第2段“从心理学上讲”的论述框架，原文从未说“心理学研究的后果”在生活各领域随处可见；consequence 在原文只出现在 an inevitable consequence of human drives 这一短语里，说的是竞争与人类驱力的关系，并不涉及“心理学研究带来了什么后果”。",
+      "C": "范围过窄：human drives 只是第2段弗洛伊德式解释里的动力来源，原文并未说“人类驱力”本身在当代生活各领域显而易见，题干指向的是首段末句所说的 effect competition。"
+     }
+    },
+    "52": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "Thereafter, we are at the mercy of a battle between our base impulses for self-fulfillment and social and cultural norms which prohibit pure indulgence.",
+     "explanation": "第2段按人生顺序推进：最初我们争夺父母的关注（Initially, we compete for the attention of our parents）；Thereafter（此后）我们便听凭一场争斗的摆布——一方是为自我实现的基本冲动（base impulses for self-fulfillment），另一方是禁止纯粹放纵的社会文化规范。也就是说，人既想满足自己的欲望，又必须遵守社会规范，D 项 satisfy their own desires while observing social conventions 正是对这两股力量并存的概括。",
+     "distractors": {
+      "A": "曲解原文：原文说的是 basic impulses 与 social and cultural norms 之间的“争斗”（a battle ... at the mercy of），A 项却改成“满足个人需要而不引发人类驱力的不良影响”，凭空添加了“不产生不良影响”这一结果。",
+      "B": "主客颠倒：原文把 indulgence（放纵）归于 base impulses，把 prohibit pure indulgence（禁止放纵）归于社会文化规范；B 项说“沉溺于文化追求而把基本冲动挡住”，把冲动与规范各自的立场完全对调。",
+      "C": "无中生有：原文只谈自我实现（self-fulfillment）与放纵之间的张力，从未提到“获得广泛认可”（extensive recognition），该说法在原文中没有依据。"
+     }
+    },
+    "53": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "Thomas Hobbes, one of the great philosophers of the seventeenth century, is perhaps best remembered for his characterization of the “natural world,” that is, the world before the imposition of the will of humanity, as being “nasty, brutish, and short.”",
+     "explanation": "第3段介绍霍布斯时，用 that is 对“自然世界”作出界定：the world before the imposition of the will of humanity——人类意志被强加于世界之前的世界，也就是尚未受到人类理性干预的状态。C 项 free from the rational intervention of humans 正是这一界定的同义改写（before the imposition of the will of humanity = 没有人类理性的介入）。",
+     "distractors": {
+      "A": "无中生有：原文只说这一图景 is still widely held（至今仍被广泛持有），并提到它被达尔文的理论所强化，从未说它被哲学家和人类学家“曲解/误传”（misrepresented）。",
+      "B": "张冠李戴：达尔文的《物种起源》对这幅图景是“强化”（reinforced）作用，并确立了自然选择学说，原文没有说达尔文“扭曲”了霍布斯笔下的自然世界。",
+      "D": "与原文相反：原文说 This image of the pre-rational world is still widely held（这种前理性世界的图景至今仍被广泛持有），D 项却说它 rarely appreciated nowadays（如今鲜有人欣赏），与 still widely held 直接矛盾。"
+     }
+    },
+    "54": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "Darwin asserted in _The Origin of Species_ that the struggles he was describing should be viewed as metaphors and could easily include dependence and cooperation.",
+     "explanation": "第4段先指出自然选择概念中并无“竞争是最成功策略”之意，随后引达尔文自己的话作结：他所描述的种种斗争应被视为隐喻，并且 could easily include dependence and cooperation——即生存斗争完全可以包含依赖与合作，并不排斥相互扶持，B 项 Struggles for survival do not exclude mutual support 正是此意（do not exclude↔could easily include）。",
+     "distractors": {
+      "A": "绝对化并扩大范围：原文是 could easily include dependence and cooperation（可以包含依赖与合作），A 项改成 All species inherently depend on others for survival（所有物种本质上都依赖他者才能生存），把“可能包含”变成“必然全部如此”。",
+      "C": "曲解原意：本段主旨恰恰是 competition is not the most successful strategy（竞争并非最成功的策略），C 项却说竞争与合作“权重相当”（weighs as much as），原文并未作这种等量比较。",
+      "D": "概念偷换：survival of the fittest 是后人的概括，原文特别点明 a phrase Darwin himself never used；而 fittest 指“最适应环境的”，并不等于“最强壮的”，D 项把 fitness 误作 the strongest。"
+     }
+    },
+    "55": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "After studying dozens of such cultures, Mead's final conclusion was that competitiveness is a culturally created aspect of human behavior, and that its prevalence in a particular society is relative to how that society values it.",
+     "explanation": "第5段末句给出米德研究数十个文化后的 final conclusion：竞争性是文化所塑造的人类行为的一个方面（a culturally created aspect），其在某一社会中的普遍程度 relative to how that society values it（取决于该社会如何评价它）。也就是说，人们对竞争的态度由文化决定，D 项 culture-bound（受文化制约）正是对这一结论的准确概括。",
+     "distractors": {
+      "A": "与结论相反：米德恰恰否定了“竞争是人类固有特性”，她认为 competitiveness is a culturally created aspect of human behavior；A 项把它当作人的特征，与原文结论相反。",
+      "B": "张冠李戴并夸大：关于美国人的研究结论是 Americans uniquely praise competition（美国人独特地推崇竞争），B 项却改成“美国人独特地反对合作”，既偷换了对象（praise competition≠oppose cooperation），也把有关美国人的局部结论顶替了米德关于数十个文化的最终结论。",
+      "C": "无中生有：原文比较的是同一社会内部对其重视程度的相对关系（relative to how that society values it），从未提出“西方社会竞争相对更普遍”这类地域对比。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "inevitable",
+     "meaning": "不可避免的，必然的",
+     "note": "an inevitable consequence of human drives 人类驱力的必然结果"
+    },
+    {
+     "word": "impulse",
+     "meaning": "冲动，一时的念头",
+     "note": "base impulses for self-fulfillment 追求自我实现的基本欲望；第52题考点"
+    },
+    {
+     "word": "indulgence",
+     "meaning": "放纵，沉溺",
+     "note": "prohibit pure indulgence 禁止纯粹的放纵；动词 indulge"
+    },
+    {
+     "word": "prohibit",
+     "meaning": "禁止，阻止",
+     "note": "prohibit pure indulgence 禁止纯粹的放纵；prohibit sb from doing sth"
+    },
+    {
+     "word": "anthropology",
+     "meaning": "人类学",
+     "note": "work in anthropology 人类学领域的研究；形容词 anthropological"
+    },
+    {
+     "word": "doctrine",
+     "meaning": "学说，教义，信条",
+     "note": "the doctrine of natural selection 自然选择学说"
+    },
+    {
+     "word": "inherent",
+     "meaning": "内在的，固有的",
+     "note": "an inherent human trait 固有的人类特性"
+    },
+    {
+     "word": "prevalence",
+     "meaning": "普遍程度，盛行",
+     "note": "its prevalence in a particular society 它在某一社会中的普遍程度；形容词 prevalent"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "This doctrine, which takes for granted that those species best able to adapt to and master the natural environment in which they live will survive, has suggested that the struggle for survival is an inherent human trait which determines a person's success.",
+    "analysis": "主干：This doctrine ... has suggested that ...（这一学说暗示……）。主语 This doctrine 与谓语 has suggested 被一个非限制性定语从句隔开：which takes for granted that ...（该学说把……视为理所当然）。该从句内部，takes for granted 后接 that 引导的宾语从句，从句主干是 those species will survive，其中 best able to adapt to and master the natural environment 是形容词短语作后置定语修饰 those species，in which they live 是定语从句修饰 the natural environment（they 指 those species）。主句谓语 has suggested 之后再接一个 that 宾语从句，主干为 the struggle for survival is an inherent human trait，句末 which determines a person's success 是定语从句修饰 trait。整句意思是：自然选择学说“理所当然地”假定最能适应并掌控环境的物种才能存活，由此暗示生存斗争是决定个人成功的固有人性——而这正是下文作者要反驳的推论。"
+   }
+  }
+ }
+}

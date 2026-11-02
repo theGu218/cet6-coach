@@ -1,0 +1,441 @@
+{
+ "exam": "2023-06-2",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "词性：after 后接动名词，且需与 in 构成固定搭配；indulge in 意为“纵情于、沉溺于”，indulging in a huge meal 即“大吃一顿”，与上文 a powerful urge to keep eating 的语境吻合。语义上“即使已经在一顿大餐中放纵过，仍想继续吃”才能推出下文的 insatiable hunger。",
+    "evidence": "But some people experience a powerful urge to keep eating, even after {26} in a huge meal",
+    "distractors": {
+     "C": "词形错误：conceded 是过去式/过去分词，after 后需要表主动的动名词；且 concede（承认、让步）无法描述“吃”这一动作，语义不搭。",
+     "D": "词性错误：conservation 是不可数名词，不能作 after 的宾语并接 in；“保护、保存”义无法描述“吃进一顿大餐”这一行为。",
+     "O": "词性错误：unmatchable 是形容词，不能跟在 after 后面作宾语；“无可匹敌的”无法描述“吃进一顿大餐”。"
+    }
+   },
+   "27": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "词性：需要形容词修饰复数名词 health issues。语义与搭配：innumerable 意为“无数的、数不清的”，与 obesity correlates with ... health issues 的“肥胖关联众多健康问题”完全一致，且与后文 even linked to increased mortality risk 形成递进。",
+    "evidence": "most adults are well-versed in the dangers of obesity, which researchers have shown correlates with {27} health issues",
+    "distractors": {
+     "E": "语义方向相反：diminishing 意为“不断减少的”，而本句强调肥胖与“众多”健康问题相关；diminishing health issues 也与 health issues 的数量语义相冲突。",
+     "O": "搭配不成立：unmatchable 意为“无可匹敌的”，不能用来修饰 health issues 表数量之多，与 correlates with 的相关关系也不搭。",
+     "F": "词性/语义错误：far 表距离或程度，不能直接作定语修饰 health issues。"
+    }
+   },
+   "28": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "词性：increased ___ risk 需要名词作前置定语。语义与搭配：mortality risk 是“死亡风险”的固定搭配，与上文 obesity ... correlates with health issues 构成从“健康问题”到“死亡风险”的递进，逻辑最顺。",
+    "evidence": "and is even linked to increased {28} risk",
+    "distractors": {
+     "D": "搭配不成立：conservation 意为“保护、保存”，conservation risk 不是英语搭配；此处需要表“死亡”的名词。",
+     "L": "语义错误：plights 意为“困境”，plights risk 结构不成立，也无法承担“与肥胖相关的程度递进”这一含义。",
+     "K": "搭配不成立：odds 本身已含“可能性、几率”义，不与 risk 叠用构成 odds risk。"
+    }
+   },
+   "29": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "词性：two main 后需可数名词复数作中心词，且后面冒号列举两项。语义：attributes 意为“特征、属性”，two main attributes: not being satisfied by eating, and having a desire to stay sedentary 正好是两条特征，冒号解释关系成立。",
+    "evidence": "It is characterized by two main {29}: not being satisfied by eating, and having a desire to stay _sedentary_ (久坐不动的).",
+    "distractors": {
+     "D": "词性错误：conservation 是不可数名词，不能作 two main 之后的可数复数中心词。",
+     "L": "褒贬/语义错位：plights 指“困境、苦难”，而冒号后列举的是两条中性描述性特征，two main plights 也与 be characterized by 的“特征”义不符。",
+     "K": "搭配不成立：odds 作“几率”解时不用于 two main odds 这种列举结构，冒号后也并非在谈概率。"
+    }
+   },
+   "30": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "搭配：at odds with 是固定短语，意为“与……不一致、相矛盾”。语义：上文说贪食且想久坐，本句说“这与人类的生物学程序设定（古人吃饱后反而想活动）不一致”，逻辑衔接严密。",
+    "evidence": "This is at {30} with how humans are biologically programmed.",
+    "distractors": {
+     "F": "搭配不成立：at far with 不是英语短语，far 无法填入 at ... with 这一固定结构。",
+     "O": "词性错误：unmatchable 是形容词，且 at unmatchable with 无此搭配；此处需要名词构成 at odds with。",
+     "D": "搭配不成立：at conservation with 无此短语，conservation 也不含“矛盾、不一致”义。"
+    }
+   },
+   "31": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "词性：需要形容词修饰 mechanism。语义与搭配：regulatory mechanism 意为“调节机制”，与后文 for preventing the accumulation of excess weight 的功能描述一致——大脑通过“调节”来防止体重积累。",
+    "evidence": "which is the brain's {31} mechanism for preventing the accumulation of excess weight",
+    "distractors": {
+     "D": "语义错位：conservation mechanism 字面为“保护机制”，但此处强调大脑对体重的“调控”，与 preventing the accumulation of excess weight 的调节含义不符。",
+     "A": "词性错误：attributes 是名词复数，不能作前置定语修饰单数名词 mechanism。",
+     "C": "词形错误：conceded 为过去式/过去分词，不能作前置定语修饰 mechanism；concede 的“承认、让步”义也无法修饰“机制”。"
+    }
+   },
+   "32": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "搭配与词性：be inclined to do sth 意为“倾向于做某事”，naturally inclined to eat less 正好解释“补偿机制”——早上吃得多，之后自然倾向少吃。",
+    "evidence": "if you eat one large meal in the morning, you are naturally {32} to eat less for the rest of the day.",
+    "distractors": {
+     "E": "语法不成立：diminishing 后不能接 to eat less 构成“倾向于做”的结构，且“不断减少的”与 naturally 搭配不通。",
+     "F": "搭配不成立：be far to do 不是英语结构，far 不能表达“倾向于”。",
+     "O": "搭配错误：unmatchable to eat less 无此结构，且“无可匹敌的”无法说明“自然少吃一点”的倾向。"
+    }
+   },
+   "33": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "搭配：worse still 是固定插入语，意为“更糟的是”，用于在分号后递进，说明情况比“七成成年人失去补偿能力”更严重。",
+    "evidence": "worse {33}, a significant number of them report {34} hunger halfway through an eating session",
+    "distractors": {
+     "F": "搭配不成立：worse far 不是固定表达，far 也不能作插入语连接前后两个分句。",
+     "O": "词性错误：unmatchable 是形容词，无法与 worse 构成“更糟的是”这一插入语；此处需要副词 still。",
+     "D": "语义不成立：worse conservation 会被读成“更糟的保护”，无法表达递进评注“更糟的是”。"
+    }
+   },
+   "34": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "词性：需要现在分词作定语修饰 hunger（表进行、渐变的性质）。语义：diminishing hunger 意为“正在减弱的饥饿感”，与 but by the end of the meal 的转折（中途饥饿感减弱，结束时却一样饿或更饿）严丝合缝。",
+    "evidence": "a significant number of them report {34} hunger halfway through an eating session, but by the end of the meal, they feel the same or higher levels of hunger than when they sat down.",
+    "distractors": {
+     "C": "语义错误：concede 意为“承认、让步”，conceded hunger 既不表“饥饿感减弱”，也与后半句“结束时更饿”的转折矛盾。",
+     "K": "词性错误：odds 是名词，不能作定语修饰 hunger。",
+     "O": "语义矛盾：unmatchable hunger（无可匹敌的饥饿）与“中途减弱、结束时回升”的对比逻辑相反，此处需要“逐渐减弱”义。"
+    }
+   },
+   "35": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "搭配与词性：be comprised of 意为“由……构成”，the modern diet is comprised of food high in sugar, carbohydrates and calories 说明现代饮食的构成成分，与上文“现代饮食是主因”的判断一致。",
+    "evidence": "Dr. Thompson argues that the main cause of this phenomenon is the modern diet, which is {35} of food high in sugar, carbohydrates and calories.",
+    "distractors": {
+     "D": "结构不成立：be conservation of 无法表达“由……构成”，conservation of 意为“对……的保护”。",
+     "O": "搭配不成立：be unmatchable of 不是英语结构，unmatchable 不接 of 短语。",
+     "A": "语义/结构错位：be attributes of 意为“是……的属性”，主语会变成“属性”而非“饮食的构成”，与 be comprised of 的构成义不符。"
+    }
+   }
+  },
+  "passage_zh": "设想你坐下来吃一顿丰盛的晚餐：一大块牛排、一大份炸土豆，外加作为甜点的蛋糕。吃了这么多之后，你应该饱得再也吃不下一口。但有些人会有一股强烈的继续吃的冲动，即使是在{26}于一顿大餐之后；这种行为几乎说不通，因为大多数成年人都深知肥胖的危险——研究表明，肥胖与{27}健康问题相关，甚至与死亡{28}风险上升有关。但有些人仍然在该停下很久之后继续吃，苏珊·汤普森博士把这种现象称为“永不满足的饥饿”。它有两个主要{29}：怎么吃都不满足，以及想保持久坐不动。\n\n这与人类的生物学程序设定恰好{30}（相矛盾）。在食物十分充足的年代，古人会大吃高热量食物；这种大量摄入热量伴随着想要活动的冲动。人类还被设定了所谓的“补偿”机制，即大脑为防止多余体重积累而具备的{31}机制。有了补偿，如果你早上吃了一顿大餐，你在当天余下的时间里自然会{32}少吃一些。\n\n但近期研究表明，70%的美国成年人已经失去了对所摄入热量进行自然补偿的能力；更{33}的是，其中相当多的人表示，在进食过程进行到一半时饥饿感正在{34}，但到用餐结束时，他们感到的饥饿程度与坐下时相同甚至更高。汤普森博士认为，造成这一现象的主要原因是现代饮食，它{35}高糖、高碳水化合物和高热量的食物。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "同义改写：题干“self-esteem depending on other people's opinion”对应 E 段首句对 socially prescribed perfectionism 的定义“My self-esteem is contingent on what other people think”，contingent on = depending on，且明确出现 Curran describes ... as 的定义句式。",
+    "evidence": "My self-esteem is contingent on what other people think."
+   },
+   "37": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "信息对应：A 段写普莱尔“听说研究生一次在实验室里待 12 到 18 个小时”，且“人们不再邀请他们参加社交聚会或晚餐派对”，长工时与缺少娱乐、社交两条信息集中在同一段，与题干 work such long hours / little time for entertainment or socializing 完全对应。",
+    "evidence": "She has heard of graduate students spending 12 to 18 hours at a time in the lab."
+   },
+   "38": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "同义改写：F 段首句 Perfectionism can, of course, be a positive force 与题干 perfectionism may sometimes be constructive 对应（positive force = constructive，can be = may sometimes be），其后以职业运动员为例说明积极面。",
+    "evidence": "Perfectionism can, of course, be a positive force."
+   },
+   "39": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "信息对应：C 段首句 perfectionism seems to be on the rise（完美主义似乎在上升），随即用对美、加、英数千名大学生的研究数据说明“如今的大学生报告的完美主义水平高于 20 世纪 90 年代或 21 世纪初”，正是 getting more and more prevalent among college students。",
+    "evidence": "found that today's college students report higher levels of perfectionism than college students did during the 1990s or early 2000s"
+   },
+   "40": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "信息对应：H 段说教育者和父母虽然成功说服学生要高分、勤奋，却没有让他们为“失败的不可避免性”做好准备，专家因此主张把表扬换成“你真的很坚持”，即要为失败做准备，与题干 prepare students for failures 对应。",
+    "evidence": "they haven't adequately prepared them for the inevitability of failure"
+   },
+   "41": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "同义改写：B 段说普莱尔与其他治疗师正试图就“年轻人与大学生在工作上追求完美的倾向”发出警告（sound the alarm），warn ≈ sound the alarm，a tendency among young adults ... to strive for perfection in their work ≈ young adults tend to pursue perfection in their work。",
+    "evidence": "is trying to sound the alarm about a tendency among young adults and college students to strive for perfection in their work"
+   },
+   "42": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "同义改写：I 段巴赫对学生说“Aim high, but get comfortable with good enough”，即目标要高（aim high），但要能接受“足够好”这种低于完美的结果（be content with something less than perfect）。",
+    "evidence": "Aim high, but get comfortable with good enough."
+   },
+   "43": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "同义改写：E 段中部写曼哈顿的临床心理学家 Michael Brustein 说，2007 年刚开始执业时，他很惊讶完美主义在来访者中如此普遍（how prevalent perfectionism was among his clients），prevalent = widespread，clinical psychologist = 题干 a clinical psychologist。",
+    "evidence": "he was surprised by how prevalent perfectionism was among his clients"
+   },
+   "44": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "同义改写：K 段结尾说有些人去做心理治疗期望过高——想一下子从病态的完美主义者变成（仍然高成就的）非完美主义者，“They try to be perfect, in other words, at no longer being perfect”，即克服完美主义的过程中仍在追求完美。",
+    "evidence": "They try to be perfect, in other words, at no longer being perfect."
+   },
+   "45": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "同义改写：G 段中部说另一些完美主义者实际上在工作上落后，“除非做到完美，否则无法完成任务”（unable to complete assignments unless they are, well, perfect），即因追求完美而不能按时完成任务。",
+    "evidence": "But others actually fall behind on work, unable to complete assignments unless they are, well, perfect."
+   }
+  },
+  "article_zh": "A) 当心理学家杰西卡·普莱尔住在一所国际知名大学附近时，她曾看到一个学生抱着睡袋和咖啡机走进图书馆。她听说过研究生一次在实验室里待上 12 到 18 个小时。他们的日程安排简直就是要“惩罚”自己：如果他们是受训中的科学家，那么在实验开始出结果之前，他们不会允许自己看 Netflix。普莱尔告诉我：“人际关系会变得疏远——人们不再邀请他们参加社交聚会或晚餐派对，而这又使他们更长时间地待在实验室里。”\n\nB) 普莱尔如今就职于西北大学的家庭研究所，她和其他治疗师一样，正试图就年轻人与大学生的一种倾向发出警告：在工作中追求完美——有时不惜任何代价。尽管完美主义常被描述成一种正面品质，但普莱尔等人说，极端的完美主义可能导致抑郁、焦虑，甚至自杀。\n\nC) 更重要的是，完美主义似乎在上升。今年早些时候发表的一项针对数千名美国、加拿大和英国大学生的研究中，巴斯大学的托马斯·柯兰和约克圣约翰大学的安德鲁·希尔发现，如今的大学生报告的完美主义水平高于 20 世纪 90 年代或 21 世纪初的大学生。他们测量了三种完美主义：自我导向型，即渴望做到完美；社会期许型，即渴望达到他人的期望；他人导向型，即用不切实际的标准要求他人。他们发现，从 1989 年到 2016 年，自我导向型完美主义得分上升了 10%，社会期许型上升了 33%，他人导向型上升了 16%。\n\nD) 与一位他人导向型完美主义者共同生活的人，可能会因为自己没有完全按照“正确”的方式做家务而遭到这位完美主义伴侣的批评。罗得岛州普罗维登斯的心理学家艾米·巴赫说：“夫妻争吵最常见的事情之一，就是洗碗机该怎么正确摆放。”\n\nE) 柯兰把社会期许型完美主义描述为“我的自尊取决于别人怎么想”。他的研究没有考察其上升的因果原因，但他推测，标准化考试和社交媒体的兴起可能起了作用。如今，领英会在我们的对手找到新工作时提醒我们，Instagram 则能让我们知道自己生活相比朋友有多“受喜爱”。在今年的篇评论文章中，柯兰和希尔指出，社会也变得更加弱肉强食。“在过去 50 年里，公共利益和公民责任逐渐被侵蚀，”他们写道，“取而代之的是在一个号称自由开放的市场中对私利与竞争的看重。”看来我们追求完美，是因为我们觉得必须如此才能出人头地。曼哈顿的临床心理学家迈克尔·布鲁斯坦说，2007 年他开始执业时，他很惊讶完美主义在来访者中竟然如此普遍，尽管他的研究生训练很少关注这一现象。他在企业主、艺术家和科技公司员工等人身上都看到了完美主义。“你来纽约是因为你有野心，你有这种奋斗的需要，”他说，“但随后你的整个身份就被裹进了一个目标里。”\n\nF) 当然，完美主义也可以是一种积极的力量。想想那些为达到越来越高的竞技水平而刻苦训练的职业运动员。在适应良好的完美主义中，没拿到金牌的人能够忘掉这次挫折继续前行。而在适应不良的完美主义中，人们会把自己所有的失败都存档。他们不断翻看这些档案，像普莱尔所说的那样想：“我得让自己难受，这样我才不会再犯。”然后他们“加倍下注”，把期望值抬得更高，这又增加了失败的可能性，使你自我苛责，于是你把标准抬得更高、更拼命工作。接着是失败、羞耻，以及朝着更高、更不可能实现的目标更拼命地逼迫自己。达成目标变成了“全有或全无”的前提。普莱尔举了这样一个例子：“即使我是一名了不起的律师，但如果我没有像某位同事那样在同样的时间成为合伙人，那显然说明我是个失败者。”\n\nG) 布鲁斯坦说，他的完美主义来访者往往会贬低自己的成就，因此每当一个目标实现，那种兴奋只持续很短时间，就像“一个漏了洞的油箱”。如果老板说你干得很棒，那是因为他什么都不懂；如果观众喜欢你的作品，那是因为他们太蠢，不懂得什么是真正的好艺术。但治疗师们说，完美主义的表现方式也各不相同。有些完美主义者总是推动自己向前。但另一些人实际上在工作上落后，除非做到完美，否则无法完成任务。或者他们可能预先给自己的表现使绊子。他们就是那种在期末考试前一晚狂欢到凌晨两点的人，这样当成绩是 C 时，就有现成的借口。\n\nH) 专家们告诉我，教育者和父母已经成功地说服学生要表现优异、勤奋努力，却没有让他们为失败不可避免这一点做好充分准备。普莱尔说，父母和教育者不要说“你真聪明”这类表扬，而应该说“你真的很坚持”，以强调坚持不懈比天赋更有价值。普莱尔指出，她的许多来访者担心她“会把他们变成某种堕落的沙发土豆，并教他们对此安然接受”。相反，她努力帮助他们想清楚自己的完美主义中哪些部分是想保留的，又要丢掉那些正在毁掉他们生活的部分。\n\nI) 巴赫经常接触布朗大学的学生，她说其中一些人甚至周末都不出门，更别提工作日了。她告诉他们：“目标要高，但要能对‘足够好’感到自在。”当他们没拿到某个奖项时，她鼓励他们记住：“一次结果不足以成为对一个人的智力、资历或未来潜力作出宽泛结论的依据。”\n\nJ) 治疗完美主义可能很简单，比如让来访者记录下自己可以为之骄傲的事情，或者让他们在一些小事上做得不完美，看看那是什么感觉。多伦多瑞尔森大学心理学系教授马丁·安东尼说：“我们可能会让他们把毛巾挂歪，或者把衣服反着穿。”\n\nK) 布鲁斯坦喜欢让他的完美主义来访者确立对自己重要的价值观，然后试着把注意力转向按照这些价值观生活，而不是去实现具体目标。这是对“你真的很坚持”那句话的巧妙运用。换句话说，关键不在于在瑜伽课上做一个头倒立，而在于你能去上瑜伽课本身，因为你喜欢成为那种会照顾自己的人。但他提醒说，有些人去做心理治疗时期望过高——希望自己一下子从病态的完美主义者变成（仍然高成就的）非完美主义者。换句话说，他们想在不完美这件事上做到完美。"
+ },
+ "careful": {
+  "2023-06-2-careful-1": {
+   "passage_zh": "我们究竟是怎么走到这一步的？我们近乎偏执地保护孩子免受一切伤害；我们仔细审查与他们接触的每一位看护者、老师或医生。然而，尽管做到了这一切，有一个根本没有把孩子的最大利益放在心上的群体，却几乎可以不受限制地接触他们。\n\n我们似乎想当然地认为，广告商和营销人员可以塑造哪怕是最年幼的孩子。在孩子还没有形成明确的自我身份意识、也还不会处理金钱之前，他们就被鼓励把身份地位和自我价值与物质挂钩，并指望名气、财富这类外在之物来获得认可。我们培养出来的是小小的消费者，而不是那些会因自己对所生活的社会所作贡献而看重自身价值的年轻公民。\n\n我们是如此一步步走到这一点的，以至于许多人从未质疑过它。在广告商开始瞄准年轻人、并发现可以招募他们向父母发起商业攻势之后的 60 年里，这一切悄然降临到我们身上。我们把它称为“纠缠力”，即孩子迫使父母做出某些购买行为的能力。\n\n许多心理学家、儿童发展专家和教育工作者援引研究指出，这种正在出现的“从摇篮到坟墓”式的消费主义，正在促成低自尊、抑郁以及其他心理疾病发生率的不断上升。\n\n并非所有心理学家都持同样看法。有不少人与这个年产值达 120 亿英镑的产业密切合作，而这个产业已经把对成年人情绪和欲望的操控变成了一门艺术——往往真的是字面意义上的艺术。它还是一个不断开发新办法、诱使我们的孩子渴望物质财富的产业；而且由于广告的病毒式效应，他们只需感染少数几个人就能触及众多人。广告和营销对儿童也可能有其用处。营销或许有助于孩子以消费者的身份完成社会化，让他们了解产品信息，并在他们步入成年时帮助他们确立独特的身份。\n\n那么，我们是否应该禁止一切针对幼儿的广告呢？我的回答是：应该。\n\n当然，会有人大力反对彻底禁止面向 11 岁以下儿童的广告。会有人说，那会侵犯言论自由，也会侵犯企业给小孩子洗脑、让他们索要其产品的权利。\n\n大多数父母都痛恨广告对孩子所做的事，但我们确实有能力终止它，让我们的孩子在没有那么多消费主义压力的环境中成长，直到他们长大到能够自己做决定。尽管广告只是无处不在的营销文化的一部分，我们总得从某处开始。那就从现在起禁止一切针对小学及更小年龄儿童的广告吧。",
+   "questions": {
+    "46": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "We seem to take it for granted that advertisers and marketers are allowed to condition even the youngest children.",
+     "explanation": "第 1 段先设问：有一个群体“根本没有把孩子的最大利益放在心上，却几乎可以不受限制地接触孩子”（one group ... has almost unconstrained access）；第 2 段紧接着点明这一群体就是 advertisers and marketers，并说他们连最年幼的孩子都能“塑造”。因此几乎不受限制接触孩子的是广告商，选 A。",
+     "distractors": {
+      "B": "与原文相反：carer 出现在 we scrutinize every carer, teacher or doctor 中，属于被严格审查、被防范的一方，而不是几乎不受限制接触孩子的群体。",
+      "C": "与原文相反：教师同样被列在 every carer, teacher or doctor 的审查名单里，是作者保护措施的对象，不是“几乎不受限制”的一方。",
+      "D": "与原文相反：医生也在被逐一审查的名单中，原文从未把医生列为可以不受约束接触孩子的群体。"
+     }
+    },
+    "47": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "We're turning out little consumers rather than young citizens who will value themselves for what they contribute to the society in which they live.",
+     "explanation": "第 2 段末句用 rather than 对比表明作者的价值取向：我们正在培养的是 little consumers，而不是 young citizens who will value themselves for what they contribute to the society in which they live。即孩子应成为“因对社会的贡献而看重自身价值”的年轻公民，与 B 项逐成分对应（value themselves / because of their contribution to society）。",
+     "distractors": {
+      "A": "与原文相反：look to external things such as fame and wealth for validation 正是作者批判的、孩子被广告诱导形成的取向，不是作者希望培养的人。",
+      "C": "偷换概念：learned to handle money 是 Before 从句中列出的孩子“尚未具备”的前提条件，选项把它偷换成孩子应具备的“处理金钱的能力”这一目标。",
+      "D": "偷换概念：developed a proper sense of their own identity 同样出自 Before children have even developed ... 这一“尚未具备”的前提，并非作者倡导的最终结果。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "Many psychologists, child development experts and educators point to research suggesting that this emerging cradle-to-grave consumerism is contributing to growing rates of low self-esteem, depression and other forms of mental illness.",
+     "explanation": "第 4 段正是题干定位句：专家们援引研究，指这种 cradle-to-grave（即从摇篮到坟墓、终身的）消费主义正在导致低自尊、抑郁及其他心理疾病发生率不断上升。cradle-to-grave = life-long，contributing to growing rates of ... mental illness = causing more and more cases of psychological problems，与 A 项完全对应。",
+     "distractors": {
+      "B": "无中生有：全文批评的是面向儿童的广告与营销，从未提到“教育日益商业化”，commercialization of education 在原文没有任何依据。",
+      "C": "以偏概全：the growing desire for wealth 只截取了原文 fame and wealth 的一半，a rising rate of depression 也只是 low self-esteem, depression and other forms of mental illness 中的一项。",
+      "D": "答非所问：该项讲的是物欲“如何被终身培养”，而题干要求的是研究指出的因果结论（消费主义导致心理疾病增多），论证方向被换掉了。"
+     }
+    },
+    "49": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "because of advertisements'viral effect they only need to infect a few to reach the many",
+     "explanation": "第 5 段说由于广告具有 viral effect（病毒式扩散效应），他们只需“感染少数人就能触及多数人”。由“感染少数即可波及多数”可推知：广告的影响实际上是扩散到多数人而非仅限少数，这正是 A 项所暗示的内容。",
+     "distractors": {
+      "B": "因果颠倒：原文是广告 persuasive 地让我们孩子渴望物质（persuade our children to desire material possessions），选项却说广告“植根于”我们对物质的欲望，把因果反了过来。",
+      "C": "过度推断：原文只用 viral effect 作比喻，说广告有病毒式扩散效应，并未断言广告的影响“可与病毒的影响相比”，把比喻坐实成了比较。",
+      "D": "与原文相反：infect a few to reach the many 恰恰强调影响会扩散到多数人，选项中 literally limited to children 把范围缩小到“仅限儿童”，与原文相反。"
+     }
+    },
+    "50": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "There'll be those who argue that would be a breach of freedom of speech and infringe the rights of corporations to brainwash little children into demanding their products.",
+     "explanation": "第 7 段给出反对者针对“全面禁止面向 11 岁以下儿童广告”的两点理由：一是会成为对言论自由的侵犯，二是 infringe the rights of corporations（侵犯企业给小孩洗脑、让他们索要产品的权利）。后者即“侵犯赋予广告商的权利”，与 D 项 violate the rights endowed upon advertisers 对应。",
+     "distractors": {
+      "A": "张冠李戴：deprive them of the chance to learn about products 取自第 5 段作者转述的广告“益处”（inform them about products），不是第 7 段反对者的论据。",
+      "B": "张冠李戴：carve out unique identities 同样出自第 5 段广告作为“益处”的描述，被搬到反对者的立场上，主体与段落都错了。",
+      "C": "偷换概念：a breach of freedom of speech 中被侵犯的是（企业的）言论自由，选项改成“孩子作为潜在消费者的自由”，把权利主体换成了孩子。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "obsessively",
+     "meaning": "过度地、执迷地",
+     "note": "protect our children obsessively from every harm 过度保护孩子免受一切伤害"
+    },
+    {
+     "word": "scrutinize",
+     "meaning": "仔细审查、严密检查",
+     "note": "scrutinize every carer, teacher or doctor 逐一审查每一位看护者、老师或医生"
+    },
+    {
+     "word": "unconstrained",
+     "meaning": "不受约束的、无限制的",
+     "note": "unconstrained access 不受限制的接触（与上文的 scrutinize 形成讽刺对照）"
+    },
+    {
+     "word": "validation",
+     "meaning": "认可、肯定、（对价值的）证实",
+     "note": "look to external things such as fame and wealth for validation 指望名望财富等外在之物来获得认可"
+    },
+    {
+     "word": "cradle-to-grave",
+     "meaning": "从摇篮到坟墓的、终生的",
+     "note": "cradle-to-grave consumerism 终身消费主义，与 life-long 同义"
+    },
+    {
+     "word": "manipulation",
+     "meaning": "操控、操纵",
+     "note": "the manipulation of adult emotions and desires 对成年人情绪与欲望的操控"
+    },
+    {
+     "word": "all-pervasive",
+     "meaning": "无处不在的、渗透一切的",
+     "note": "an all-pervasive marketing culture 无处不在的营销文化"
+    },
+    {
+     "word": "infringe",
+     "meaning": "侵犯（权利、自由等）",
+     "note": "infringe the rights of corporations 侵犯企业的权利"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Before children have even developed a proper sense of their own identity, or learned to handle money, they're encouraged to associate status and self-worth with stuff, and to look to external things such as fame and wealth for validation.",
+    "analysis": "主干为 they're encouraged to ..., and to ...（被动语态 + 两个并列不定式作主语补足语）。句首 Before ... 引导时间状语从句，从句内 have developed 与 (have) learned 由 or 并列，共用助动词 have。主句中 associate A with B（把 A 与 B 联系起来）与 look to C for D（指望 C 获得 D）两个动词短语并列，均由 to 引导并共享主语 they（指 children）。翻译要点：把 Before 从句处理成“在……之前”，主句处理成“他们就被鼓励……”，两个不定式译为“把地位和自我价值与物质挂钩，并指望名气和财富这类外在之物来获得认可”。"
+   }
+  },
+  "2023-06-2-careful-2": {
+   "passage_zh": "许多人反对职场监控，因为它本身带有使人非人化的影响，并带来持续不断的压力。但随着企业想通过从员工身上榨取更多生产力来提高效率，这种做法在世界各地日益增多。去年，年收入超过 7.5 亿美元的公司中有一半以上对员工使用了“非传统”的监控手段。\n\n监控员工的工作表现使公司能够评估员工的工作情况和互动方式，这对公司和员工本人都可能有益。越来越多的分析类公司提供这种服务。它们收集员工电子邮件和即时通讯应用留下的“数据尾气”，并使用装有射频识别装置和麦克风的胸牌。这些设备可以检测你花多少时间讲话、你的音量与语调，甚至能判断你是否主导了对话。虽然这听起来可能侵犯隐私，但支持者认为，它也可以保护员工免受欺凌和性骚扰。\n\n其中一些数据分析可能得出意想不到的结果。例如，研究发现，坐在 12 人餐桌旁的人往往比经常坐在 4 人餐桌旁的人互动更多、分享想法更多，工作表现也更出色；如果没有这样的数据分析，这一事实很可能不会被发现。\n\n过去几年里，斯德哥尔摩一家名为 Epicenter 的联合办公空间走得更远，它举办颇受欢迎的“植入芯片派对”，人们可以把微芯片植入手中。他们可以用这些植入体打开电子控制的门，或者监测打字速度与心率之间的相关性。植入芯片看起来或许极端，但从身份证件和生物识别技术过渡到这类设备，只是相对很小的一步。\n\n只要这类方案是自愿的，以方便为导向的用途大概会越来越多，以至于相当多的员工会选择植入芯片。但如果植入的芯片被用来减少空闲时间或休息时间，那可能就会被证明是有害的。而如果监控工具剥夺了自主权，那才是它们最不受欢迎的时候。很多事取决于这类监控举措如何沟通，而这可以避免可能发生的反抗。\n\n如果老板沟通不当，员工就会往最坏处想。但如果他们公开说明自己在收集什么信息、以及用这些信息做什么，研究表明有 46% 的员工大体上是可以接受的。尽管许多此类监控方案使用匿名数据、参与也是自愿的，许多员工仍然持怀疑态度，担心自己的公民自由受到侵蚀。\n\n所以，职场监控既可能让员工更有能力，也可能对寻求更高效率和利润的公司有用。但如果实施方式不当，它也可能变成一种不受欢迎的压迫工具，最终适得其反。",
+   "questions": {
+    "51": {
+     "answer": "B",
+     "my_answer": "A",
+     "verified": false,
+     "conflict_reason": "文件答案为 B，但原文第 1 段的原因句是“because of the inherent dehumanizing effect it has and the relentless pressure it brings”，两个原因用 and 并列；A 项 It puts workers under constant pressure 与 the relentless pressure it brings 逐词对应（relentless=constant，brings pressure=puts under pressure），是原文直陈的反对理由。B 项把“内在的非人化影响”升级为“被普遍认为反人性”，universally deemed 是原文没有的绝对化表述，属过度推断，故应选 A。",
+     "evidence_paragraph": 1,
+     "evidence_quote": "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings.",
+     "explanation": "第 1 段首句交代反对理由：一是它本身具有非人化的影响，二是它带来持续不断的压力。A 项 puts workers under constant pressure 正是 the relentless pressure it brings 的同义改写，属原文明确写出的原因，故选 A。",
+     "distractors": {
+      "B": "过度推断/绝对化：原文只说监控具有 inherent dehumanizing effect（内在的非人化影响），是描述其属性，并未说它被 universally deemed（普遍认定）反人性；universally 这一绝对量词在原文无据。",
+      "C": "无中生有：原文只提 dehumanizing effect 与 relentless pressure，都属心理与人格层面，全文没有提到 physical harm（身体伤害）。",
+      "D": "答非所问/主体错位：squeezing more productivity from their workers 是公司实施监控的动机（firms look to become more efficient by ...），不是员工反对监控的理由。"
+     }
+    },
+    "52": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment.",
+     "explanation": "第 2 段末句用 While 让步后给出支持者（exponents）的论据：监控可以保护员工免受欺凌和性骚扰。bullying 与 sexual harassment 都属于 aggressive behavior，protect ... against 结构原样保留，与 D 项对应，故选 D。",
+     "distractors": {
+      "A": "偷换概念：原文 even if you do not dominate conversations 是描述监控设备能“检测”谈话占比这一功能，选项把“检测是否主导谈话”改成“使员工避免主导谈话”。",
+      "B": "无中生有：第 2 段通篇没有提到员工对公司的认同感（identification with firms），该义项在原文不存在。",
+      "C": "与原文相反：While this may sound intrusive 只是承认监控“听起来侵犯隐私”，支持者的论据恰恰是它能保护员工，而选项说它提醒员工隐私被侵犯，与支持方立场相反。"
+     }
+    },
+    "53": {
+     "answer": "C",
+     "my_answer": "B",
+     "verified": false,
+     "conflict_reason": "文件答案为 C，但 C 只是例子本身的字面内容（12 人桌的人互动、分享更多）。题干 What does the author want to show by the example 问的是例子的论证目的，对应第 3 段首句“Some of this data analysis can produce unexpected results”，即数据分析可产生出人意料的结果，B 项与之逐成分对应；末句“a fact that would probably have gone undetected without such data analysis”也再次强调“意外发现”，而非“餐桌该坐几人”，故应选 B。",
+     "evidence_paragraph": 3,
+     "evidence_quote": "Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.",
+     "explanation": "第 3 段先给论点句：这类数据分析有时会产生意想不到的结果；再用 For example 引入 12 人桌与 4 人桌的对比作为例证，末尾 a fact that would probably have gone undetected without such data analysis 说明该事实本来是“意外发现”。例子的作用就是支撑“数据分析能揭示意外结果”，故选 B。",
+     "distractors": {
+      "A": "过度推断：原文从未说数据分析是监控“成功实施的关键”，key 这一判断在文中无依据，原文只说它带来意外发现。",
+      "C": "答非所问：该项只是例子自身的字面内容，题干问的是作者借这个例子想说明什么（即上句论点），答成了例子细节而非论证目的。",
+      "D": "偷换概念：末句强调的是“该事实若无数据分析便不会被发现”，选项把它歪曲成“没有数据分析就难以决定餐桌坐几个人”，焦点被移走。"
+     }
+    },
+    "54": {
+     "answer": "A",
+     "my_answer": "D",
+     "verified": false,
+     "conflict_reason": "文件答案为 A，但全文从未讨论监控的“频率”（frequency），A 属无中生有。原文第 5 段明言“A lot depends on how such monitoring initiatives are communicated”，第 6 段补充“if they're open about the information they're collecting and what they're doing with it, research suggests 46%of employees are generally okay with it”，即正向效果取决于老板如何把监控的内容与目的讲清楚、沟通得当，与 D 项 How well bosses make known their purpose of monitoring 对应，故应选 D。",
+     "evidence_paragraph": 5,
+     "evidence_quote": "A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.",
+     "explanation": "第 5 段明确指出“很多事取决于这类监控举措如何被传达（communicated）”，并说恰当沟通可避免反抗；第 6 段进一步说，如果老板公开说明在收集什么信息、用途是什么，46% 的员工大体可以接受。可见正向效果主要取决于老板沟通说明得如何，对应 D 项，故选 D。",
+     "distractors": {
+      "A": "无中生有：全文没有出现监控“频率”（frequency）的讨论，原文的关键变量是 how communicated，而非 how frequently。",
+      "B": "偷换概念：原文只说 many such monitoring schemes use anonymised data（使用匿名数据），从未说“某些具体个人信息被排除”，且这与“正向效果取决于什么”无对应。",
+      "C": "过度推断：detrimental 出现在“若用植入芯片减少空闲与休息时间”的条件句里，描述的是负面情形，并非正向效果所依赖的条件。"
+     }
+    },
+    "55": {
+     "answer": "B",
+     "my_answer": "C",
+     "verified": false,
+     "conflict_reason": "文件答案为 B，但原文第 6 段原句是“many staffers remain skeptical and fear an erosion of their civil liberties”，erosion 的宾语是 civil liberties（公民自由），对应 C 项 entitled freedom，erosion 对应 infringe upon，故应选 C。B 项保留 erode 的同根词却把宾语偷换成 workplace environment（工作环境），属偷换概念；D 项 counterproductive 是作者末段对“实施不当”的整体评价，主体为作者而非员工。",
+     "evidence_paragraph": 6,
+     "evidence_quote": "many staffers remain skeptical and fear an erosion of their civil liberties",
+     "explanation": "第 6 段末句说：尽管许多方案使用匿名数据、参与自愿，许多员工仍然持怀疑态度，并“担心自己的公民自由受到侵蚀”。erosion of civil liberties = 应有自由被侵蚀，对应 C 项 infringe upon staffers' entitled freedom，故选 C。",
+     "distractors": {
+      "A": "与原文相反：原文说的是 workplace surveillance could be empowering for staff（赋权员工），选项反转为“过度赋权雇主”，方向相反，且 excessively 无原文依据。",
+      "B": "偷换概念：原文 erosion 的对象是 their civil liberties，选项保留 erode 这一同根词，却把宾语换成 workplace environment（工作环境），属熟词陷阱。",
+      "D": "张冠李戴：an unpopular tool of oppression that proves counterproductive 是作者第 7 段对实施不当者的整体评价，主体是作者，不是 many staffers 的担忧。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "surveillance",
+     "meaning": "监视、监控",
+     "note": "workplace surveillance 职场监控；under surveillance 处于监控之下"
+    },
+    {
+     "word": "dehumanizing",
+     "meaning": "使人丧失人性的、非人化的",
+     "note": "the inherent dehumanizing effect 内在的非人化影响"
+    },
+    {
+     "word": "relentless",
+     "meaning": "持续不断的、毫不放松的",
+     "note": "the relentless pressure it brings 它带来的持续压力"
+    },
+    {
+     "word": "intrusive",
+     "meaning": "侵扰性的、侵入的",
+     "note": "this may sound intrusive 这听起来可能侵犯隐私"
+    },
+    {
+     "word": "exponent",
+     "meaning": "拥护者、支持者（此处不是“指数”）",
+     "note": "exponents argue that ... 支持者认为……"
+    },
+    {
+     "word": "autonomy",
+     "meaning": "自主权、自主性",
+     "note": "take away autonomy 剥夺自主权"
+    },
+    {
+     "word": "anonymised",
+     "meaning": "匿名的、做过去标识化处理的",
+     "note": "anonymised data 匿名化数据"
+    },
+    {
+     "word": "counterproductive",
+     "meaning": "适得其反的、产生反效果的",
+     "note": "proves counterproductive 证明适得其反"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "As long as such schemes are voluntary, there will probably be a growing number of convenience-oriented uses so that a substantial number of workers would opt to have a chip inserted.",
+    "analysis": "主句是 there will probably be a growing number of convenience-oriented uses（there be 存在句，中心词 uses 由 convenience-oriented 修饰）。句首 As long as 引导条件状语从句（只要……），从句为主系表结构 such schemes are voluntary。主句之后 so that 引导结果状语从句（以至于……），从句内 opt to have a chip inserted 是 opt + 不定式，不定式内又有 have sth done 的使役结构（让芯片被植入）。翻译层次：条件（自愿）→ 预期结果（用途增多）→ 由此产生的后果（相当多员工愿意植入芯片）。"
+   }
+  }
+ }
+}

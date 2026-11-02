@@ -1,0 +1,437 @@
+{
+ "exam": "2024-12-1",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "空处紧跟 Being，作系动词的表语，需形容词。本句说“在某些人看来，{26} 不再是一种美德”，而下文反复讲“少花钱、多储蓄”“像乡下老鼠一样积攒”，正指向“节俭的”这一品质；thrifty 与第 4 句 save much 语义同一，且与后文 spend extravagantly 构成对照。",
+    "evidence": "Being {26} is no longer a virtue to some people, and they are not alone in holding this view.",
+    "distractors": {
+     "H": "语义方向错误：malicious 虽是形容词，但意为“恶意的、有恶意的”，指伤害他人的品性；本句讲的是“节俭”这种消费习惯不再被视为美德，与恶意无关。",
+     "G": "搭配对象不当：majestic 意为“雄伟的、壮丽的”，用来修饰景物、建筑、气势，不能修饰人的消费习性。",
+     "C": "词性错误：intrinsically 是副词，不能作 Being 的表语。"
+    }
+   },
+   "27": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "空处修饰动词 spend，需副词；本句列举不同生活方式：有人喜欢简朴、有人喜爱奢华、有人花钱……，与后面的 accumulate as much as they can 形成“大手大脚花钱”与“拼命积攒”的两极对照，故填 extravagantly（挥霍地、奢侈地）。",
+    "evidence": "Each might have different viewpoints on how to lead one's lifestyle: some prefer simplicity, some love luxuries, some spend {27} , some accumulate as much as they can like a country mouse.",
+    "distractors": {
+     "F": "语义不符：literally 是副词，但意为“字面意义上、简直”，表示说法是否属实，不表示花钱的方式。",
+     "C": "语义与搭配不符：intrinsically 意为“本质上、内在地”，不能修饰 spend 表示“花得奢侈”。",
+     "G": "词性错误：majestic 是形容词，不能修饰动词 spend。"
+    }
+   },
+   "28": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "lose its ___ 中 its 后需名词，lose one's appeal 是固定搭配，意为“失去吸引力”。前半句说“我出身贫寒、长在乡下，简朴的乡村生活对我几乎从未失去吸引力”，but 之后的转折（地位变化、与新富交往）才使观点改变，appeal 正好承接这层逻辑。",
+    "evidence": "As I was born poor and in the countryside, the simple rural life seldom loses its {28} to me, but as my station changes, I have an opportunity to {29} with the newly rich, an experience which has revolutionized my view of lifestyle.",
+    "distractors": {
+     "L": "搭配不成立：rage 作名词意为“盛怒、狂热”，lose its rage 不是英语搭配，也无法表达“吸引力”。",
+     "D": "搭配与语义均不成立：irony 意为“反讽”，lose its irony to me 既非固定搭配，也与“乡村生活对我的意义”无关。",
+     "I": "语义与搭配不符：meadow 意为“草地”，是具体地点名词，lose its meadow 不能表达“失去吸引力”。"
+    }
+   },
+   "29": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "an opportunity to do sth 后需动词原形，且空后为 with，mingle with sb 是固定搭配，意为“与某人交往、混在一起”。本句说“随着我的身份地位变化，我有机会与新富起来的人交往”，正是改变其生活方式观念的经历来源。",
+    "evidence": "As I was born poor and in the countryside, the simple rural life seldom loses its {28} to me, but as my station changes, I have an opportunity to {29} with the newly rich, an experience which has revolutionized my view of lifestyle.",
+    "distractors": {
+     "M": "搭配不成立：scrape 的常见搭配是 scrape a living（勉强糊口），scrape with sb 不表示“交往”。",
+     "A": "介词搭配错误：appeal 表示“吸引”时须用 appeal to，appeal with sb 不成立。",
+     "L": "词性与搭配均不当：rage 作动词时多指“发怒、肆虐”，rage with sth 不表示与某人交往。"
+    }
+   },
+   "30": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "in a ___ to do sth 中需名词，rage 在此取“狂热、风潮”义，in a rage to borrow and to spend 意为“狂热地借贷与消费”，与后文“美国引领这一潮流”以及全文“世界都在花明天的钱”的论点一致。",
+    "evidence": "Actually the whole world is in a {30} to borrow and to spend, with the USA leading the trend.",
+    "distractors": {
+     "A": "语义不符：appeal 意为“呼吁、吸引力”，an appeal to borrow 指“呼吁借贷”，与 with the USA leading the trend 所描述的普遍风气不同。",
+     "D": "搭配不成立：in an irony to do sth 不是英语表达，irony 不能进入这一结构。",
+     "I": "搭配与语义均不成立：meadow 意为“草地”，不能与 in a ... to do 结构搭配，也与借贷消费的语境无关。"
+    }
+   },
+   "31": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "空前有 the、空后为 is that 从句，空处需名词作主语。前半句称美国是“最富有、最强大的国家”，后半句却是“他们向我们借钱”，两者构成强烈反差，irony（反讽、讽刺之处）正是概括这种反差的名词。",
+    "evidence": "The USA is still the richest and most powerful country in the world, but the {31} is that they borrow money from us.",
+    "distractors": {
+     "A": "语义不符：若填 appeal，句子变成“其吸引力在于他们向我们借钱”，与“最富强国却借钱”这一带嘲讽意味的转折逻辑相悖。",
+     "E": "语义与指代不当：layman 指“门外汉（人）”，不能作 the ___ is that 的主语来指代这种自相矛盾的情形。",
+     "I": "语义与搭配不成立：meadow 意为“草地”，the meadow is that ... 在句中毫无意义。"
+    }
+   },
+   "32": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "Though a ___ of economics 是让步状语，需指人的名词；a layman of economics 意为“经济学的门外汉”。这与后半句“至少我知道……”的口气一致：作者不摆专业姿态，只凭常识下判断。",
+    "evidence": "Though a {32} of economics, at least I know that investing with borrowed money will turn the borrower into the {33} rather than the decent and kind lender.",
+    "distractors": {
+     "K": "语义不符：predator 指“掠夺者”，若说自己是“经济学方面的掠夺者”，与 at least I know（我至少还知道）这种自谦口气冲突。",
+     "D": "语义不符：irony 是抽象名词，不能指人，a irony of economics 也违反冠词用法。",
+     "N": "词性错误：shrewd 是形容词，不能跟在 a 后作名词表示“人”。"
+    }
+   },
+   "33": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "turn A into B rather than C 结构中，B 与 C 须为同类对立成分；C 是 the decent and kind lender（体面善良的放贷者），故 B 需一个与之对立的“人”的名词，predator（掠夺者）正好与“善良的放贷者”构成褒贬对立，也呼应下文贷款买房高价转卖获利的例子。",
+    "evidence": "Though a {32} of economics, at least I know that investing with borrowed money will turn the borrower into the {33} rather than the decent and kind lender.",
+    "distractors": {
+     "E": "对立关系不成立：layman（门外汉）与 lender 不构成语义对立，且前后都在说借贷双方的角色，而非是否专业。",
+     "H": "词性错误：malicious 是形容词，此处需名词与 the lender 并列。",
+     "O": "词性错误：thrifty 是形容词，不能作 into the ___ 的宾语中心词。"
+    }
+   },
+   "34": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "Those who are ___ and have got loans 中需形容词作表语，描述贷款买房者的特点；后文“以高出数倍的价格卖出所购住房而相对致富”说明其眼光精明、会算计，故填 shrewd（精明的）。",
+    "evidence": "Those who are {34} and have got loans from the bank become relatively rich by selling their purchased home at a price several folds higher.",
+    "distractors": {
+     "O": "语义相反：thrifty 意为“节俭的”，节俭的人恰恰不会贷款买房再高价转手获利，与后半句行为矛盾。",
+     "H": "语义色彩不当：malicious 指“恶意的、存心伤害的”，以高价卖出自己的房子是市场行为，谈不上恶意，作者也未作道德指责。",
+     "G": "修饰对象不当：majestic 意为“雄伟壮丽的”，不能用来描述贷款买房者的性格或做法。"
+    }
+   },
+   "35": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "have to ___ a living 是固定搭配 scrape a living，意为“勉强糊口、艰难度日”。前文说贫困父母有远见供孩子上大学并从这项投资中受益，even though 转折指出他们为此不得不节衣缩食，语义连贯。",
+    "evidence": "Many of those poor parents who have the vision to send their children to college have benefited from this investment, even though they have to {35} a living.",
+    "distractors": {
+     "J": "搭配不成立：mingle a living 不是英语表达，mingle 只用于 mingle with sth/sb。",
+     "A": "搭配不成立：appeal a living 不成立，appeal 需接 to 且不表示“谋生”。",
+     "L": "搭配不成立：rage a living 不成立，rage 作动词意为“发怒、肆虐”，不能接 a living。"
+    }
+   }
+  },
+  "passage_zh": "随着经济的快速发展，人们的观念必然会发生变化。在某些人看来，节俭不再是一种美德，持这种观点的不止他们。每个人对如何过自己的生活方式可能有不同的看法：有人喜欢简朴，有人喜爱奢华，有人花钱大手大脚，还有人像乡下老鼠一样拼命积攒。由于我出身贫寒、生长在乡下，简朴的乡村生活对我而言几乎从未失去吸引力；但随着我的身份地位发生变化，我有了与新富起来的人交往的机会，这段经历彻底改变了我对生活方式的看法。少花钱、多储蓄是邪恶或有罪的——这种想法只是近来才向我显露。事实上，整个世界都处于一种狂热借贷、狂热消费的状态，美国引领着这一潮流。美国仍然是世界上最富有、最强大的国家，但颇具讽刺意味的是，他们向我们借钱。尽管我只是经济学的门外汉，但至少我知道：用借来的钱投资，会把借款人变成掠夺者，而不是体面善良的放贷者。一个明显的例子是房地产。那些精明并已从银行获得贷款的人，通过以高出数倍的价格出售自己购入的住房而变得相对富有。就连教育也无法免受这一理论的支配。许多有远见、把孩子送进大学的贫困父母已经从这项投资中受益，尽管他们不得不勉强糊口度日。可以合理地得出结论：只要不超出自己的承受能力，花钱是值得赞扬的。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "题干“据一位资深研究者说，只要不再对本土作物无知，我们的粮食供应就有保障”，对应 F 段高级研究员 Cecilia Tortajada 的引语：“There is no food insecurity in the world, there is food ignorance.”（世界上不存在粮食不安全，存在的是对食物的无知）。a senior researcher 正是 a senior research fellow；rid ourselves of ignorance about native crops 是对 there is food ignorance 与“Whenever we have native crops we tend to disregard them”的概括；will have secure food supply 对应 there is no food insecurity。",
+    "evidence": "There is no food insecurity in the world, there is food ignorance,"
+   },
+   "37": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "题干“世界大部分粮食供应来自数千种种植了数百年的作物中的极少数几种”对应 C 段：just four crops—wheat, maize, rice and soybean—provide two-thirds of the world's food supply 说明“极少数（4 种）”提供“大部分粮食（三分之二）”；7,000 crops we've been farming for thousands of years 对应 thousands of crops grown for centuries。",
+    "evidence": "Prof Azam-Ali explains that just four crops—wheat, maize, rice and soybean—provide two-thirds of the world's food supply."
+   },
+   "38": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "题干“当主粮作物歉收时，一些非洲女农在房前屋后种植当地作物以养活家人”，逐项对应 G 段：the crops they grew in their backyards（在房前屋后种植的作物）＋ to feed their families（养活家人）＋ when the big crops failed（主粮作物歉收时）＋ women farmers he met in Niger（尼日尔的女农，位于非洲）。",
+    "evidence": "The then-PhD student remembers marvelling at the crops they grew in their backyards, without the benefits of technology, to feed their families when the big crops failed."
+   },
+   "39": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "题干“自上世纪绿色革命以来，高产作物在现代农业中占据主导地位”，与 J 段同义改写：since the green revolution in the last century 对应 Ever since the \"green revolution\" of the 1960s；have occupied a dominant position in modern agriculture 对应 high-yielding crops have dominated modern agriculture。",
+    "evidence": "Ever since the \"green revolution\" of the 1960s, high-yielding crops have dominated modern agriculture."
+   },
+   "40": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "题干“种植替代作物在多种环境中被证明可行，但关键问题在于它们能否卖得出去”，几乎逐句对应 H 段：proved feasible in a variety of environments 对应 helped prove these crops were viable in different environments；the critical question 对应 But the question ... remained 加 That's the critical thing；marketable 原词复用。",
+    "evidence": "Project after project helped prove these crops were viable in different environments as alternatives to the staple ones. But the question of whether these crops would be marketable remained."
+   },
+   "41": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "题干“据一位教授说，当主粮作物产量下降时，我们将不得不适应食用替代作物产出的食物”，对应 O 段食品政策教授 Tim Lang 的话：as yields of staple crops fall 原样复现，have to get used to eating other crops 对应 will have to adapt to eating foods from alternative crops（get used to ≈ adapt to）。",
+    "evidence": "We \"have to get used to eating other crops\" as yields of staple crops fall, he says."
+   },
+   "42": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "题干“必须采取紧急措施，在不加剧气候问题的情况下为预计的世界人口提供食物”，对应 D 段：produce 50% more food to feed the projected global population of 10 billion 对应 provide food for the projected world population；without contributing to climate change 对应 without aggravating the climate；calls for urgent solutions 对应 Urgent measures have to be taken。",
+    "evidence": "By 2050 it estimates the world must produce 50% more food to feed the projected global population of 10 billion. Meeting this demand without contributing to climate change calls for urgent solutions."
+   },
+   "43": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "题干“殖民统治通过惩罚种植本土作物的非洲人使这些作物被边缘化”，对应 I 段：colonial rule 出现在 can trace its marginalisation to colonial rule；punishing Africans who grew them 对应 African women who grew bambara groundnut were actually punished for growing it 以及 Colonial powers said you can't grow that。",
+    "evidence": "\"African women who grew bambara groundnut were actually punished for growing it,\" says Azam-Ali."
+   },
+   "44": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "题干“由于现有作物受到全球变暖威胁，我们可以通过恢复众多种被遗忘的食用作物来提高粮食安全”，与 E 段一句完全对应：warming climates threaten existing crops 对应 As existing crops are endangered by global warming；boosts food security 对应 increase food security；Bringing back the variety of crops humans once ate 对应 bringing back the many forgotten food crops。",
+    "evidence": "Bringing back the variety of crops humans once ate also boosts food security at a time warming climates threaten existing crops."
+   },
+   "45": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "题干“研究人员正试图弄清更高温度和二氧化碳水平如何影响替代作物的营养成分”，对应 K 段：scientists are studying the impact of higher temperatures and carbon dioxide levels on the nutritional make-up of alternative crops。CO₂ 是 carbon dioxide 的化学式改写，nutritional composition 对应 nutritional make-up。",
+    "evidence": "It's one of multiple chambers where scientists are studying the impact of higher temperatures and carbon dioxide levels on the nutritional make-up of alternative crops."
+   }
+  },
+  "article_zh": "A) 在马六甲海峡附近的一个小型果园里，林国安（Lim Kok Ann）只剩下一棵树还在结 kedondong——一种脆而酸的浆果，马来西亚人多用它来做腌菜和沙拉。“它不太为人所知，”这位 45 岁的果农说；他转而专注于龙眼和菠萝，因为它们的市场更大。“我们得种能赚钱的东西，”他说。\n\nB) 但在不到一小时车程之外的马来西亚乡间，三座巨大的银色穹顶建筑里，科学家们正试图改变食物的未来。他们通过种植和加工所谓“替代”作物——比如 kedondong——来拓展人类食物的边界。在全球研究中心“未来作物”（CFF）的总部，这种尚未被充分利用的水果已被制成无糖果汁，富含维生素 C，并在感官评价中获得高分。“你在这里看到的一切都是一种被遗忘的作物，”CFF 的赛义德·阿扎姆-阿里（Sayed Azam-Ali）说；在吉隆坡郊外的 CFF 花园里，茂盛的植物交织生长。\n\nC) 阿扎姆-阿里教授解释说，仅四种作物——小麦、玉米、水稻和大豆——就提供了世界三分之二的食物供应。“我们依赖这四种作物，”他说。“但实际上，我们几千年来一直在种植 7000 种作物。我们却把那些全都忽视了。”研究人员正试图发掘这些被忽视作物的潜力——他们称这些作物为“被遗忘的”“未被充分利用的”或“替代”作物，因为随着主要作物加工出的配料推动饮食日益单一化，它们正被取代。\n\nD) 这是一项及时的探索。食品行业已经造成了全球近三分之一的温室气体排放。据估计，到 2050 年，世界必须多生产 50% 的粮食，才能养活预计达到 100 亿的全球人口。在不加剧气候变化的前提下满足这一需求，需要紧迫的解决方案。\n\nE) 被遗忘的作物掌握着关键答案。通过投资被忽视的本土植物，各国可以减少对进口作物及其高碳供应链的依赖。在气候变暖威胁现有作物之际，恢复人类曾经食用的作物多样性也能增强粮食安全。此外，阿扎姆-阿里认为，被遗忘的作物属于最具气候韧性、也最有营养的一类。他的总结很直白：“饮食多样化对人类未来至关重要。”\n\nF) 粮食安全专家对此表示赞同。“世界上不存在粮食不安全，存在的是对食物的无知，”新加坡国立大学水政策研究所高级研究员塞西莉亚·托尔塔哈达（Cecilia Tortajada）说。“每当我们拥有本土作物时，我们往往把它们当作没有价值的东西而不予理会，但它们是有价值的，”她补充道。\n\nG) 阿扎姆-阿里对这种怀疑有切身体会。20 世纪 80 年代，他通过结识的尼日尔女农的工作接触到了替代作物。当时还是博士生的他记得，自己惊叹于这些妇女在房前屋后、没有技术辅助的情况下种植的作物，那些作物在大宗作物歉收时养活了她们的家人。他看到了构建替代食物体系的巨大机会。但“阻力非常大，”他回忆道。\n\nH) 他没有被吓倒，继续努力。一个又一个项目帮助证明，这些作物在不同环境中都能作为主粮作物的替代品而可行。但这些作物能否在市场上卖得出去，仍是个问题。“这才是关键，”他说。在中心的一座穹顶里，食品技术专家陈欣琳（Tan Xinlin）用辣木叶粉替代部分小麦面粉，烤出谷胶含量更低、营养更高的蛋糕。她的工作是用这些仍不为人熟悉的食材创制食谱，以同时迎合本地和国际的口味。近年来，她用 CFF 种植的一些被遗忘的作物，如辣木和班巴拉花生，制作从速溶汤到印度小吃的各种食品。“我尝试让被遗忘的作物现代化，而不是沿用旧食谱，”同时也是受过训练的厨师的陈说。这一策略旨在吸引世界上不断壮大的中产阶级——他们正越来越多地转向快餐和加工食品行业。陈补充说，这也是帮助改变人们把本土作物视为“老人或穷人的食物”或劣等的“女人的作物”这一看法的一种方式。\n\nI) 这些关于本土食物的联想，其根源可以很深。班巴拉花生是撒哈拉以南非洲的一种富含蛋白质的本土作物，在东南亚部分地区也有种植，它的边缘化可以追溯到殖民统治时期。“种植班巴拉花生的非洲妇女实际上因种植它而受到惩罚，”阿扎姆-阿里说。“殖民列强说，你不能种那个，因为它不产油。我们没法为它找到市场。”但如今，班巴拉木鲁库（bambara murukku）是 CFF 评价最好的食品之一，他们正致力于把它推入杂货店，并向潜在投资者指出藜麦等作物的成功。大约 30 年前，藜麦在其原产地玻利维亚和秘鲁的山区之外几乎无人知晓。如今，这种营养丰富的谷物出现在世界各地高档餐厅的菜单上。\n\nJ) 用营养而非产量来衡量作物，是被遗忘食物事业的核心。自 20 世纪 60 年代的“绿色革命”以来，高产作物一直主导着现代农业。这在一定程度上是对毁灭性饥荒的关键应对，因为当时世界需要增加粮食供应。阿扎姆-阿里说，如今“营养正在变成一颗定时炸弹”，因为不断上升的二氧化碳水平正在夺走作物中的矿物质。他主张，与其对主要作物进行生物强化，不如投资那些本来就更有营养的被遗忘作物。\n\nK) 在 CFF 第三座穹顶的深处，实验室经理戈马蒂·塞图拉曼（Gomathy Sethuraman）打开一扇窗，展示中心的“皇冠明珠”：在明亮的黄光下生长的翼豆藤蔓。这是多个实验室之一，科学家们在这些实验室中研究更高温度和二氧化碳水平对替代作物营养成分构成的影响。阿扎姆-阿里说，这项研究是“改变游戏规则的关键”，它能确保“未来作物”同时也是更温暖气候中最健康的作物。\n\nL) 美国智库“食物坦克”（Food Tank）主席丹妮尔·尼伦伯格（Danielle Nierenberg）说，全球围绕被遗忘食物的势头正在增长。除了自称世界上第一个专门研究未充分利用作物的研究中心的 CFF 之外，还有其他倡导农业多样性的重要组织，包括作物信托基金、慢食、国际半干旱热带作物研究所（Icrisat）和国际生物多样性中心。她说，此外还有更多中等收入消费者在寻找有营养的食物，也有其他人渴望尝试他们祖辈曾吃过的未加工食物。\n\nM) 但在一些地方，对被遗忘食物日益增长的兴趣，正被另一些地方西方饮食（高糖、高脂、多加工食品）的全球扩张所盖过。\n\nN) 例如，在马来西亚推广日渐消失的本土作物的一个关键障碍是“对进口产品的痴迷”，黄珍妮弗（Jenifer Kuah）说；她是吉隆坡一个富裕郊区一家主打本地食材的餐厅的联合创始人。她说，被视为该国小规模“农场到餐桌”餐饮先河的 Sitka 餐厅的顾客，仍把外国食材当作“身份象征”来追求。\n\nO) 支持被遗忘食物的论点让人觉得合情合理。一些分析人士说，这实际上是不可避免的。“气候变化几乎肯定意味着人们的口味将被迫改变，”伦敦城市大学食品政策教授蒂姆·朗（Tim Lang）说。他说，随着主粮作物产量下降，我们“必须习惯于吃其他作物”。"
+ },
+ "careful": {
+  "2024-12-1-careful-1": {
+   "passage_zh": "想象你是一个被派到地球的外星人，任务是记录这颗行星上哺乳动物的行为。你无意中走进一家正在放映最新好莱坞恐怖片的电影院。\n\n几十个人聚在一个昏暗、没有装饰的房间里。他们都盯着一个长方形区域，上面的光影图案在迅速变化。\n\n他们显然处于高度兴奋的状态。他们的心率升高，不时紧张地环顾四周，有时还会集体从座位上跳起来，发出尖利的警报叫声。\n\n终于，灯亮了，长方形屏幕变黑。这些人站起身离开房间，一边聊天一边大笑，显得很愉快。\n\n为什么这些人自愿让自己经历一种看起来极不愉快的体验？为什么他们对屏幕上那些光影图案反应如此强烈？\n\n我着迷于恐怖的悖论——许多人主动寻找恐怖娱乐这一奇怪的事实。\n\n我认为这个谜题的答案在于人的本性。\n\n我的研究表明，我们人类进化出这样一种倾向：在安全的处境中体验负面情绪时，会感到快乐。你可以在儿童游戏中看到恐怖的这些要素。以捉迷藏为例，它是对捕食者与猎物互动的一种模拟。孩子躲起来，大人假装是捕食者，一边像危险野兽那样嚎叫一边寻找孩子。\n\n这种模拟为孩子提供了如何避免成为猎物的关键信息，而孩子们往往觉得这类活动非常令人满足，大概是因为它让他们安全地体验了一种可能带来灾难的情境。\n\n他们觉得这很快乐，而快乐是进化用来驱使我们做出适应性行为的方式。\n\n对很多人来说，恐怖之所以令人愉悦，是因为它让我们玩弄负面情绪并发展应对策略。我们了解到真正害怕是什么感觉，也学会了如何处理负面情绪。\n\n那么，恐怖是如何起作用的呢？我的研究表明，恐怖起作用的方式是利用一套古老的生物防御机制——一套我们与其他动物共有的、进化而来的恐惧系统。但人类有独特的想象力，我们用进化而来的想象力进入充满危险的虚拟世界。\n\n即使你不是忠实的恐怖片粉丝，看恐怖片也有充分的理由。如果你安然无恙地看完这部电影，你可能会体验到一种强烈的掌控感，一种“我挺过了一场可怕的经历”的感觉。无论如何，看恐怖片能让你更善于处理自己的恐惧，而谁知道这种能力何时会变得至关重要呢？",
+   "questions": {
+    "46": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "They are clearly in a state of high arousal. Their heart rate is elevated, they occasionally glance around nervously, and they sometimes jump collectively in their seats, and emit high-pitched warning calls.",
+     "explanation": "题干问外星人观察到影院观众处于什么状态。第 3 段直言 They are clearly in a state of high arousal（他们显然处于高度兴奋/高唤醒状态），随后给出心率升高、紧张环顾、集体跳起、发出尖利叫声等生理与行为证据，这些正是 extreme excitement（极度兴奋）的表现；选项 B 是对 high arousal 的同义改写。",
+     "distractors": {
+      "A": "语义相反：total mindfulness（全然专注觉知）指冥想式的平静清醒，而原文强调的是 heart rate is elevated、jump collectively 的生理激动，方向相反。",
+      "C": "无中生有：spiritual elevation（精神升华）在原文中毫无依据，原文只描写生理性唤醒与行为反应，没有任何精神或宗教意味。",
+      "D": "程度与性质错位：intense curiosity（强烈好奇）是认知状态，而原文强调的是恐惧引发的生理性高唤醒（心率、叫声、跳起），且观众 stare 的是恐怖片画面，不是探究未知。"
+     }
+    },
+    "47": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "My research suggests that we humans evolved to find pleasure in situations that allow us to experience negative emotions in a safe context.",
+     "explanation": "题干问按作者研究，人们为何主动寻找恐怖娱乐。第 8 段给出答案句：人类进化出在“能安全体验负面情绪的情境”中获得快乐的倾向。选项 B 的 find joy 对应 find pleasure，going through simulated horrible experiences 对应 experience negative emotions in a safe context（恐怖片提供的正是模拟的、安全的可怕体验）。",
+     "distractors": {
+      "A": "范围与场景偷换：原文说的是在 safe context／虚拟世界中体验负面情绪，A 却说 gain experience in overcoming horror in real life（在现实生活中克服恐惧），把“安全模拟”换成了真实生活经历。",
+      "C": "以偏概全（错把例证当结论）：捉迷藏只是第 8–9 段用来举例说明“安全体验负面情绪”的儿童游戏，并非人们爱看恐怖片的原因；C 把例证抬升为全文结论。",
+      "D": "表述偏差：D 说 evolved to gain pleasure in escaping life-threatening situations（在逃离致命情境中获得快乐），而原文的快乐来自“安全地体验负面情绪”本身，不是来自逃离危险；看电影的观众并未真的身处险境。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "This simulation gives the child crucial information about how to avoid becoming prey, and children tend to find that kind of activity deeply satisfying, presumably because it gives them a safe experience of a potentially catastrophic scenario.",
+     "explanation": "题干问孩子从捉迷藏中学到什么。第 9 段明确说这种模拟给孩子提供 how to avoid becoming prey（如何避免成为猎物）的关键信息，选项 A 的 How to avoid falling prey to an attacker 正是同义改写（fall prey to ≈ become prey，attacker 对应 predator）。",
+     "distractors": {
+      "B": "答非所问（把游戏性质当成收获）：simulate a predator-prey interaction 是捉迷藏这一游戏本身是什么（第 8 段），不是孩子从中“学到”的内容，题干问的是 learn。",
+      "C": "偷换概念：原文说的是避免“成为猎物”（becoming prey），C 换成 keep themselves from catastrophic errors（避免灾难性错误），把被捕获的危险改成犯错误。",
+      "D": "主体错位：把危险情境变成安全情境的是“游戏/模拟”这一设置（it gives them a safe experience），不是孩子学到的技能；题干问孩子学到什么，D 描述的是游戏的功能。"
+     }
+    },
+    "49": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 11,
+     "evidence_quote": "Horror is pleasurable to many people because it lets us play with negative emotions and develop coping strategies. We learn what it feels like to be truly afraid, and we learn how to handle negative emotion.",
+     "explanation": "题干 Why is horror gratifying（为何恐怖令人满足/愉悦）与第 11 段首句 Horror is pleasurable to many people because ... 直接对应，原因有两条：让我们玩弄负面情绪并发展应对策略（develop coping strategies），以及 learn what it feels like to be truly afraid 与 learn how to handle negative emotion。选项 C 的 learn what fear feels like 与 how to tackle it 正是这两句的同义改写。",
+     "distractors": {
+      "A": "因果颠倒：an ancient set of biological defence mechanisms（古老的生物防御机制）是第 12 段解释恐怖“如何起作用”的机制，不是它令人愉悦的原因，且原文没有“使人想起”这层意思。",
+      "B": "机制当原因：用想象力进入危险虚拟世界（第 12 段）回答的是 how horror works，而非 why it is gratifying；B 把作用机制错当成愉悦的动因。",
+      "D": "并列失当：D 把“进化而来的恐惧系统”和“独特幻想”并列为原因，但第 12 段强调的是人类的想象力使这套共有的恐惧系统得以在虚拟世界中被触发，二者的关系是“利用”而非并列的两个来源。"
+     }
+    },
+    "50": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 13,
+     "evidence_quote": "If you make it through the film in one piece, you'll probably experience a strong sense of mastery, a sense that you were able to make it through an appalling experience.",
+     "explanation": "题干“若一个人毫发无损地看完一部恐怖片，他会体验到什么”，与第 13 段条件句完全对应：make it through the film in one piece 对应 without being hurt；you'll probably experience a strong sense of mastery 对应选项 D 的 A strong sense of being in control（mastery 即“掌控感”）。",
+     "distractors": {
+      "A": "张冠李戴：clear relevance 挪用了末句 when that will become critically relevant 的字面词，但那里说的是“处理恐惧的能力何时会变得至关重要”，不是观影后的感受。",
+      "B": "无中生有：good fortune（好运）在原文中没有任何对应表述，原文强调的是“挺过来了”的掌控感，与运气无关。",
+      "C": "近义误置：relief（如释重负）看似接近，但原文用的是 mastery，强调主动的掌控与胜任感，而非被动地“松一口气”；C 用 relief 替换了 mastery 的核心含义。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "arousal",
+     "meaning": "唤醒，兴奋（生理上的激动状态）",
+     "note": "in a state of high arousal 处于高度兴奋状态"
+    },
+    {
+     "word": "paradox",
+     "meaning": "悖论，自相矛盾的事",
+     "note": "the paradox of horror 恐怖的悖论"
+    },
+    {
+     "word": "predator",
+     "meaning": "捕食者，掠夺者",
+     "note": "a predator-prey interaction 捕食者与猎物的互动"
+    },
+    {
+     "word": "prey",
+     "meaning": "猎物；become/fall prey to 成为……的猎物",
+     "note": "avoid becoming prey 避免成为猎物"
+    },
+    {
+     "word": "simulation",
+     "meaning": "模拟，仿真",
+     "note": "a simulation of a predator-prey interaction"
+    },
+    {
+     "word": "catastrophic",
+     "meaning": "灾难性的",
+     "note": "a potentially catastrophic scenario 可能带来灾难的情境"
+    },
+    {
+     "word": "adaptive",
+     "meaning": "适应性的",
+     "note": "motivate us toward adaptive behaviour 驱使我们做出适应性行为"
+    },
+    {
+     "word": "mastery",
+     "meaning": "掌控，精通",
+     "note": "a strong sense of mastery 强烈的掌控感"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "This simulation gives the child crucial information about how to avoid becoming prey, and children tend to find that kind of activity deeply satisfying, presumably because it gives them a safe experience of a potentially catastrophic scenario.",
+    "analysis": "主干由 and 连接两个并列分句：① This simulation gives the child crucial information（这种模拟给孩子关键信息），about how to avoid becoming prey 是介词短语作 information 的后置定语，其中 how to avoid becoming prey 为“疑问词＋不定式”结构，become prey 是系表结构；② children tend to find that kind of activity deeply satisfying，find sth + 形容词（deeply satisfying）作宾语补足语，tend to 表示倾向性。presumably because it gives them a safe experience of a potentially catastrophic scenario 是原因状语从句，修饰第二个分句，because 从句内 it 指代前半的 this simulation，a safe experience of ... 中 of 短语说明体验的对象是“可能带来灾难的情境”。presumably 表示作者对因果关系的推测。整句逻辑：游戏＝模拟，模拟提供避险信息，因此孩子觉得满足——为下文“快乐是进化的激励手段”作铺垫。"
+   }
+  },
+  "2024-12-1-careful-2": {
+   "passage_zh": "现实世界中正在发生一场觉醒，反对多年来被强加给我们的美的范本。但在数字领域，社交媒体决定了什么被认为是美的。\n\n两场对立的斗争在并行进行。在现实世界中，这场斗争针对的是施加在女性身上的、迫使她们符合不切实际的美貌理想的内在压力。作为这场斗争的一部分，各类媒体推出了身体不符合所谓理想标准的女性。所有那些此前被排除在杂志封面、电视剧和公共议程之外的女性，如今都变得“合法”了。与此同时，一群网红开始在社交媒体上传自己不化妆的照片，甚至上传突出所谓缺陷的照片。\n\n技术重塑了我们的美貌理想，并且在向大众传达这一信息方面做得非常出色。过去十年奇特的遗产之一就是“赛博格外观”的流行，它展示了 2050 年美国人会是什么样子。\n\n赛博格外观迅速传播。然而今天，“Instagram 脸”已成为新的美貌理想。\n\n当学习过程存在主动参与时，对公认美貌规范的内化会有效得多。用户的主动参与体现在社交媒体平台提供的游戏化互动中——点赞、评论、比较、分享的能力。\n\n一旦期望的美貌理想被内化，用户就会得到工具或功能来改变自己的外表以符合公认的美貌理想，比如编辑图片、选择理想的滤镜和合适的背景。\n\n美国进行的一项调查显示，超过 50% 的人在发布前会修图。听到其中大多数是女性，你不会感到惊讶。过度修图的重大后果之一，是出现了一种把自己当作被观察和被评价的客体的倾向，就像另一个人从旁观察和评判一样。\n\n滤镜的影响早已远远超出友好的娱乐。滤镜以及网络上进行的整个游戏影响着用户的心理健康。根据一项研究，Instagram、Snapchat 和 FaceTune 等应用能让用户达到一种此前只在美容杂志上才能看到的完美程度。\n\n尽管人类一直珍视美，但在过去十年里，我们对容貌的痴迷达到了前所未有的顶峰。花在社交媒体上的时间产生了一种追求不可能实现的美貌理想的强烈冲动，这种冲动如此强大，以至于唯一能解决它的不是整容干预，而是心理健康护理。",
+   "questions": {
+    "51": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "But in the digital arena, social media determines what is considered beautiful.",
+     "explanation": "题干问数字领域中的美。第 1 段末句直接说：在数字领域，社交媒体决定了什么被认为是美的（social media determines what is considered beautiful）。选项 D 的 It is defined by social media 是对 determines 的被动改写，一一对应。",
+     "distractors": {
+      "A": "主客颠倒：原文是 social media determines what is considered beautiful（社交媒体决定美的标准），A 反过来说美 dictates the taste of digital media（美决定数字媒体的品味），把决定者与被决定者倒置。",
+      "B": "张冠李戴：has been in the making for years 挪用第 1 段前半句“多年来被强加给我们的美的范本”（the beauty model that has been dictated to us for years），那说的是现实世界的旧范本，不是数字领域的美。",
+      "C": "主体偷换：ushered in a new awakening 对应第 1 段首句“现实世界中正在发生一场反对旧范本的觉醒”，那场觉醒发生在 physical world，不是 digital arena。"
+     }
+    },
+    "52": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "In the physical world, the struggle goes against the underlying pressure exerted on women to conform to an unrealistic beauty ideal.",
+     "explanation": "题干问现实世界中的美。第 2 段说：在现实世界，这场斗争（struggle）针对的是施加在女性身上、迫使她们符合不切实际美貌理想（unrealistic beauty ideal）的压力。选项 C 的 A fight is going on 对应 the struggle；to remove pressure 对应 goes against the pressure；absurd beauty ideal 对应 unrealistic beauty ideal。",
+     "distractors": {
+      "A": "静止化误读：原文说的是正在反抗这种压力（the struggle goes against the pressure），A 却只说女性承受持续压力（under constant pressure），把“斗争进行中”这一核心信息丢掉，且未体现文章所述的反抗趋势。",
+      "B": "程度改写失真：原文是 unrealistic beauty ideal（不切实际的），B 改为 a beauty ideal that has never existed（从未存在过的），把“难以达到”偷换成“根本不存在”，原文并未断言该理想从未存在。",
+      "D": "范围过窄且细节失真：第 2 段提到媒体呈现身体不符合所谓理想标准的女性，以及网红上传不化妆的照片，这是两件不同的事；D 合并为“媒体开始把不化妆的时髦女性当作美貌范本”，既缩小了媒体所做的范围，也无中生有地加上 trendy 这一限定。"
+     }
+    },
+    "53": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "Today, however, the Instagram face has become the new beauty ideal.",
+     "explanation": "题干问 Instagram 脸。第 4 段一句直陈：如今“Instagram 脸”已成为新的美貌理想。选项 A 的 It is now regarded as the new beauty ideal 与原文几乎逐词对应（has become ≈ is now regarded as）。",
+     "distractors": {
+      "B": "时间与对象错位：2050 出自第 3 段，说的是“赛博格外观”展示了 2050 年美国人的样子，与 Instagram 脸无关，也并未说大多数女性会去追求它。",
+      "C": "无中生有：原文只说它成为新的美貌理想，没有提到社交媒体上“被广泛谈论”这一传播情况，is being much talked about 属添加信息。",
+      "D": "程度拔高：原文只说它是 the new beauty ideal（新的美貌理想），D 用 a perfect illustration of the ultimate beauty（终极美的完美例证）把阶段性标准拔高为绝对标准，超出原文。"
+     }
+    },
+    "54": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "One of the significant consequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side.",
+     "explanation": "题干 What has obsessive filtering resulted in 与第 7 段 One of the significant consequences of obsessive filtering is ... 完全对应；结果是出现一种倾向：把自己当作被观察、被评价的客体（treat oneself as an object to be observed and valued），如同他人从旁观察评判。选项 C 的 regard one's body as an object of observation and judgment 正是该句的改写。",
+     "distractors": {
+      "A": "因果链错位：追求“不可能达到的完美”出自第 8 段，那里说的是滤镜类 App 让用户达到从前只出现在美容杂志上的完美程度，是滤镜效果的延伸后果，而非题干所指的 obsessive filtering 的直接结果。",
+      "B": "曲解原文：原文 the entire game played on the networks 指平台上那套游戏化的外貌塑造机制，B 却把它说成“把整个游戏变成对自己有利”，凭空加入“利用规则获利”的意思。",
+      "D": "把前提当结果：第 7 段开头“超过 50% 的人在发布前修图”是造成 obsessive filtering 这一现象的事实前提，D 把这个前提反过来当成“结果”陈述。"
+     }
+    },
+    "55": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+     "explanation": "题干问作者在文末想强调什么。第 9 段末句点明：花在社交媒体上的时间产生的追求不可能美貌理想的冲动极其强大，唯一能解决它的不是整容干预（not cosmetic intervention），而是心理健康护理（but mental health care）。选项 B 的 Psychological intervention should be introduced to alleviate it 正是 not ... but mental health care 的正面概括（psychological intervention ≈ mental health care，alleviate ≈ fix）。",
+     "distractors": {
+      "A": "语义相反：原文明确否定整容途径（not cosmetic intervention），A 却主张让整容手术更易获得，与作者立场正相反。",
+      "C": "措施错位：原文把社交媒体使用时间描述为冲动产生的原因，给出的对策是心理健康护理，并未主张严格限制上网时间，C 是自行加上的管理措施。",
+      "D": "答非所问：作者在文末给出的是明确结论与对策（需要心理健康护理），而不是“应细致分析其根源”；D 把已给出的结论替换成继续研究的要求。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "dictate",
+     "meaning": "规定，决定；口述",
+     "note": "a beauty model that has been dictated to us 被强加给我们的美的范本"
+    },
+    {
+     "word": "conform",
+     "meaning": "遵从，符合",
+     "note": "conform to an unrealistic beauty ideal 符合不切实际的美貌理想"
+    },
+    {
+     "word": "internalization",
+     "meaning": "内化（把外在标准变成自己的）",
+     "note": "the internalization of accepted beauty norms"
+    },
+    {
+     "word": "gamified",
+     "meaning": "游戏化的",
+     "note": "the gamified interaction offered by the social media platforms"
+    },
+    {
+     "word": "obsessive",
+     "meaning": "过度痴迷的，强迫性的",
+     "note": "obsessive filtering 过度修图"
+    },
+    {
+     "word": "intervention",
+     "meaning": "干预，介入",
+     "note": "not cosmetic intervention, but mental health care"
+    },
+    {
+     "word": "unprecedented",
+     "meaning": "前所未有的",
+     "note": "reached an unprecedented peak 达到前所未有的顶峰"
+    },
+    {
+     "word": "consequence",
+     "meaning": "后果，结果",
+     "note": "one of the significant consequences of obsessive filtering"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+    "analysis": "主干：The time spent on social media creates an urge（花在社交媒体上的时间产生一种冲动）。主语中心词 time 后接过去分词短语 spent on social media 作后置定语；an urge 后接不定式 to achieve an impossible beauty ideal 说明冲动的内容。关键是 so powerful that ... 结构：so + 形容词 powerful + that 引导结果状语从句，其中 so powerful 后置修饰 an urge（＝an urge ... so powerful that ...），表示“这种冲动强烈到……”。that 从句内部：the only thing（主语）＋ that can fix it（定语从句修饰 thing，it 回指前面的 an urge）＋ is（系动词）＋ not cosmetic intervention, but mental health care（表语，not ... but ... 并列结构，意为“不是……而是……”）。整句逻辑：社交媒体用时越长→追求不可能理想的冲动越强→靠整容无法解决，只能靠心理干预，这正是全文的结论句。"
+   }
+  }
+ }
+}

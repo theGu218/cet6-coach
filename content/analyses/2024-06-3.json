@@ -1,0 +1,437 @@
+{
+  "exam": "2024-06-3",
+  "cloze": {
+    "blanks": {
+      "26": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "空格与前面的 reflection 由 and 并列，且前面有定冠词 the 修饰，因此必须填名词。the reflection and ___ of light 讲的是光线穿过水滴时发生的两个物理过程：反射与“色散”。dispersion 意为“色散、分散”，指白光被分解成不同颜色的光，正好与后文“白光在水内部被分解、折射后呈不同颜色”呼应，也与段首“彩虹的颜色由此产生”相扣。词性上是不可数名词，可放在 the reflection and 之后。",
+        "evidence": "The colors of a rainbow are produced by the reflection and {26} of light through water droplets(小滴) present in the atmosphere.",
+        "distractors": {
+          "D": "词性不符：eccentric 是形容词（“古怪的”），不能与名词 reflection 并列作 of light 的中心词；语义上也完全脱离“光的分解”这一物理过程。",
+          "I": "词形与词性双重不符：permeates 是第三人称单数动词，不能填入 the reflection and ___ 的名词位置；语义上 permeate 指流体渗入多孔材料，不能说明光被分解成七色。",
+          "K": "词性不符：preceding 是现在分词/形容词（“在前的”），不能作名词与 reflection 并列；且“前面的光”与题意无关。"
+        }
+      },
+      "27": {
+        "answer": "H",
+        "my_answer": "H",
+        "verified": true,
+        "explanation": "空前是情态动词 may，其后必须接动词原形；空后是 a rainbow to be located either near or far away 这一“宾语 + to be”的复合结构，要求填入一个能带复合宾语的感知类动词。perceive sb/sth to be ... 意为“认为/感知某人（某物）是……”，与后文“但这现象其实并不位于任何具体位置”构成让步转折：观察者会觉得彩虹有远近，其实它没有固定位置。",
+        "evidence": "An observer may {27} a rainbow to be located either near or far away, but this phenomenon is not actually located at any specific spot.",
+        "distractors": {
+          "I": "词形错误：permeates 是第三人称单数形式，而 may 之后必须用动词原形；语义上“渗透”也不能带 a rainbow to be located 这样的复合结构。",
+          "J": "搭配不成立：ponder 是不及物或只带 wh-/名词宾语的“思考”类动词，不能说 ponder sth to be ...；且“思考彩虹在远近”与句意（“觉得彩虹在远近”）不符。",
+          "O": "词形错误：stands 是第三人称单数，may 后需原形 stand；而且 stand 也不能接宾语加 to be 表示“认为”。"
+        }
+      },
+      "28": {
+        "answer": "M",
+        "my_answer": "M",
+        "verified": true,
+        "explanation": "空格前是介词 in、后接介词短语 to the direction of light，只有名词能放在 in ___ to 这一结构中构成固定搭配。in relation to 意为“相对于、与……相关”，句意：彩虹的外观完全取决于观察者相对于光线方向所处的位置。这一搭配是本句“位置取决于观察者与光线的相对关系”的关键。",
+        "evidence": "Instead, the appearance of a rainbow depends entirely upon the position of the observer in {28} to the direction of light.",
+        "distractors": {
+          "C": "搭配不成立：dispersion 虽是名词，但 in dispersion to 不是英语搭配；且“色散”是光的过程，不能表示观察者与光线方向的“相对关系”。",
+          "F": "词性不符：optical 是形容词，in ___ to 之间需要名词中心词，形容词无法单独充当；语义上也与“相对于”无关。",
+          "K": "搭配不成立：preceding 是形容词/分词，无法作 in ___ to 的名词；即使勉强理解为“在前”，in preceding to 也不成搭配。"
+        }
+      },
+      "29": {
+        "answer": "F",
+        "my_answer": "F",
+        "verified": true,
+        "explanation": "空格位于不定冠词 an 与名词 illusion 之间，须填以元音音素开头的形容词作定语。optical illusion 是固定搭配，意为“视觉错觉、光学错觉”。本句是前文“彩虹看似有远近、实则没有固定位置”的归纳：彩虹本质上是一种光学造成的错觉。",
+        "evidence": "In essence, a rainbow is an {29} illusion.",
+        "distractors": {
+          "D": "语义与搭配均不成立：eccentric 意为“（人、行为）古怪的”，修饰 illusion 会变成“古怪的错觉”，原文要说明的是“光学上的错觉”；且这一定性来自前面“位置并不存在”的推理。",
+          "N": "词性不符：spectrum 是名词，不能作定语修饰 illusion；且 an 后直接跟名词 spectrum 也与句中的 an ___ illusion 结构冲突。",
+          "K": "语义不符：preceding 意为“在前的”，preceding illusion 无法表达“光学错觉”，也与“本质上是错觉”这一归纳无关。"
+        }
+      },
+      "30": {
+        "answer": "N",
+        "my_answer": "N",
+        "verified": true,
+        "explanation": "空格前有不定冠词 a、后有过去分词短语 made up of seven colors in a specific order 作后置定语，须填可数名词。spectrum 意为“光谱”，a spectrum made up of seven colors 即“由七种颜色组成的光谱”，与下文“外层红、内层紫”以及七色顺序的说明完全对应。",
+        "evidence": "Rainbows present a {30} made up of seven colors in a specific order.",
+        "distractors": {
+          "C": "语义错位：dispersion 指“色散”这一过程，是动作/现象名词，不能说 a dispersion made up of seven colors（由七种颜色组成的色散）；此处需要一个能“由七色构成”的整体概念。",
+          "D": "词性不符：eccentric 是形容词，不能作 a ___ made up of ... 的名词中心词。",
+          "M": "语义不成立：relation 意为“关系”，不能“由七种颜色按特定顺序组成”；搭配上 a relation made up of seven colors 也讲不通。"
+        }
+      },
+      "31": {
+        "answer": "O",
+        "my_answer": "O",
+        "verified": true,
+        "explanation": "引号内的 \"Roy G. Biv\" 作主语，为单数概念，其后需要单数谓语动词；冒号后的 red, orange, yellow ... violet 正是它逐项代表的颜色。stand for 意为“代表、表示”，用第三人称单数 stands for 正合主谓一致，句意：\"Roy G. Biv\"代表红、橙、黄、绿、蓝、靛、紫。",
+        "evidence": "\"Roy G. Biv\" {31} for: red, orange, yellow, green, blue, indigo, and violet.",
+        "distractors": {
+          "A": "搭配不成立：bounces for 不是英语搭配，bounce 表示“弹跳、弹回”，不能表示“拼写缩写代表某些颜色”。",
+          "G": "搭配不成立：originates for 不成立，originate 通常与 in/from 连用表示“起源于”；而且“代表七种颜色”并非“发源”之意。",
+          "H": "词形与语义双重不符：perceive 是原形，主语为单数概念时需要 perceives；语义上“感知到红橙黄绿”也与“缩写代表”的说明关系不符。"
+        }
+      },
+      "32": {
+        "answer": "E",
+        "my_answer": "E",
+        "verified": true,
+        "explanation": "空处所在结构是 water droplets ___ in the atmosphere，句中已有谓语 passes through，因此这里只能填非谓语形式作后置定语。hanging in the atmosphere 意为“悬浮在大气中”，说明水滴的状态，与首段“大气中存在的小滴”一致。现在分词 hanging 表主动、表状态，hanging in the atmosphere 是修饰 droplets 的常用表达。",
+        "evidence": "A rainbow is formed when light (generally sunlight) passes through water droplets {32} in the atmosphere.",
+        "distractors": {
+          "A": "语法与语义均不符：bounces 是谓语动词形式，句中已有 passes through 作谓语，不能再出现第二个谓语；且“水滴在大气中弹跳”也不符合水滴悬浮的状态。",
+          "I": "语法不符：permeates 是第三人称单数谓语动词，同样会造成一句两个谓语；且 permeate 是“渗透”，不能作后置定语描述水滴悬浮。",
+          "K": "语义不符：preceding 意为“在前的、先前的”，preceding in the atmosphere 讲不通；原文要表达的是水滴“悬在空中”的空间状态。"
+        }
+      },
+      "33": {
+        "answer": "A",
+        "my_answer": "A",
+        "verified": true,
+        "explanation": "从句主语 it 指代 light（光），为第三人称单数，因此空格处需要单数谓语动词；bounce back 是固定表达，意为“弹回、反射回去”。整句意思是：当光从水滴上反射时，它只是沿着与来处相反的方向弹回。这也与上句“产生反射和折射两个过程”中的“反射”对应。",
+        "evidence": "When light reflects off a water droplet, it simply {33} back in the opposite direction from where it {34} .",
+        "distractors": {
+          "E": "语法不符：hanging 是现在分词，不能单独作从句谓语（simply hanging back 缺少限定形式）；语义上“悬挂”也不表达光被反射回去。",
+          "G": "语义与搭配不符：originates back 不成立，originate 表示“发源、产生”，不能与 back 构成“弹回”的意思；而本句讲的是光沿相反方向回去。",
+          "O": "语义不成立：stand back 意为“（人）后退、退开”，用于人的站位，不能描述光线从水滴上反射返回。"
+        }
+      },
+      "34": {
+        "answer": "G",
+        "my_answer": "G",
+        "verified": true,
+        "explanation": "from where it ___ 是介词 from + 宾语从句，从句主语 it 仍指光，需要第三人称单数谓语。originate 意为“发源、起始”，from where it originated 即“从它原本来的地方”，与前面的 in the opposite direction（朝相反方向）搭配，说明光沿入射方向的反方向返回。",
+        "evidence": "When light reflects off a water droplet, it simply {33} back in the opposite direction from where it {34} .",
+        "distractors": {
+          "A": "语义重复导致错误：前文已用 bounces back 表示“弹回”，此处若再填 bounces，则 from where it bounces 意为“从它弹回的地方”，与“弹回到来的方向”逻辑重复且不通；两个空格分别考查“弹回”与“来自哪里”两个不同意思。",
+          "E": "语法不符：hanging 是分词，不能作 from where 从句的谓语；语义上“从它悬挂的地方”也不合光的传播描述。",
+          "O": "搭配不成立：stand from 不是英语搭配；且“光从某处站立”讲不通。"
+        }
+      },
+      "35": {
+        "answer": "B",
+        "my_answer": "B",
+        "verified": true,
+        "explanation": "空格位于 instead of 之后、动名词 passing 之前，只能填副词修饰 passing，表示“穿过”的程度。completely 意为“完全地”，instead of completely passing through the water 即“而不是完全穿过水”，与前半句“光波到达水滴另一侧后反射出去”形成对照，也解释了为何白光会在水滴内部被分解。",
+        "evidence": "When these bent light waves reach the other side of the water droplet, they reflect back out of the droplet instead of {35} passing through the water.",
+        "distractors": {
+          "D": "词性不符：eccentric 是形容词，不能修饰动名词 passing；语义上“古怪地穿过”也与物理过程无关。",
+          "K": "词性与语义均不符：preceding 是形容词/分词，不能作副词修饰 passing 表程度；preceding passing 也无法表达“完全穿过”。",
+          "L": "语义方向错误：recklessly 意为“鲁莽地、不顾后果地”，用于人的行为，不能描述光波穿水的物理程度。"
+        }
+      }
+    },
+    "passage_zh": "彩虹是一种多彩的、弧形的现象，会出现在天空中。彩虹的颜色，是由光线穿过大气中的小滴时发生的反射和色散产生的。观察者可能会觉得彩虹离自己很近，或者很远，但这一现象实际上并不位于任何特定位置。相反，彩虹的外观完全取决于观察者相对于光线方向所处的位置。从本质上说，彩虹是一种光学错觉。彩虹呈现出由七种颜色按特定顺序组成的光谱。事实上，许多英语国家的学童都会被教着记住\"Roy G. Biv\"这个名字，用来帮助记住彩虹的颜色及其顺序。\"Roy G. Biv\"代表：红、橙、黄、绿、蓝、靛、紫。弧形彩虹的外缘是红色，内缘则是紫色。当光（通常是阳光）穿过悬浮在大气中的小滴时，彩虹就形成了。光波在穿过小滴时会改变方向，由此产生两个过程：反射和折射。当光从一个小滴上反射回来时，它只是沿着与它来处相反的方向弹回。而当光发生折射时，它会走上另一个方向。有些人把折射后的光称为\"弯曲的光波\"。彩虹之所以形成，是因为白光进入小滴后，向几个不同的方向弯曲。当这些弯曲的光波到达小滴的另一侧时，它们会反射出去，而不是完全穿过水。由于白光在水内部被分解开来，折射后的光在人眼中便呈现为不同的颜色。"
+  },
+  "matching": {
+    "statements": {
+      "36": {
+        "answer": "D",
+        "my_answer": "D",
+        "verified": true,
+        "explanation": "题干“虽然员工被说成开会劳累，但这种状况直到最近才被认为值得进一步研究”与 D 段第二句完全对应：It isn't ground-breaking to say workers feel fatigued after a meeting（员工开完会感到疲惫并不算什么突破性发现）对应“员工被说成开会劳累”，only in recent decades have scientists deemed the condition worthy of further investigation（只有近几十年科学家才认为这种状况值得进一步研究）对应“直到最近才被认为值得进一步研究”。worthy of further investigation 与 worthy of further research 同义改写。",
+        "evidence": "It isn't ground-breaking to say workers feel fatigued after a meeting, but only in recent decades have scientists deemed the condition worthy of further investigation."
+      },
+      "37": {
+        "answer": "H",
+        "my_answer": "H",
+        "verified": true,
+        "explanation": "题干说“姆罗兹和团队编制了一份该做与不该做的清单来补救 MRS 问题”。H 段正是这一内容：published a study detailing the best ways to avoid common traps（发表研究详述避免常见陷阱的最佳做法）对应“编制清单补救问题”，a concise checklist of do's and don'ts applicable to any workplace（适用于任何职场的简明“该做与不该做”清单）对应“该做什么、不该做什么的清单”，该段末句 may now hold a remedy to the largely undefined problem of MRS 中的 remedy 对应题干的 remedy。",
+        "evidence": "published a study detailing the best ways to avoid common traps, including a concise checklist of do's and don'ts applicable to any workplace"
+      },
+      "38": {
+        "answer": "N",
+        "my_answer": "N",
+        "verified": true,
+        "explanation": "题干“如果公司优先考虑员工的时间，就能消除 MRS 的根源”。N 段句子结构一一对应：By reshaping the way they prioritise employees' time（通过重塑安排员工时间的方式）对应“优先考虑员工的时间”，companies can eliminate the very sources of MRS in their tracks（公司可以从根源上消除 MRS 的源头本身）对应“消除 MRS 的根源”，eliminate the very sources 与 get rid of the root cause 同义。",
+        "evidence": "By reshaping the way they prioritise employees' time, companies can eliminate the very sources of MRS in their tracks."
+      },
+      "39": {
+        "answer": "F",
+        "my_answer": "F",
+        "verified": true,
+        "explanation": "题干“如果员工被消耗到危险的程度，他们极难转入下一项任务”。F 段用同一条件结构表达：If we are already drained to dangerous levels（如果我们已被消耗到危险的限度）对应“被消耗到危险的程度”，then making the mental switch to the next thing is extra tough（那么把心思切换到下一件事就格外艰难）对应“极难转入下一项任务”，mental switch 即 transition to the next task，extra tough 即 extremely hard。",
+        "evidence": "If we are already drained to dangerous levels, then making the mental switch to the next thing is extra tough."
+      },
+      "40": {
+        "answer": "B",
+        "my_answer": "B",
+        "verified": true,
+        "explanation": "题干“美国员工花大量时间开会，而管理者的开会时数是他们的好几倍”。B 段末句给出数据：Every week, employees spend about six hours in meetings（员工每周开会约六小时）对应“花大量时间开会”，while the average manager meets for a staggering 23 hours（而普通管理者开会达惊人的 23 小时）——23 小时约为 6 小时的四倍，对应“管理者的时数是好几倍”；In the United States 与本段前面的“美国每天举行会议”背景对应 Employees in America。",
+        "evidence": "Every week, employees spend about six hours in meetings, while the average manager meets for a staggering 23 hours."
+      },
+      "41": {
+        "answer": "K",
+        "my_answer": "K",
+        "verified": true,
+        "explanation": "题干“哈特曼自己摸索出姆罗兹研究中的许多方法，并在摆脱无用会议方面取得了显著成效”。K 段首句：Hartman has taught herself many of the same tricks suggested in Mroz's study（哈特曼自行摸索出姆罗兹研究中提出的许多相同技巧）对应“自己学会姆罗兹建议的许多方法”，taught herself 即 learned by herself；and has come a long way since her days of being stuck with unnecessary meetings（从被无用会议困住的日子起已走了很远）对应“在摆脱无用会议方面取得显著成效”。",
+        "evidence": "Despite the relative scarcity of research behind the subject, Hartman has taught herself many of the same tricks suggested in Mroz's study, and has come a long way since her days of being stuck with unnecessary meetings."
+      },
+      "42": {
+        "answer": "E",
+        "my_answer": "E",
+        "verified": true,
+        "explanation": "题干“当会议开得太久或者无法调动员工参与时，就会消耗人的活力”。E 段第三句用同一并列结构：Meetings drain vitality if they last too long, fail to engage employees or turn into one-sided lectures，其中 drain vitality 对应 deplete vitality，last too long 对应 continue too long，fail to engage employees 对应 don't engage employees。B 段讲会议数量与成本，G 段讲恢复时间长短，均不涉及“消耗活力”的条件。",
+        "evidence": "Meetings drain vitality if they last too long, fail to engage employees or turn into one-sided lectures."
+      },
+      "43": {
+        "answer": "I",
+        "my_answer": "I",
+        "verified": true,
+        "explanation": "题干“开会时间减少后，员工会更投入于他们真正参加的那些会议”。I 段末句：Less time in meetings would ultimately lead to more employee engagement in the meetings they do attend（开会时间减少最终会让员工在真正参加的会议上更加投入），与题干逐词对应：减少时间 → 更多投入。注意 L 段也有 Less time in meetings would ultimately lead to ...，但其落点是 increased productivity（提高生产力），不是员工的参与度，所以不能选 L。",
+        "evidence": "Less time in meetings would ultimately lead to more employee engagement in the meetings they do attend, which experts agree is a proven remedy for MRS."
+      },
+      "44": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "题干“一些员工把会议视为工作日中最可有可无的部分”。C 段首句：some employees view them as one of the most unnecessary parts of the workday，view ... as 对应 consider，the most unnecessary parts 对应 the most dispensable parts（最可省去的部分），some employees 直接对应题干。J 段虽也讲员工对无用会议的不满，但落点是发泄情绪、浪费时间，没有“最可有可无”这一判断。",
+        "evidence": "And though experts agree that traditional meetings are essential for making certain decisions and developing strategy, some employees view them as one of the most unnecessary parts of the workday."
+      },
+      "45": {
+        "answer": "L",
+        "my_answer": "L",
+        "verified": true,
+        "explanation": "题干“据姆罗兹说，如果用上他的全部建议，最明显的变化将是排定的会议数量大幅下降”。L 段首句：If an organisation were to apply all 22 suggestions from Mroz and Allen's findings（如果一个组织用上姆罗兹和艾伦研究中的全部 22 条建议）对应“如果他的全部建议都被采用”，the most noticeable difference would be a stark decrease in the total number of meetings on the schedule（最明显的变化将是日程上会议总数的大幅下降）对应“非常明显的变化是排定的会议数量急剧减少”；a stark decrease 即 a steep decrease，Mroz says 明确说明这是姆罗兹的说法。",
+        "evidence": "If an organisation were to apply all 22 suggestions from Mroz and Allen's findings, the most noticeable difference would be a stark decrease in the total number of meetings on the schedule, Mroz says."
+      }
+    },
+    "article_zh": "A) 菲利斯·哈特曼深知在办公室会议地狱深处硬闯是种什么滋味。在她以前做过的一份人力资源工作中，经理们安排了太多会议，以致参会者会在桌边睡着，或者故意迟到。一天当中有好几个小时被无用的会议占满，她常常被迫在加班时间补上工作。\"我实际工作的时间，比我把活儿干完所需要的时间还要多，\"哈特曼说。她是宾夕法尼亚州匹兹堡 PGHR 咨询公司的创始人兼总裁。\n\nB) 感到沮丧的不止她一人。美国每天要举行 1100 万到 5500 万场会议，让大多数机构为此花掉 7% 到 15% 的人事预算。每周，员工在会议上花掉约六个小时，而普通管理者开会的时长则多达惊人的 23 个小时。\n\nC) 尽管专家们一致认为，传统会议对于做出某些决定和制定战略是不可或缺的，但一些员工仍把它们视为工作日中最没有必要的一部分。其结果不仅是浪费数千亿美元，还带来组织心理学家所称的\"会议恢复综合征（MRS）\"这一烦恼：在一次无用会议之后用来冷静下来、重新集中注意力的时间。如果你在一场令人沮丧的会议后跑到办公室茶水间和同事一起放松一下，你很可能正在经历会议恢复综合征。\n\nD) 会议恢复综合征这个概念，几乎任何有过正式工作的人都不该感到陌生。说员工开完会后感到疲惫并不算什么突破性发现，但只有最近几十年，科学家才认为这种状况值得进一步研究。由于它与组织效率和员工幸福感相关，MRS 引起了心理学家的关注，他们意识到有必要弄清它确切的成因和解决办法。\n\nE) 就目前研究人员所能提出的假设而言，MRS 最容易理解为有限的心理与生理资源的缓慢恢复。当员工坐在一场低效的会议里时，其脑力实质上正在被抽走。会议如果开得太久、无法调动员工参与，或者变成单方面的讲话，就会消耗人的活力。最初由斯特凡·霍布福尔博士于 1989 年提出的资源保存理论认为，当一个人的资源受到威胁或损失时，就会产生心理压力。当资源不足时，人会转入防御状态，以保存剩余的储备。就办公室会议而言，员工最宝贵的资源中有专注力、警觉性和积极性，这就意味着生产力会骤然中断，因为他们需要时间恢复。\n\nF) 作为人，当我们在工作中从一项任务转换到另一项任务时——比如从坐在会议里转到做正常工作——需要一次费力的认知切换。我们必须把自己从上一项任务中抽离出来，并耗费大量心力才能继续。如果我们已经被消耗到危险的限度，那么把心思切换到下一件事就格外艰难。常见的情形是，人们在一场令人沮丧的会议后上网摸鱼、去拿杯咖啡、打断同事并跟他们讲刚才开会的事，等等。\n\nG) 每个人从糟糕会议中恢复的能力各不相同。有些人能很快恢复，另一些人则会带着疲惫撑到下班。尽管目前没有正式的 MRS 研究在进行，人们仍可以大致推测普通员工滞后期（lag time）的长度。非 MRS 状态下的任务切换约需 10 到 15 分钟。而在 MRS 状态下，平均可能需要长达 45 分钟。如果员工的几场会议之间只隔 30 分钟，情况会更糟。\"在非 MRS 情况下，没有足够的时间完成转换、把事做完；而在 MRS 情况下，又不太够时间缓过来迎接下一场会议，\"研究人员约瑟夫·艾伦说，\"再加上接连不断的糟糕会议的累积效应，我们手上可能已经是一场流行病。\"\n\nH) 为对抗 MRS 的副作用，艾伦与研究人员约瑟夫·姆罗兹以及内布拉斯加大学奥马哈分校的同事发表了一项研究，详述了避免常见陷阱的最佳做法，其中包括一份适用于任何职场、简明扼要的\"该做与不该做\"清单。姆罗兹和团队参考了约 200 篇论文来编制这份全面的清单，他们如今或许为这个大部分尚未被界定的 MRS 问题找到了对策。\n\nI) 姆罗兹说，一个好的起点是先问问自己：我们的会议到底有没有必要开？如果议程上只是快速同步一下情况，或者只是传达一些不紧急的信息，那么给大家发一封邮件可能更适合。\"我始终建议的第二件事，是让会议尽可能小，\"姆罗兹说，\"如果他们并不需要马上给出某种意见，就可以之后再来跟进。他们没必要坐在这长达一小时的会议里。\"开会时间减少，最终会让员工在真正参加的会议上更加投入，专家们一致认为，这正是治疗 MRS 的可靠良方。\n\nJ) 组织科学教授克利夫·斯科特说，员工在被召集到一起、却无法激发参与的会议上也会感到受累。在一场毫无意义的会议之后，他们要花宝贵的时间发泄情绪、抱怨并设法重新集中注意力——这是 MRS 的主要陷阱之一。随着时间推移，员工发现自己被越来越多无用的会议缠住——因而要应对越来越长的 MRS 滞后期——工作日时间的浪费会让人感到受辱。\n\nK) 尽管关于这一课题的研究相对稀少，哈特曼已经自行摸索出姆罗兹研究中提出的许多相同技巧，而且从被无用会议困住的日子起，她已经走了很远。她如今邀请参加会议的人，不仅有不可或缺的员工，还有每个可能与当前问题有利害关系的部门的代表。她说，像她这样即便向非专家征求意见来形成决策的管理者，能够从员工那里获得更大的支持与合作。\n\nL) 姆罗兹说，如果一个组织把姆罗兹和艾伦研究结果中的全部 22 条建议都用上，最明显的变化将是日程上会议总数的大幅下降。开会时间减少最终会提高生产力，而这正是召开会议的最终目标。尽管这些对抗 MRS 的想法尚未经过实证检验，艾伦说有一个技巧很有希望：让员工找出那些能让心情迅速由负面转为正面的事物。听起来简单，找到属于自己的\"快乐之地\"、去那里待一会儿，然后马上回来工作，或许正是促进恢复的关键。\n\nM) 《会议的惊人科学》一书的作者史蒂文·罗格尔伯格补充说，领导者还应把自己视为\"他人宝贵时间的管家\"。具备预见潜在陷阱、并谨慎对待员工耐力的能力，领导者才能为 MRS 提供有效的短期抑制手段。\n\nN) 不过，艾伦说，最重要的是组织要意识到会议应当是灵活的。通过重塑他们安排员工时间的方式，公司可以从根源上把 MRS 的源头本身消除掉。"
+  },
+  "careful": {
+    "2024-06-3-careful-1": {
+      "passage_zh": "讽刺和爵士乐有一个出人意料的共同点：你一听到，就知道那是它们。讽刺主要是通过语气来理解的，而语气所表达的往往是字面意思的反面。例如，当有人说\"哎呀，这正是我现在需要的\"，他的语气会让你明白，那根本不是他需要的东西。\n\n最常见的情形是，讽刺突显出一种恼怒，或者干脆就是刻薄。\n\n如果你想更快乐、想改善人际关系，那就把讽刺戒掉吧。为什么？因为讽刺实际上是伪装成幽默的敌意。\n\n尽管表面上还带着微笑，许多被讽刺的人却会感到被贬低，还常常觉得说讽刺话的人无礼，或者可鄙。的确，sarcasm（讽刺）一词源自希腊语 sarkazein，其字面意思就是\"撕下或剥去皮肉\"，这一点并不令人意外。因此，讽刺前面常被加上\"尖刻的（cutting）\"这个词，而且它会伤人，这也不足为奇。\n\n更重要的是，由于行为会强烈地决定思想和感受，当一个人一贯地表现讽刺时，这只会进一步加剧他潜在的敌意和不安全感。毕竟，说到底，讽刺可以被用作一种隐蔽的霸凌方式——而大多数霸凌者都愤怒、缺乏安全感或者怯懦。\n\n反过来说，当一个人不再说出负面的话，尤其是那些讽刺的话，他可能很快就会开始觉得自己更快乐、更自信。而且，他生活中其他人的受益更大，因为他们再也不必听到讽刺这种在情感上伤人的语言了。\n\n当然，我并不是说所有讽刺都不好。它或许只是最好少用一点——就像烹饪中一味味道浓烈的香料。香料放得太多，整道菜的味道就会被它盖住。同样，偶尔来一点点讽刺的机智，可以给一场闲聊提味，并增添一丝幽默。但如果大量地、或者持续不断地来讽刺，就会盖过任何对话的情感风味，并且让听的人觉得很苦。\n\n所以，把讽刺的调门降下来，转而练习巧妙的机锋吧——后者通常不带任何敌意，因而更受与你交流的人的欣赏。从本质上说，讽刺来得容易，而真正不伤人的机锋需要才华。\n\n因此，机锋与讽刺之间的主要区别就在于——如前所述——讽刺往往是伪装成幽默的敌意。它可能意在伤人，而且往往尖酸刻薄。机锋式的言论通常是对别人无益的言行作出的反应，其意图是通过强调其中的荒谬之处，把问题理清、说明白。讽刺的话是以尖刻的方式表达出来的；而机锋式的妙语，则是以毫不掩饰、无害的幽默传达出来的。",
+      "questions": {
+        "46": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 1,
+          "evidence_quote": "Sarcasm and jazz have something surprisingly in common: You know them when you hear them.",
+          "explanation": "题干问作者为什么说讽刺和爵士乐有惊人的共同点。答案就在首段第一句：You know them when you hear them（你一听到它们，就知道那是它们），即两者都是靠\"听\"来辨识的——讽刺依赖语气（后文 Sarcasm is mostly understood through tone of voice），爵士乐依赖听觉。A 项\"两者都是听到时就能被辨识出来\"正是这句话的同义改写。",
+          "distractors": {
+            "B": "绝对化且无中生有：原文只说讽刺主要靠语气来理解，并没有说讽刺与爵士乐拥有\"完全相同的语气\"；exactly the same 属于原文没有的绝对判断。",
+            "C": "张冠李戴：与字面意思相反的是讽刺（which is used to portray the opposite of the literal words），字面意反的是\"讽刺\"一种，原文没有把这一特征安到爵士乐上。",
+            "D": "无中生有：irritation 出现在第 2 段对讽刺的描述（sarcasm highlights an irritation），是第 2 段的话题，不是首段所述\"讽刺与爵士乐的共同点\"。"
+          }
+        },
+        "47": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 4,
+          "evidence_quote": "Despite smiling outwardly, many people who receive sarcastic comments feel put down and often think the sarcastic person is rude, or contemptible.",
+          "explanation": "题干问许多人听到讽刺评论时感觉如何。第 4 段直接给出：feel put down（感到被压下去、被贬低）对应 belittled，think the sarcastic person is rude, or contemptible（觉得说讽刺话的人无礼、可鄙）对应 disrespected——被讽刺的人不仅自觉受贬，也不再尊重对方。B 项恰好把这两层合在一起。",
+          "distractors": {
+            "A": "方向与主体双重偏离：hostility（敌意）在原文中是讽刺者一方的特征（sarcasm is actually hostility disguised as humor；heighten their underlying hostility），而听者一方的反应是 feel put down（受贬低），原文没有出现听者\"感到敌意\"的表述。",
+            "C": "无中生有：原文只说到被讽刺的人感到被贬低、觉得对方可鄙，完全没有提到他们产生强烈反击（retaliate）的冲动。",
+            "D": "张冠李戴并颠倒角色：原文中的\"伪装\"（disguised）是讽刺者把敌意伪装成幽默，恼怒也是讽刺者的情绪；D 项却把\"无法掩饰自己的恼怒\"安到听者头上，与段落内容错位。"
+          }
+        },
+        "48": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 5,
+          "evidence_quote": "What's more, since actions strongly determine thoughts and feelings, when a person consistently acts sarcastically it may only serve to heighten their underlying hostility and insecurity.",
+          "explanation": "题干问一个人一贯表现讽刺会发生什么。第 5 段指出，由于行为会决定思想和感受，一贯讽刺\"只会加剧其潜在的敌意和不安全感\"（heighten their underlying hostility and insecurity），B 项 increasingly insecure and hostile 正是这一结果；consistently acts sarcastically 与题干的 consistently acts sarcastically 完全一致。",
+          "distractors": {
+            "A": "偷换概念且方向相反：原文要 heighten 的是 hostility and insecurity（负面的敌意与不安全感），A 项把宾语换成 dignity（尊严），并把效果说成正面\"大大提升\"，与原文判断相反。",
+            "C": "角色颠倒：\"伪装成幽默的敌意\"是讽刺者施加于他人的东西，本段讲的是讽刺者自身敌意的加重；C 项说他们\"承受\"着伪装成幽默的敌意，把施与受的关系弄反了。",
+            "D": "张冠李戴：bitter（苦涩）出自第 7 段对讽刺像香料过量、让听者觉得\"很苦\"的比喻，说的是听者的感受；题干问的是一贯讽刺的人自己身上会发生什么。"
+          }
+        },
+        "49": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 6,
+          "evidence_quote": "Alternatively, when a person stops voicing negative comments, especially sarcastic ones, they may soon start to feel happier and more self-confident. Also, other people in their life benefit even more because they no longer have to hear the emotionally hurtful language of sarcasm.",
+          "explanation": "题干问作者如何看待\"不再说讽刺话的人\"。第 6 段给出两层：一是说话者自己 begin to feel happier and more self-confident；二是 other people in their life benefit even more（身边人受益更大）。C 项\"不仅自己受益，周围的人也受益\"正好概括这两层，且 benefit 一词直接取自原文。",
+          "distractors": {
+            "A": "主体偷换：happier and more self-confident 的主语是说话者本人（they may soon start to feel），A 项却把它安到\"别人\"身上；原文说别人受益的原因是\"不必再听到伤人的话\"，并未说别人变得更自信。",
+            "B": "因果倒置：原文没有说停止讽刺能\"约束自己不惹人、不霸凌\"；第 5 段只是把讽刺比作一种隐蔽的霸凌，并未把停止讽刺的效果描述为自我约束。",
+            "D": "无中生有：原文说停止讽刺是\"自己不再说负面的话\"，D 项却把它说成\"保护自己免受他人的负面评论和公然敌意\"，方向由输出改为被动防护。"
+          }
+        },
+        "50": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 9,
+          "evidence_quote": "Thus, the main difference between wit and sarcasm is that, as already stated, sarcasm is often hostility disguised as humor. It can be intended to hurt and is often bitter and biting.",
+          "explanation": "题干问说话者的机锋与讽刺的主要区别。第 9 段先把主要区别定为\"讽刺是伪装成幽默的敌意\"，接着明确讽刺\"可能意在伤人\"（It can be intended to hurt），而机锋的 the intent is to untangle and clarify the issue。可见作者归纳的根本差别在于说话人的意图，D 项 intention 正确。",
+          "distractors": {
+            "A": "局部误取：clarify the issue 是机锋用来理清问题的手段，原文并未把\"清晰度\"说成二者的主要区别，且 clarity 是作者描述机锋效果时的附带语，不是那条 main difference。",
+            "B": "张冠李戴：more appreciated by those you're communicating with 出自第 8 段，讲的是机锋因为无害而更受对方欣赏，是对机锋效果的评价，不是作者归纳的二者区别。",
+            "C": "偷换：emphasizing its absurdities 是机锋阐明问题的方式（by emphasizing its absurdities），是手段状语，不是 main difference；原文的落点是 intended to hurt 与 the intent is to ... 这组意图对照。"
+          }
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "sarcasm",
+          "meaning": "讽刺，挖苦（说出与字面相反的话来嘲弄对方）",
+          "note": "Sarcasm is mostly understood through tone of voice. 全文核心词，注意与 wit（机锋）对比"
+        },
+        {
+          "word": "contemptible",
+          "meaning": "可鄙的，令人鄙视的",
+          "note": "think the sarcastic person is rude, or contemptible 觉得说讽刺话的人无礼、可鄙"
+        },
+        {
+          "word": "hostility",
+          "meaning": "敌意，敌对态度",
+          "note": "sarcasm is actually hostility disguised as humor 讽刺是伪装成幽默的敌意；第 48、50 题均考此义"
+        },
+        {
+          "word": "derive from",
+          "meaning": "源自，由……派生而来",
+          "note": "the origin of the word sarcasm derives from the Greek word \"sarkazein\" 注意此处 origin 与 derive from 语义重复的用法"
+        },
+        {
+          "word": "underlying",
+          "meaning": "潜在的，隐含的；根本的",
+          "note": "heighten their underlying hostility and insecurity 加剧其潜在的敌意与不安全感；第 48 题关键"
+        },
+        {
+          "word": "bullying",
+          "meaning": "霸凌，欺侮（以强凌弱的行为）",
+          "note": "a subtle form of bullying 一种隐蔽的霸凌方式；subtle 强调\"不易察觉\""
+        },
+        {
+          "word": "sparingly",
+          "meaning": "少量地，有节制地",
+          "note": "It may just be better used sparingly. 最好是少用一点；与后文 like a potent spice 的香料比喻呼应"
+        },
+        {
+          "word": "absurdity",
+          "meaning": "荒谬之处，荒唐",
+          "note": "clarify the issue by emphasizing its absurdities 通过强调其中的荒谬来理清问题"
+        }
+      ],
+      "long_sentence": {
+        "sentence": "Alternatively, when a person stops voicing negative comments, especially sarcastic ones, they may soon start to feel happier and more self-confident.",
+        "analysis": "主干：they may soon start to feel happier and more self-confident（他们可能很快开始感到更快乐、更自信）。句首 Alternatively 是话语标记，表示与上一段\"一贯讽刺会加剧敌意和不安全感\"相对照的另一种情形，可译为\"反过来说\"。when 引导时间状语从句 a person stops voicing negative comments：stop doing 表示\"停止做某事\"，voicing 是动名词作宾语，voice 在此为动词\"说出、表达\"；especially sarcastic ones 是对 negative comments 的追加限定，ones 回指 comments。主句中 start to feel 是\"开始感到\"，happier and more self-confident 为并列的比较级形容词作 feel 的表语。全句意思是：反过来说，当一个人不再说出负面的话（尤其是讽刺的话）时，他可能很快就会开始觉得自己更快乐、更自信。"
+      }
+    },
+    "2024-06-3-careful-2": {
+      "passage_zh": "变化性对于学习新技能至关重要。想一想学习如何打网球发球：你是否应该总在球场上完全相同的位置、瞄准同一个点来练习发球？虽然在更多变的条件下练习一开始会比较慢，但最终很可能让你成为更好的网球运动员。这是因为变化性能让所学的东西得到更好的泛化。\n\n这一原理在许多领域都能见到，包括言语感知和类别学习。例如，如果婴儿只接触到吉娃娃，而不是许多不同种类的狗，他们就很难学会\"狗\"这一类别。\n\n\"这一基本原理有十几个不同的名称，\"最近一项研究的资深研究者利莫尔·拉维夫说，\"从变化较少的输入中学习往往很快，但可能无法泛化到新的刺激上。\"\n\n为了找出关键规律、理解变化性效应的底层原理，拉维夫和同事回顾了 150 多项关于变化性与泛化的研究，涉及计算机科学、语言学、分类学、视觉感知和正规教育等领域。\n\n研究者发现，在各研究中，\"变化性\"一词至少可以指四种不同的变化性，例如集合大小和时间安排。\"这四种变化性从未被直接比较过——这意味着我们目前不知道哪一种对学习最有效，\"拉维夫说。\n\n变化性的影响取决于它是否与任务相关。但按照\"宫城先生原则\"，练习看似无关的技能，实际上可能有益于其他技能的学习。\n\n那么，为什么变化性会影响学习和泛化？一种理论认为，变化更多的输入可以突显出一项任务中哪些方面相关、哪些不相关。\n\n另一种理论认为，更大的变化性会带来更广泛的泛化。这是因为变化性能更好地代表现实世界，包括非典型的例子。\n\n第三个原因与记忆的运作方式有关：当训练是多变的，学习者被迫主动重构自己的记忆。\n\n\"理解变化性的影响，对我们日常生活的方方面面都很重要。除了影响我们学习语言、运动技能和类别的方式之外，它甚至影响我们的社交生活，\"拉维夫解释说，\"例如，人脸识别就受到人们是在一个小社区还是在较大社区中长大的影响。童年时期接触的面孔较少，与面孔记忆能力减弱相关。\"\n\n\"我们希望这项工作能激发人们的好奇心，并促成更多关于这一主题的研究，\"拉维夫总结道，\"我们的论文提出了许多开放性问题。我们能否在大脑之外发现类似的变化性效应，例如在免疫系统中？\"",
+      "questions": {
+        "51": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 2,
+          "evidence_quote": "For instance, infants will struggle to learn the category \"dog\" if they are only exposed to Chihuahuas, instead of many different kinds of dogs.",
+          "explanation": "题干问婴儿只接触吉娃娃时学\"狗\"这一类会怎样。第 2 段该句说 infants will struggle to learn the category \"dog\"（婴儿会很难学会\"狗\"这一类别），struggle to learn 即\"学习遇到困难\"，与 A 项 encounter some degree of difficulty 同义；题干 if they are exposed to Chihuahuas only 正是原文 if they are only exposed to Chihuahuas 的改写。",
+          "distractors": {
+            "B": "无中生有：原文只说仅接触单一品种会让婴儿难以学会\"狗\"这一类，没有提到他们会\"先去给其他物体分类\"。",
+            "C": "无中生有：该句讨论的是学习类别的困难，全文没有出现婴儿对吉娃娃与其他犬种的\"偏好\"这一内容。",
+            "D": "方向说反并凭空增加动作：various/variable conditions 是第 1 段\"多变练习有助于泛化\"的论点，而本句恰恰说输入单一（只接触吉娃娃）会导致学习困难；原文也没有\"想象\"这一动作。"
+          }
+        },
+        "52": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 5,
+          "evidence_quote": "These four kinds of variability have never been directly compared—which means that we currently don't know which is most effective for learning",
+          "explanation": "题干问拉维夫如何评述这四种变化性。第 5 段说这四种变化性从未被直接比较过，which means that we currently don't know which is most effective for learning（这意味着我们目前不知道哪一种对学习最有效）。D 项\"哪一种最有利于学习尚待确定\"是对该句的同义改写：most conducive to learning 即 most effective for learning，is yet to be identified 即 we currently don't know。",
+          "distractors": {
+            "A": "偷换概念：是否与任务相关（relevant to the task）是第 6 段的另一话题，而且原文对这一点已给出判断（depends on whether it is relevant），并未说\"待确认\"。",
+            "B": "与原文相反：第 7 至 9 段恰恰给出了三种解释（突显相关方面、更好反映现实、迫使重构记忆），所以\"为何有影响远未被理解\"不成立；第 5 段说不清楚的是\"哪一种最有效\"。",
+            "C": "无中生有：原文已把\"从未被直接比较\"作为事实陈述（which means ...），并未把\"为什么没比较\"当作谜团，也没有讨论其原因。"
+          }
+        },
+        "53": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 9,
+          "evidence_quote": "A third reason has to do with the way memory works: when training is variable, learners are forced to actively reconstruct their memories.",
+          "explanation": "题干问其中一种理论如何解释变化性对新技能学习的重要性。第 9 段给出第三个原因：when training is variable, learners are forced to actively reconstruct their memories（训练多变时，学习者被迫主动重构记忆），B 项 compelled to reorganise their memories 与 forced to actively reconstruct 逐词对应，receiving variable training 对应 when training is variable。",
+          "distractors": {
+            "A": "主体与逻辑双重偷换：原文说的是变化性会更好地代表现实世界（variability will represent the real world better），是\"变化性\"这一客观特性，A 项却改成\"学习者认为多变训练是现实中的典型情况\"，把客观特性换成了学习者的主观看法。",
+            "C": "以偏概全加无中生有：highlight which aspects are relevant and which are not 是第一种理论（第 7 段）的说法，但原文只说\"突显\"相关与不相关，并未说学习者会\"忽略\"不相关部分；ignore 是原文没有的动作，不能作为对理论的概括。",
+            "D": "张冠李戴：这对应第 6 段的\"宫城先生原则\"（practising seemingly unrelated skills may actually benefit learning of other skills），讲的是练习内容与目标技能的关系，不是\"变化性为何影响学习\"的理论解释。"
+          }
+        },
+        "54": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 10,
+          "evidence_quote": "For example, face recognition is affected by whether people grew up in a small community or in a larger community.",
+          "explanation": "题干问文章对人脸识别说了什么。第 10 段借拉维夫之口说 face recognition is affected by whether people grew up in a small community or in a larger community（人脸识别受人们是在小社区还是较大社区长大的影响），随后补充童年接触面孔较少与面孔记忆减弱相关。D 项\"人们成长所在社区的规模会影响其面孔识别能力\"正是这一句话的同义改写：the size of the community 对应 small/larger community。",
+          "distractors": {
+            "A": "无中生有并与原文方向不符：原文只说童年接触面孔较少与面孔记忆能力减弱相关，并未说小社区长大的人更容易记住熟悉的面孔，familiar faces 也是原文没有提到的概念。",
+            "B": "主体颠倒并夸大：原文是\"理解变化性的影响\"重要，甚至影响社交生活，B 项把影响的发出者换成了 face recognition，并夸大成对人脸识别\"对社交生活的每一方面都有重大影响\"。",
+            "C": "程度夸张：原文只说社区大小与面孔记忆相关（接触面孔少则记忆减弱），没有说大社区长大的人能轻易认出任何一张面孔；any individual faces 属于绝对化表述。"
+          }
+        },
+        "55": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 11,
+          "evidence_quote": "We hope this work will spark people's curiosity and generate more work on the topic",
+          "explanation": "题干问拉维夫希望用他们的研究做什么。末段首句：We hope this work will spark people's curiosity and generate more work on the topic（希望这项工作能激发人们的好奇心，并促成更多关于这一主题的研究）。C 项 arouse people's interest 对应 spark people's curiosity，stimulate more research on the topic 对应 generate more work on the topic。",
+          "distractors": {
+            "A": "张冠李戴：突显任务中哪些方面相关、哪些不相关，是第 7 段第一种理论对变化性机制的解释，属于论文对现象的解释，而不是拉维夫对\"希望自己的研究起什么作用\"的表述。",
+            "B": "张冠李戴加以偏概全：seemingly unrelated skills 出自第 6 段的\"宫城先生原则\"，那里只是转述一种原则，并没有说拉维夫希望把变化性原理用于在教学中教授\"看似无关的技能\"。",
+            "D": "曲解原意：末段是以免疫系统为例提出一个开放性问题（Can we find similar effects of variability beyond the brain ...?），表达的是\"我们能否在大脑之外发现类似效应\"的探索疑问，D 项却把它说成已定的\"把变化性原理应用到免疫系统等领域\"的计划。"
+          }
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "variability",
+          "meaning": "变化性，可变性（同一练习在条件上的多样与差异）",
+          "note": "Variability is crucially important for learning new skills. 全文核心概念，与 generalisation 构成一对关键词"
+        },
+        {
+          "word": "generalisation",
+          "meaning": "泛化，概括推广（把学到的东西推及新情境）",
+          "note": "variability leads to better generalisation of what is learned 注意英式拼写 -sation；美式为 generalization"
+        },
+        {
+          "word": "perception",
+          "meaning": "感知，知觉",
+          "note": "speech perception 言语感知；visual perception 视觉感知"
+        },
+        {
+          "word": "categorisation",
+          "meaning": "分类，归类（把事物归入类别）",
+          "note": "linguistics, categorisation, visual perception 注意英式拼写；与 category 同源，第 51 题考婴儿学 category \"dog\""
+        },
+        {
+          "word": "stimuli",
+          "meaning": "刺激（物），引起反应的因素（stimulus 的复数）",
+          "note": "may fail to generalise to new stimuli 可能无法泛化到新的刺激上"
+        },
+        {
+          "word": "atypical",
+          "meaning": "非典型的，不寻常的",
+          "note": "including atypical examples 包括非典型的例子；前缀 a- 表否定，对比 typical"
+        },
+        {
+          "word": "diminished",
+          "meaning": "减弱的，降低的",
+          "note": "is associated with diminished face memory 与面孔记忆能力减弱相关；第 54 题所在段落"
+        },
+        {
+          "word": "spark",
+          "meaning": "激发，引发（兴趣、讨论等）",
+          "note": "spark people's curiosity 激发人们的好奇心；第 55 题选项 arouse 即此义"
+        }
+      ],
+      "long_sentence": {
+        "sentence": "To identify key patterns and understand the underlying principles of variability effects, Raviv and her colleagues reviewed over 150 studies on variability and generalisation across fields, including computer science, linguistics, categorisation, visual perception and formal education.",
+        "analysis": "主干：Raviv and her colleagues reviewed over 150 studies（拉维夫和同事回顾了 150 多项研究）。句首 To identify key patterns and understand the underlying principles of variability effects 是目的状语，由两个并列的不定式构成（to identify ... and (to) understand ...），说明做这次文献回顾的目的：找出关键规律、理解变化性效应的底层原理；其中 of variability effects 是介词短语修饰 principles。over 150 studies on variability and generalisation 中，on 引出研究的主题；across fields 表示范围\"横跨多个领域\"。句末 including computer science, linguistics, categorisation, visual perception and formal education 是 including 引导的补充列举，对 fields 作同位说明，不是句子的必要成分。全句意为：为了找出关键规律并理解变化性效应的底层原理，拉维夫和同事回顾了 150 多项横跨计算机科学、语言学、分类学、视觉感知和正规教育等领域的、关于变化性与泛化的研究。"
+      }
+    }
+  }
+}

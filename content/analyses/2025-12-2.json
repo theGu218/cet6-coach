@@ -1,0 +1,437 @@
+{
+ "exam": "2025-12-2",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "空处在主语 People 与谓语 thought 之间，只能填副词作状语。once 意为“从前、曾经”，People once thought that... 表示“人们过去曾以为……”，与后半句 but science has shown that other animals do each of these things（但科学已表明其他动物也做这些事）构成“过去的普遍看法 vs 现在的科学结论”的对比，逻辑严丝合缝。",
+    "evidence": "People {26} thought that humans were the only animals to use tools, to form teams or to propagate culture, but science has shown that other animals do each of these things.",
+    "distractors": {
+     "N": "语气与逻辑都不合：tentatively 意为“试探性地、暂定地”，含不确定、留有余地的意味；而本句讲的是过去人们普遍而确信的看法（与前文 repeatedly proved this conviction wrong 呼应），并非“试探性地以为”。",
+     "G": "词性不成立：impetus 是名词（推动力、动力），不能作状语修饰谓语 thought。",
+     "H": "词性与语义均不符：intuitive 是形容词，不能直接作状语；即便勉强理解为“凭直觉地”，也无法表达“曾经”这一时间对比。"
+    }
+   },
+   "27": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "空格在 claims that ___ tasks require a human brain 中修饰名词 tasks，需形容词。cognitive 意为“认知的”，cognitive tasks（认知类任务）与 human brain（人脑）搭配紧密；本句说技术逐个推翻了“认知任务必须靠人脑”的说法，下文第一台加法机、计算机赢得艺术比赛正是“认知类任务被机器接手”的例证。",
+    "evidence": "Meanwhile, technology has quashed(使无效), one by one, claims that {27} tasks require a human brain.",
+    "distractors": {
+     "H": "语义不合：intuitive（直觉的）虽为形容词，但“直觉性的任务需要人脑”在下文找不到支撑——文中被机器攻克的加法、绘画都属于可计算、可习得的认知活动，恰与 intuitive 相反。",
+     "F": "语义搭配不成立：hybrid 意为“混合的、杂交的”，hybrid tasks 指“混合型任务”，无法与后文“人脑专有”这一论断构成“技术已推翻”的对象。",
+     "A": "词义与结构均不符：accompanying 作形容词意为“附带的、随附的”，accompanying tasks require a human brain 语义上说不通，且它多用于修饰文件、说明等附带物。"
+    }
+   },
+   "28": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "空格与 meet 由 and 并列，同作从句谓语（主语 computers），须填动词原形。meet and surpass human intelligence（达到并超越人类智能）与上文 This past year, a computer-generated work won an art contest 一脉相承：机器先“赶上”再“超过”人类；surpass 意为“超过、胜过”。",
+    "evidence": "I believe the moment when computers meet and {28} human intelligence is on the horizon.",
+    "distractors": {
+     "A": "词性不成立：accompanying 是现在分词，不能与 meet 并列作谓语；语义上 accompany 意为“陪伴”，也表达不出“超越”这一递进。",
+     "O": "逻辑方向相反：vanish 意为“消失”，若填此处则成“计算机消失于人类智能”，与本段“机器越来越强、人类智能被挑战”的论述完全相反。",
+     "E": "语义与搭配不成立：evoke 意为“唤起、引起（记忆、情感）”，evoke human intelligence（唤起人类智能）不能表达“计算机智能达到甚至超过人类水平”。"
+    }
+   },
+   "29": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "In some ___ 中空格作介词宾语，需名词（复数）。domain 意为“领域、范围”，in some domains（在某些领域）是固定表达；本句与后文 In other fields 形成“有些领域…在另一些领域…”的对照结构，domains 与 fields 同义呼应。",
+    "evidence": "In some {29} , people still value humans doing things, even if a computer can do it better.",
+    "distractors": {
+     "L": "搭配不成立：stance 意为“立场、姿态”，指人的态度取向，in some stances 不是英语表达；本句讨论的是“哪些行业/领域仍看重人工”，不是“哪些立场”。",
+     "G": "词性与语义双重不成立：impetus 是不可数名词（推动力），in some impetus 结构错误，且无法表达“领域”之义。",
+     "D": "词性不成立：entertaining 是形容词/动名词，不能作介词宾语构成 in some entertaining。"
+    }
+   },
+   "30": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "seem 后接形容词作表语，与 costly 由 and 并列，语体须一致、同为负面评价。redundant 意为“多余的、累赘的”，human skill will seem costly and redundant（人的技能会显得昂贵而多余）正好承接上文“计算机做得更好，人工反成负担”，并由下句插画例子（读者不在乎是人画还是电脑画）具体印证。",
+    "evidence": "In other fields, human skill will seem costly and {30} .",
+    "distractors": {
+     "H": "褒贬方向相反：intuitive（直觉的）是正面评价，与 costly 的负面判断并列不协调；作者此处要说明的是人工技能“贵且不必需”。",
+     "D": "语义方向相反：entertaining（有趣的）是褒义，若填此处则成“人的技能昂贵又有趣”，与下文“读者只关心插图切题、新颖”所暗示的“作者是谁不重要”相矛盾。",
+     "G": "词性不成立：impetus 是名词，不能作 seem 的表语形容词与 costly 并列。"
+    }
+   },
+   "31": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "空格处需非谓语动词作后置定语修饰 the graphic，且与 a magazine article 构成“配图伴随文章”的关系。accompany 意为“伴随、附随”，the graphic accompanying a magazine article（杂志文章的配图）是与冠词+名词搭配的固定说法，与后半句 was drawn by a person or a computer 的主语一致。",
+    "evidence": "Take illustration for example: most readers don't care whether the graphic {31} a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps {32} .",
+    "distractors": {
+     "E": "主谓关系不成立：evoke 意为“使人想起、唤起”，the graphic evoking a magazine article 会变成“让人想起一篇文章的插图”，与“文章配图”这一客观修饰关系不符。",
+     "B": "词性与句法不成立：cognitive 是形容词，无法带宾语 a magazine article 作后置定语。",
+     "J": "词义与句法均不合：oversee 意为“监督、管理”，oversee a magazine article（监督一篇文章）不合逻辑；且此处需 -ing 形式作定语，动词原形不能用。"
+    }
+   },
+   "32": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "空格与 relevant, new 并列，同作 want it to be 的表语形容词，且由 perhaps 弱化语气。entertaining 意为“有趣的、引人入胜的”，relevant, new and perhaps entertaining（切题、新颖、也许还有趣）正是读者对杂志配图的全部要求——三个词都是对“作品本身”的评价，与“谁画的”无关。",
+    "evidence": "Take illustration for example: most readers don't care whether the graphic {31} a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps {32} .",
+    "distractors": {
+     "H": "语义不搭：intuitive（直觉的）用于描述人的理解方式或设计给人的感受，读者对插图的三项期待是“切题、新颖、有趣”，intuitive 无法与之并列成读者关心的品质。",
+     "K": "褒贬方向相反：redundant（多余的）是负面评价，与 just want it to be... 表达的正面期待冲突；且它与第30空已用的词重复。",
+     "C": "词性不成立：domains 是名词复数，不能作表语形容词与 relevant、new 并列。"
+    }
+   },
+   "33": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "a ___ 需单数名词作表语，且后接 where 引导的定语从句说明其内部格局。hybrid 意为“混合体、混合模式”，a hybrid 指“人机混合”的中间状态：少数人找到位置、大部分工作由计算机完成，与后面 like in manufacturing today 的例证（机器人干活、少数人监管）完全吻合。",
+    "evidence": "Many fields will be a {33} , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to {34} the machines.",
+    "distractors": {
+     "G": "语法与语义均不成立：impetus 不可数，不能用 a impetus；且“推动力”无法容纳 where 从句所描述的“部分人+大部分机器”的构成。",
+     "C": "语法不成立：a domains 单复数冲突；语义上“领域”也不能表达“人机混合”的格局。",
+     "L": "语义不合：stance（立场）指态度，无法容纳“少数人找到合适位置、大部分工作由电脑完成”这种分工描述。"
+    }
+   },
+   "34": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "不定式 to ___ the machines 需动词原形，且要说明“人在自动化车间里做什么”。oversee 意为“监督、看管”，to oversee the machines（监管机器）与前半句 much of the work is accomplished by robots 形成“机器干活、人负责监管”的互补关系。",
+    "evidence": "Many fields will be a {33} , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where much of the work is accomplished by robots, but some humans must be there to {34} the machines.",
+    "distractors": {
+     "A": "语义不合：accompany 意为“陪伴”，to accompany the machines 把“监管设备”说成“陪伴设备”，与制造业语境不符；且此处需原形而非 -ing。",
+     "M": "逻辑矛盾：surpass 意为“超越”，some humans must be there to surpass the machines 与“机器承担大部分工作、人只是留守”的让步结构冲突。",
+     "E": "搭配不成立：evoke（唤起）不能以 the machines 为宾语表达“看管机器”。"
+    }
+   },
+   "35": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "cause more jobs to ___ 需动词原形，且须是不及物、表“消失”的动词。vanish 意为“消失、不复存在”，advances in AI will cause more jobs to vanish（人工智能的进步会让更多岗位消失）与本段“创意工作者变富但变少、技术拥有者成为新巨富”的推演同向。",
+    "evidence": "If history is any guide, it's almost certain that advances in AI will cause more jobs to {35} , that creative workers with human-only skills will become richer but fewer in number, and that those who own creative technology will become the new ultra-rich.",
+    "distractors": {
+     "M": "及物性与语义均不成立：surpass 需带宾语，jobs to surpass 会变成“岗位去超越（什么）”，缺宾语且与“岗位减少”的句意相反。",
+     "G": "词性不成立：impetus 是名词，不能出现在 to do 结构中作动词。",
+     "L": "词性不成立：stances 是名词（复数），不能作不定式中的动词。"
+    }
+   }
+  },
+  "passage_zh": "我们人类总爱相信自己是特别的，但科学和技术一次又一次地证明这一信念是错的。人们曾经以为，只有人类才会使用工具、组成团队或者传播文化，但科学已经表明，其他动物也都会做这些事。与此同时，技术一个接一个地推翻了“认知类任务必须由人脑来完成”的说法。第一台加法机发明于1623年。就在去年，一件由计算机生成的作品赢得了一场艺术比赛。我相信，计算机赶上并超越人类智能的那一刻已经为期不远了。当机器比最聪明的人更聪明、更有创造力时，人类的智慧与创造力将如何被估价？答案很可能会是一个光谱。在某些领域，即便计算机能做得更好，人们依然看重由人来做。计算机击败世界冠军加里·卡斯帕罗夫已经过去了四分之一个世纪，但人类的国际象棋并没有消亡。在其他领域，人的技能则会显得昂贵而多余。以插画为例：大多数读者并不在乎某篇杂志文章的配图是人画的还是电脑画的——他们只希望它切题、新颖，也许还有趣。当然，这个问题并不是非黑即白。许多领域都会变成一种混合状态：少数人幸运地找到一席之地，但大部分工作由计算机完成，就像今天的制造业——大部分工作由机器人完成，但必须有人在现场监管机器。如果历史可以提供借鉴，那么几乎可以肯定：人工智能的进步会使更多工作岗位消失；拥有“只有人类才具备”的技能的创意工作者会变得更富有，但人数会更少；而拥有创意技术的人将成为新的超级富豪。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "F 段讲“控制错觉”：先承认这种偏见能带来掌控感，随后转折指出它会导致 escalating commitment to a losing course of action（对注定失败的行动不断升级投入）。题干“觉得自己对某事或某人的掌控超过实际，人们就会在该放弃时反而更投入”即该句的同义改写（get more committed to their pursuit ↔ escalating commitment；when they should give up ↔ a losing course of action）。F 段末句 further 说 feeling like we have more control over an event or person than we do puts us at risk of doubling down when we should pull out，与题干一一对应。",
+    "evidence": "However, the bias can also result in escalating commitment to a losing course of action."
+   },
+   "37": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "K 段说自我概念会影响行为：如果你强烈地把自己认同为“不是半途而废的人”，就会因狭隘僵化的自我概念而 staying stuck in a course of action。题干“若你自认是永不放弃的人，就可能被困在自己的行动中”与之逐词对应（regard yourself as one who never quits ↔ strongly identify as not being a quitter；trapped in your course of action ↔ staying stuck in a course of action）。",
+    "evidence": "If you strongly identify as not being a quitter, you can end up staying stuck in a course of action due to your narrow and rigid self-concept."
+   },
+   "38": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "J 段以客户 Ryan 为例：她在一个设计项目上投入了两年时间和大量精力，项目却没产出所需结果，但想到要放弃就难以承受。题干“作者的一位客户难以放弃一个已投入大量时间精力的设计项目”正是该句的概括（One of the author's clients ↔ my client Ryan；put in a lot of time and effort ↔ invested two years and a lot of effort；found it hard to give up ↔ the thought of abandoning it... was hard to bear）。",
+    "evidence": "Ryan had invested two years and a lot of effort in a design project that wasn't delivering the needed outcomes, but the thought of abandoning it after all she had put in was hard to bear."
+   },
+   "39": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "E 段针对沉没成本错觉给出对策：要有意把思考重新聚焦到 the gains（收获）上，从而更客观地权衡各种选择。题干“作者建议人应把想法转向及时放弃的收益，以便继续前行”与之对应（direct their thoughts to the gains ↔ deliberately refocus your thinking on the gains；quitting timely ↔ What might I gain by cutting my losses now）。",
+    "evidence": "To offset this bias, deliberately refocus your thinking on the gains so you can more objectively weigh the alternatives."
+   },
+   "40": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "M 段建议向“比你本人更少牵涉这项决定的人”请教，并举创业者找其他创始人、感情问题找局外人为例。题干“做决定时最好征询那些与你的决定利害关系较小的人的意见”即该句同义改写（those who have less stake in your decision ↔ people who are less invested in your decision than you are；ask for opinions ↔ seek out）。",
+    "evidence": "Ideally, seek out people who are less invested in your decision than you are."
+   },
+   "41": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "I 段指出：人们把自我认同和社会地位与自己的承诺绑在一起，正因为认同自己的承诺，withdrawing from one can feel like a threat to our identity or status。题干“对把身份与承诺联系在一起的人来说，放弃会让人觉得身份受到威胁”与之对应（associating their identity with their commitments ↔ link their self-identity... to their commitments；quitting ↔ withdrawing from one）。",
+    "evidence": "And because we identify with our commitments, withdrawing from one can feel like a threat to our identity or status."
+   },
+   "42": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "O 段开头说，事情没按预期发展时人们会过度自责，因为没人喜欢觉得自己做了糟糕的决定，尤其是当“做明智决定”是你高度重视的品质时。题干“高度重视明智决策这一品质的人，做出糟糕决定时会感觉不好”正是该句的改写（regard highly the quality of making wise decisions ↔ making intelligent decisions is a quality you hold in high esteem；do not feel good ↔ Nobody likes to feel）。",
+    "evidence": "Nobody likes to feel that they've made a poor decision, especially if making intelligent decisions is a quality you hold in high esteem."
+   },
+   "43": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "C 段作者以高管教练身份说明：最聪明的领导者学会分辨 quitting too soon 与 holding onto something that they shouldn't（死守不该守的东西）之间的差别。题干“最明智的领导者学会区分放弃太早与不理智地坚持”与之逐词对应（The wisest leaders ↔ the smartest leaders；distinguish between ↔ discern the difference between；sticking with something irrationally ↔ holding onto something that they shouldn't）。",
+    "evidence": "But the smartest leaders learn to discern the difference between quitting too soon and holding onto something that they shouldn't."
+   },
+   "44": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "N 段提出另一种做法：去寻求能说明你正在考虑的事情真实成功几率的 hard data（确凿数据），并以创业为例说 numbers are your best friend。题干“人们在考虑某项事业时，应去挖掘能说明自己成功可能性的可靠数据”与之对应（dig out reliable data ↔ seek out hard data；how likely they are to succeed ↔ your real chance of success）。",
+    "evidence": "Alternately, you could also seek out hard data that illuminates your real chance of success in whatever endeavor you are contemplating."
+   },
+   "45": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "H 段强调：弄清楚什么能控制、什么不能控制，对于就“是放弃还是坚持”做出高质量决定至关重要。题干“清楚看到哪些在掌控之内、哪些不在，对就是否放弃做出好决定至关重要”几乎逐词对应（Having a clear view of ↔ Getting clear on；vital ↔ essential；making a good decision regarding whether to give up or stick it out ↔ making a quality decision about whether to call it quits or persevere）。",
+    "evidence": "Getting clear on what you can control and what you can't is essential to making a quality decision about whether to call it quits or persevere."
+   }
+  },
+  "article_zh": "A) 项目、感情和工作并不总能按计划发展——而什么时候该放弃，也并不总是很清楚。我们都反复听过“半途而废的人永远赢不了”这句话，但有时最好的决定是及时止损。\n\nB) 想想那段早就该结束、你却仍然紧抓不放的感情，或者那份老板让你痛苦不堪、你却仍然留在其中的工作。我们许多人都会努力抓住最后一线希望，以为我们能让它奏效，不管这个“它”是什么。虽然坚韧通常是一种极好的品质，但它也可能让你在一件早已不是好主意的事情上过度投入。\n\nC) 作为一名高管教练，我与许多充满热情、勤奋工作、不愿“放弃”的领导者共事。但最聪明的领导者会学会分辨“放弃得太早”和“死守不该守的东西”之间的区别。\n\nD) 我们都容易陷入沉没成本错觉——这是一种无意识的偏见，会使我们在一件已经投入了时间、精力或金钱的事情上坚持下去，即使放弃它会更有益。我们意识到已经付出的资源再也拿不回来，于是便坚持：继续投入一个本该叫停的项目，留在一段本该结束的感情里，或者读完一本自己已不再喜欢、本该放下的书，只因为我们已经读了一半。如果“放弃不是你的作风”，你可能格外容易受这种偏见影响。\n\nE) 沉没成本错觉会让我们过度担心继续前行会失去什么，却很少去考虑不前行会付出什么代价。为了抵消这种偏见，要有意地把思考重新聚焦到“收获”上，这样你才能更客观地权衡各种选择。问问自己：现在止损，我可能得到什么？你会不会更快乐，或者有时间去把握另一个（更好的）机会？然后再问自己：硬撑下去会让我付出什么代价？例如，你是否可能在已经损失的基础上继续把钱往无底洞里投？或者，你会不会没有精力去利用其他有希望的可能性？\n\nF) 控制错觉也会干扰我们最好的判断，使我们高估自己控制事态、取得积极结果的能力。这种偏见会给我们一种掌控感，并能促进心理健康。然而，这种偏见也可能导致我们不断升级对一个注定失败的行动的投入。尤其当它与“我不是半途而废的人”这种心态结合在一起时，觉得自己对某件事或某个人的控制力超过实际，就会让我们在该抽身时反倒加倍下注。\n\nG) 为了对抗这种偏见，请审视你的处境，简单地列出两栏：哪些在你的控制之内，哪些不在。要严格地思考。虽然你或许能够影响他人和各种情况，但你无法强迫他们改变或按你的意愿行事。\n\nH) 弄清楚什么你能控制、什么你不能，对于就“该放弃还是该坚持”做出高质量决定至关重要。手里有一份写下来的清单，你就能确保把注意力放在自己能控制的事情上，并更好地评估持续的付出是否值得这些代价。把精力和情绪花在无法控制的事情上，既让人精疲力竭，又让人感到无力。\n\nI) 研究表明，人们会把自己的自我认同和社会地位与自己所承诺、投入的事情联系在一起。而正因为我们认同自己的承诺，从中抽身就会让人觉得自己的身份或地位受到了威胁。\n\nJ) 以我的客户瑞安为例，她是一家科技公司的领导者。瑞安在一个设计项目上投入了两年时间和大量精力，而这个项目并没有产出所需的成果，但想到在付出这么多之后要放弃，她实在难以承受。当我和她探讨是该取消她所领导的这项计划，还是继续坚持时，她说：“问题是，我不是一个半途而废的人。”这种单一的、固定的自我认知蒙蔽了她的判断，也限制了她可采取的行动选择。\n\nK) 我们的自我概念和身份是影响我们行为的心理概念。如果你强烈地把自己认同为“不是一个半途而废的人”，那么由于这种狭隘而僵化的自我概念，你可能最终被困在某一行动之中。要克服这类内在障碍，请回想你其他的积极品质和性格特征。问问自己：我还有什么额外的长处（或者希望拥有的长处），在这里能派上用场？例如，当我问瑞安在做决定时需要调动自己性格中哪些其他积极品质时，她回答说：“辨别力和勇气。”\n\nL) 现在，请透过自身的这些不同侧面来审视你的处境。你身上“有辨别力的那部分”怎么说？“勇敢的那部分”又怎么说？从这些不同特质的角度来考虑你的决定，会让你看到自己拥有更多选择。从外部获取信息、而不是仅仅依赖自己的思考和直觉，也是有益的。但要想清楚该向谁征求意见。\n\nM) 理想情况下，要去向那些比你本人更少牵涉这项决定的人请教。例如，如果你在考虑是否关掉自己的创业项目，就去找其他创业者聊聊，而不只是找你的合伙人。同样，如果你想听爱情方面的建议，就去问一个置身于你感情起伏之外的人，而不是只依赖你最好的朋友。在所有情况下，我都建议先描述你的处境，然后追问一个类似这样的问题：“你会怎么处理这种情况？”\n\nN) 另一种做法是去寻求确凿的数据，这些数据能说明你正在考虑的事情真正成功的几率。仍以创业为例，数字就是你最好的朋友。用数字让自己摆脱对这个想法的热爱，去考虑你的资金消耗率相对于增长计划、行业增长率以及其他可预测初创企业成功的因素。外部信息源能帮你看到自己可能未曾考虑过的角度和可能性。\n\nO) 当一件起初看起来如此有希望的事情没有按我们想象的方式发展时，我们可能会过度自责。没有人喜欢觉得自己做了糟糕的决定，尤其是当“做明智的决定”是你高度重视的一项品质时。这里最有效的策略是放过自己。练习自我慈悲可以增强你的韧性、情商和对他人的同情心，还能提升你的表现，并帮助你养成成长型思维。\n\nP) 与其反复纠结、自我批评，不如把注意力放在你能从这次处境中学到什么上。例如，瑞安意识到，在领导这个设计项目的过程中，她培养出了各种新技能和领导能力。尽管最终决定放弃，她仍然为自己尝试过而高兴，并对这段经历教给她的东西心怀感激。\n\nQ) 不可否认，坚持不懈能帮助我们成功。但为了你的身心健康，重要的是学会区分“放弃得太早”和“紧抓一个注定失败的方向不放”。放手也许很难，但它会腾出你的时间、精力和心理空间，让你去想象新的可能、追求新的机会。"
+ },
+ "careful": {
+  "2025-12-2-careful-1": {
+   "passage_zh": "作为相互依存的生物，我们无法脱离他人而茁壮成长。我们喜欢与志同道合的人、与自己有共同利益的人、或者与自己同样相信某个我们认真对待的事业的人一起工作。这一点在我们把自己组织成民族、地区、社区、组织、家庭等各种集体群体的方式中显而易见。\n\n你所属的群体是否具有强烈的集体意识或共同信念？成员之间是否相互依存？你是否把这个群体视为自身存在的重要部分？如果你的回答都是肯定的，那么你正在体验的是一种微型版本的团结。\n\n什么是团结？字典里最简单的定义是：“一群人之间一致的看法、情感、目的或利益。”\n\n在我们生活的这个日益多元的社会里，团结呈现出复杂而多面的特征，因为它在这个快速变化的环境中、在复杂的劳动分工中生活着的独特个体之间，形成了相互依存的纽带。\n\n团结的一个侧面与社群主义的原则十分契合。在这种情形下，个人放弃自身利益以服务于共同利益。然而，它对社群凝聚力和排他性的严格坚持，限制了个体差异与偏好的表达和实践。结果是，为了维持群体的统一，个性与自主被牺牲掉了。\n\n团结也被视为对极端强调个人主义和选择自由的一种回应。它背离了自由主义关于“不受约束的个人”的观念——这种个人把社会看作妨碍自己自由选择、按对自己有利的方式行事的障碍，而不顾这些行为会如何影响他人。\n\n但尽管团结有许多侧面，社会理论家一直把团结视为带来社会秩序与进步的关键因素。他们认为，人类社会要在日益多元的过程中存续下去，就需要在差异的基础上形成更多新的纽带。有鉴于此，他们认为真正的团结远不止是基于共同利益的浅层关系。团结不只是对“能给自己带来多少好处”进行策略性算计的产物，也不是一个建立在“你我对抗世界”原则之上的排他性阶层。恰恰相反，它是包容性的，而且不是强加的。出于团结而行动，意味着相互支持、彼此捍卫——承认一个人的命运就系于另一个人的命运之中。它是一种以合作实践为特征、并因关心他人福祉或共同利益而得到加强的纽带。它为保护人的尊严而奋斗，倾听最弱势者的呼声并据此行动。",
+   "questions": {
+    "46": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "As interdependent beings we cannot thrive independent of others.",
+     "explanation": "第1段首句点明：作为相互依存的生物，我们无法脱离他人而 thrive（兴旺、茁壮成长）。A 项“不能相互合作就无法兴旺”是该句的同义改写——cannot prosper ↔ cannot thrive，without cooperating with each other ↔ independent of others（依存的反面）。后文“我们喜欢与志同道合、有共同利益的人共事”是这一判断的延伸。",
+     "distractors": {
+      "B": "偷换主语兼范围不当：原文说我们“喜欢与”有共同利益、共同信念的人共事（we like to work with people who...），并未断言人类本身“共享共同利益、相信正义事业”；且 believe in a just cause 把 a cause we are serious about（我们认真对待的事业）改成了“正义的事业”。",
+      "C": "无中生有：原文只说人类组成了民族、社区、组织等各种群体（organized ourselves into various collective groups），并未说不同群体中的人 think and behave alike（思想与行为都一样）。",
+      "D": "与原文相反：作者强调的是 interdependence（相互依存），而 D 项谈“不为独立而奋斗就得不到独立”，既无原文依据，也与首句逻辑相悖。"
+     }
+    },
+    "47": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "In this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as it forms bonds of interdependence among unique individuals living in a fast-changing environment and working within a complex division of labor.",
+     "explanation": "第4段说：在日益多元的社会中，团结呈现出 complex and multifaceted（复杂而多面）的特征。B 项“它涉及诸多方面，具有极大的复杂性”正是 complex and multifaceted character 的同义替换（involves many aspects ↔ multifaceted；with great complexity ↔ complex）。",
+     "distractors": {
+      "A": "因果倒置：复杂的劳动分工是团结形成纽带的背景条件（working within a complex division of labor），原文并未说团结“产生了”复杂的分工。",
+      "C": "张冠李戴：原文说的是团结在快速变化环境中的独特个体之间形成纽带（forms bonds... living in a fast-changing environment），而非“环境变化把人们聚到一起”，且漏掉了本段强调的 complexity 这一核心。",
+      "D": "过度推断：原文说团结在 unique individuals 之间结成纽带，并未说它“接纳不同个体的特征（embraces the characteristics）”；本段恰恰强调多元社会中团结是复杂多面的。"
+     }
+    },
+    "48": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "In this setting, individuals give up their own interests to serve the common good.",
+     "explanation": "第5段描述社群主义式的团结：个人放弃自身利益以服务共同利益。C 项“为共同利益牺牲个人利益”与之一一对应（sacrifice of personal interests ↔ give up their own interests；for the common good 原样对应）。",
+     "distractors": {
+      "A": "无中生有且程度过重：原文说为了维持群体统一，个性与自主被“牺牲”（sacrificed），并没有提“社会规范的统治（ruling of social norms）”，ridding of individuality（清除个性）也远超原文的“牺牲”。",
+      "B": "方向相反：原文指出社群主义对凝聚力的严格坚持 restrict expression and practice of individual differences and preferences，即压制个体差异，而非“强调遵循个体差异”。",
+      "D": "程度过强：原文是个性与自主被牺牲以维持统一，并未说个人主义和个人选择被“消除（elimination）”——eliminate 意味着彻底消灭，超出了 sacrificed 的程度。"
+     }
+    },
+    "49": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "Solidarity is also viewed as a reaction to the extreme emphasis on individualism and freedom of choice.",
+     "explanation": "第6段说团结被视为对“极端强调个人主义与选择自由”的一种 reaction（回应、反弹）。B 项“对个人主义的反对”即该句的概括：opposition to ↔ reaction to the extreme emphasis on。",
+     "distractors": {
+      "A": "张冠李戴：对个人差异的限制是第5段描述社群主义这一侧面时的说法，不是“团结本身的内涵”；题干问 solidarity entails。",
+      "C": "与原文相反：第7段明确说社会理论家把团结视为带来社会秩序与进步的关键因素（a key factor in bringing about order and progress），C 项说它“阻碍社会进步”，方向颠倒。",
+      "D": "过度绝对：原文只说团结是对“极端强调”个人主义与选择自由的回应，并未断言自由主义追求会“不可避免地终结（inevitable end）”。"
+     }
+    },
+    "50": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "But despite its many facets, social theorists have viewed solidarity as a key factor in bringing about order and progress in society.",
+     "explanation": "第7段明确交代社会理论家的看法：尽管团结有许多侧面，他们仍把它视为带来社会秩序与进步的关键因素。C 项“它对社会进步与秩序至关重要”正是该句的直接改写（essential ↔ a key factor；progress and order 原样对应）。",
+     "distractors": {
+      "A": "张冠李戴：the most vulnerable 出现在第7段末尾对“真正的团结”行为特征的描述（listens to and acts on the cries of the most vulnerable），不是社会理论家的观点，也没有“尤其与最弱势者相关”之意。",
+      "B": "无中生有且比较不当：原文只说团结 fights for the protection of human dignity，从未说它在保护尊严方面“最有效（most effective）”。",
+      "D": "偷换概念：原文说真正的团结“不仅仅是基于共同利益的浅层关系”（more than just shallow relationships），意思是它层次更高，而非“避免浅层关系不可或缺”。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "interdependent",
+     "meaning": "相互依存的",
+     "note": "As interdependent beings we cannot thrive independent of others. 第46题出处，inter-（相互）+ dependent（依赖）"
+    },
+    {
+     "word": "thrive",
+     "meaning": "兴旺，茁壮成长",
+     "note": "cannot thrive independent of others 脱离他人便无法兴旺；第46题 A 项用 prosper 同义替换"
+    },
+    {
+     "word": "solidarity",
+     "meaning": "团结，休戚与共",
+     "note": "全文核心词，第2段起反复出现；与 unity（统一）、cohesion（凝聚力）近义"
+    },
+    {
+     "word": "multifaceted",
+     "meaning": "多方面的，多面的",
+     "note": "a complex and multifaceted character 复杂而多面的特征；第47题答案所在，multi- + facet（侧面）"
+    },
+    {
+     "word": "communitarianism",
+     "meaning": "社群主义",
+     "note": "One facet of solidarity fits well with the principles of communitarianism. 与 individualism 相对，强调共同利益"
+    },
+    {
+     "word": "cohesiveness",
+     "meaning": "凝聚力",
+     "note": "its strict adherence to social cohesiveness and exclusiveness 对社群凝聚力与排他性的严格坚持"
+    },
+    {
+     "word": "autonomy",
+     "meaning": "自主（权），自治",
+     "note": "individuality and autonomy are sacrificed 个性与自主被牺牲；第48题 D 项 elimination 的干扰点"
+    },
+    {
+     "word": "hindrance",
+     "meaning": "障碍，妨碍（的人或事）",
+     "note": "see society as a hindrance to their freedom 把社会看作自由的障碍；与 obstacle 近义"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "They believe that for human society to survive as it becomes more diverse, more new bonds need to be formed based on the differences.",
+    "analysis": "主干：They believe that...（他们认为……），that 引导宾语从句作 believe 的宾语。从句内部：more new bonds need to be formed 是主句（被动语态，need to be done 表示“需要被……”）；for human society to survive as it becomes more diverse 是不定式的复合结构（for + 名词 + to do），在从句中作条件/目的状语，意为“为了让人类社会在变得日益多元的过程中存续下去”；其中 as it becomes more diverse 是 as 引导的时间/伴随状语从句，it 指 human society。末尾 based on the differences 是过去分词短语作方式状语，修饰 formed，意为“基于（这些）差异”。全句可译为：他们认为，人类社会要在日益多元的过程中存续下去，就需要在差异的基础上结成更多新的纽带。"
+   }
+  },
+  "2025-12-2-careful-2": {
+   "passage_zh": "反复给出别人并不需要的建议的人，可能出于好意，真心想帮忙。另一些人这样做，可能是出于一种围绕“影响他人的能力”而建立起来的自我价值感。一项研究发现，权力欲倾向强的人，比倾向相反的人更可能给别人建议。\n\n在无私的外表之下，人们可能是被“这让自己感到有力量、能掌控”这一动机驱使，才给你并不想要的建议。不过，他们可能并没有充分意识到这一驱动力。\n\n这些人还可能表现出达到“问题程度”的情感脆弱性：很快变得心烦，而且要很久才能平静下来。有可能他们的情绪只有在童年时期自己最大声表达的时候才得到肯定，这就促使他们养成了在大多数情境下都过度的应对不适的反应方式。\n\n当一个人给建议是为了让自己感到更有力量时，其行为背后存在着焦虑，而接受建议的人往往会注意到这一点。在这种情况下，人很容易对给建议者作出严厉回应，并指责他在操控别人，但这种做法可能带来并不理想的结果。\n\n如果“给建议”这一行为正在积极地助长某人的自我价值感，那么直截了当地拒绝就可能被视作威胁，从而激活他的“战或逃”反应，可能使他更加执着于寻求认可的行为，或者导致更大的冲突。\n\n关键在于“认可而不过度认同”。你可以让对方知道你听到了他的话、理解他的出发点，但不要接受那种可能有害的说法，即“没有他的帮助你就撑不过来”。你最好这样说：“谢谢你的建议。我自己有一套处理这件事的计划，但我真的很感谢你的看法，会加以考虑。以后我需要帮助的时候可以告诉你吗？”\n\n如果你难以得体地设定界限，那就优先锻炼自己的自我调节能力。尽管不断接收（这类建议）会让人不舒服，但如果你能以同情回应，情况很可能会更快缓和。\n\n虽然这通常不是给不请自来的建议的本意，但许多接受建议的人常常因不受欢迎的建议而感到紧张、被冒犯，或者干脆心烦。在这方面设定界限——如果你觉得自己需要——是完全合理的，而且能给你带来更多情感上的安全感。\n\n设定界限时，最好考虑到对方这样做的深层原因，以避免不必要的冲突和更多压力。",
+   "questions": {
+    "51": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency.",
+     "explanation": "第1段末句交代研究结论：权力欲倾向强（a high tendency to seek power）的人比倾向相反的人更爱给建议。D 项“他们倾向于渴求权力”正是 seek power 的同义改写（be inclined to crave for power ↔ have a high tendency to seek power）。",
+     "distractors": {
+      "A": "张冠李戴：well-meaning 是文章开篇对“反复给建议的人”的一般性描述（can be well-meaning），不是题干所问的那项研究的发现。",
+      "B": "张冠李戴：genuinely want to help 同样出自首句的一般描述，属于作者对动机的宽泛说明，而非该研究的结论。",
+      "C": "偷换论点：capable of influencing others 改写的是第2句“围绕影响他人的能力而生的自我价值感”，而研究谈的是“寻求权力（seek power）的倾向”，并非“有能力影响他人”。"
+     }
+    },
+    "52": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "These people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down.",
+     "explanation": "第3段首句点出这类人的问题：他们表现出 problematic degree of emotional vulnerability（达到问题程度的情感脆弱性），并具体表现为很快心烦、很久才平静。B 项“他们可能在情感上很脆弱”即该句的同义概括（emotionally vulnerable ↔ emotional vulnerability）。",
+     "distractors": {
+      "A": "偷换动作对象：原文 becoming upset very quickly 指这些人自己容易心烦，不是“容易让别人心烦（quick to upset others）”。",
+      "C": "曲解细节：when they were at their loudest 说的是童年时情绪只有在自己“最大声”表达时才被肯定，是情感脆弱的成因推测，并非“他们希望自己的声音最大”。",
+      "D": "范围错位：responses to discomfort that are excessive 是紧随其后的推测性解释（It is possible that...），用来解释脆弱性的成因；题干问“问题（problem）”，本段明说的核心问题是被冠以 problematic 的 emotional vulnerability，即 B。"
+     }
+    },
+    "53": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesired result.",
+     "explanation": "第4段说：察觉对方行为背后的焦虑时，人很容易（it can be tempting）严厉回应并 accuse them of being manipulative。D 项“指责他们试图控制别人”正是 accuse them of being manipulative 的改写（manipulative 操控他人 ↔ trying to control others），且题干 tempted 直接对应 It can be tempting。",
+     "distractors": {
+      "A": "张冠李戴：an undesired result 指“严厉回应这种做法”可能带来的后果，不是被诱惑去做的动作；题干问的是 tempted to do 什么。",
+      "B": "时序与主体错位：undisguised refusal 对应第5段的 an outright rejection（直截了当地拒绝），那是“已经这样做”之后给建议者的可能反应，不是“注意到焦虑时”的冲动。",
+      "C": "无中生有：原文并未建议或描述“把对方的真实动机摆到台面上（bring their real motives to the surface）”，本段只提到指责对方操控。"
+     }
+    },
+    "54": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "If the act of giving advice is contributing actively to someone's feelings of self-worth, an outright(直率的) rejection may be perceived as a threat, activating their fight-or-flight response, possibly causing them to double down on their validation-seeking behavior, or leading to a larger conflict.",
+     "explanation": "第5段说明：当给建议正在助长某人的自我价值感时，直截了当的拒绝 may be perceived as a threat（可能被视作威胁），激活“战或逃”反应。A 项“他们可能把它视为威胁”与 may be perceived as a threat 几乎逐词对应（regard it as ↔ be perceived as）。",
+     "distractors": {
+      "B": "与原文相反：原文说这种拒绝可能使他们 double down on their validation-seeking behavior（更加执着于寻求认可），B 项却说是“修正自己的行为”，方向颠倒。",
+      "C": "曲解：leading to a larger conflict 是拒绝可能“导致”的后果，C 项改成“准备迎接更大的冲突（get ready for）”，多出原文没有的预备动作。",
+      "D": "无中生有：原文说给建议助长的是他们的自我价值感（self-worth），并未说被拒绝后他们“开始怀疑自己的自我价值”。"
+     }
+    },
+    "55": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 9,
+     "evidence_quote": "It is best to set boundaries in a way that takes into account the individual's underlying reasons for doing what they are doing to avoid unnecessary conflict and more stress.",
+     "explanation": "第9段收尾：设定界限时最好 take into account the individual's underlying reasons（顾及对方这样做的深层原因），以避免 unnecessary conflict。C 项“理解给建议者为何要给建议”与之对应（Understand why ↔ takes into account the individual's underlying reasons for doing what they are doing），且题干 to avoid unnecessary conflict 与原文逐词一致。",
+     "distractors": {
+      "A": "与原文相反且程度过重：第6段提倡的是 validate without over-identifying（认可而不过度认同），并非承认建议“完全合理（perfectly reasonable）”。",
+      "B": "无中生有：原文推荐的话术（I have my own plan for handling this）并未要求“讲出不接受建议的理由”，那反而容易引发对抗。",
+      "D": "细节错位：说明自己的处理方式（my own plan）出现在第6段的推荐话术里，其目的是“认可而不越界”；题干“避免不必要的冲突”对应的是第9段“考虑对方深层原因”，故选 C 而非 D。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "unsolicited",
+     "meaning": "未经请求的，主动提供的",
+     "note": "many who receive it often feel stressed... by unwanted suggestions；unsolicited advice 不请自来的建议，第51题题干关键词"
+    },
+    {
+     "word": "well-meaning",
+     "meaning": "好意的，出于善意的",
+     "note": "can be well-meaning and genuinely want to help 可能出于好意、真心想帮忙"
+    },
+    {
+     "word": "guise",
+     "meaning": "外表，伪装",
+     "note": "Under the guise of unselfishness 在无私的外表之下；in/under the guise of 常用搭配"
+    },
+    {
+     "word": "vulnerability",
+     "meaning": "脆弱（性），易受伤",
+     "note": "a problematic degree of emotional vulnerability 达到问题程度的情感脆弱性；第52题答案词"
+    },
+    {
+     "word": "manipulative",
+     "meaning": "操控他人的，善于摆布的",
+     "note": "accuse them of being manipulative 指责他们在操控别人；第53题 D 项同义改写"
+    },
+    {
+     "word": "validate",
+     "meaning": "认可，肯定（他人的感受）",
+     "note": "their emotions were only validated in childhood 他们的情绪只有童年时才被肯定；validate without over-identifying 认可而不过度认同"
+    },
+    {
+     "word": "defuse",
+     "meaning": "缓和，化解（紧张局面）",
+     "note": "the situation will likely defuse much faster 局面很可能更快缓和；de-（去除）+ fuse（引信）"
+    },
+    {
+     "word": "tactfully",
+     "meaning": "得体地，圆通地",
+     "note": "set boundaries tactfully 得体地设定界限；形容词 tactful，名词 tact"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "It is possible that their emotions were only validated in childhood when they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most situations.",
+    "analysis": "主干：It is possible that...（有可能……）——It 是形式主语，真正的主语是 that 引导的主语从句。从句内部：their emotions were only validated in childhood 是被动语态的主句（were validated 为被动，only 修饰 in childhood 这一时间范围），when they were at their loudest 是 when 引导的时间状语从句（they 指这些人，at their loudest 意为“自己最大声表达的时候”），作 validated 的时间限定；encouraging them to adopt responses to discomfort that are excessive in most situations 是现在分词短语作结果（伴随）状语，其逻辑主语是整个前面的情境；其中 that are excessive in most situations 是定语从句，修饰 responses to discomfort。理解要点：作者用 It is possible that 弱化语气，把“情感脆弱”归因于童年经验，属于推测而非定论。全句可译为：有可能他们的情绪只有在童年时期自己最大声表达的时候才得到肯定，这就促使他们养成了在大多数情境下都过度的应对不适的反应方式。"
+   }
+  }
+ }
+}

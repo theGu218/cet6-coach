@@ -1,0 +1,437 @@
+{
+ "exam": "2025-06-3",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "空格作 has 的宾语，前面是形容词 significant，后面接 for 引导的对象，因此必须填名词。consequences 意为“后果、影响”，have significant consequences for sth（对……有重大影响）是固定搭配，与上文“在国会实现性别平等是重要目标”构成因果解释：女性参与立法的人数多少会影响到政府制定的所有政策。",
+    "evidence": "This is because the number of women involved in legislative decisions has significant {26} for all the policies that governments {27} .",
+    "distractors": {
+     "J": "搭配不成立：impetus 意为“推动力、促进因素”，常见搭配是 give/provide impetus to sth 或 act as an impetus for sth，不能说 have significant impetus for sth；且“推动力”与后文“对政策的影响”语义不合。",
+     "M": "词性不符：suffices 是动词 suffice 的第三人称单数形式（“足够”），不能作 has 的宾语；本空需名词，故排除。",
+     "O": "词性不符：tenured 是形容词（“享有终身职位的”），不能充当 has 的宾语；且“终身职位”与“对政策的影响”在语义上也无法衔接。"
+    }
+   },
+   "27": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "空格所在从句是 the policies that governments {27}，先行词 policies 作宾语，从句缺谓语，需填动词原形与复数主语 governments 搭配。“政府制定/颁布政策”的固定说法是 enact policies，enact 意为“制定（法律）、颁布”，与全段“立法决策”“推动政策通过”的立法语境一致。",
+    "evidence": "This is because the number of women involved in legislative decisions has significant {26} for all the policies that governments {27} .",
+    "distractors": {
+     "A": "主谓不一致且搭配不当：bolsters 是第三人称单数，不能与复数主语 governments 搭配；且 bolster 意为“支持、增强（信心、地位）”，宾语通常不是 policies（政策是被“制定”而非被“增强”）。",
+     "L": "词形与语义均不合：prioritize 意为“优先处理”，宾语应是一项事务（prioritize recruiting women），不能说 governments prioritize policies（政府“优先”政策），此处需要的是“颁布”政策这一动作。",
+     "M": "主谓不一致：suffices 是第三人称单数形式，与复数主语 governments 不匹配；且 suffice 意为“足够”，不能带 policies 作宾语。"
+    }
+   },
+   "28": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "空格与 paid family leave、gender-based violence 并列，都是 disproportionately affect women and girls 的政策实例，pay {28} 指“薪酬平等/同酬”，英语固定说法是 pay equity（同工同酬），equity 意为“公平、公正”。",
+    "evidence": "such as paid family leave, pay {28} and gender-based violence.",
+    "distractors": {
+     "C": "搭配不成立：credentials 意为“资格证明、资历”，pay credentials 不是英语搭配；本空需要一个与“薪酬”构成复合概念的抽象名词（公平性），而非“证书”。",
+     "J": "搭配与语义双重不成立：impetus 意为“推动力”，pay impetus 无此说法，也无法与“带薪家事假”“性别暴力”并列成为受女性影响更深的政策领域。",
+     "K": "词性不符：lavish 是形容词（“奢华的、大量的”），不能作与 paid family leave、gender-based violence 并列的名词中心词；pay 后需要的是表示“公平性”的抽象名词。"
+    }
+   },
+   "29": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "主语 it 指代上文“国会中有更多女性”，空格后接宾语 women's sense that…，需填及物动词第三人称单数。bolster 意为“增强、巩固”，bolster women's sense that government cares about their concerns（增强女性“政府关心她们所忧”的感受）语义通顺，并与后半句 inspires young women 构成递进。",
+    "evidence": "In addition, it {29} women's sense that government cares about their concerns and inspires young women to become more politically engaged.",
+    "distractors": {
+     "M": "用法不符：suffice 意为“足够”，通常不及物或接不定式（It suffices to say…），不能带 women's sense 这样的名词宾语，也无法表达“增强感受”。",
+     "E": "语义与搭配不成立：enact 意为“颁布（法律）”，宾语是法律、政策一类的具体文件，不能是抽象的 sense（感受）；此处要表达的是“增强某种心理感受”，enact 无法承担这层含义。",
+     "H": "词性不符：evasively 是副词（“回避地”），不能充当主语 it 的谓语；本空需要及物动词的第三人称单数形式来带 women's sense 这个宾语。"
+    }
+   },
+   "30": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "空格在冠词 a 与副词 particularly 之后、名词 problem 之前，需填形容词。formidable 意为“难以对付的、严峻的”，a particularly formidable problem 表示“（美国）这一问题尤为严峻”，与下文“美国排名第73位”的举例正好呼应。",
+    "evidence": "While women are underrepresented in governments around the globe, it is a particularly {30} problem in the United States.",
+    "distractors": {
+     "N": "语义偏移：sustained 意为“持续的、持久的”，强调时间上的延续，而本句要表达的是程度上的“严重”（particularly + 形容词），且下文用世界排名佐证严重性而非持久性；此外 sustained 的典型搭配对象是 effort、growth 等。",
+     "O": "搭配不成立：tenured 意为“享有终身职位的”，只用于修饰教授、职位等，修饰 problem 不成立。",
+     "K": "语义方向不符：lavish 作形容词意为“奢侈的、大量的”，通常修饰花费、款待一类的对象（a lavish meal）。用它修饰 problem 表示的是“铺张的问题”，与“问题在美国尤为严重”这层意思对不上。"
+    }
+   },
+   "31": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "空格位于 so 与形容词 underrepresented 之间，需填副词，修饰“代表性不足”的程度。dramatically 意为“显著地、大幅度地”，so dramatically underrepresented 表示“（女性）代表性严重不足”，与后文“排名第73位”相呼应。",
+    "evidence": "But the reason women are so {31} underrepresented in U.S. government is not because they face resistance from voters or struggle to raise money.",
+    "distractors": {
+     "H": "语义相反/不成立：evasively 意为“回避地、躲闪地”，用于形容人的言语行为，不能修饰 underrepresented 这一状态的程度。",
+     "G": "程度副词重复且语义不合：especially 表示“尤其”，常用来引出范围（尤其是某类人/某地），不能与 so 叠加表示“如此严重地”；且后文已用 in U.S. government 限定范围，此处需要的是程度副词。",
+     "N": "词性不符：sustained 是形容词（“持续的”），不能修饰后面的形容词 underrepresented 来表示程度；本空需要副词。"
+    }
+   },
+   "32": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "空格前是介词 with + 形容词 similar，后无名词，需填名词构成“资历/条件相似”这一比较前提。credentials 意为“资历、资格”，male politicians with similar credentials 即“资历相近的男性政客”，与前半句 raise as much money and win as often as 的比较形成完整语义。",
+    "evidence": "On the contrary, decades of research shows that female candidates raise as much money and win as often as male politicians with similar {32} .",
+    "distractors": {
+     "O": "词性不符：tenured 是形容词（“终身职位的”），不能作 with similar 的中心名词；本空需一个表示“资历、条件”的名词。",
+     "F": "语义不成立：equity 意为“公平、公正”，similar equity 指“相似的公平”，既不是可比较的个人条件，也无法解释“筹款与胜选频率相当”这一结论。",
+     "J": "语义不成立：impetus 意为“推动力、促进因素”，不能与 similar 构成“资历、条件相当”这一比较前提；本空需要一个表示候选人自身条件的名词。"
+    }
+   },
+   "33": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "空格在逗号后、介词短语 on Republican tickets 之前，起强调/限定范围的作用。especially 意为“尤其、特别是”，more women need to run, especially on Republican tickets 表示“需要更多女性参选，尤其是在共和党这边”，与上文“女性民主党议员107人、共和党议员仅42人”的对比直接呼应。",
+    "evidence": "In order for women to gain half of the seats in Congress, more women need to run, {33} on Republican tickets.",
+    "distractors": {
+     "D": "功能不符：dramatically 表示幅度或程度上的“急剧地”，只能修饰动词/形容词的程度，不能像 especially 那样引出被强调的具体范围（on Republican tickets）；若填入则“在共和党选票上参选”这一限定失去强调作用。",
+     "H": "语义完全不成立：evasively 意为“回避地”，与“更多女性需要参选”这一正面主张方向相反，且不能修饰整个介词短语。",
+     "M": "词性不符：suffices 是动词的第三人称单数形式，而本空在逗号后、介词短语之前，需要一个起强调作用的副词；动词无法承担这一功能。"
+    }
+   },
+   "34": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "require sb to do sth 结构中，空格需填动词原形，后接动名词 recruiting women 作宾语。prioritize 意为“优先考虑、把……列为优先事项”，prioritize recruiting women 即“把招募女性列为优先工作”，与后文 not just for one election cycle（不是只做一个选举周期）在逻辑上递进。",
+    "evidence": "This will require the Republican Party as a whole to {34} recruiting women",
+    "distractors": {
+     "K": "词性与搭配均不符：lavish 通常作形容词“奢华的”，作动词时搭配为 lavish sth on sb（慷慨地给予某人某物），不能直接接动名词表示“优先做某事”。",
+     "E": "搭配不成立：enact 的宾语必须是法律、法案、政策等，不能是 recruiting women 这样的动名词短语；“颁布招募女性”在语义上不成立。",
+     "J": "词性不符：impetus 是名词，不能在 require sb to do 结构中充当 to 后面的动词；本空需要动词原形来带 recruiting women 作宾语。"
+    }
+   },
+   "35": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "空格在冠词 a 与名词 way 之间，需填形容词。sustained 意为“持续的、持久的”，in a sustained way 即“以持续的方式”，与前半句 not just for one election cycle（不是只搞一个选举周期）形成对照，强调长期性。",
+    "evidence": "and not just for one election cycle, but in a {35} way.",
+    "distractors": {
+     "O": "搭配不成立：tenured 意为“享有终身职位的”，用于修饰教授、职位，不能修饰 way（方式）。",
+     "K": "语义方向不符：lavish 作形容词意为“奢侈的、大量的”，in a lavish way 指“以铺张的方式”，强调的是花费的奢华，无法与 not just for one election cycle（不是只搞一个选举周期）构成时间维度上的对照。",
+     "M": "词性不符：suffices 是动词的第三人称单数形式，不能放在冠词 a 与名词 way 之间作定语；本空需要形容词。"
+    }
+   }
+  },
+  "passage_zh": "女性在民选公职上进展缓慢，这令一些政治观察者和专家（包括我本人）感到沮丧。在国会实现性别平等是一个重要目标。这是因为，参与立法决策的女性人数，对政府所制定的所有政策都有重大影响。女性立法者比男性更可能提出、讨论并努力推动通过那些对妇女和女童影响格外严重的政策，例如带薪家事假、同工同酬和基于性别的暴力。国会中有更多女性，也能让女性选民与政府之间产生更强的联结感。此外，这还会增强女性的一种感受——政府关心她们所忧虑的事，并激励年轻女性更积极地参与政治。虽然全球各国政府中女性的代表性都不足，但这一问题在美国尤为严峻。目前，在政府中女性代表性方面，美国在全世界排名第73位。然而，女性在美国政府中代表性如此严重不足，原因并不是她们遭到选民的抵制，也不是她们难以筹到竞选资金。恰恰相反，数十年的研究表明，女性候选人与资历相当的男性政客筹到的钱一样多，胜选的频率也相同。女性在政治中进展缓慢，其实是两个政党的差异所致。下一届国会中，参众两院合计将有107位女性民主党议员和42位女性共和党议员。若要让女性获得国会半数席位，就需要更多女性参选，尤其是在共和党的候选人名单上。这要求整个共和党把招募女性列为优先事项——而且不是只为一个选举周期，而是以持之以恒的方式。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "题干“大量研究表明社会隔绝对老年人有害”对应 C 段第二句：Abundant research shows the harms of social isolation（大量研究显示社会隔绝的危害），后面 considered a serious public health problem in countries that have rapidly ageing populations 正是“对老年人有害”的落点（rapidly ageing populations 人口快速老龄化 ↔ the elderly 老年人）。C 段接着用英国皇家全科医师学会的结论和“社会联系对认知、运动功能与免疫系统很重要”进一步说明危害。",
+    "evidence": "Abundant research shows the harms of social isolation, considered a serious public health problem in countries that have rapidly ageing populations (though talk of a 'loneliness epidemic' may be exaggerated)."
+   },
+   "37": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "题干“独处让艺术家能够思考和观察，而这对他们的创作必不可少”是 H 段末句的同义改写：Solitude allows for the reflection and observation necessary for that creative process（独处为创作过程提供了必要的反思与观察）。allows for ↔ enables；reflection and observation ↔ think and observe；necessary for that creative process ↔ a must for their creation。",
+    "evidence": "Solitude allows for the reflection and observation necessary for that creative process."
+   },
+   "38": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "题干“在一位作家看来，被迫与别人玩是惩罚，而被独自关在房间里才是享受”来自 B 段引用的作家安妮莉·鲁弗斯的话：她爱自己的房间，待在锁着的门后是 treat（享受），而被命令去和表弟路易斯玩游戏才是 punishment（惩罚）。题干把 punishment 与 penalty、a treat 与 quite a pleasure 做了同义替换。",
+    "evidence": "I loved my room. Being there behind a locked door was a treat. To me a punishment was being ordered to play games with my cousin Louis."
+   },
+   "39": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "题干“最新研究首次表明创造力与不善交际之间存在特定关联”对应 I 段：A paper by Bowker and her colleagues was the first to show that a type of social withdrawal could have a positive effect—they found that creativity was linked specifically to unsociability。was the first to show ↔ shows for the first time；creativity was linked specifically to unsociability ↔ a specific link between being creative and being unsociable。",
+    "evidence": "A paper by Bowker and her colleagues was the first to show that a type of social withdrawal could have a positive effect—they found that creativity was linked specifically to unsociability."
+   },
+   "40": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "题干“为了规划自己的道路，我们必须愿意至少在某些时候独处”是 M 段苏珊·凯恩引语的改写：To truly chart our own path or vision, we have to be willing to isolate ourselves, at least for some period of time。chart our own path ↔ plot our own course；have to be willing to isolate ourselves ↔ must be willing to stay alone；at least for some period of time ↔ at least for some time。",
+    "evidence": "To truly chart our own path or vision, we have to be willing to isolate ourselves, at least for some period of time."
+   },
+   "41": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "题干“根据新研究，对偏爱独处的人而言，独处对工作生活和情绪健康都有益”对应 E 段末句：emerging research suggests some good news: there are upsides to being alone—for both our work lives and our emotional well-being。emerging research ↔ new research；those of us who just prefer plenty of alone time ↔ people who prefer being alone；upsides ↔ beneficial；work lives and emotional well-being 原样对应。",
+    "evidence": "For those of us who just prefer plenty of alone time, emerging research suggests some good news: there are upsides to being alone—for both our work lives and our emotional well-being."
+   },
+   "42": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "题干“培养几段稳定的关系也许比忙于社交对自己更好”是 O 段的同义改写：Nurturing a few solid relationships without feeling the need to constantly populate your life with endless chatting ultimately may be better for you。Nurturing a few solid relationships ↔ cultivate a few steady relationships；without the need to constantly populate your life with endless chatting ↔ than to busy themselves socialising；ultimately may be better for you ↔ may turn out to be better for one。",
+    "evidence": "Nurturing a few solid relationships without feeling the need to constantly populate your life with endless chatting ultimately may be better for you."
+   },
+   "43": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "题干“让思绪自由漫游有助于从长远上提高专注力”对应 L 段：Giving free rein to a wandering mind not only helps with focus in the long term but strengthens your sense of both yourself and others。Allowing your mind to wander freely ↔ Giving free rein to a wandering mind；is conducive to sharpening your focus in the long run ↔ helps with focus in the long term。L 段末句 the occasional absence of focus ultimately helps concentration in the long run 再次点明“长期”。",
+    "evidence": "Giving free rein to a wandering mind not only helps with focus in the long term but strengthens your sense of both yourself and others."
+   },
+   "44": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "题干“针对艺术家和科学家的研究表明，有创造力的人对与人来往兴趣较小”对应 G 段末句：Feist's research on both artists and scientists shows that one of the most prominent features of creative folks is their lesser interest in socialising。research on both artists and scientists 原样对应；creative folks ↔ creative people；their lesser interest in socialising ↔ are less interested in hanging out with others。",
+    "evidence": "In fact, Feist's research on both artists and scientists shows that one of the most prominent features of creative folks is their lesser interest in socialising."
+   },
+   "45": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "题干“法伊斯特认为，如果不偶尔独处，你很难了解自己”对应 N 段后半：It's hard to examine one's own thoughts, feelings and motives, to be self-aware, and fully relaxed unless you have occasional solitude。该句前文正是 Feist says，故“According to Feist”成立；you will have difficulty knowing yourself ↔ It's hard to examine one's own thoughts...to be self-aware；if you do not stay alone occasionally ↔ unless you have occasional solitude。",
+    "evidence": "It's hard to examine one's own thoughts, feelings and motives, to be self-aware, and fully relaxed unless you have occasional solitude."
+   }
+  },
+  "article_zh": "A) 我算是个不情愿的社交者。有时候社交计划被取消，我会暗自高兴。聚会进行几个小时后我就坐不住了。我甚至还参加过一次为期十天的免费止语冥想（冥想）静修营——不是为了冥想，而是为了那份安静。\n\nB) 所以我很能理解作家安妮莉·鲁弗斯。她在《独自一人：独来独往者的宣言》一书中写道：“电视节目里的父母惩罚孩子时，会命令他们回自己的房间去，这让我很困惑。我爱我的房间。待在那扇上了锁的门后面是一种享受。对我来说，惩罚是被命令去和我的表弟路易斯一起玩游戏。”\n\nC) 这类不爱交际的倾向往往远不理想。大量研究表明社会隔绝的危害——在人口快速老龄化的国家，社会隔绝被视为一个严重的公共健康问题（不过，所谓“孤独流行病”的说法也许被夸大了）。在英国，皇家全科医师学会指出，孤独导致过早死亡的风险水平与糖尿病相当。牢固的社会联系对认知功能、运动功能以及免疫系统的顺畅运转都很重要。\n\nD) 从极端的社会隔绝案例中，这一点尤为清楚。被囚禁的人、在虐待儿童的孤儿院里被隔离的孩子，以及被单独监禁的囚犯，这些例子都表明，长期的独处会导致幻觉（幻觉）和其他形式的精神失常。\n\nE) 但这些都是严重且非自愿的独处情形。对于我们这些只是偏爱大量独处时间的人来说，新近的研究带来了好消息：独处有其好处——对我们的工作生活和情绪健康都是如此。\n\nF) 独处是用来反思、用来更深入地思考事情的时间。在一个日益注重速度和竞争的世界里，独处是珍贵的，是值得珍惜的。学会喜爱自己的独处本身也有好处。\n\nG) 独处的一大好处是创造力得到提升。加州圣何塞州立大学专注创造力心理学研究的格雷戈里·法伊斯特把创造力定义为思维或活动，其中包含两个关键要素：原创性和有用性。他发现，通常与创造力相关联的人格特质是开放性（乐于接受新想法和新体验）、自信和自主性——自主性可能包括“不在乎社会规范”以及“偏爱独处”。事实上，法伊斯特对艺术家和科学家两方面的研究都表明，有创造力的人最显著的特征之一，就是对社交兴趣较小。\n\nH) 原因之一在于，这样的人很可能把持续的时间独自花在钻研自己的本行上。此外，法伊斯特说，许多艺术家“是在试图理解自己的内心世界，以及大量个人的内在体验，他们想通过自己的艺术为这些体验赋予表达和意义”。独处为这一创作过程所需的反思与观察提供了条件。\n\nI) 最近，纽约州立大学布法罗分校研究社交退缩的心理学家朱莉·鲍克为这些观点提供了依据。社交退缩通常被分为三类：由恐惧或焦虑造成的害羞；因不喜欢社交而产生的回避；以及因偏爱独处而产生的“不善交际”。鲍克与同事的一篇论文首次表明，某一类社交退缩可能产生积极效应——他们发现，创造力尤其与“不善交际”相关联。他们还发现，“不善交际”与攻击性没有相关性（害羞和回避则有）。这一点很重要，因为尽管此前的研究曾暗示“不善交际”可能是无害的，但鲍克及其同事的论文表明，它实际上可能是有益的。善于独处的人很可能“拥有刚好足够的交往”，鲍克说，“他们偏爱独处，但并不介意与他人相处。”\n\nJ) 不过，独处的重要性并不止于创造力。人们普遍认为领导者必须善于社交。但这取决于诸多因素，其中包括员工的性格。2011年的一项研究显示，在一家披萨连锁店的门店里，如果员工较为被动，性格外向的店长与更高的利润相关；而在员工较为主动的门店里，内向的领导者更有效率。原因之一是，内向的人不太容易被强势的个性和建议所威胁。他们也更善于倾听。\n\nK) 与此同时，自古以来人们就意识到孤立与精神专注之间存在关联。毕竟，有着隐士（隐修士）传统的文化相信，独处对开悟很重要。近年的研究让我们更好地理解了其中缘由。“不善交际”的一个好处是大脑处于“活跃的精神休息”状态，这与独处时的静谧相伴而行。当另一个人在场时，你的大脑会不由自主地分出一些注意力。这可能是一种积极的干扰，但它仍然是一种干扰。\n\nL) 在没有这类干扰的情况下做白日梦，会激活大脑的“默认模式网络”。在其他功能之外，这一网络有助于巩固记忆和理解他人的情绪。让思绪自由漫游，不仅有助于长期的专注，也会强化你对自己和他人的感知。因此，矛盾的是，一段段独处的时光实际上在你日后再次社交时会有帮助。而偶尔的走神，最终也有助于长期的专注。\n\nM) 更晚近的一位主张深思而高效的独处的倡导者是苏珊·凯恩。她是《安静：内向者的力量》一书的作者，也是“安静革命”公司的创始人，该公司致力于推动安静、对内向者友好的工作场所。她说：“如今，我们倾向于认为创造力来自一个毫不拘束的社交过程，但实际上它需要持续的注意力和深度专注。”她还说：“此外，人类是如此善于吸收的社交生物，当我们被他人围绕时，会自动吸收他们的观点和审美。要真正规划出属于自己的道路或愿景，我们必须愿意把自己隔离起来，至少在某一时期内如此。”\n\nN) 不过，有益的独处与危险的孤立之间的界线可能是模糊的。“几乎任何事情都可能是适应性的，也可能是不适应的，这取决于它们变得多么极端，”法伊斯特说。一种障碍与功能失调有关。如果一个人不再关心他人、切断一切联系，这可能意味着对社会关系的非理性忽视。但有创造性的独处与这种状况相去甚远。法伊斯特说，事实上，“从不独处的人存在真正的危险”。除非偶尔独处，否则你很难审视自己的想法、感受和动机，很难做到自我觉察和完全放松。此外，内向者往往朋友较少但关系更牢固——这与更高的幸福感相关联。\n\nO) 和许多事情一样，质量胜过数量。培养几段牢固的关系，而不觉得必须用没完没了的闲聊把生活填满，最终可能对你更有益。\n\nP) 因此，如果你的性格倾向于不善交际，你不必觉得需要改变自己。当然，这也有一些前提条件。但只要你有定期的社交接触，你的独处是出于选择而非被迫，你至少有几个好朋友，并且你的独处对你的福祉或效率有益，那么就没有必要为如何把方形的性格塞进圆形的洞里而苦恼了。"
+ },
+ "careful": {
+  "2025-06-3-careful-1": {
+   "passage_zh": "模拟器最常用于核电、航空、外科手术等一旦失误后果就极为严重的行业。为了从模拟学习体验中获得最大价值，参训者应当立即把所学直接应用到本组织内某项具体的改进措施上。\n\n多数组织都渴望推行重大的变革项目，结果却发现这些项目几乎无法落实。这在很大程度上是因为，成功的变革需要的不仅仅是一个愿景，它还需要一支不仅不抗拒变革、而且主动拥抱变革的员工队伍。\n\n要取得成功，组织必须构建一个变革方案，使变革能够在其各部门、各层级之间被迅速拉动。无论高层管理者的投入程度有多高，除非各级关键的意见领袖都拥抱这一变革，否则这项举措就会枯萎消亡。要营造这种广泛的热情，学习负责人必须让员工看到“可能的样子”，这将使他们得以重新思考自己的心智模式，摆脱根深蒂固的思维定式，并拥抱学习的机会。\n\n让参训者进入模拟环境，给了他们体验另一种现实的机会，而这种体验能促使他们重新思考自己当前的信念。\n\n对多数成年人而言，行为改变并不容易。讲座、培训课程和工作坊可以讲解变革中的认知层面，但它们很少能触及处在重大变革举措核心的行为层面。此外，在正常工作条件下，管理者很少能看到员工培养工作的完整效果。因此，像模拟这样的干预措施可以为变革提供触发因素。\n\n作为学习工具，有效的模拟可以胜过亲身经验，因为它压缩时间、压缩空间，而且与现实不同，它就是为了让参训者的学习效果最大化而专门设计的。模拟提供一种沉浸式的学习体验，使技能、流程和知识都能以现实做不到的方式被凸显出来。能够在不受限制且零风险的模型中探索、实验并反复应用新知识，正是模拟成为最高效学习方式之一的原因。\n\n设计良好的模拟能让个人和团队深入理解：他们的决策以及对商业刺激的直觉反应，如何影响其他参训者以及整个组织。然而，要从中获益，模拟必须让人感觉就像现实。在一场成功的模拟结束时，参训者必须说出“这就是我们”。如果他们做不到，就会把这一体验当成一场游戏，而游戏很难应用到工作中，更糟的是，会与日常工作任务毫不相干。为使模拟带来的收益最大化，参训者应当立即把从体验中学到的东西应用起来，在学与做之间建立顺畅的联结。",
+   "questions": {
+    "46": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "That is largely because successful change requires more than a vision, it requires a workforce that not only doesn't resist change, but embraces it.",
+     "explanation": "第2段说明：成功的变革“需要的不仅仅是一个愿景”，它需要一支“不仅不抗拒变革、而且拥抱变革”的员工队伍。C 项“它们需要员工队伍的热情支持”正是 embraces it 的概括（embraces ↔ enthusiastic support；a workforce ↔ the workforce），与 because 引出的原因完全对应。",
+     "distractors": {
+      "A": "与原文相反：本段开头说多数组织 only to find them nearly impossible to implement（结果发现变革几乎无法落实），A 项的 with great ease 正好说反了。",
+      "B": "以偏概全并曲解原意：原文强调 successful change requires more than a vision（仅有愿景远远不够），B 项却把“有愿景的领导者主导”当作变革的特点，恰好是原文要否定的看法。",
+      "D": "因果颠倒：本段讨论变革难以落实的原因在于员工是否拥抱变革，模拟的作用要到第5、6段才被提出，且原文主张“模拟为变革提供触发因素”，而非“变革由模拟学习体验产生”。"
+     }
+    },
+    "47": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "To create this kind of widespread passion, learning leaders must expose the workforce to what could be, which will enable them to rethink their mental models, enable them to break free from their deep-rooted paradigms and embrace the opportunity to learn.",
+     "explanation": "题干问“学习负责人应当做什么来激发学习者对变革的热情”。第3段用 To create this kind of widespread passion 明确点出目的，主句谓语是 must expose the workforce to what could be（必须让员工看到“可能的样子”），A 项 Allow them to see what could possibly be achieved 正是该动作的同义改写（expose…to what could be ↔ allow them to see what could possibly be achieved）。",
+     "distractors": {
+      "B": "把结果当手段：break free from their deep-rooted paradigms 是 which will enable them to… 引出的结果（让员工看到之后才发生），不是学习负责人首先要采取的动作，而题干问的是学习负责人（the leaders）该做什么。",
+      "C": "同样把结果当手段：rethink their mental models 与 B、D 一样都属于 expose 之后带来的效果，且选项把原文的 mental models 改写为 thought models，与题干所问的动作错位。",
+      "D": "结果当手段外加偷换概念：embrace the opportunity to learn 是被激发之后的表现，且原文的机会专指“学习的机会（the opportunity to learn）”，选项改成 fresh opportunities（新机会）扩大了范围。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "Lectures, training programs and workshops can explain the intellectual elements of transformation, but they are seldom effective at getting to the behavioral aspects that lie at the heart of a significant change initiative.",
+     "explanation": "第5段用 but 转折给出对这三种形式的评价：它们能解释变革的认知层面，却 seldom effective at getting to the behavioral aspects（很少能触及行为层面）。A 项“它们通常无法改变员工在工作中的行为”即 seldom effective + getting to the behavioral aspects 的同义概括（incapable of changing workers' behaviors ↔ seldom effective at getting to the behavioral aspects）。",
+     "distractors": {
+      "B": "无中生有：原文并未把讲座/培训与模拟作“创造变革刺激的手段不同”的对比，只是说模拟 can provide the stimulus for change（模拟可提供触发因素），并未界定二者在刺激方式上的差异。",
+      "C": "与原文相反：原文说它们在行为层面 seldom effective，即恰恰没能有效转变行为；C 项却说它们“旨在转变员工行为”，把失败的现状说成了目的。",
+      "D": "与原文相反：原文紧接着说 managers rarely see the full effect of their employee development efforts（管理者很少能看到完整效果），D 项却说它们能帮助管理者取得完整效果。"
+     }
+    },
+    "49": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "The ability to explore, experiment and repeatedly apply new knowledge in unlimited, risk-free models is what makes simulation one of the most productive forms of learning.",
+     "explanation": "第6段用 what makes simulation one of the most productive forms of learning 直接回答“为什么模拟是最高效的学习方式之一”：能够在不受限制且零风险的模型中探索、实验并反复应用新知识。D 项 explore, experiment and practice without any risk 与之一一对应（practice ↔ repeatedly apply new knowledge；without any risk ↔ risk-free；unlimited ↔ 不受限制）。",
+     "distractors": {
+      "A": "拼接与偷换：accelerates time 与 immersive learning experience 是第6段中两个不同的点，原文并未把“加速”视为省时，accelerating time 指压缩时间跨度以加快学习进程；且“高效”的原因原文明确落在 risk-free 的探索与反复应用上。",
+      "B": "张冠李戴：原文说技能、流程和知识都能在模拟环境中被凸显（skills, processes and knowledge all can be highlighted），并未说要让学习者 examine their skills, knowledge and learning process；把“被呈现的技能知识”改成了“学习者检验自己的学习过程”。",
+      "C": "以偏概全：原文强调的是 unlimited、risk-free 的探索与实验，而非笼统的 a practical learning experience；practical（实用的）在原文中没有对应表述，且无法解释“零风险、不受限制”这一关键限定。"
+     }
+    },
+    "50": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "To maximize benefits from simulation, participants should immediately apply the learning from the experience to forge a smooth link between learning and doing.",
+     "explanation": "题干中的 reap the greatest benefits possible 与第7段末句 To maximize benefits from simulation 完全对应，该句给出做法：participants should immediately apply the learning from the experience（立即把学到的应用到实际）。B 项 Apply promptly what they learn to their jobs 即其同义改写（immediately ↔ promptly；apply the learning…to forge a smooth link between learning and doing ↔ to their jobs）。",
+     "distractors": {
+      "A": "与原文相反：原文说如果参训者不说“这就是我们”，就会把体验当成一场游戏（view the experience as a game），这是模拟失败的表现，A 项却把它当成获益的做法。",
+      "C": "主体与目的错位：develop a deep level of understanding 是设计良好的模拟能带来的效果（can enable individuals and groups to develop…），不是参训者为“收益最大化”应采取的行动；且该句的主句已明确落在 immediately apply 上。",
+      "D": "无中生有：forge a smooth link between learning and doing 指在“学”与“做”之间建立联系，D 项把它曲解为与领导者（their leaders）建立紧密联系，原文并未提及与领导者的关系。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "simulator",
+     "meaning": "模拟器，模拟装置",
+     "note": "第1段首句：Simulators are most often utilized within industries such as nuclear power, aviation and surgery；派生词 simulation（模拟）在全文反复出现"
+    },
+    {
+     "word": "deploy",
+     "meaning": "部署，实施；有效利用",
+     "note": "deploy significant change programs 推行重大变革项目；搭配 deploy resources / deploy a strategy"
+    },
+    {
+     "word": "embrace",
+     "meaning": "欣然接受，拥抱（变革、观念等）",
+     "note": "embrace change / embrace the opportunity to learn；与 resist（抗拒）构成对照，是第46、47题的落点"
+    },
+    {
+     "word": "paradigm",
+     "meaning": "范式，思维定式",
+     "note": "break free from their deep-rooted paradigms 摆脱根深蒂固的思维定式；常见搭配 paradigm shift（范式转变）"
+    },
+    {
+     "word": "wither",
+     "meaning": "枯萎，衰退",
+     "note": "the initiative will wither and die 这项举措将枯萎消亡；常与 die 连用加强语气"
+    },
+    {
+     "word": "intervention",
+     "meaning": "干预，干预措施",
+     "note": "an intervention like a simulation 像模拟这样的干预措施；动词 intervene（介入）"
+    },
+    {
+     "word": "immersive",
+     "meaning": "沉浸式的",
+     "note": "an immersive learning experience 沉浸式学习体验；动词 immerse oneself in sth"
+    },
+    {
+     "word": "reap",
+     "meaning": "收获，获得（好处）",
+     "note": "reap the benefits 从中获益（第6段 To reap the benefits, however, simulations must feel like reality），与第50题题干 reap the greatest benefits 呼应"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "The ability to explore, experiment and repeatedly apply new knowledge in unlimited, risk-free models is what makes simulation one of the most productive forms of learning.",
+    "analysis": "主干：The ability … is what makes simulation one of the most productive forms of learning（这种能力正是使模拟成为最高效学习方式之一的原因）。主语中心词是 The ability，其后 to explore, experiment and repeatedly apply new knowledge 是三个并列的不定式，作 ability 的同位说明（the ability to do sth）；in unlimited, risk-free models 是修饰这三个动作的状语，交代“在不受限制、零风险的模型中”。系动词 is 之后是 what 引导的表语从句，what 在从句中作主语，makes simulation one of the most productive forms of learning 是 make + 宾语 + 宾语补足语（one of the most productive forms of learning）结构。理解要点：英语常用“The ability to do X is what makes Y …”这种 what 从句来强调“正是 X 使 Y 得以成立”，本句即“正是零风险地探索、实验并反复应用新知识的能力，造就了模拟的高效”。"
+   }
+  },
+  "2025-06-3-careful-2": {
+   "passage_zh": "GDP 增长并不是衡量一个国家表现好坏的可靠指标，也不应成为政府的首要目标。无限增长不可持续，经济思想正转向这样一种观念：我们应当追求经济模式的可持续性。但是，虽然可持续的经济对我们的未来至关重要，它只是达到目的的手段，而不是目的本身。\n\n政府应当关注幸福这一想法有其批评者。人们的担忧在于幸福如何才能被衡量。幸福难道不是一种转瞬即逝、主观的心理状态吗？不同的人体验到的幸福程度难道不是不同的吗？即便对“幸福”作最宽泛的解释，把它理解为富足或“生活满意度”，人们想要的东西也各不相同。\n\n当然，政府无法把生活满意度强加给公民。但我们的幸福有赖于全社会共同的努力。政府的义务在于创造促进富足的条件。而且我们有充分理由认为，这样的条件是存在的、在全球范围内普遍适用的，并且可以通过研究被发现。\n\n在最近发表的一篇文章中，哲学家朱利安·巴吉尼提出，我们应当关注公民的“真实财富”，而这种财富并不取决于 GDP 增长。能否获取是关键：人们不需要拥有，而是需要能够获取那些让他们过上好日子的东西。技术进步和社会行为的变化，使我们能够更有效地利用已有的资产。而关注人们过上更好生活所需资源的获取途径，也有助于减少不平等。\n\n就其所及而言，这与“幸福”倡导者们提出的主张有很多共同之处。但对于政府能够并且应当为公民做些什么，它设定的标准实在太低了。\n\n例如，尚不清楚“真实财富”经济将如何解决困扰我们社会的心理健康问题的大流行。至少在西方各国，心理健康状况不佳对福祉的损害比贫困更大。除了大幅改善治疗性心理保健服务的提供之外，还有一些改善心理健康的预防性措施，政府能够而且应当采取。世界卫生组织建议设立促进社区参与的机构——提供培养心理健康技能的教育项目和干预措施。然而，世界卫生组织觉得有必要借助改善心理健康所带来的经济效益，来说服各国政府相信采取这些拟议措施的成本是值得的，这件事本身就说明了很多问题。只要经济仍是政府的优先事项，政府就只需确保公民持续的生产力，不必再往前走了。\n\n要求政府把公民的“幸福”作为最高优先事项，就是要求政府把公民视为目的本身。",
+   "questions": {
+    "51": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "Unlimited growth is not sustainable, and economic thinking is moving toward the idea that we should aim for sustainability in our economic models.",
+     "explanation": "第1段说无限增长不可持续（not sustainable），而经济思想正在转向“应当追求经济模式的可持续性”这一观念。A 项 It should be made sustainable 正是 economic thinking is moving toward the idea that we should aim for sustainability 的概括：所谓对增长“更新的思考”，就是让它变得可持续。",
+     "distractors": {
+      "B": "主体偷换：原文说 a sustainable economy is vital to our future（可持续的“经济”对未来至关重要），选项把它换成了“增长（growth）本身对人类未来至关重要”，而增长的可持续性恰恰是原文要质疑的。",
+      "C": "与原文相反：首句明确 GDP growth should not be the primary goal of governments（不应成为政府的首要目标），C 项却说它应成为政府最关心的事。",
+      "D": "与原文相反：首句 GDP growth is not a good indicator of how well a country is performing，D 项却说它是政府表现的指标。"
+     }
+    },
+    "52": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "Even on the broadest interpretation of 'happiness' as prosperity or 'life satisfaction', people want different things.",
+     "explanation": "第2段列举批评者的担忧：幸福难以衡量、是一种转瞬即逝且主观的心理状态、不同人体验到的幸福程度不同，最后落在 Even on the broadest interpretation…, people want different things（即便把幸福理解为富足或生活满意度，人们想要的东西也各不相同）。C 项 Happiness means different things to different people 即 people want different things 的同义改写，加上前一句 Don't different people experience different levels of happiness? 的支撑。",
+     "distractors": {
+      "A": "张冠李戴：Governments cannot impose life satisfaction on citizens 是作者在第3段主动作出的让步，用来承接批评之后重申政府义务，并非批评者反对“关注幸福”的理由；把它当成反对理由是错认了说话人。",
+      "B": "无中生有：第3段说 our happiness relies on collaborative efforts as a society（幸福有赖于全社会的共同努力），并非“建立在个人努力之上”；选项还把 collaborative 改成了 one's own endeavor。",
+      "D": "无中生有且方向相反：本段批评者的担忧集中在“幸福无法衡量、因人而异”，全文也从未说幸福依赖可持续增长；可持续经济在首段被定位为“手段”，而非幸福的条件。"
+     }
+    },
+    "53": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "Access is key: people do not need to own, but rather access things that enable them to live well.",
+     "explanation": "第4段引出巴吉尼的建议：关注公民的“真实财富”，而 Access is key（能否获取是关键）——人们不需要拥有，而是需要能够获取那些让他们过上好日子的东西。B 项 Provide people with access to resources for a better life 正是该句的改写（access things that enable them to live well ↔ access to resources for a better life），也与本段末句 focusing on access to the resources people need to live better lives 呼应。",
+     "distractors": {
+      "A": "主体与性质错位：reduce inequality 是关注 access 之后可能带来的效果（could help reduce inequality），属于预期结果，不是巴吉尼提出的建议本身；且原文未界定为“贫富之间”的不平等。",
+      "C": "偷换主体：changes in social behavior 与 technological advances 并列，是使人们能更有效利用既有资产的客观趋势，不是巴吉尼要政府去“改变人们的行为”；把社会趋势说成政府措施。",
+      "D": "同样偷换主体：technological advances 是客观条件之一，选项却将其变成“政府利用先进技术改善人民生活”的具体举措，原文并未这样建议，且忽略了“获取（access）”这一核心。"
+     }
+    },
+    "54": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "As long as the economy is their priority, governments need go no further than ensuring citizens' continued productivity.",
+     "explanation": "第6段先点出世卫组织要向政府“诉诸经济效益”才被接受，随后用 As long as the economy is their priority… 解释原因：只要经济仍是政府的优先事项，政府就只需保证公民持续的生产力，不必走得更远——也就是说，政府仍以经济发展为优先。D 项 Governments still take economic development as their priority 与此完全对应。",
+     "distractors": {
+      "A": "绝对化且无中生有：原文只说政府以经济为优先时止步于“持续的生产力”，并未说没有 GDP 增长心理健康项目就无法执行。",
+      "B": "答非所问：psychological interventions 有利于人们的福祉是原文的一般陈述（WHO recommends…），无法回答“为什么世卫组织要诉诸经济效益来说服政府”这一因果问题。",
+      "C": "偷换原文：原文说 poor mental health is more detrimental to wellbeing than poverty（对福祉的损害大于贫困），C 项却改成“有害于一国的经济体系”，把比较对象从“个人福祉”换成了“国家经济”。"
+     }
+    },
+    "55": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "To demand that governments set the 'happiness' of citizens as their highest priority is to demand that they view citizens as ends in themselves.",
+     "explanation": "末段只有一句，点明全文立场：要求政府把公民的“幸福”作为最高优先事项，就是要求政府把公民视为目的本身（view citizens as ends in themselves），也就是以人为目的、以人为中心。B 项 Governments' goal should be people-oriented 正是 ends in themselves（人本身即目的）的概括。",
+     "distractors": {
+      "A": "方向相反：prosperity（富足）在第1、2段里只是对 happiness 的宽泛解释，而作者在第5段明确批评这类标准 it sets the bar far too low（把标准定得太低），因此“以富足为驱动”不是作者的呼吁。",
+      "C": "无中生有：末段谈的是把公民当作“目的本身”，属于政府目标的性质问题，并未讨论在决策中征询公民意见（consider citizens' views）这一程序问题。",
+      "D": "张冠李戴且褒贬反向：sustained productivity 正是第6段所批评的现行做法（governments need go no further than ensuring citizens' continued productivity），作者对此持否定态度，不可能把它当作主张。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "indicator",
+     "meaning": "指标，指示物",
+     "note": "GDP growth is not a good indicator of how well a country is performing；动词 indicate（表明）"
+    },
+    {
+     "word": "sustainability",
+     "meaning": "可持续性",
+     "note": "we should aim for sustainability in our economic models；形容词 sustainable（可持续的），第51题出处"
+    },
+    {
+     "word": "prosperity",
+     "meaning": "繁荣，富足",
+     "note": "creating conditions that promote prosperity；与 'life satisfaction' 并列作 happiness 的宽泛解释"
+    },
+    {
+     "word": "detrimental",
+     "meaning": "有害的，不利的",
+     "note": "be detrimental to wellbeing 有损福祉；近义 harmful，第54题干扰项 C 使用了该词"
+    },
+    {
+     "word": "therapeutic",
+     "meaning": "治疗的，有疗愈作用的",
+     "note": "the provision of therapeutic mental healthcare 治疗性心理保健服务；名词 therapy"
+    },
+    {
+     "word": "provision",
+     "meaning": "提供，供给；条款",
+     "note": "a vastly improved provision of therapeutic mental healthcare 大幅改善心理保健服务的提供"
+    },
+    {
+     "word": "asset",
+     "meaning": "资产，资源",
+     "note": "make more efficient use of the assets that we already have 更有效利用已有资产"
+    },
+    {
+     "word": "remedy",
+     "meaning": "补救，纠正（问题）",
+     "note": "remedy the epidemic of mental ill-health 解决心理健康问题的大流行；名词义“补救办法”"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "It says a lot, however, that the WHO feels the need to appeal to the economic benefits of improving mental health to persuade governments that the cost of taking proposed measures is justified.",
+    "analysis": "主干：It says a lot, however, that …（然而，……这件事本身就说明了很多问题）。It 是形式主语，真正的主语是 that 引导的主语从句 that the WHO feels the need to appeal to…is justified。该从句内部：主语 the WHO，谓语 feels the need（觉得有必要），不定式 to appeal to the economic benefits of improving mental health（诉诸改善心理健康的经济效益）说明 need 的内容；to persuade governments that… 是目的状语，其中 that the cost of taking proposed measures is justified（采取拟议措施的成本是值得的）是 persuade 的宾语从句——persuade sb that… 意为“使某人相信……”，这里指世卫组织要说服政府相信成本划得来。the cost of taking proposed measures 中 taking 是动名词，作 of 的宾语。理解要点：作者用 It says a lot that… 这一句式表达讽刺——世卫组织必须靠“经济效益”才能说服政府，正说明政府仍以经济为优先（呼应第54题）。"
+   }
+  }
+ }
+}

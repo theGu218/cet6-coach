@@ -1,0 +1,373 @@
+{
+ "exam": "2024-06-2",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "空处修饰动名词 living（居住），需要一个副词。illegally 意为“非法地”，living illegally in America 即“在美国非法居留”，与后文 she is to be {30}（她即将被遣返）互为因果，也由紧接着的 not by choice exactly（并非出于自己的选择）说明她只是被父母带来的无证移民。",
+    "evidence": "Natasha is a Jamaican-born immigrant living {26} in America, not by choice exactly.",
+    "distractors": {
+     "K": "语义偏差：perpetually 意为“永远、一直”，只强调时间上的持续，无法解释后文她为何要被遣返；“永远住在美国”与“即将被驱逐”自相矛盾。",
+     "M": "词性错误：shrewd 是形容词，不能修饰动名词 living 作方式状语。",
+     "G": "词性/语义错误：deported 是过去分词（被动），不能作 living 的状语；且“被遣返”的语义已由第 30 空承担。"
+    }
+   },
+   "27": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "空处是定语从句 she ___ to be out of 的谓语，先行词 situation 为单数、主语 she 为第三人称单数，需一般现在时第三人称单数动词，且要能接 to be out of。strive to do 意为“力求、努力去做”，the situation she strives to be out of 即“她拼命想要摆脱的处境”，说明父母带来的生活正是她不得不忍受的困境。",
+    "evidence": "Her parents brought her over and created the situation she {27} to be out of.",
+    "distractors": {
+     "B": "搭配与语义不成立：appraise 是及物动词“评估、估价”，不接 to be out of 这种不定式结构，也无法表达“力求摆脱”。",
+     "C": "搭配与语义不成立：assault 意为“攻击、袭击”，assault to be out of 结构不成立，且攻击某处境与句意不符。",
+     "L": "词形时态错误：prescribed 是过去式/过去分词，与从句所需的第三人称单数现在时 strives 不一致；语义上 prescribe 也无法表达“力求”。"
+    }
+   },
+   "28": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "定语从句 that Natasha ___ through scientific reasoning 中缺谓语，先行词 nonsense 为不可数单数，需第三人称单数动词，through 表示手段。dismiss 意为“对……不予理会、摒弃”，dismiss sth through scientific reasoning 即“用科学推理把……一概否定”，正与前面把这类说法称作 nonsense 的贬义口吻以及她讲科学、愤世嫉俗的性格相符。",
+    "evidence": "He believes in true love, fate, and all that other nonsense that Natasha {28} through scientific reasoning.",
+    "distractors": {
+     "A": "语义方向相反：adore 意为“喜爱”，而句首已把这些说法定性为 nonsense，且作者要强调的是两人信念的对立，用“喜爱”会使从句与主句逻辑冲突。",
+     "B": "语义偏移：appraise 意为“评估、估价”，评估并不等于否定；用科学推理去“评估”无稽之谈不能体现她与丹尼尔的分歧。",
+     "F": "搭配不成立：crack 的宾语通常是具体物体（如外壳、防线），不能接 that 从句所代表的“无稽说法”，也不能与手段状语 through 搭配。"
+    }
+   },
+   "29": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "空处在介词 by 之后，需名词，by coincidence 是固定搭配，意为“偶然地、碰巧”。句意：两人在纽约街头偶然相遇，而那天正是她将被遣返的日子——偶然的相遇与她被注定的命运形成对照，为全文“命运、宿命与服务魔法”的主题埋下伏笔。",
+    "evidence": "Daniel and Natasha meet by {29} on the streets of New York on the day that she is to be {30} .",
+    "distractors": {
+     "D": "搭配与语义错误：by chemistry 不是“偶然相遇”的表达；两人之间的 chemistry 是相处一整天之后才产生的东西（第 35 空），此处写的是相遇的方式。",
+     "G": "词性错误：deported 是过去分词，不能作介词 by 的宾语构成方式状语。",
+     "M": "词性错误：shrewd 是形容词，不能作介词 by 的宾语。"
+    }
+   },
+   "30": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "空处在 is to be ___ 之中，需过去分词与 be 构成被动不定式，主语 she 是被带来的移民。be deported 意为“被驱逐出境、遣返”，与第 26 空 illegally（living illegally in America）构成完整背景：她是无证移民，而相遇那天正是遣返日，这才有了全书“只此一天”的时间压力。",
+    "evidence": "Daniel and Natasha meet by {29} on the streets of New York on the day that she is to be {30} .",
+    "distractors": {
+     "L": "语义错误：be prescribed 意为“被开处方、被规定”，与移民身份和遣返毫无关系。",
+     "C": "语义错误：be assaulted 意为“遭到袭击”，既与“遣返日”的语境不符，也与后文她平静地允许对方陪伴的情节冲突。",
+     "J": "搭配与语义错误：be lost 表示“迷路、迷失”，不能表达移民在程序上被驱逐出境的结果。"
+    }
+   },
+   "31": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "空处与 scientifically-minded、practical、cynical 并列作 is 的表语，需形容词，always 表示一贯如此。skeptical 意为“持怀疑态度的”，与“讲科学”“务实”“愤世嫉俗”同属一个语义场：她凡事要证据，因此才会 dismiss 丹尼尔那一套真爱与宿命的说法，四个形容词共同塑造了她的性格。",
+    "evidence": "She's scientifically-minded, practical, somewhat cynical, and always {31} .",
+    "distractors": {
+     "M": "语义偏移：shrewd 指“精明、善于算计”，是对能力的评价，而并列的 practical、cynical 描述的是她的处事态度；“总是精明”也无法解释后文她为何否定浪漫信念。",
+     "G": "词性错误：deported 是过去分词，不能作系动词 is 的表语与形容词并列。",
+     "K": "词性错误：perpetually 是副词，不能与形容词 scientifically-minded、cynical 并列作表语。"
+    }
+   },
+   "32": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "空处是与 is infectious 并列的第二个谓语，主语是 I，需动词原形（一般现在时）。adore sb doing sth 意为“极喜欢某人做某事”，I adore Daniel seeing that too 即“我很喜欢看到丹尼尔也有这份痴迷”，与同段末句 By the end of the book I fell in love with both of them 的情感线索一致。",
+    "evidence": "Her obsession with the universe through a scientific lens is infectious and I {32} Daniel seeing that too.",
+    "distractors": {
+     "B": "语义不符：appraise 意为“评估、估价”，与 infectious（有感染力）带出的欣赏语气不搭，也不能自然地接 seeing 这一动态。",
+     "H": "主谓不一致：主语是 I，dismisses 是第三人称单数形式；语义上此处是欣赏，而非否定。",
+     "L": "时态错误：prescribed 为过去式，与并列谓语 is infectious 的一般现在时不一致。"
+    }
+   },
+   "33": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "定语从句 that even ___ Natasha's tough outer shell 缺谓语，that 指代前面的 has a way with words，视作单数需第三人称单数动词。crack sb's tough outer shell 意为“撬开某人坚硬的外壳／突破其心理防线”，与 charming and passionate 及 even（连……都）构成递进：他的言辞魅力连娜塔莎那层硬壳都能击破。",
+    "evidence": "Daniel is charming and passionate and has a way with words that even {33} Natasha's tough outer shell.",
+    "distractors": {
+     "A": "语义方向相反：adore 意为“喜爱”，adore her tough outer shell 会变成“喜欢她的硬壳”，恰好取消了 even 所表达的“连硬壳都被攻破”的转折。",
+     "C": "语义程度失当：assault 是“袭击、猛攻”，与 charming and passionate 的温和赞美语气不符，把言语魅力写成了暴力行为。",
+     "H": "语义错误：dismiss 意为“不予理会、摒弃”，dismissing her outer shell 不能表达“打动她、突破防线”的意思。"
+    }
+   },
+   "34": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "空处在 got ___ in 结构中，需过去分词作表语。get lost in sth 是固定搭配，意为“沉浸于、迷失在……之中”。句意：我完全沉浸在这本书里，一个周末就从第一页读到最后一页，与下一句“迫不及待想读到结局”共同说明这本书的吸引力。",
+    "evidence": "I got {34} in The Sun Is Also a Star and finished it cover to cover in a weekend.",
+    "distractors": {
+     "G": "语义错误：got deported 意为“被遣返”，与读书时沉浸其中的体验毫不相干。",
+     "L": "搭配不成立：got prescribed 意为“被开处方”，get prescribed in a book 结构不成立。",
+     "C": "语义相反：got assaulted 意为“遭到攻击”，与周末愉快阅读的语境正好相反。"
+    }
+   },
+   "35": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "That ___ that causes them to react and spark 中，空处是先行词，需一个被 that 定语从句修饰的单数名词。chemistry 除“化学”外，还指“（两人之间的）默契、相互吸引”，与 causes them to react and spark（彼此反应、擦出火花）严格对应，也照应了前文 give in to magic 的浪漫主题。",
+    "evidence": "That {35} that causes them to react and spark when they're near each other.",
+    "distractors": {
+     "E": "语义错误：coincidence 意为“巧合”，偶然性无法“导致两人彼此反应、擦出火花”，不能解释两人之间的吸引。",
+     "A": "词性错误：adore 是动词，不能作 That 之后被定语从句修饰的名词先行词。",
+     "M": "词性错误：shrewd 是形容词，不能作名词先行词，That shrewd that ... 语法不成立。"
+    }
+   }
+  },
+  "passage_zh": "《太阳也是一颗星》是一个关于爱情、浪漫、命运与宿命的美好至极的故事。娜塔莎是一名牙买加出生的移民，在美国非法居留，而这并不完全是出于她的选择。她的父母把她带到这里，却又造就了她拼命想要摆脱的处境。丹尼尔是韩国移民在美国生下的孩子。他相信真爱、命运，以及所有那些被娜塔莎用科学推理一概否定的无稽之谈。丹尼尔和娜塔莎在纽约街头偶然相遇，而那一天正是她将被遣返的日子。她没有把这件事告诉他，却允许他陪着自己，而他用一整天的工夫试图让她爱上他。娜塔莎就是我。我觉得她和我太像了。她讲科学、务实、有点愤世嫉俗，而且总是满腹怀疑。她以科学的眼光对宇宙的那份痴迷很有感染力，我很喜欢看到丹尼尔也有这份痴迷。丹尼尔迷人、热情，还有一手好口才，连娜塔莎坚硬的外壳也能被他撬开。读到结尾，我已经爱上了他们两个人。我以前总觉得言情故事廉价、可笑。我想我现在能明白，逃进一个纯粹乐观的故事里自有它的价值。我沉浸在《太阳也是一颗星》里，一个周末就把全书从头读到了尾。我迫不及待想读到我盼望会出现的圆满结局。偶尔纵容一下魔法是件好事。它不必是那种真有咒语的高难度奇幻小说，它可以是两个恰好拥有某种特别之处的人之间生出的魔法——那种让他们彼此靠近时有所反应、擦出火花的化学反应。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "题干说“专家普遍认为，仅靠意志力无法保证一个人成功改变并维持习惯”。D 段给出了完全对应的表述：先说意志力有限还是无限的研究尚无定论，再用 but 转折指出 experts do generally agree（专家们普遍同意），that 从句“you can't change and sustain a habit if you rely on your willpower alone”正是“不能只靠意志力改变并维持习惯”，generally agree 与 There is general consensus 一一对应。",
+    "evidence": "The research on whether we have finite or infinite willpower is inconclusive, but experts do generally agree that you can't change and sustain a habit if you rely on your willpower alone."
+   },
+   "37": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "题干说“不必因为暂时没达成目标就彻底放弃，第二天可以重新开始”。I 段结尾正是这句话的原文：temporarily strayed off course 对应 missed their target temporarily，doesn't mean you can't start afresh the next day 对应 they can start anew；前半段“完美主义者可能想全部放弃”也交代了为什么需要这句话。",
+    "evidence": "Just because you might have temporarily strayed off course doesn't mean you can't start afresh the next day."
+   },
+   "38": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "题干说“研究表明，行为改变启动之后，要维持它是另一项挑战”。A 段末句 Once we've successfully made that change ... which is often a whole other challenge in itself 中，Once we've successfully made that change 对应 after you have initiated it，a whole other challenge in itself 对应 quite another challenge；Research shows 对应段首提到的 behavioral change 研究。",
+    "evidence": "Once we've successfully made that change, we then have to make other adjustments to our lives to ensure that we continue to maintain it, which is often a whole other challenge in itself."
+   },
+   "39": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "题干说“认为启动改变用的策略同样能帮我们维持改变，是错的”。K 段明确写到人们 mistakenly believe the strategies we used to initiate the change will be equally effective in helping us continue the change，紧接着用 But they won't 直接判定这种想法不成立：mistakenly believe 对应 It is wrong to assume，initiate the change 对应 start a change，equally effective in helping us continue 对应 work equally well in helping maintain。",
+    "evidence": "One of the reasons for this is because we mistakenly believe the strategies we used to initiate the change will be equally effective in helping us continue the change. But they won't."
+   },
+   "40": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "题干说“有时单纯用另一项活动替代并不能成功改变习惯，可能还需要额外强化”。H 段以戒电子游戏为例：simply deciding you will go for a run might not be as effective（仅仅决定去跑步可能不够有效），随后 You might need to introduce another reinforcement（你可能需要另一种强化），并给出约朋友、一起报健身课的例子。",
+    "evidence": "But if you want to stop indulging in video games, simply deciding you will go for a run might not be as effective. You might need to introduce another reinforcement, such as meeting a friend and booking an exercise class together."
+   },
+   "41": {
+    "answer": "F",
+    "my_answer": "F",
+    "verified": true,
+    "explanation": "题干说“应当引入新东西来替代旧习惯，而不是简单地戒掉它”。F 段在解释“大脑不擅长学会不做某事”之后给出结论句 rather than giving up something, think about introducing something in its place：rather than giving up 对应 instead of simply kicking it，introducing something in its place 对应 introduce something new to replace an old habit。",
+    "evidence": "That's why rather than giving up something, think about introducing something in its place."
+   },
+   "42": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "题干说“完美主义者过分关注大目标，忽视了庆祝过程中的小进步”。J 段原句：many perfectionists tend to fall into（许多完美主义者容易陷入）——They focus too much on the big goal and don't take the time to celebrate the small progress they make in the process，focus too much on the big goal 对应 focus too much on their big target，don't take the time to celebrate the small progress 对应 neglect celebrating the small gains。",
+    "evidence": "They focus too much on the big goal and don't take the time to celebrate the small progress they make in the process."
+   },
+   "43": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "题干说“从长远看，克服阻碍我们做出行为改变的情性对我们大有好处”。L 段首句 Remember, overcoming the behavioral inertia that prevents us from implementing new changes ... can benefit us in the long run：behavioral inertia 与 inertia 对应，prevents us from implementing new changes 对应 stops us from making behavioral changes，benefit us in the long run 与 in the long term 完全对应。",
+    "evidence": "Remember, overcoming the behavioral inertia that prevents us from implementing new changes, like eating a healthy diet or exercising, can benefit us in the long run and can improve our physical and mental health."
+   },
+   "44": {
+    "answer": "G",
+    "my_answer": "G",
+    "verified": true,
+    "explanation": "题干说“成功改变了你某个行为的策略，未必适用于你的另一个行为”。G 段末句 Sometimes, the system that got you to change one behavior might not work for another：the system that got you to change one behavior 对应 The strategy that successfully changed one of your behaviors，might not work for another 对应 may not work for some other behavior。",
+    "evidence": "Sometimes, the system that got you to change one behavior might not work for another."
+   },
+   "45": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "题干说“情绪不佳时，我们改换行为方式的智慧似乎就消失了”。K 段 If our mood is low, the wisdom to behave differently seems to disappear：our mood is low 对应 Without a happy mood，the wisdom to behave differently seems to disappear 对应 our wisdom to adopt a different behavior vanishes，几乎逐词同构。本题与第 39 题同用 K 段，因该段既讲“错误地认为启动策略可沿用”，也讲“情绪低落时智慧消失”，两处论据确实并存。",
+    "evidence": "If our mood is low, the wisdom to behave differently seems to disappear and we go back to eating more and exercising less."
+   }
+  },
+  "article_zh": "A) 根据近期研究，行为改变涉及大脑的生理变化。过去十年间，研究者已经表明，至于把一种新行为变成根深蒂固的习惯需要多长时间，并没有一个简单的答案。即便对我们当中最有产出、最自律的人来说，要改掉已经成为我们自动组成部分的某个行为，也远非一夜之间可以做到。而一旦我们成功做出了那个改变，接下来还要对生活做其他调整，以确保我们能持续维持它——这本身往往又是一个全新的挑战。\n\nB) 从根本上说，改变并维持一种行为的成功，很少能在没有某种系统的情况下发生。如果没有合适的框架，我们辛苦得来的进步就更有可能被破坏。要确保改变并维持一种行为获得成功，我们应当远离一些有害的习惯。\n\nC) 第一个要避免的是依赖意志力。想想你上一次发誓要抵制诱惑的情形。也许你不想每 15 分钟看一次手机，或者决心下午三点不去拿一块巧克力。想想当手机就在手边时不瞄一眼、当下午的困倦袭来时不走向自动售货机，那得有多难。\n\nD) 关于意志力是有限的还是无限的，研究尚无定论，但专家们普遍同意：如果你只靠意志力，就无法改变并维持一个习惯。军队里有句老话——“你永远不会超水平发挥，你只会跌回训练的水平”——同样适用于行为改变。道理很简单：你把某件事重复足够多次，它就会变成自动的。\n\nE) 想想你还能改变周围环境中的什么，好让你更容易每天执行这个改变。这叫做你的“提示”。基本上，它就是执行某个特定习惯的触发点。如果你不想下午三点去拿甜食，就在桌上备一盒花草茶。下午三点一到，那就是你的提示：给自己倒一杯热水、喝那杯茶，而不是走向自动售货机。\n\nF) 第二个要避免的是专注于消极目标。有时让你受挫的不是你的做法，而是你一开始就想改变的那个习惯。比如说，为了对付下午的困倦而不吃巧克力，就比在既定时间用花草茶替换巧克力要难。你的大脑想找到过去成功过的常规，好让你将来能再次重复那些动作而不必刻意思考。然而，这套习惯学习系统在“学会不做某事”上并不那么有效。这就是为什么与其放弃某样东西，不如想着引入某样东西来替代它。把注意力放在你将要采取的行动上，而这些行动最终会与你想要停止的行为相冲突。当你的注意力在“做新的事情”上时，你就给了习惯系统运转的机会。\n\nG) 第三个要避免的是在不同情境下使用同样的策略。因为我们是习惯性动物，所以自然会以为：当我们确实成功采纳并维持了一个理想行为后，同样的策略在我们想做另一个行为改变时也会奏效。但事实并非总是如此。有时，让你改变了一个行为的那套系统，可能对另一个行为不起作用。\n\nH) 有时我们在做决定时习惯于依赖直觉。这在某些情况下对我们有好处，但在另一些情况下会妨碍我们，尤其是当我们需要考量指标和数据、而不是让本能凌驾一切的时候。例如，如果你想改掉一早起床就看邮件的习惯，你也许会决定用另一项活动来替代。但如果你想戒掉沉迷电子游戏，仅仅决定“我要去跑步”可能就没那么有效。你可能需要引入另一种强化，比如约上一个朋友、一起报名一节健身课。\n\nI) 第四个要避免的是不为自己的失误原谅自己。当然，即便最周密的计划有时也会失败。你可能已经坚持了五天无屏幕的夜间作息，然后一个大项目落到你桌上，你发现自己睡前抱着笔记本电脑躺在床上。或者你在周日备好了餐、坚持在家吃健康晚餐，但到周五你已经累得不行，选择了点油腻的外卖。生活就是这样，即便你的行为改变很小，每一天都可能相当不宽容，而且某个时候你的运气可能用光，哪怕只有一天。你内心的完美主义者可能会尖叫着要你干脆放弃目标，但试着从更大的图景来看。你一时偏离了轨道，并不意味着你第二天不能重新开始。\n\nJ) 最后一个要避免的是轻视微小的进步。许多完美主义者在尝试建立行为改变时容易陷入一个习惯：他们过分关注大目标，而不花时间庆祝过程中取得的小进步。你的大脑对奖励有反应。基底神经节——与习惯执行相关的大脑区域——在行为开始时（习惯被触发时）和结束时（得到奖励时）最为活跃。假设你的目标是每周跑三次、每次五英里，而这周你在周一、周三和周五各跑了一英里。与其关注离目标还有多远，不如想想你可以怎样为已取得的进步奖励自己。奖励不必很大或很贵，可以简单到跑完后来杯你最爱的果汁。无论你的奖励是什么，它都必须超出活动本身，才能让你动起来。\n\nK) 启动一个新行为通常看起来是整个改变过程中最难的部分。然而，人们往往没有为维持它做好充分准备。原因之一是我们错误地认为，用来启动改变的策略在帮助我们持续改变时同样有效。但事实并非如此。改变一个根深蒂固的习惯，需要改变我们对那个习惯的信念，而那种信念深深渗透进我们的生活；要持续践行那份智慧，则需要我们保持积极的心态。如果我们情绪低落，换个方式行事的智慧似乎就会消失，我们又会回到多吃少动的状态。那么，维持新行为的关键就是要快乐！这也正是维持新行为如此困难的原因。\n\nL) 记住，克服那种阻碍我们实施新改变（比如健康饮食或锻炼）的行为惰性，从长远看对我们有益，也能改善我们的身心健康。没有人生来就带着习惯。习惯都是学来的，因此也都可以被“学掉”。问题是：你究竟有多想改变？"
+ },
+ "careful": {
+  "2024-06-2-careful-1": {
+   "passage_zh": "“美国梦”许诺：在这片机遇之地，任何个人都能仅凭努力和抱负爬上经济阶梯、走向富足。然而，如今的美国年轻人却难以挣得比父母在同一年龄时更多，而美国的向上流动性与其它工业化国家相比实际上还逊色一些。\n\n那么，美国梦这一观念为何依然存在？《美国政治学杂志》上的一项新研究指出了此前被忽视的一个因素：真人秀的影响力。\n\n范德堡大学的金恩智指出，过去 20 年里真人秀逐渐主导了美国电视。而这些节目绝大多数都走“白手起家”的故事线：它们呈现普通美国人通过努力工作取得巨大经济成功。尽管这类节目常居收视榜前列，但新闻节目——它们更真实地呈现了数百万美国人面临的经济困苦——所占的收视份额要小得多。\n\n白手起家的故事在电视上无处不在——但看这些节目真的能让人们相信经济流动很容易实现吗？为了弄清这一点，金的团队让参与者观看了一段 5 分钟的真人秀片段，该节目走的是白手起家的故事线。对照组的参与者观看的是一段没有白手起家故事线的真人秀片段。看完节目后，参与者就与美国梦相关的四项说法给出认同程度。\n\n结果显示，看过白手起家片段的人对美国梦的信念确实显著更强。有趣的是，当按党派归属区分参与者时，这一效应在共和党人中显著，而在民主党人中不显著，这说明这类电视节目中隐含的信息可能迎合了人们既有的社会经济信念。\n\n金还对 3000 名美国居民做了一项调查。他们也评价了自己认为人生成功在多大程度上与各种内部因素（如抱负）和外部因素（如家庭财富）相关。最后，他们看到一份电视节目清单，并指出自己经常观看哪些。\n\n经常观看白手起家类节目的参与者，比起从不看这类节目的人，对美国梦的信念更强。\n\n金的结论是：白手起家的娱乐媒体是一股重要的文化力量，它宣扬并使人们对向上流动的信念延续下去。问题就在这里：如果人们误以为努力就是个人改善生活所需要的一切，他们就可能不太支持那些真正能对抗不平等的政策。\n\n金写道：“在这个选择的时代，抓住人心的是娱乐媒体。它的政治后果绝非微不足道。”",
+   "questions": {
+    "46": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 1,
+     "evidence_quote": "And yet, young Americans today are struggling to earn more than their parents did at the same age, and upward mobility in the US actually compares unfavourably to that of other industrialised nations.",
+     "explanation": "题干问从文章可了解当今美国年轻人的什么情况。第 1 段先摆出美国梦的许诺（任何个人都能凭努力爬上经济阶梯），随即用 And yet 转折指出现实：如今的年轻人 struggling to earn more than their parents did at the same age（难以挣得比父母同龄时更多），而且美国的 upward mobility 相比其他工业化国家 compares unfavourably（不如它们）。struggling to ... 与 compares unfavourably 都指向“向上流动难以实现”，故 B 正确。",
+     "distractors": {
+      "A": "比较对象偷换：原文比较的是收入（earn more than their parents did at the same age），并未比较两代人的“抱负大小”。",
+      "C": "与原文相反：原文说年轻人 struggling to earn more，即没能超过父母同龄时的收入；C 却说他们已经 overtaken（超越）父母。",
+      "D": "无中生有：原文只说美国的社会流动性与其它工业化国家相比不占优势，没有说年轻人“羡慕”他国的机会。"
+     }
+    },
+    "47": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "The results showed that those who'd watched a rags-to-riches clip did indeed have a significantly greater belief in the American Dream.",
+     "explanation": "题干问金的研究团队对美国真人秀发现了什么。第 4 段说明实验设计（一组看白手起家片段、对照组看不含该故事线的片段），第 5 段给出结果：看过白手起家片段的人 did indeed have a significantly greater belief in the American Dream——显著更相信美国梦。greater belief 正对应 C 的 strengthen people's conviction（强化信念）。",
+     "distractors": {
+      "A": "无中生有：研究只测量了参与者对美国梦信念的变化，没有涉及“重新诠释白手起家文化的本质”。",
+      "B": "混淆节目内容与研究结论：第 3 段说这类节目 feature ordinary Americans who work hard（呈现努力工作的普通人），是节目“呈现”的内容；feature 不等于 urge（劝人去做），而且这不是研究的发现。",
+      "D": "主体偷换：第 3 段说节目呈现普通人 achieve great economic success（取得巨大经济成功），不是“争取社会认可”；且这依然属于节目特征，而非研究发现。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "And while these programmes are regularly among the most-watched shows, news broadcasts—which paint a more realistic view of the economic hardship faced by millions of Americans—get a much smaller proportion of the viewership.",
+     "explanation": "题干问作者如何说美国的新闻节目。第 3 段用 while 让转把真人秀与新闻作对比：真人秀 regularly among the most-watched shows（常居收视前列），而新闻节目 get a much smaller proportion of the viewership（所占收视份额小得多）。句子主语和谓语落在 news broadcasts ... get a much smaller proportion of the viewership 上，故 A“它们吸引的观众远少于真人秀”正确。",
+     "distractors": {
+      "B": "褒贬方向偏差：原文说新闻 paint a more realistic view（更真实地呈现现实），是中性描述，并非“一味报道生活阴暗面”。",
+      "C": "范围过宽（程度夸大）：原文只点出收视份额的差距与对经济困境的呈现差异，没有把两者概括为整体上的“鲜明对立”。",
+      "D": "主次颠倒：该信息只是句中插入的定语从句，句子的主要论断是新闻收视份额远小于真人秀；D 把陪衬性细节当成了作者要强调的重点。"
+     }
+    },
+    "49": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "Interestingly, when participants were separated by party affiliation, this effect was significant among Republicans but not Democrats, suggesting that the kind of messages implicit in these TV shows may play into people's existing socioeconomic beliefs.",
+     "explanation": "题干问关于共和党人总体上可以推断出什么。第 5 段说实验效应 significant among Republicans but not Democrats（只在共和党人中显著），并解释为节目的信息 may play into people's existing socioeconomic beliefs——即迎合了他们“已有的”信念。既然白手起家的信息能进一步强化他们的美国梦信念，可合理推断共和党人本身就较坚定地相信美国梦，故 A 正确。",
+     "distractors": {
+      "B": "无中生有：原文讨论的是共和党人对“美国梦”这一信念的认同，没有说他们本人在努力攀爬社会经济阶梯。",
+      "C": "概念偷换：party affiliation 只是研究用来分组的口径（党派归属），选项把它读成“对所属政党的归属感极强”，原文对程度毫无描述。",
+      "D": "无据推断：原文说效应在共和党人中显著，原因归为既有信念与节目信息契合，并未调查或比较各党派的收看量，推不出他们“看得更多”。"
+     }
+    },
+    "50": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "And here's the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality.",
+     "explanation": "题干问关于相信向上流动的人文中是怎么说的。第 8 段末句指出问题所在：如果人们误以为努力就是个人改善生活所需要的一切，they may be less supportive of policies that could actually combat inequality——他们可能不太支持那些真正能对抗不平等的政策。less supportive 直接对应 D 的 less likely to approve of policies to fight inequality。",
+     "distractors": {
+      "A": "无中生有：原文没有提到这些人会把自身困境归咎于政府。",
+      "B": "张冠李戴：anything but trivial 是金对“娱乐媒体的政治后果”的评价（第 9 段），主体不是“相信向上流动的人”。",
+      "C": "无中生有（方向偏移）：原文只讨论这类人对“治理不平等的政策”的态度，没有说他们“尊重努力向上攀爬的人”。"
+     }
+    }
+   },
+   "vocabulary": [
+    {"word": "upward mobility", "meaning": "向上流动（社会、经济地位上升）", "note": "upward mobility in the US compares unfavourably 美国的向上流动性逊色一些"},
+    {"word": "persist", "meaning": "持续存在，坚持", "note": "why does the idea of the American Dream persist 美国梦的观念为何依然存在"},
+    {"word": "rags-to-riches", "meaning": "白手起家的，由贫到富的", "note": "a rags-to-riches storyline 白手起家的故事线"},
+    {"word": "ubiquitous", "meaning": "无处不在的，普遍存在的", "note": "Rags-to-riches stories are ubiquitous on TV 白手起家的故事在电视上无处不在"},
+    {"word": "attainable", "meaning": "可达到的，可实现的", "note": "economic mobility is easily attainable 经济流动轻易可实现"},
+    {"word": "party affiliation", "meaning": "党派归属，党籍", "note": "separated by party affiliation 按党派归属分开"},
+    {"word": "perpetuate", "meaning": "使持续，使永存", "note": "promotes and perpetuates beliefs in upward mobility 宣扬并使向上流动的信念延续"},
+    {"word": "implicit", "meaning": "含蓄的，隐含的", "note": "messages implicit in these TV shows 这些电视节目中隐含的信息"}
+   ],
+   "long_sentence": {
+    "sentence": "And here's the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality.",
+    "analysis": "冒号前 And here's the problem 是承上启下的独立分句，真正的论点在冒号之后。主句是 they may be less supportive of policies（他们可能不太支持某些政策），may 表示推测；句首的 if 引导条件状语从句。条件从句内部：people mistakenly believe that ... 中 people 是主语、believe 是谓语，that 引导宾语从句；该宾语从句的主干是 hard work is all（努力就是一切），all 后面 that is needed 是修饰 all 的定语从句（先行词为 all 时关系代词只能用 that），for individuals to make a better life for themselves 是不定式复合结构作状语，补出“努力”所服务的对象与目的。主句末尾 that could actually combat inequality 是修饰 policies 的定语从句，actually 强调这些政策才真正能对抗不平等。整句的推理链是：误信“只靠努力就够了”→ 忽视结构性因素 → 不支持真正能缩小不平等的政策，这正是作者把“真人秀的文化影响”接到“政治后果”上的落脚句。"
+   }
+  },
+  "2024-06-2-careful-2": {
+   "passage_zh": "当有人问我们“你是做什么的”时，我们几乎总是用职业来回答。对我们许多人来说，工作远不只是一份差事。它是我们身份中起界定作用的方面。对我们当中的许多人而言，正是通过工作我们才能定义自己。\n\n“没有工作，我就不知道我是谁”——这句话在我办公室的椅子上不止一次被说过。的确，对于失去工作或被迫换工作的来访者，这可能是我处理起来最具挑战性的方面之一。这种失去所引发的身份危机，远比失去工作本身严重得多。\n\n然而，我逐渐明白的一件事是：我们的身份远比乍看之下要复杂。如果我们花时间反思，或许会意识到，除了工作以外，我们还可以认同自己是朋友、配偶、儿子或女儿、父母、运动队或宗教团体的成员。我们或许会发现，在这些角色和关系中，我们的感受与行为跟工作时并不一样。那个被动的女儿在工作中会变成果断自信的领导者。此外，我们工作中的身份并非静止不变，它们会随时间改变。我自己就当过店员、服务员、学生、毕业生和临床心理学家。在每个阶段，我适应并发展职业身份的能力对我的幸福都至关重要。虽然我们在某种程度上总想消除生活中的不确定性，但我们不得不学会管理不确定性，尤其是在当今动荡而不断变化的就业市场上。\n\n我们如何看待自己，是身份问题的核心。当我们对自己说“我擅长启动项目，但不擅长把它们做完”时，它可能变成我们信念体系的一部分。但如果你不幸经历了被迫的工作变动，你就需要审视这些信念，看它们有多少现实依据。你将不得不问自己这些信念有多大帮助，并考虑做出个人的改变。我们随时可以通过尝试、练习和有意识的自我约束来改变自己的信念、行为和情绪体验。在一个职业发展可能把我们带入新领域的时代，挑战我们的自我认知、并探索能否通过改变对自己的信念来创造一种新的身份体验，从而扩展职业选择，就显得越发重要。归根结底，定义你是谁的人是你自己。只有你允许，你才只是你的工作。",
+   "questions": {
+    "51": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "This loss provokes an identity crisis much greater than the loss of the job itself.",
+     "explanation": "题干问关于失去工作我们可以了解到什么。第 2 段先引用来访者的话“没有工作我就不知道我是谁”，随后判断：This loss provokes an identity crisis much greater than the loss of the job itself——这种失去引发的身份危机远大于失去工作本身。identity crisis 即“不知道自己是谁”，与 C“让他们对自己的身份感到困惑”一致。",
+     "distractors": {
+      "A": "主体错位：作者本人是临床心理学家，失去工作的人是来向她咨询的来访者；原文没有说失业“迫使”他们去看心理医生。",
+      "B": "曲解原文：第 3 段说人在朋友、配偶、父母等关系中扮演不同角色，这是身份本来的多重性，不是“失业给了他们转换角色的机会”。",
+      "D": "概念替换：原文讲的是需要审视关于“自我身份”的信念（beliefs about yourself），而不是重新界定“人生目标（life's goals）”。"
+     }
+    },
+    "52": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "One of the things I have come to understand, however, is that our identity is much more complex than we recognise at first glance.",
+     "explanation": "题干问作者对我们的身份有什么领悟。第 3 段开门见山地给出 One of the things I have come to understand ... is that our identity is much more complex than we recognise at first glance——身份远比乍看之下复杂。much more complex 对应 D 的 more complicated，than we recognise at first glance 对应 than it appears。",
+     "distractors": {
+      "A": "张冠李戴：wellbeing 出现在同段“adapt to and develop my career identity has been crucial to my wellbeing”，讲的是职业身份的适应能力对幸福重要，不是作者关于“身份本身”的领悟。",
+      "B": "偏离落点：原文强调的是身份“比乍看更复杂”（多重角色、随时间变化），而非泛泛地说它在生活很多方面很重要。",
+      "C": "无中生有：原文说的是职业身份会随时间变化（not static / change over time），从未说身份反映“社会地位”的变动。"
+     }
+    },
+    "53": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "Furthermore, our identities at work are not static. They change over time.",
+     "explanation": "题干问文章如何说我们在工作中的身份。第 3 段用 Furthermore 递进：our identities at work are not static. They change over time——工作中的身份并非静止不变，会随时间改变；作者随即以自己的职业经历（店员、服务员、学生、毕业生、临床心理学家）为例。change over time 正对应 B 的 evolve with the passage of time。",
+     "distractors": {
+      "A": "无中生有：原文没有讨论工作身份与自尊（self-esteem）的关系。",
+      "C": "与原文相反：第 3 段说我们还能认同自己是朋友、配偶、父母等，且在这些角色中的感受与行为都不同，工作身份并未压倒其它自我认知。",
+      "D": "无据拔高：原文只说工作身份是身份的一部分且会变化，没有说它是“理解自我的关键”。"
+     }
+    },
+    "54": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "Whilst we like to eliminate uncertainty in our lives at some level we have to manage uncertainty, especially in today's volatile and ever-shifting job market.",
+     "explanation": "题干问在当今不断变化的就业市场上我们必须做什么。第 3 段末句：虽然我们总想消除生活中的不确定性，we have to manage uncertainty, especially in today's volatile and ever-shifting job market——我们必须学会管理不确定性，尤其是在当今动荡、不断变化的就业市场上。manage uncertainty 与 D 的 Learn to manage uncertainty 完全一致。",
+     "distractors": {
+      "A": "答非所问：social identity 对应的是第 3 段列举的朋友、父母等多种角色，与“如何应对多变的就业市场”这一设问没有直接对应。",
+      "B": "无中生有（程度夸大）：原文只要求 manage uncertainty，没有说要去“为不同的职业路径做准备”。",
+      "C": "张冠李戴：assertive 出现在“被动的女儿在工作中变成果断的领导者”这一角色差异的例子里，是特定情境的描述，不是对所有人的要求。"
+     }
+    },
+    "55": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 4,
+     "evidence_quote": "In an age where career progression may lead us into new sectors it is ever more important to challenge our sense of self and explore whether you can create a new experience of your identity by changing the beliefs you hold about yourself in order to expand your career options.",
+     "explanation": "题干问为了扩大职业选择我们应该做什么。第 4 段末句以 in order to expand your career options 点明目的，其手段是 challenge our sense of self（挑战自我认知）和 changing the beliefs you hold about yourself（改变你对自己的看法）。change the beliefs you hold about yourself 正对应 A 的 Alter our perceptions of ourselves。",
+     "distractors": {
+      "B": "无中生有：原文通篇没有建议“比较各种工作机会”。",
+      "C": "混淆背景与建议：new sectors 只是“职业发展可能把我们带入新领域”这一时代背景，作者由此推出的做法是改变对自己的信念。",
+      "D": "手段与目的错位：conscious self-discipline 是第 4 段前半列出的“改变信念、行为与情绪体验”的通用手段之一，而本题问的是“为扩大职业选择”该做什么，落点在改变对自己的看法，D 只截取了较低层级的手段。"
+     }
+    }
+   },
+   "vocabulary": [
+    {"word": "provoke", "meaning": "引发，激起", "note": "provokes an identity crisis 引发身份危机"},
+    {"word": "identity crisis", "meaning": "身份认同危机", "note": "an identity crisis much greater than the loss of the job itself"},
+    {"word": "assertive", "meaning": "果断自信的，有主见的", "note": "The passive daughter becomes an assertive leader at work."},
+    {"word": "static", "meaning": "静止的，一成不变的", "note": "our identities at work are not static"},
+    {"word": "crucial", "meaning": "至关重要的", "note": "crucial to my wellbeing 对我的幸福至关重要"},
+    {"word": "volatile", "meaning": "动荡的，波动剧烈的", "note": "volatile and ever-shifting job market 动荡而不断变化的就业市场"},
+    {"word": "grounded", "meaning": "有根据的，脚踏实地的", "note": "how grounded in reality they are 这些信念有多少现实依据"},
+    {"word": "self-discipline", "meaning": "自我约束，自律", "note": "experimentation, practice and conscious self-discipline"}
+   ],
+   "long_sentence": {
+    "sentence": "If we take the time to reflect we might recognise that as well as our work we can also identify as a friend, a spouse, a son or daughter, a parent, a member of a sports team or religious community.",
+    "analysis": "句首 If we take the time to reflect 是条件状语从句（若肯花时间反思），主句是 we might recognise that ...，might 使语气带有推测性。that 引导宾语从句作 recognise 的宾语，宾语从句内部：as well as our work 是介词短语作状语，意为“除工作之外、与工作并列”；主谓是 we can also identify as ...（我们还可以认同自己是……），as 为介词，后接一长串并列的名词短语——a friend, a spouse, a son or daughter, a parent, a member of a sports team or religious community，用五个社会角色说明身份的多元。这句是作者论证“身份远比乍看更复杂”的核心证据，也为后文“工作只是身份的一部分、必要时可以被重新定义”作铺垫。"
+   }
+  }
+ }
+}

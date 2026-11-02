@@ -1,0 +1,438 @@
+{
+  "exam": "2023-06-1",
+  "cloze": {
+    "blanks": {
+      "26": {
+        "answer": "N",
+        "my_answer": "N",
+        "verified": true,
+        "explanation": "空格前有助动词 does not，必须填动词原形，且该动词要能直接带宾语 other intelligent animals。surpass 意为“超过、胜过”，与前半句“狗属于更聪明的食肉动物、群居狩猎动物和家养动物之列”形成转折：狗虽然属于这些聪明的类别，但在任何一个类别里都没有超过其他高智商动物。词义上“智力 surpassing 其他动物”正是本文要比较的量。",
+        "evidence": "The researchers found that dogs are among the more intelligent _carnivores_ (食肉动物), social hunters and domestic animals, but that their intelligence does not {26} other intelligent animals in any of those categories.",
+        "distractors": {
+          "H": "词形错误：outperformed 是过去式，does not 后必须用动词原形；且 outperform 侧重于“（在比赛、业绩中）表现优于”，用来讲“智力超过其他物种”不如 surpass 自然。",
+          "M": "搭配主语不成立：does not prove other intelligent animals 意为“没有证明其他动物”，prove 后接宾语时应是“证明某事”，不能以动物为宾语表达“胜过”。",
+          "B": "词性错误：approximately 是副词，不能作谓语动词，无法填入 does not ___ 的位置。"
+        }
+      },
+      "27": {
+        "answer": "K",
+        "my_answer": "K",
+        "verified": true,
+        "explanation": "本句用现在完成时 has examined，句末需要一个表示时间的副词作状语。“此前已有大量研究考察过狗的认知”正是作者想承认的既有成果，previously 与完成时搭配，指“在之前（就已经）”，与后半句“但作者认为没多少理由支撑如此大的工作量”构成让步转折，逻辑通顺。",
+        "evidence": "Though a significant body of research has examined dog cognition {27} , the authors of this new study found little to warrant the {28} of work that has been devoted to the topic.",
+        "distractors": {
+          "C": "程度副词误用：completely 修饰 examined 会变成“研究了所有方面/彻底研究过”，既与后面“研究不值得如此多投入”的转折相矛盾，也不符合“一点一点积累的研究”这一语境。",
+          "B": "语义不符：approximately 表示数量上的“大约”，而此处需要的是时间副词，没有可“大约”的数量对象。",
+          "L": "词性错误：prospective 是形容词（“未来的、潜在的”），不能作状语修饰 has examined。"
+        }
+      },
+      "28": {
+        "answer": "O",
+        "my_answer": "O",
+        "verified": true,
+        "explanation": "warrant 是及物动词（“使……有正当理由、值得”），后面需要名词宾语；the ___ of work 是“名词 + of + work”结构，只有 volume（数量、总量）能表达“投入在这一课题上的工作量之大”。整句意为：作者们认为几乎没有理由证明这一课题值得投入如此多的研究工作。这与下文批评“研究过多”的主线呼应。",
+        "evidence": "Though a significant body of research has examined dog cognition {27} , the authors of this new study found little to warrant the {28} of work that has been devoted to the topic.",
+        "distractors": {
+          "F": "搭配不成立：domain 指“领域”，“warrant the domain of work”无法表达“工作量/投入量”，且 of work 无法限定 domain。",
+          "J": "语义不通：pledge 意为“承诺、保证”，“the pledge of work”不能指“工作的数量”，与 warrant 的“值得”也无法搭配。",
+          "G": "词性错误：formidable 是形容词（“强大的、令人敬畏的”），此处 the ___ of work 需要名词作中心语。"
+        }
+      },
+      "29": {
+        "answer": "M",
+        "my_answer": "M",
+        "verified": true,
+        "explanation": "to 后面必须接动词原形，构成不定式作目的状语。prove 意为“证明”，prove how clever dogs are 就是“证明狗有多聪明”。全句批评的正是研究动机的偏差：研究者似乎是把研究设计成“证明狗很聪明”，而不是单纯研究狗的大脑，这与下文“狗并不像某些研究者以为的那样强大”形成反差。",
+        "evidence": "Stephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to {29} how clever dogs are, rather than simply to study dogs' brains.",
+        "distractors": {
+          "A": "词形错误：affirmed 是过去式/过去分词，不能直接放在 to 之后（除非构成 to have affirmed），位置不符。",
+          "I": "词形与时态方向都不对：overstated 是过去式，不能接在 to 后；即便改成 overstate，语义也变成“夸大狗有多聪明”，而原句批评的是“以证明为目的”，不是“夸大”。",
+          "N": "搭配不成立：surpass 后面要接被超过的对象（surpass other animals），不能接 how clever dogs are 这样的程度从句来表达“证明”。"
+        }
+      },
+      "30": {
+        "answer": "A",
+        "my_answer": "A",
+        "verified": true,
+        "explanation": "主语 These comparisons 是复数，空格需一个能接 that 宾语从句的谓语动词，且全段叙述用过去时（examined、made），因此要填过去式。affirm 意为“证实、肯定”，affirm that dogs are intelligent 即“这些比较证实了狗是聪明的”，随后 but 引出让步：但它们的智力并不像某些人以为的那样强。",
+        "evidence": "These comparisons {30} that dogs are intelligent, but their intelligence is not as {31} as some researchers might have believed.",
+        "distractors": {
+          "M": "此处若填 prove 应用 proved（过去式）才与上下文时态一致，且 prove 已用于第 29 空，词库中每词只用一次；单从语法看 prove 也不合本句的过去叙述时态。",
+          "D": "搭配不成立：differentiate 作及物动词时接“差异对象”，不能接 that 从句表达“证实某一结论”。",
+          "J": "语义不符：pledge 意为“保证、承诺（给予）”，主语是“比较”时不能说“比较承诺了狗是聪明的”，且 pledge 多用于人作主语。"
+        }
+      },
+      "31": {
+        "answer": "G",
+        "my_answer": "G",
+        "verified": true,
+        "explanation": "as ... as 结构中间必须放形容词或副词原级，且要与主语 their intelligence 搭配，说明“智力的强弱程度”。formidable 意为“强大得令人敬畏的”，not as formidable as some researchers might have believed 即“并不像一些研究者可能以为的那样强大”，正好总结了前文“狗智力并未超过其他动物”的结论。",
+        "evidence": "These comparisons {30} that dogs are intelligent, but their intelligence is not as {31} as some researchers might have believed.",
+        "distractors": {
+          "E": "语义重心不符：distinct 意为“明显的、与众不同的”，not as distinct as 会变成“不那么明显/不那么独特”，而本句要表达的是智力“程度、强度”不如预期，且 distinct 通常不用于 as ... as 结构里表示智力高低。",
+          "F": "词性错误：domain 是名词，不能填入 as ___ as 的形容词位置修饰 intelligence。",
+          "L": "语义不符：prospective 意为“未来的、预期的”，修饰 intelligence 时不能表达“强大程度”，也与“某些研究者曾经以为”的对比不搭。"
+        }
+      },
+      "32": {
+        "answer": "D",
+        "my_answer": "D",
+        "verified": true,
+        "explanation": "be able to recognize and ___ 中，and 连接两个并列的动词原形，故空格须为不带 to 的动词原形；宾语是 human voices。differentiate 意为“区分、辨别”，recognize and differentiate human voices 即“识别并分辨人的声音”，符合下文“比较两个物种谁记得更多种不同人声”的话题。",
+        "evidence": "For example, the researchers noted that both dogs and cats are known to be able to recognize and {32} human voices.",
+        "distractors": {
+          "A": "词形错误：affirmed 是过去式，不能与前面的 recognize 并列构成 be able to ... 的结构；语义上“肯定人的声音”也搭配不成立。",
+          "H": "词形与语义双重不符：outperformed 是过去式，无法与 recognize 并列；且“超过人的声音”在语义上不知所云。",
+          "E": "词性错误：distinct 是形容词，不能与 recognize 并列作谓语动词。"
+        }
+      },
+      "33": {
+        "answer": "E",
+        "my_answer": "E",
+        "verified": true,
+        "explanation": "空格位于 a greater number of ___ human voices 中，直接修饰复数名词 human voices，必须是形容词。distinct 意为“各自不同的、可分辨的”，a greater number of distinct human voices 即“更多种不同的人声”，与前半句“能识别并分辨人声”构成递进，也正是两个物种无法比较的具体维度。",
+        "evidence": "But the investigators could not find any data to indicate which species can remember a greater number of {33} human voices, so it was impossible to compare the two on that front.",
+        "distractors": {
+          "D": "词性错误：differentiate 是动词，不能放在 a greater number of 与名词 voices 之间作定语。",
+          "L": "语义不符：prospective 意为“未来的、有望的”，修饰 human voices 会变成“未来的人声”，而本句讨论的是记忆中能储存多少种不同的人声。",
+          "C": "词性错误：completely 是副词，不能修饰名词 human voices。"
+        }
+      },
+      "34": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "agree 与介词 with 之间只能插入副词，用来表示认同的程度。completely 意为“完全地”，not all researchers agree completely with the findings 即“并非所有研究者都完全认同这些结论”，既保持了部分否定的语法（not all），又为下文西尔弗的反驳做了过渡。",
+        "evidence": "However, not all researchers agree {34} with the findings of this study.",
+        "distractors": {
+          "B": "搭配不成立：approximately 用于对数量、数字的估计，“大约同意”在英语中不成立。",
+          "K": "语义与逻辑不符：previously 是时间副词，“此前同意这些结论”无法与 However 的转折以及下文的反对意见衔接。",
+          "E": "词性错误：distinct 是形容词，不能作状语修饰 agree。"
+        }
+      },
+      "35": {
+        "answer": "I",
+        "my_answer": "I",
+        "verified": true,
+        "explanation": "believes 后是宾语从句，从句缺谓语，需及物动词并接 the idea that ... 作宾语，时态用过去式（作者们已经提出并发表了这一观点）。overstate 意为“夸大、把……说得过头”，overstate the idea that an excessive amount of research has been devoted to dogs 即“夸大了‘已有过多研究投入狗身上’这一说法”，后面 as 从句给出理由：该领域还很年轻、还有许多未知，所以“研究过多”是被讲过头了。",
+        "evidence": "Zachary Silver, an American researcher, believes the authors of the new study {35} the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think.",
+        "distractors": {
+          "A": "褒贬方向相反：affirm 意为“肯定、证实这一观点”，而西尔弗是持异议者，as 从句的理由说明他认为作者把话说过了头，全句应是否定评价。",
+          "M": "词形与时态不符：此处需要过去式（proved），且 prove 已用于第 29 空；语义上“证明这一观点”也与 as 从句的反对理由相冲突。",
+          "H": "搭配不成立：outperform 的宾语应是可比较的人或事物（outperform rivals），“outperform the idea”不成立。"
+        }
+      }
+    },
+    "passage_zh": "科学家最近考察了有关狗智力的研究，并将其与其他高智商动物心智的研究做了比较。研究人员发现，在更聪明的食肉动物、群居狩猎动物和家养动物之列，狗都占有一席之地；但在这些类别中的任何一个里，狗的智力都没有超过其他高智商动物。尽管此前已有大量研究考察过狗的认知，但这项新研究的作者认为，几乎没有理由证明该课题已经投入了如此多的工作量。\n\n这项新研究的第一作者斯蒂芬·利认为，许多研究者似乎是把研究设计成了“证明狗有多聪明”，而不是单纯研究狗的大脑。利和一位同事考察了300多项关于狗认知的研究，把这些研究的结果与其他动物研究的结果做了比较。研究者就不同智力类别中的不同物种做了具体比较。这些比较证实狗确实聪明，但它们的智力并不像一些研究者可能以为的那样强大。\n\n不过，在许多领域无法进行比较。例如，研究者指出，众所周知，狗和猫都能识别并分辨人的声音。但研究者找不到任何数据可以表明哪个物种能记住更多种不同的人声，因此在这一方面无法对二者进行比较。然而，并非所有研究者都完全认同这项研究的结论。美国研究者扎卡里·西尔弗认为，新研究的作者夸大了“已有过多研究投入狗身上”这一说法，因为狗的认知这一领域还很年轻，关于狗如何思考还有许多有待了解之处。"
+  },
+  "matching": {
+    "statements": {
+      "36": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "题干说“关注我们能够感恩的事物，比关注让我们悲伤怨恨的事物对我们有益得多”。C 段末句用 far more helpful ... than 结构表达了完全相同的比较关系：focus on the things ... for which we can express gratitude（对应 things we can be grateful for）与 those that incline us toward resentment and lamentation（对应 what makes us sad and resentful）对比，far more good 即 far more helpful。D 段虽也讲“关注后悔之事/关注感恩之事”，但只讲“更容易变得悔恨/幸福蔓延”，没有 C 段这种明确的“前者远优于后者”的比较判断。",
+        "evidence": "Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation."
+      },
+      "37": {
+        "answer": "G",
+        "my_answer": "G",
+        "verified": true,
+        "explanation": "题干说感恩的有益影响可以从个人扩展到社群乃至更广的社会。G 段先讲感恩在人际关系中促成良性循环、让一个社群“更宜居”，接着用 The beneficial effects of gratitude may extend even further 明确表示“影响还会延伸得更远”，并具体说到人们被提升、更看重人性、努力成为更好的人、把更多善意带进周围世界——正是从个人到社群再到社会的层层扩展。",
+        "evidence": "The beneficial effects of gratitude may extend even further. For example, when many people feel good about what someone else has done for them, they experience a sense of being lifted up, with a corresponding enhancement of their regard for humanity."
+      },
+      "38": {
+        "answer": "A",
+        "my_answer": "A",
+        "verified": true,
+        "explanation": "题干说某项近期研究的参与者一再低估了感谢信对收信人的正面影响。A 段第一项研究让参与者写感谢便条，然后 estimate how surprised and happy the recipient would feel，破折号后 an impact that they consistently underestimated 直接对应“repeatedly underestimated the positive effect on those who received thank-you notes”：participants 即研究参与者，recipient 即收到感谢信的人，consistently 即 repeatedly。",
+        "evidence": "One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel — an impact that they consistently underestimated."
+      },
+      "39": {
+        "answer": "I",
+        "my_answer": "I",
+        "verified": true,
+        "explanation": "题干说善举有时会让人感到不舒服。I 段首句 acts of kindness can also foster discomfort 与题干几乎逐词对应：acts of kindness = good deeds，foster = make ... feel，discomfort = uncomfortable，sometimes 对应 also（“也会”在某种情形下发生）。该段随后用“觉得自己不配”“怀疑别有用心”“负债感”等解释这种不适从何而来。",
+        "evidence": "Of course, acts of kindness can also foster discomfort."
+      },
+      "40": {
+        "answer": "F",
+        "my_answer": "F",
+        "verified": true,
+        "explanation": "题干说经常表达感恩的人能在道德方面受益。F 段先说这些益处 not only psychological and physical，紧接着 They may also be moral，并用 view their lives less materialistically and suffer from less envy 具体说明道德层面的收益；individuals who regularly engage in gratitude exercises 正对应 regularly express gratitude。",
+        "evidence": "And the benefits are not only psychological and physical. They may also be moral — those who practice gratitude also view their lives less materialistically and suffer from less envy."
+      },
+      "41": {
+        "answer": "K",
+        "my_answer": "K",
+        "verified": true,
+        "explanation": "题干说一位篮球教练提倡不带回报期待地行善。K 段提到 the great basketball coach John Wooden，他引用的第一条忠告是“为永远无法回报你的人做点事”，段中随即解释 Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward，恰好是“advocated performing generous acts without expecting anything in return”的同义改写（coach = 篮球教练，purely generous acts = 不带回报期待的行善）。",
+        "evidence": "In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward."
+      },
+      "42": {
+        "answer": "D",
+        "my_answer": "D",
+        "verified": true,
+        "explanation": "题干说越来越多的证据表明，经常数算自己的福分能让我们在身心两方面更健康。D 段末句 there is mounting evidence（证据不断增加，对应 more and more evidence）that counting our blessings（对应 routinely count our blessings）is one of the best habits we can develop to promote mental and physical health（对应 makes us mentally and physically healthier）。三段要素逐一对应，无歧义。",
+        "evidence": "And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health."
+      },
+      "43": {
+        "answer": "M",
+        "my_answer": "M",
+        "verified": true,
+        "explanation": "题干说在所有心态之中，心怀感恩被认为是最健康、最有益的之一。M 段末句 Gratitude is one of the healthiest and most nourishing of all states of mind 在句式和用词上与题干高度重合：of all states of mind = Of all states of mind，one of the healthiest and most nourishing = one of the most healthy and beneficial（nourishing 与 beneficial 同义改写）。",
+        "evidence": "Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them."
+      },
+      "44": {
+        "answer": "B",
+        "my_answer": "B",
+        "verified": true,
+        "explanation": "题干说支撑感恩研究的那些原则一点也不新。B 段首句用让步结构表达同一意思：this research into gratitude is relatively new（研究新）与 the principles involved are anything but（所涉原则绝非如此，即“一点也不新”）构成对比；nothing new at all 正是 are anything but (new) 的肯定式改写。C 段虽也讲“古今相通”，但落点在笛福小说的现实意义，不是“原则不新”。",
+        "evidence": "While this research into gratitude is relatively new, the principles involved are anything but."
+      },
+      "45": {
+        "answer": "H",
+        "my_answer": "H",
+        "verified": true,
+        "explanation": "题干说感恩可能会增强一个人与他人的联结感。H 段首句 Gratitude also tends to strengthen a sense of connection with others 与题干逐词对应：is likely to = tends to，enhance = strengthen，one's sense of being connected with other people = a sense of connection with others。该段其余句子正是在展开这种联结感带来的关系变化。",
+        "evidence": "Gratitude also tends to strengthen a sense of connection with others."
+      }
+    },
+    "article_zh": "A) 感恩可能比我们通常以为的更有益。最近一项研究请参与者写一张感谢便条给某人，然后估计收信人会感到多惊讶、多高兴——而他们一贯低估了这一影响。另一项研究评估了写感谢信对健康的益处。研究者发现，在为期三周的时间里每周只写三封感谢信，就能提升生活满意度、增加快乐情绪并减轻抑郁症状。\n\nB) 虽然关于感恩的这项研究相对较新，但其中涉及的道理一点也不新。我在印第安纳大学一门政治哲学课上教的学生正在读丹尼尔·笛福三百年前的《鲁滨逊漂流记》，这本书通常被视为第一部用英语出版的小说。鲁滨逊独自困在一座陌生的岛上，看不到获救或逃脱的希望，他有许多可悲叹之处。但他没有陷入绝望，反而列了一张自己感恩的清单，其中包括他是海难中唯一的幸存者，并且从残骸中打捞到了许多有用的物品。\n\nC) 笛福的这部杰作常被评为世界上最伟大的小说之一，它描绘了一幅“感恩在行动”的图景，这幅图景在今天一如既往地切合时宜。当代心理学与医学也才刚刚开始跟上这一认识。简而言之，对我们大多数人来说，关注生活中那些我们可以表达感恩的事物，远比关注那些让我们倾向怨恨与悲叹的事物更有帮助。\n\nD) 当我们关注自己后悔的事——如失败的感情、家庭纠纷、事业与财务上的挫折——我们往往会变得更悔恨。相反，当我们关注自己感激的事，一种更强的幸福感往往会蔓延到我们的生活中。虽然没有人会主张培养一种虚假的“有福感”，但越来越多的证据表明，数算自己的福分是我们能养成的促进身心健康的最好习惯之一。\n\nE) 感恩在许多世界文化传统中长期享有特殊地位。例如，一些古代西方哲学家倡导既持久又完整的感恩，而一些东方思想家则把它描述为不仅是一种态度，更是一种要付诸实践的德行。\n\nF) 近来的科学研究支持这些古老的教诲。经常进行感恩练习（例如数算自己的福分或向他人表达感激）的人，对人际关系的满意度更高，身体疾病的症状更少。而且这些益处不只是心理和生理上的，也可能是道德层面的——践行感恩的人对生活的看法不那么物质主义，也更少嫉妒。\n\nG) 感恩之所以有这些益处，有多种解释。其中之一是：表达感激会鼓励他人继续慷慨，从而在人际关系中促成善的良性循环。同样，心怀感恩的人自己也更可能以善行回报他人。宽泛地说，一个人们彼此心怀感激的社群，很可能比一个以相互猜疑和怨恨为特征的社群更宜居。感恩的有益影响还可能延伸得更远。例如，当许多人对别人为自己所做的事感到欣慰时，他们会体验到一种被提升的感觉，对他人的评价也随之提高。有些人因此受到激励，努力让自己成为更好的人，为激发他人的善而付出更多，把更多善意带进周围的世界。\n\nH) 感恩还往往会加强与他人的联结感。当人们想做能激发感恩的善事时，关系中的投入程度往往会提高，关系似乎也能维持得更久。而当人们感到彼此联结更紧密时，他们更可能选择彼此相伴，并在日常行动中表达关爱之情。\n\nI) 当然，善行也可能带来不适。例如，如果人们觉得自己不配得到善意，或怀疑善意背后别有用心，感恩的益处就无法实现。同样，接受善意也会引发一种负债感，使受助者觉得自己现在必须偿还所得到的一切好处。只有当人们对自己足够有安全感、足够信任他人时，感恩才能蓬勃生长。感恩的另一个障碍常被称为“应得感”。人们有时不把别人的善行看作善意的帮助，而只看作偿还自己所应得的东西，认为没有人因此值得道德上的赞扬。\n\nJ) 任何人都可以采取一些实际步骤来培养感恩之心。其中之一就是定期花时间想想某个对自己产生过重要影响的人，或者写一封感谢信、当面表达这份感激。另一些方法见于古老的宗教修行，例如回想自己从他人那里得到的善惠，或真的为恩人的健康与幸福祈祷。除了接受过的善惠，也可以关注自己行善的机会，无论这些机会是过去已经用过的，还是希望将来能有的。有些人最感激的不是别人为自己做了什么，而是自己曾有机会帮助别人。笛福笔下的鲁滨逊在定期回想自己生活中值得感恩之事时，相信他因此成为一个远比留在当初启航的那个社会里要好得多的人。\n\nK) 在思考慷慨与感恩时，伟大的篮球教练约翰·伍登曾给球员和学生两条忠告。第一，他说：“除非你为某个永远无法回报你的人做了点什么，否则你不可能拥有完美的一天。”伍登说这话，是想倡导纯粹的慷慨行为，而不是那些抱着回报期待去做的事。第二，他说：“每天为你所拥有的福分感恩。”\n\nL) 一些信仰传统把这类做法融入了日常生活的节律。例如，某些宗教的信奉者每天清晨起床前和每晚躺下前都会做感恩祈祷。另一些人则在一天中随时致谢，比如饭前。其他不那么常见的特殊事件，如出生、死亡和婚姻，也可能以这类祈祷来宣告。\n\nM) 当笛福描写鲁滨逊把感恩变成岛上生活每日的一部分时，他其实预见了数百年后才出现的社会科学与医学的发现。同时，他也在反映可上溯数千年的宗教与哲学传统的智慧。感恩是一切心态中最健康、最能滋养人的之一，把它当作习惯的人不仅丰富了自己的生活，也丰富了周围人的生活。"
+  },
+  "careful": {
+    "2023-06-1-careful-1": {
+      "passage_zh": "技术从来不是实现人类目的的纯粹中立的工具。技术创新在人们借以控制环境的同时，也在重塑人本身。例如，人工智能正在改变人类。\n\n虽然“人工智能”这个说法会让人联想到杀人机器人或灾难性的失业潮，但它还有另外一些更深层的影响。随着人工智能日益塑造人类的体验，它如何改变了“做人意味着什么”？这一问题的核心是一个人的选择能力，尤其是那些带有道德意涵的判断。\n\n亚里士多德认为，做出实际判断的能力取决于是否经常做判断——取决于习惯与实践。我们把机器作为替代性的“裁判者”出现在各种日常场景中，看作是对人们学习如何有效运用自身判断力的一种潜在威胁。\n\n在职场中，管理者日常要就雇用或解雇谁、批准哪一笔贷款等做决定，这些只是其中几例。正是在这些领域，算法的规定正在取代人的判断，于是那些原本有机会在这些领域培养实际判断力的人，再也不会有了。\n\n推荐引擎在人们消费文化的过程中正日益成为普遍的中介，它们可能会限制选择、减少偶然性。通过向消费者呈现由算法挑选出来的“接下来看什么、读什么、追什么、去哪里”的选项，企业正在用机器的品味取代人的品味。从某种意义上说，这很有帮助。毕竟，机器能够浏览的选择范围，比任何个人有时间或精力自己去做的都要广。\n\n但与此同时，这种筛选是在依据人们过去的偏好来优化“人们可能喜欢什么”。我们认为这里存在某种风险：人们的选项会以一种新的、未曾预料的方式被他们的过去所限制。\n\n随着机器学习算法不断改进，并在更庞大的数据集上接受训练，日常生活的更大部分很可能会变得完全可以预测。预测会越来越准，并最终使常见的体验更高效、更愉快。\n\n算法可能很快就会——如果它们还没有的话——比你更清楚你接下来想看哪档节目、该雇用哪一位求职者。总有一天，人类甚至可能找到办法，让机器在没有人类通常表现出的某些偏见的情况下做出这些决定。\n\n但是，只要不可预测性是人们理解自己的一部分、也是人们喜欢自己的一部分，人性就在失去某种重要的东西。随着他们变得越来越可预测，栖居在这个日益被人工智能中介的世界里的造物，也会越来越不像我们。",
+      "questions": {
+        "46": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 2,
+          "evidence_quote": "As AI increasingly shapes the human experience, how does this change what it means to be human?",
+          "explanation": "题干问“关于人工智能的更深层影响，我们了解到什么”。第2段用 While 作让步：世人担心的是 killer robots、catastrophic unemployment 这类“表面”担忧，作者说 there are other, deeper implications，紧接着一句 As AI increasingly shapes the human experience, how does this change what it means to be human? 即“人工智能正在塑造人类体验、改变‘做人’的含义”，也就是它在重塑人本身（reshaping humanity），与全文开篇“技术创新在人们使用它的过程中重塑人”的判断一致。",
+          "distractors": {
+            "A": "张冠李戴：catastrophic levels of unemployment 是第2段被 While 让步掉的“世人普遍的担忧”，作者明确把它与 deeper implications 区分开，不是更深层影响本身。",
+            "B": "无中生有：原文只说“杀人机器人”是人们想象中的担忧对象，从未提到 AI 对“人类操作者造成身体伤害”。",
+            "C": "范围过窄并偷换概念：第2段确实提到 judgments that have moral implications，但那是被作者限定为“问题的核心”（选择能力）的局部内容；把 deeper implications 概括成“改变道德判断”，既缩小了范围，也把“人做出道德判断的能力”换成了“道德判断被改变”。"
+          }
+        },
+        "47": {
+          "answer": "B",
+          "my_answer": "A",
+          "verified": false,
+          "conflict_reason": "文件给的答案是 B，但我独立判断为 A。依据是第4段：“These are areas where _algorithmic_ (算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.” 原文交代的后果只有一项——原本有机会培养实际判断力的人“再也不会有了”（lose the chance to cultivate the ability to make practical judgments），这正是 A 项。而 B 项所说的“人们被阻止参与职场重大决策”在原文中没有对应：原文列举的是雇用、解雇、批准贷款这类管理者日常具体决定（to name a few 表明只是举例），作者既没有说这些属于“重大决策”，也没有说谁被“阻止参与决策”，第3段的落点明确是“机器替代裁判者会威胁人们学习如何运用判断力”这一能力培养问题，所以 B 把“失去培养判断力的机会”换成了“被剥夺参与决策的权利”，属于主体与性质的双重偏移。",
+          "evidence_paragraph": 4,
+          "evidence_quote": "These are areas where _algorithmic_ (算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.",
+          "explanation": "题干问算法规定取代人的判断会带来什么后果。第4段的 so 直接引出后果：people who might have had the chance to develop practical judgment in these areas no longer will，即“本有机会在这些领域培养实际判断力的人，再也不会有了”，与 A 项“失去培养实际判断能力的机会”完全对应：might have had the chance 对应 lose the chance，develop practical judgment 对应 cultivate the ability to make practical judgments。这也承接第3段亚里士多德“判断力靠反复实践养成”的观点——机会被机器剥夺，能力就无从形成。",
+          "distractors": {
+            "B": "（文件答案为 B，但原文并不支持）主体与性质双重偏移：原文的后果是“失去培养判断力的机会”，B 项却改成“被阻止参与职场重大决策”；原文那些决定是雇用、解雇、批准贷款等日常具体事务（还有 to name a few 表明只是举例），称不上“major decisions”，而且原文没有出现“被禁止参与”的表述。",
+            "C": "主体偷换：原文里的 managers 正是做“批准哪笔贷款”这类决定的人，被剥夺成长机会的是那些本可成长为管理者的其他人，而不是管理者本人失去了决定权。",
+            "D": "语义相反：原文讲的是判断力培养机会的丧失（损失），D 项却把它说成管理者“不必费心”，把能力危机解读成减负的好处。"
+          }
+        },
+        "48": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 5,
+          "evidence_quote": "Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck.",
+          "explanation": "题干问在文化消费中推荐引擎的日益应用可能导致什么。第5段首句给出两个后果：constrain choice（限制选择）和 minimize luck（减少偶然），第6段又补充 people's options will be constrained by their past，两处都指向“选择被压缩”，因此 A 项“消费者的选择将大大受限”正确。",
+          "distractors": {
+            "B": "语义相反：原文是 minimize luck（把偶然性降到最低），B 项却说消费者会“实际上走好运”，正负方向完全颠倒。",
+            "C": "曲解原文：In one sense, this is helpful 指的是机器能浏览比个人更多的选项、省时省力，并未说“更容易决定该享受什么”；原文真正的落点是选择被算法预先筛定。",
+            "D": "主体错位：replacing human taste with machine taste 说的是企业用算法挑选的选项替代了人的品味判断，被替代的是“呈现给人的内容”；D 项却偷换成“人自己发展出与机器相似的品味”。"
+          }
+        },
+        "49": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 7,
+          "evidence_quote": "As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable.",
+          "explanation": "题干几乎逐词对应第7段首句：As machine learning algorithms improve ... larger parts of everyday life。句子谓语是 are likely to become utterly predictable，utterly predictable 即“完全可以预测”，与 C 项 can be completely anticipated 同义，因此 C 正确。",
+          "distractors": {
+            "A": "张冠李戴：本段后一句说预测会 make common experiences more efficient and pleasant，主语是“常见的体验”，而题干问的是“日常生活的更大部分”会发生什么，对应的是前半句“变得完全可以预测”。",
+            "B": "曲解机制：第6段说算法依据 people's past preferences 来筛选，是“用过去限定未来选项”，并非“重复过去的经历”，且第7段的落点是可预测性。",
+            "D": "比较对象被偷换：原文说 The predictions are going to get better and better，越来越好的是“预测”，D 项把它换成“日常生活变得更好”，与原文用词错位。"
+          }
+        },
+        "50": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 9,
+          "evidence_quote": "But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant.",
+          "explanation": "题干问作者为什么说生活在日益被人工智能中介的世界里的造物会越来越不像我们。第9段给出因果：只要不可预测性是人理解自己、喜欢自己的一部分，人性就在失去重要的东西；接着 As they become more and more predictable, the creatures ... will become less and less like us。可见“不像我们”的根源在于失去“不可预测”这一人的特征，B 项正确。",
+          "distractors": {
+            "A": "概念偷换：原文说失去的是 something significant，其具体所指是前面的 unpredictability；A 项换成“智能中最重要的人的要素”，把“不可预测性”换成了“智能”，原文并未讨论智能的丧失。",
+            "C": "曲解因果：原文说不可预测性正是人理解自己的一部分，意思是这种自我理解依赖于不可预测；C 项却说人“无法像今天这样理解自己”，把“依靠不可预测性理解自己”改成了“丧失理解能力”。",
+            "D": "无中生有：原文完全没有提到“前辈为自己身上的什么而自豪”，D 项凭空加入“先辈的骄傲”这一层，属于原文未有的信息。"
+          }
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "conjure up",
+          "meaning": "使想起，唤起（脑海中的形象或联想）",
+          "note": "conjure up anxieties about ... 唤起对……的担忧；常用于抽象联想"
+        },
+        {
+          "word": "catastrophic",
+          "meaning": "灾难性的，毁灭性的",
+          "note": "catastrophic levels of unemployment 灾难性的失业率"
+        },
+        {
+          "word": "prescription",
+          "meaning": "规定，指令；（医生开的）处方",
+          "note": "algorithmic prescription 算法的规定；此处是比喻义，指算法替你定好该怎么办"
+        },
+        {
+          "word": "constrain",
+          "meaning": "限制，约束",
+          "note": "constrain choice 限制选择；第48题直接考此词"
+        },
+        {
+          "word": "unanticipated",
+          "meaning": "未预料到的",
+          "note": "in a new and unanticipated way 以一种新的、未曾预料的方式"
+        },
+        {
+          "word": "utterly",
+          "meaning": "完全地，彻底地",
+          "note": "utterly predictable 完全可以预测；与 completely 同义，第49题考点"
+        },
+        {
+          "word": "mediate",
+          "meaning": "调节，居间促成；使经由中介",
+          "note": "AI-mediated world 由人工智能中介的世界；increasingly AI-mediated 日益被 AI 介入的"
+        },
+        {
+          "word": "prevalent",
+          "meaning": "普遍的，流行的",
+          "note": "increasingly prevalent intermediaries 日益普遍的中介"
+        }
+      ],
+      "long_sentence": {
+        "sentence": "But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant.",
+        "analysis": "主干：humanity is in the process of losing something significant（人性正在失去某种重要的东西）。句首 But 承接上文转折；to the extent that 引导条件/程度状语从句，意为“只要……、在……的程度上”，是主句成立的前提。该从句内部：主语 unpredictability，系动词 is，表语由并列的两部分构成——part of how people understand themselves 和 part of what people like about themselves，由 and 连接；其中 how people understand themselves 是介词 of 的宾语从句，what people like about themselves 也是 of 的宾语从句（what 在从句中作 like 的宾语）。整句意思是：正因为不可预测性是人自我理解与自我欣赏的组成部分，人才会因变得可预测而失去某种重要的东西。"
+      }
+    },
+    "2023-06-1-careful-2": {
+      "passage_zh": "自然拼读法是把单词一个音节一个音节地拼读出来的方法，它是教孩子阅读的最佳方式。但在许多课堂上，它却可能是个“脏词”（忌讳之词）。以至于一些老师不得不把自然拼读的教学材料偷偷带进教室。大多数美国孩子学阅读所用的方法，已被一项又一项研究认定是错的。\n\n由此造成的后果令人震惊。2017年，不到一半的美国成年人属于熟练的阅读者。美国四年级学生在“国际阅读素养进展研究”这一国际考试中排名第15。\n\n美国陷在一场关于如何教孩子阅读的争论之中，这场争论已经持续了几十年。一些人主张教授符号与读音之间的关系（k 这个音可以拼作 c、k、ck 或 ch），即所谓的自然拼读法。另一些人支持一种“沉浸式”方法（用猫的图片来学 cat 这个词），即所谓的“整体语言法”。如今的大多数教师——根据 EdWeek 研究中心2019年的一项调查，几乎四分之三——使用的是一种被称作“均衡识字法”的混合方法。这种把多种方法混在一起的做法并不有效。“你不能只撒一点自然拼读进去，”密西西比州教育厅小学教育与阅读执行主任特内特·史密斯说，“它必须系统地教，并且要明确地教。”\n\n在社会政策上常常落后的密西西比州，在这方面却树立了一个榜样。在这个曾因阅读分数低而声名不佳的州，州议会于2013年通过了新的识字标准。自那以后，密西西比州取得了显著进步。其四年级学生在“全国教育进展评估”这一全国性考试中，从（50个州中的）第49位升到第29位。2019年，它是唯一一个分数有所提高的州。自该项测评开始以来，密西西比州的学生第一次达到平均阅读水平——在这样一个贫困的州，这是了不起的成就。\n\n密西西比州的成功，归因于实施了受到一整套研究支持的教学方法，这套研究被称为“阅读科学”。1997年，国会要求国家儿童健康与人类发展研究所和教育部召集一个“国家阅读专家组”，以结束“阅读战争”并整合证据。专家组发现，自然拼读法，加上对音位意识、流利度和理解力的明确教学，效果最好。\n\n然而二十多年过去，“均衡识字法”仍在课堂上被教授。但统计学和脑成像方面的进展已经否证了整体语言法。对一位本身就是熟练阅读者的教师来说，识字看起来像是一个自然的过程，只需要“受教育程度支撑的猜测”，而不是自然拼读法所强调的那种刻意过程。教师们会以为自己是小时候通过潜移默化学会阅读的。若没有恰当的培训，他们就把这种想法带进了课堂。",
+      "questions": {
+        "51": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 1,
+          "evidence_quote": "But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom.",
+          "explanation": "题干问在许多美国课堂上自然拼读法的处境。第1段用 a dirty word（忌讳的说法、名声不好的东西）形容它在课堂上的地位，并以“老师不得不把自然拼读材料偷偷带进教室”作为证据，说明它名声不好、需避人耳目。A 项 ill reputed（名声不佳）正是 a dirty word 的概括性同义改写。",
+          "distractors": {
+            "B": "概念错位：原文说“大多数美国孩子学阅读的方法”被研究证明是错的，那是整体语言法/均衡识字法的问题；题干问的是自然拼读法在课堂上的处境，即被当作忌讳之词，而不是“它本身被误用”。",
+            "C": "程度与性质不当：材料被偷带进教室说明它被排斥，但 arbitrarily（任意地、武断地）原文无据；被排斥的原因是名声不好（dirty word），不是被随意武断地排除。",
+            "D": "无中生有：原文没有提到有人“歪曲描述”自然拼读法，只提到它被视为忌讳、老师需偷偷带入材料。"
+          }
+        },
+        "52": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 3,
+          "evidence_quote": "America is stuck in a debate about teaching children to read that has been going on for decades.",
+          "explanation": "题干问几十年来美国一直在目睹什么。第3段首句 America is stuck in a debate about teaching children to read that has been going on for decades 与之直接对应：has been going on for decades 即 for decades，debate about teaching children to read 即 an enduring debate over the approach to teaching children to read（B 项）。紧接着本段列举自然拼读法与整体语言法两大阵营，进一步印证“争论”。",
+          "distractors": {
+            "A": "无中生有并夸大：原文讲的是两派在“用什么方法教”上僵持不下，并没有说美国“痴迷于创新教学方法”，innovating 是对争论的误读。",
+            "C": "话题偏移：原文确实提到阅读水平低（第2段），但那是结果背景；第3段讲的核心是“如何教”的方法之争，而不是“对孩子识字能力不足的关注日益增加”。",
+            "D": "主体与程度不符：均衡识字法是被“大多数教师使用”的现状（almost three out of four），不是“日益强劲的倡导”；且原文明确指出这种混合法 ineffective，作者并不为它辩护。"
+          }
+        },
+        "53": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 3,
+          "evidence_quote": "“It has to be systematic and explicitly taught.",
+          "explanation": "题干问史密斯为什么认为把几种方法混起来无效。第3段先断言 This combination of methods is ineffective，随即引用史密斯的话解释：You can't sprinkle in a little phonics（不能只撒一点自然拼读进去），It has to be systematic and explicitly taught（必须系统地教、明确地教）。B 项“phonics 必须系统落实并清楚教授才能达到预期效果”正是这句话的同义改写。",
+          "distractors": {
+            "A": "无中生有：原文没有提到小学生因多种方法并用而产生挫败感，史密斯的理由是“自然拼读不能被零散地掺进来”。",
+            "C": "偷换并夸大：原文说不能 sprinkle in a little phonics（不能零散地撒一点），指的是教学方式必须系统；C 项却把它改成“撒一点自然拼读会阻碍即便动机充足的孩子的进步”，加入了原文没有的“动机充分的孩子”和“阻碍进步”的判断。",
+            "D": "无中生有：原文完全没有涉及“均衡识字法无法维持孩子对培养阅读习惯的兴趣”，失衡点在方法的系统性而非兴趣。"
+          }
+        },
+        "54": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 5,
+          "evidence_quote": "Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading.",
+          "explanation": "题干问作者说密西西比州的成功归因于什么。第5段首句用 attributed to 直接给出答案：implementing reading methods supported by a body of research known as the science of reading，即“实施了有整套研究（阅读科学）支持的教学方法”。C 项 adopting scientifically grounded approaches to teaching reading 正是这一表述的抽象概括。",
+          "distractors": {
+            "A": "张冠李戴：召集 National Reading Panel 是1997年国会的要求，属于“阅读科学”证据形成的背景，不是密西西比州成功被归因的对象；该州2013年才通过识字标准。",
+            "B": "以偏概全：fluency 和 comprehension 只是专家组结论中与自然拼读并列的几个要素，被说成“成功的原因”缩小了原文范围，也丢掉了“科学依据”这一核心。",
+            "D": "因果错置：国会的支持针对的是召集专家组、整合研究证据，并非为密西西比州“升级教学方法”提供支持；密西西比的成功在于实施科学支持的方法。"
+          }
+        },
+        "55": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 6,
+          "evidence_quote": "But advances in statistics and brain imaging have disproved the whole-language method.",
+          "explanation": "题干问统计学和脑成像的进展证明了什么方法无效。第6段的 have disproved the whole-language method 直接给出宾语：whole-language method 被否证。而第3段已经交代 others support an immersive approach ... known as “whole language”，可见 D 项 the immersive approach 就是 whole-language method 的同一所指，故选 D。",
+          "distractors": {
+            "A": "张冠李戴：symbol-sound relationships 就是自然拼读法，恰恰是第5段专家组认定“效果最好”的方法，与“被否证”相反。",
+            "B": "语义相反：对音位意识（phonemic awareness）的明确教学在第5段被视为有效方案的一部分，不是被统计学和脑成像否证的对象。",
+            "C": "偷换对象：“结束阅读战争”是1997年召集国家阅读专家组的目的，是政策目标，不是“被研究否证的教学方法”。"
+          }
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "syllable",
+          "meaning": "音节",
+          "note": "syllable by syllable 一个音节一个音节地；sounding out words 把词拼读出来"
+        },
+        {
+          "word": "sneak",
+          "meaning": "偷偷地拿/带，悄悄做",
+          "note": "sneak sth into ... 把某物偷偷带进……；说明自然拼读法名声不佳"
+        },
+        {
+          "word": "proficient",
+          "meaning": "熟练的，精通的",
+          "note": "proficient readers 熟练的阅读者；proficiency 熟练程度"
+        },
+        {
+          "word": "notorious",
+          "meaning": "声名不佳的，臭名昭著的",
+          "note": "notorious for its low reading scores 因阅读分数低而声名不佳"
+        },
+        {
+          "word": "legislature",
+          "meaning": "立法机关，（美国州）议会",
+          "note": "the Mississippi state legislature 密西西比州议会"
+        },
+        {
+          "word": "synthesize",
+          "meaning": "综合，整合",
+          "note": "synthesize the evidence 整合证据；synthesis 综合"
+        },
+        {
+          "word": "explicit",
+          "meaning": "明确的，直截了当的",
+          "note": "explicitly taught 明确地教；explicit instruction 明确教学"
+        },
+        {
+          "word": "osmosis",
+          "meaning": "潜移默化，渗透（比喻不经刻意学习而吸收）",
+          "note": "learn to read through osmosis 通过潜移默化学会阅读；作者批评这种想当然的看法"
+        }
+      ],
+      "long_sentence": {
+        "sentence": "To the teacher who is a proficient reader, literacy seems like a natural process that requires educated guessing, rather than the deliberate process emphasized by phonics.",
+        "analysis": "主干：literacy seems like a natural process（识字看起来像是一个自然的过程）。句首 To the teacher ... 是介词短语作状语，表示“对……来说”，其中 who is a proficient reader 是定语从句修饰 the teacher。a natural process 后面接 that requires educated guessing 定语从句修饰 process。rather than 连接两个并列成分，与前面的 a natural process 对照的是 the deliberate process，emphasized by phonics 是过去分词短语后置修饰 the deliberate process。整句解释教师误解的成因：熟练阅读者凭经验觉得阅读是自然习得的，因而低估了自然拼读法所要求的刻意训练。"
+      }
+    }
+  }
+}

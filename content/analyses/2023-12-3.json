@@ -1,0 +1,439 @@
+{
+  "exam": "2023-12-3",
+  "cloze": {
+    "blanks": {
+      "26": {
+        "answer": "G",
+        "my_answer": "G",
+        "verified": true,
+        "explanation": "空格前是 but also，需要一个能带宾语 health costs 的第三人称复数动词（主语 these improvements）。impose 与 costs 构成固定搭配 impose costs (on sb)“把成本强加于某人”，此处指这些“进步”在带来便利的同时，也把健康代价强加给城市居民，与前半句 great benefits 形成对照。",
+        "evidence": "Now it is clear that these improvements provide great benefits but also {26} health costs.",
+        "distractors": {
+          "E": "语义方向相反：foster 意为“促进、培养”，是褒义动词，foster health costs 会变成“促进健康代价（增长）”，既不能与 costs 搭配，也与 but also 引出的负面转折矛盾。",
+          "C": "搭配不成立：deter 的常见结构是 deter sb from doing sth“阻止某人做某事”，宾语必须是人或行为，不能以 costs 作宾语表示“造成代价”。",
+          "N": "词性/用法错误：vibrate 是不及物动词，意为“振动”，既没有及物用法，也无法与 costs 搭配，语义与“健康代价”毫无关系。"
+        }
+      },
+      "27": {
+        "answer": "M",
+        "my_answer": "M",
+        "verified": true,
+        "explanation": "本句需要一个作从句主语的不可数名词，与 urban 组成固定搭配 urban sprawl“城市无序扩张/摊大饼式蔓延”，后文 encourages more driving and is associated with heavier weight 正是 sprawl 的典型后果（低密度、依赖汽车）。",
+        "evidence": "Recent studies show that urban {27} encourages more driving and is associated with heavier weight.",
+        "distractors": {
+          "A": "语义错位：correlation 是可数的抽象名词，意为“相关性”，指两项数据之间的关系，而这里需要一个能“促使更多开车”的城市形态，correlation 本身不会鼓励开车。",
+          "O": "搭配与语义不成立：vicinity 意为“附近、邻近地区”，惯用形式是 in the vicinity of，不能作主语表示“城市扩张”这一规划现象。",
+          "I": "语义相反：longevity 意为“长寿”，指寿命长，与 encourages more driving and is associated with heavier weight（鼓励开车、体重更重）的逻辑方向完全不符。"
+        }
+      },
+      "28": {
+        "answer": "A",
+        "my_answer": "A",
+        "verified": true,
+        "explanation": "空格前是 This，指代上一句“城市扩张与体重更重相关”这一研究结果；空格需要一个名词作 suggests 的主语。correlation 意为“相关性”，This correlation suggests... 即“这一相关性说明城市的布局与设计会阻碍或促进更健康的生活方式选择”，指代明确、逻辑连贯。",
+        "evidence": "This {28} suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is {29} that urban planners bear this in mind.",
+        "distractors": {
+          "O": "指代落空：vicinity 意为“附近、邻近”，This vicinity 无法回指上一句关于“扩张与体重相关”的研究发现，且 vicinity 不能作“研究结论”的替代词。",
+          "D": "概念偷换：equity 意为“公平”，本句要承接的是“扩张—开车—体重”的统计关系，谈公平与 hinder or promote healthier lifestyle choices 的推论之间缺少逻辑桥梁。",
+          "F": "词性/语义错位：imperative 作名词指“必须做的事、紧要之事”，This imperative 指“这一紧迫任务”，但上一句陈述的是研究数据关系，不是一项任务，指代对象不成立（且 imperative 正是 29 空的答案）。"
+        }
+      },
+      "29": {
+        "answer": "F",
+        "my_answer": "F",
+        "verified": true,
+        "explanation": "it is ___ that urban planners bear this in mind 是 it is + 形容词 + that 从句的句型，从句谓语用动词原形 bear（而非 bears），说明前面必须是能触发虚拟语气的评价性形容词。imperative 意为“必要的、紧迫的”，It is imperative that sb (should) do sth 是固定句式，意为“某人务必做某事”，与上句“城市规划影响健康选择”构成建议。",
+        "evidence": "This {28} suggests that the layout and design of cities can hinder or promote healthier lifestyle choices and it is {29} that urban planners bear this in mind.",
+        "distractors": {
+          "B": "语义与搭配不符：dense 意为“稠密的”，用于描述人口、交通或建筑密度，不能出现在 it is ... that sb bear this in mind 这类评价句型中表达“有必要”。",
+          "L": "感情色彩/语义不符：rotten 意为“腐烂的、糟糕的”，带强烈贬义，用来评价“规划者记住这一点”这一建议完全不成立。",
+          "N": "词性错误：vibrate 是动词，而 it is ___ that 的位置必须是形容词或名词性评价成分，词性无法填入。"
+        }
+      },
+      "30": {
+        "answer": "E",
+        "my_answer": "E",
+        "verified": true,
+        "explanation": "need to 后接动词原形，且该动词要能与 standard public health practices 搭配。foster 意为“促进、扶植、维护”，foster standard public health practices 即“继续推行（培育）标准的公共卫生做法”，与后面 such as 举出的“隔离有毒设施、限制重卡穿行居民区”这些既有做法相呼应（city still need to 强调延续而非新创）。",
+        "evidence": "Of course cities still need to {30} standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through {31} residential areas.",
+        "distractors": {
+          "G": "搭配与语义偏差：impose 意为“把……强加于”，impose practices 需接 on sb 且带有“强制推行”的负面色彩，而此处 such as 后是城市本就沿用的常规做法，用 foster 才表示“维护、推行”；impose 在本篇中已用于 26 空的 impose costs。",
+          "C": "语义相反：deter 意为“阻止、威慑”，deter standard public health practices 会变成“阻止标准公共卫生做法”，与 such as 后列举的正面措施自相矛盾。",
+          "J": "搭配不成立：navigate 意为“导航、应对（复杂局面）”，宾语通常是水域、道路或难题，不能接 practices 表示“推行做法”。"
+        }
+      },
+      "31": {
+        "answer": "B",
+        "my_answer": "B",
+        "verified": true,
+        "explanation": "空格修饰 residential areas，需要一个形容词。dense 意为“稠密的”，dense residential areas 即“人口稠密的居民区”，正是需要限制重型卡车穿行的对象（人车混行风险最大），逻辑与语义都吻合。",
+        "evidence": "Of course cities still need to {30} standard public health practices, such as separating toxic facilities from homes and restricting heavy truck traffic through {31} residential areas.",
+        "distractors": {
+          "K": "语义重复且不当：recreational 意为“休闲娱乐的”，与 residential（居住的）叠加会变成“休闲的居住区”，功能定位自相矛盾；且 recreational 是 33 空的答案（recreational spaces）。",
+          "L": "感情色彩错误：rotten 意为“腐烂的、腐朽的”，不能修饰 residential areas 表示“人口密集”，属于褒贬与语义双错。",
+          "H": "搭配不成立：irrespective 是形容词，但只能用于 irrespective of 结构，意为“不顾、不论”，不能直接前置修饰名词。"
+        }
+      },
+      "32": {
+        "answer": "I",
+        "my_answer": "I",
+        "verified": true,
+        "explanation": "Many studies of ___ 需要一个名词作 of 的宾语，且要与后文 people live the longest 语义一致。longevity 意为“长寿”，studies of longevity（关于长寿的研究）正好由 show that people live the longest... 作出结论，前后同义衔接。",
+        "evidence": "Many studies of {32} show that people live the longest in environments where physical activity is part of everyday life.",
+        "distractors": {
+          "D": "语义不符：equity 意为“公平”，studies of equity 指关于公平的研究，无法得出“在身体活动融入日常的环境中人们寿命最长”这一结论。",
+          "A": "搭配与逻辑不成立：correlation 意为“相关性”，studies of correlation 只是方法论表述，不能直接 show 出“哪里的人活得最长”这种具体结论；且 correlation 已用于 28 空。",
+          "O": "语义错位：vicinity 意为“附近”，studies of vicinity 不成立，无法与“寿命最长”建立联系。"
+        }
+      },
+      "33": {
+        "answer": "K",
+        "my_answer": "K",
+        "verified": true,
+        "explanation": "空格与 walkable spaces、better protected bike lanes 并列，修饰 spaces，需要一个表示功能属性的形容词。recreational 意为“休闲娱乐的”，recreational spaces（休闲空间）与步行空间、自行车道同属鼓励身体活动的城市设施，并列关系工整。",
+        "evidence": "Providing more walkable spaces, better protected bike lanes, and more {33} spaces are important steps.",
+        "distractors": {
+          "B": "语义与逻辑不符：dense 意为“稠密的”，more dense spaces 指“更密集的空间”，与“更多可步行空间、更好的自行车道”这类提升活动条件的措施不同类；且 dense 已用于 31 空。",
+          "L": "感情色彩相反：rotten 意为“腐烂的、糟糕的”，修饰 spaces 会变成“糟糕的空间”，与作者推荐的积极措施完全相反。",
+          "H": "搭配不成立：irrespective 只能构成 irrespective of 短语，不能直接修饰名词 spaces。"
+        }
+      },
+      "34": {
+        "answer": "D",
+        "my_answer": "D",
+        "verified": true,
+        "explanation": "promotes ___ 需要名词作宾语，且要与 rather than 后的对照项形成反差：rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees——即“不要让它变成只有付得起昂贵月费的人才能健身”。因此空格应是“公平、均等”之意，equity 意为“公平”，promotes equity 指让公共空间保障人人可锻炼的机会均等。",
+        "evidence": "Using public spaces in cities as places where people can exercise promotes {34}, rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that {35} less wealthy people from joining.",
+        "distractors": {
+          "A": "语义不成立：correlation 意为“相关性”，promotes correlation 指“促进相关性”，与后文“公共空间 vs 昂贵私人健身房”的公平对照毫无关系。",
+          "I": "看似合理但偏离对照：longevity 意为“长寿”，虽然锻炼有益健康，但 rather than 之后谈的是“月费把不富裕的人挡在门外”，对照的是机会均等而非寿命；且 longevity 已用于 32 空。",
+          "O": "搭配不成立：vicinity 意为“附近”，promotes vicinity 不成词义搭配，无法表达“促进公平可及”。"
+        }
+      },
+      "35": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "that 引导定语从句修饰 monthly fees，从句主语是 these fees，需要及物动词，并与 from joining 构成搭配。deter sb from doing sth 意为“使某人不敢/不愿做某事”，即“昂贵的月费使较不富裕的人望而却步、无法加入”，与 less wealthy people 及整段“公共空间促进公平”的论证完全吻合。",
+        "evidence": "Using public spaces in cities as places where people can exercise promotes {34}, rather than allowing physical activity to become restricted to private gyms with often-expensive monthly fees that {35} less wealthy people from joining.",
+        "distractors": {
+          "E": "搭配与语义相反：foster 意为“促进、鼓励”，既不能构成 foster sb from doing 的结构，语义上也会变成“月费鼓励穷人加入”，与 expensive fees 的排斥作用相反。",
+          "G": "搭配不成立：表示“阻止某人做某事”时 impose 的结构是 impose sth on sb（把……强加于某人），没有 impose sb from doing 的用法。",
+          "J": "搭配不成立：navigate 意为“导航、应对”，宾语不能是人，更无法与 from joining 搭配表达“使某人无法加入”。"
+        }
+      }
+    },
+    "passage_zh": "现代美国城市的设计初衷就是让锻炼变得没有必要。汽车和电梯曾象征着城市地区是更高效生活的机器。如今已经清楚，这些进步带来了巨大好处，但也{26}把健康代价强加给了我们。近期研究表明，城市的{27}无序扩张会促使人们更多开车，并与更重的体重相关。这种{28}相关性说明，城市的布局与设计可能阻碍、也可能促进更健康的生活方式选择，因此{29}务必让城市规划者把这一点放在心上。\n\n不幸的是，城市规划在很大程度上仍以解决过去的问题为中心。当然，城市仍然需要{30}维护并推行标准的公共卫生做法，例如把有毒设施与住宅分开、限制重型卡车穿行于{31}人口稠密的居民区。但创造更健康的城市同样重要——相关讨论已经开始。越来越多的城市规划者日益关注鼓励身体活动，办法是让人们更容易、更安全地休闲娱乐、步行、骑车和使用公共交通。许多关于{32}长寿的研究表明，在身体活动成为日常生活一部分的环境中，人们寿命最长。\n\n提供更多可步行空间、更好的受保护自行车道和更多{33}休闲娱乐空间是重要步骤。但即使是更小的改变也能奏效。城市可以在周末封闭街道，鼓励社区居民出门走路。它们也可以在公共场所提供更多座位，让体力较差的居民在出行途中休息。把城市公共空间当作人们可以锻炼的场所，会促进{34}公平，而不是让身体活动局限于往往收取昂贵月费、从而{35}使较不富裕的人无法加入的私人健身房。"
+  },
+  "matching": {
+    "statements": {
+      "36": {
+        "answer": "D",
+        "my_answer": "D",
+        "verified": true,
+        "explanation": "D 段指出这类“大脑训练”只能提高受训任务本身的能力，无法迁移到其他能力，正是题干 boost one's ability at specific tasks, but not one's other cognitive abilities 的同义改写：improve one's abilities at the tasks themselves ↔ boost specific tasks；don't seem to improve other abilities ↔ not other cognitive abilities。",
+        "evidence": "However, research suggests that although this type of training may improve one's abilities at the tasks themselves, they don't seem to improve other abilities."
+      },
+      "37": {
+        "answer": "F",
+        "my_answer": "F",
+        "verified": true,
+        "explanation": "F 段给出估算：世界上的单语者比双语者和多语者更少，即“说两种或更多语言的人多于只讲一种语言的人”。题干 According to estimates 对应 it has been estimated，the number of people who speak two languages or more is greater 对应 fewer monolingual speakers... than bilinguals and multilinguals。",
+        "evidence": "In fact, it has been estimated that there are fewer monolingual speakers in the world than bilinguals and multilinguals."
+      },
+      "38": {
+        "answer": "A",
+        "my_answer": "A",
+        "verified": true,
+        "explanation": "A 段说明该病的成因尚不清楚，因此没有经过验证的预防办法，与题干 we do not know what causes people to lose their cognitive abilities, or what we can do to prevent it 一一对应：the causes...are not well understood ↔ do not know what causes；no proven steps...to prevent it ↔ do not know what we can do to prevent it。",
+        "evidence": "At this time, the causes of the disease are not well understood, and consequently, there are no proven steps that people can take to prevent it."
+      },
+      "39": {
+        "answer": "K",
+        "my_answer": "K",
+        "verified": true,
+        "explanation": "K 段承认无法判断因果方向：究竟是社交活跃预防了痴呆，还是没有痴呆的人本来就更容易社交活跃。题干 It is hard to determine whether A or B 正是 can't really say whether...or...的同义改写，people who are free from dementia ↔ people who don't have dementia。",
+        "evidence": "So we can't really say whether being socially active prevents the onset of dementia, or if people who don't have dementia are more likely to be socially active."
+      },
+      "40": {
+        "answer": "E",
+        "my_answer": "E",
+        "verified": true,
+        "explanation": "E 段说学语言或许“有所不同”，并指出外语学习能带来认知益处的最佳证据来自对双语者的研究。题干 There is evidence that learning foreign languages might be beneficial 对应 The best evidence that foreign language learning confers cognitive benefits，boosting one's cognitive abilities ↔ confers cognitive benefits。",
+        "evidence": "The best evidence that foreign language learning confers cognitive benefits comes from research with those who are already _bilingual_ (双语的)."
+      },
+      "41": {
+        "answer": "I",
+        "my_answer": "I",
+        "verified": true,
+        "explanation": "I 段引述 Bialystok 的提醒：双语的好处只在一直使用两种语言的人身上才出现。题干 It was suggested that only those who always spoke two languages could benefit 对应 suggested...the positive benefits...were only found in those who used both languages all the time，always ↔ all the time。",
+        "evidence": "Crucially, Bialystok suggested that the positive benefits of being bilingual were only found in those who used both languages all the time."
+      },
+      "42": {
+        "answer": "C",
+        "my_answer": "C",
+        "verified": true,
+        "explanation": "C 段区分大脑与肌肉：与肌肉不同，大脑总是活跃的，甚至休息和睡眠期间也在工作。题干 The brain is different from muscles in that it keeps working even when the body is at rest 对应 Unlike muscles, the brain is always active and works even during periods of rest and sleep。",
+        "evidence": "Unlike muscles, the brain is always active and works even during periods of rest and sleep."
+      },
+      "43": {
+        "answer": "G",
+        "my_answer": "G",
+        "verified": true,
+        "explanation": "G 段说明双语者在多种认知任务上胜过单语者。题干 do better at a number of cognitive tasks 对应 outperform...on a variety of cognitive tasks：outperform ↔ do better；a variety of ↔ a number of；those who speak only one language ↔ monolingual counterparts。",
+        "evidence": "In fact, bilingual individuals outperform their monolingual counterparts on a variety of cognitive tasks, such as following complex instructions, and switching to new instructions."
+      },
+      "44": {
+        "answer": "B",
+        "my_answer": "B",
+        "verified": true,
+        "explanation": "B 段强调痴呆与正常健忘不是一回事，痴呆者的问题更严重。题干 Dementia is different from being merely forgetful and entails more serious trouble 对应 dementia is not the same thing as normal forgetfulness（different from being forgetful）与 People with dementia have more serious problems（entails more serious trouble）。",
+        "evidence": "It is also important to remember that dementia is not the same thing as normal forgetfulness."
+      },
+      "45": {
+        "answer": "H",
+        "my_answer": "H",
+        "verified": true,
+        "explanation": "H 段推论：若双语的好处能迁移到其他认知领域，就应在双语者身上看到更低的阿尔兹海默症发病率（即单语者患病更多），并称确有证据支持这一说法。题干 It is claimed that more monolinguals suffer... 对应 a lower incidence of Alzheimer's disease in bilinguals than in monolinguals 与 there is evidence to support this claim。",
+        "evidence": "If the benefits of being bilingual spill over to other aspects of cognition, then we would expect to see a lower incidence of Alzheimer's disease in bilinguals than in monolinguals, or at least a later onset of Alzheimer's for bilinguals."
+      }
+    },
+    "article_zh": "A) 你可能听说过，学习另一种语言是预防或至少推迟痴呆发作的一种方法。痴呆指认知能力的丧失，其最常见的形式之一是阿尔兹海默症。目前，这种疾病的成因还没有被很好地了解，因此也没有经过验证的、可供人们采取的预防措施。尽管如此，一些研究者提出，学习一门外语或许有助于推迟痴呆的发作。\n\nB) 为了更深入地探讨这种可能性，我们先来看看关于痴呆与衰老大脑的一些常见误解。首先，痴呆并不是正常衰老过程中不可避免的一部分。大多数老年人并不会患上阿尔兹海默症或其他形式的痴呆。同样重要的是要记住，痴呆与正常的健忘不是一回事。无论多大年纪，我们都可能一时找不到想要的那个词，或者想不起刚刚认识的人的名字。而痴呆患者的问题更严重，比如感到困惑，或在熟悉的地方迷路。可以这样想：如果你在商场忘了车停在哪里，那是正常的；如果你忘了怎么开车，那可能说明有更严重的问题。\n\nC) “痴呆可以预防”这一观念，源于把大脑比作肌肉。人们谈到大脑时，有时会说“锻炼你的大脑很重要”，或者说“想保持头脑健康，就得让大脑做做运动”。这些类比虽然生动，但实际上大脑并不是肌肉。与肌肉不同，大脑始终活跃，甚至在休息和睡眠期间也在工作。此外，尽管有些肌肉细胞只有几天寿命，脑细胞却能持续一生。不仅如此，研究还表明，人在整个生命周期中都在不断产生新的脑细胞。\n\nD) 把大脑比作肌肉虽然生动，却不准确而且有误导性。那么，如果大脑不是肌肉，它还能被“锻炼”吗？研究者同样没有确定答案。现在有许多电脑、网络和手机应用声称能“训练你的大脑”，它们通常会动用多种认知能力。但研究提示，这类训练也许能提高一个人在这些任务本身上的表现，却似乎不能提高其他能力。换句话说，长期练习“找字母”任务会提高你找字母的能力，但未必会增强你的其他知觉能力。\n\nE) 不过，有理由认为学习语言的情况可能不同。外语学习能带来认知益处的最佳证据，来自对已经是双语者的人所做的研究。双语现象最常见于儿童接触两种语言的情形，或者在家庭中（妈妈说荷兰语，爸爸说西班牙语），或者在早期学校教育中更正式地出现。但双语现象当然也会在成年期出现。\n\nF) 双语和多语现象其实比你想象的更普遍。事实上，据估算，世界上只说一种语言的人比说两种或更多语言的人还要少。尽管在许多国家，大多数居民共用一种语言，另一些国家却有多种官方语言。例如瑞士有四种官方语言：德语、法语、意大利语和罗曼什语。在非洲大片地区，阿拉伯语、斯瓦希里语、法语和英语常常为那些在家里和市场上使用不同母语的人所掌握和使用。所以双语和多语现象遍布世界各地。而就认知能力而言，对会说一种以上语言的人所做的研究呈现出令人鼓舞的图景。\n\nG) 其一，双语者更擅长同时处理多项任务。对这种优势的一种解释是：说两种语言的人一直在抑制其中一种语言，而这种抑制过程会给其他活动带来普遍的认知益处。事实上，双语者在多种认知任务上胜过单语者，例如执行复杂指令、切换到新指令。为求全面，也应当指出，双语的优势并非在所有认知领域都普遍存在。与单语者相比，双语者已被证明词汇量更小、从记忆中提取词汇更慢。不过从长远看，双语的认知与语言优势远远超过这两点不足。\n\nH) 如果双语的好处能外溢到认知的其他方面，那么我们本应看到双语者的阿尔兹海默症发病率低于单语者，或者至少双语者的发病时间更晚。事实上，确有证据支持这一说法。心理学家 Ellen Bialystok 及其同事获取了 184 位在多伦多一家记忆门诊就诊者的病史。在那些表现出痴呆迹象的人中，样本里的单语者发病时的平均年龄为 71.4 岁。相比之下，双语者平均在 75.5 岁获得诊断。在这类研究中，四年的差距极为显著，且无法用两群体之间的其他系统性差异来解释。例如，单语者平均比双语者多接受了一年半的学校教育，因此这一效应显然不是正规教育造成的。\n\nI) 另一项在印度进行的研究发现了惊人的相似结果：即便控制了性别、职业等其他潜在因素，双语患者的痴呆症状仍比单语者晚出现 4.5 年。此外，研究者还报告了双语对晚年认知能力的其他正面作用，即使学习者是在成年期才掌握该语言。关键在于，Bialystok 提出，双语带来的正面益处只出现在那些一直使用两种语言的人身上。\n\nJ) 但这些研究虽然令人鼓舞，却仍未确定双语者与单语者之间的差异究竟如何产生、为何产生。由于这些研究回顾的本来就是已经具备双语能力者的既往经历，其结果只能说两群体之间存在差异，而无法说明差异为何发生。要确定是什么造成了两群体发病年龄的不同，还需要进一步研究。\n\nK) 其他关于成功老化的研究提示，与所在社区保持联系、拥有大量社交互动，对推迟乃至预防痴呆发作同样重要。然而，这些结果同样远不如大众媒体可能让你相信的那样明确。社交生活活跃的老年人，几乎从定义上说就比很少出门、很少与人交往的同龄人更健康。所以我们其实无法断定究竟是社交活跃预防了痴呆发作，还是没有痴呆的人本来就更可能社交活跃。\n\nL) 但即使学习外语不是包治百病的神奇药方，它至少能做到一件事：它会让你把一门外语说得更好。而这一点会带来我们已确知的一连串好处。"
+  },
+  "careful": {
+    "2023-12-3-careful-1": {
+      "passage_zh": "研究的目的在于通过提高公众认知、创造促进发展的产品与创新来造福社会。要让研究发挥其全部作用，研究成果就必须走出研究实验室和学术期刊的范围。\n\n被有效传播的研究发现能够大大促进公众利益。它们可以帮助纠正社会不公，或改善提供给患者的治疗。\n\n许多研究者似乎满足于在学术期刊上或学术会议上分享自己的研究结果。但允许所有人阅读研究发现的期刊很少。即便是可以免费获取的文章，通常也用普通读者难以理解的学术语言写成。\n\n对于身处终身教职轨道上的研究者而言，他们的主要目标是拿到终身教职，而这在一定程度上可以通过在知名期刊上发表若干论文来实现。这类压力意味着，面向社区层面的对外传播不会被优先考虑。\n\n许多研究者缺乏把研究结果向普通受众讲清楚的写作技能。他们还可能担心公众能否理解自己的发现，或担心研究发现被用来影响有争议的政策。这些顾虑使一些研究者不愿在学术界之外传播自己的成果。\n\n把研究成果传播到学术出版物之外，对于解决某些社会差距尤为关键。它可以帮助家庭、社区、医疗服务提供者、政策制定者、政府机构及其他主体理解并应对困扰社会的各种危机。\n\n分享研究发现的好处是双向的。与其他研究者和公众互动，可能带来意想不到的新联系和新想法，从而为研究提示出富有成果的新方向。\n\n为了让研究者和社区双方都受益，寻找创新且易于获取的方式来分享研究成果，其必要性怎么强调都不为过。\n\n研究机构和资助机构应当支持更多研究者在开放获取期刊上发表文章，使公众不必付费就能阅读。机构与研究者应当投入资源，建立能够扩大成果分享范围的伙伴关系。\n\n此外，伦理委员会应当强制要求研究者向公众分享研究结果。作为知情同意流程的一部分，每位研究参与者都应可以选择接受或拒绝接收研究结果。\n\n由于专业术语的缘故，公众可能误解研究者呈现的发现。但这可以通过研究者聘请专业写作者或传播官来解决——他们帮助把研究转写成更通俗易懂的语言，并广泛分享给媒体和公众。\n\n把研究结果分享给最受其影响的人，会让我们成为更好的研究者，并确保我们的工作能被用来改善人们的生活。机构与合作者必须认识到这样做的价值。",
+      "questions": {
+        "46": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 1,
+          "evidence_quote": "For research to serve its full purpose, the results must leave the confines of research laboratories and academic journals.",
+          "explanation": "题干问“根据作者，研究怎样才能发挥其全部作用”。第 1 段最后一句给出唯一条件：研究成果必须“离开研究实验室和学术期刊的范围”，也就是走出学术圈、被有效传播到公众那里，D 项 properly communicated beyond the academic circle 正是这一句的改写。",
+          "distractors": {
+            "A": "答非所问：第 1 段首句说研究“旨在”通过提高公众认知来造福社会，那是研究的目的，不是“发挥全部作用”的条件；作者的回答落在末句的“成果必须传播出去”。",
+            "B": "与原文相反：第 3、4 段恰恰指出在知名期刊发表是现状（且读者读不到、研究者为拿终身教职而发表），并不是让研究发挥全部作用的途径。",
+            "C": "部分照搬、范围过窄：creating products and innovations that enhance development 出自第 1 段首句，说的是研究“本应”做的事，漏掉了“成果必须离开实验室与期刊”这一作者强调的关键条件。"
+          }
+        },
+        "47": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 3,
+          "evidence_quote": "Even articles freely available are usually written in academic language incomprehensible to the average reader.",
+          "explanation": "题干问普通读者为何难以获取研究结果。第 3 段先说允许所有人阅读的期刊很少，接着说即使文章可免费获取，通常也用“普通读者无法理解的学术语言”写成——语言障碍正是题干所问的原因，A 项与 incomprehensible to the average reader 对应。",
+          "distractors": {
+            "B": "无中生有（强加心理描写）：原文只说学术语言 incomprehensible（无法理解），并未提到读者被术语“吓住、怯场”，intimidated 属于凭空添加的心理状态。",
+            "C": "张冠李戴：学术会议是研究者内部交流的场合，原文从未说这些会议对公众免费开放，更没有把它当作读者难以获取成果的原因。",
+            "D": "偷换概念：原文是 few journals allow everybody to read（期刊设有订阅门槛、多数人无权阅读），选项改成“找不到/检索不到期刊”，把“没有阅读权限”偷换成“缺少发现机会”。"
+          }
+        },
+        "48": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 4,
+          "evidence_quote": "For researchers in the tenure-track system, their main goal is winning tenure, which in part can be achieved by getting a number of papers published in prominent journals. Pressures like this mean community-level outreach is not prioritized.",
+          "explanation": "题干问一些研究者不把向公众传播成果列为优先事项的原因之一。第 4 段说终身教职轨道上的研究者“主要目标是拿到终身教职”，而这一目标部分靠在高水平期刊发表论文实现，此类压力使社区层面的外展不被优先考虑，B 项 their top consideration is to win tenure 与之完全对应。",
+          "distractors": {
+            "A": "词义扭曲：原文说拿到终身教职可“通过发表若干论文来实现”，是手段与目标的关系；thrive on 意为“因……而兴盛、靠……过得好”，把手段偷换成“靠已发表论文过得滋润”，且回避了 tenure 这一核心。",
+            "C": "范围过宽、指向模糊：原文明确目标是 winning tenure（终身教职），选项泛化成“在本领域获得认可”，丢掉了终身教职这一制度性目标，也就不成其为原文所述的具体原因。",
+            "D": "因果倒置：原文是“这类压力使社区外展不被优先考虑”，即主观上不排优先级，而不是“外展太艰难、难以做到”；struggle 在文中无据。"
+          }
+        },
+        "49": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 7,
+          "evidence_quote": "Engaging with other researchers and the public can lead to unexpected new connections and new ideas that could suggest fruitful new directions for research.",
+          "explanation": "题干问分享成果如何让研究者自身受益。第 7 段开篇即说好处是双向的，接着指出与其他研究者和公众互动能带来意想不到的新联系与新想法，从而为研究提示出富有成果的新方向，A 项 identify new research directions 正是 could suggest fruitful new directions for research 的改写。",
+          "distractors": {
+            "B": "主体偷换：第 6 段说传播成果能帮助家庭、社区、政策制定者等“理解并应对危机”，受益者是社会各方，不是研究者本人，与题干 benefit researchers themselves 不符。",
+            "C": "主体偷换：解决社会差距（social discrepancies）同样是第 6 段所列的对社会的好处，而非研究者自身的收益，属于把“社会的获益”搬到“研究者”身上。",
+            "D": "张冠李戴：政府机构出现在第 6 段的受益者清单里，原文说研究者与“其他研究者和公众”互动产生新想法，从未提到与政府机构建立联系是研究者的收益。"
+          }
+        },
+        "50": {
+          "answer": "C",
+          "my_answer": "C",
+          "verified": true,
+          "evidence_paragraph": 11,
+          "evidence_quote": "There could be misunderstanding of the findings presented by the researcher because of technical terms. But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.",
+          "explanation": "题干问为何建议研究者聘请专业写作者或传播官。第 11 段先说因专业术语，公众可能误解研究者呈现的发现，紧接着给出解决办法：请专业写作者或传播官把研究转写成更通俗易懂的语言、广泛分享——目的正是让公众正确理解研究成果，C 项 correctly understood by the public 与之对应。",
+          "distractors": {
+            "A": "张冠李戴（目的错位）：伦理委员会的强制要求是“必须向公众分享结果”（第 10 段），而聘请专业写作者要解决的是第 11 段的“术语导致误解”，两者是不同段落的不同措施。",
+            "B": "偷换概念：原文 accessible language 指“通俗易懂的表述”，选项曲解为“可供海外读者阅读的外语译本”，把“易懂”偷换成“外语”。",
+            "D": "无中生有且方向错位：全文的主张是让公众读懂，与期刊是否录用无关；第 4 段已说明在高水平期刊发表才是研究者的现实压力所在，而非需要写作者帮忙解决的问题。"
+          }
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "confines",
+          "meaning": "范围，界限（常用复数）",
+          "note": "leave the confines of ... 走出……的范围；the confines of a laboratory"
+        },
+        {
+          "word": "incomprehensible",
+          "meaning": "无法理解的，难以懂的",
+          "note": "be incomprehensible to sb 对某人来说难以理解"
+        },
+        {
+          "word": "tenure",
+          "meaning": "（大学教师的）终身教职",
+          "note": "tenure-track 终身教职轨道；win/get tenure 拿到终身教职"
+        },
+        {
+          "word": "outreach",
+          "meaning": "外展服务；（面向公众的）宣传联络",
+          "note": "community-level outreach 社区层面的对外传播"
+        },
+        {
+          "word": "shy away from",
+          "meaning": "回避，畏缩不做",
+          "note": "shy away from doing sth 不愿做某事"
+        },
+        {
+          "word": "discrepancy",
+          "meaning": "差异，不一致（复数 discrepancies）",
+          "note": "social discrepancies 社会差距；a discrepancy between A and B"
+        },
+        {
+          "word": "propagate",
+          "meaning": "传播，扩散（观点、成果等）",
+          "note": "propagate findings 传播研究成果"
+        },
+        {
+          "word": "mandatory",
+          "meaning": "强制的，法定的",
+          "note": "make it mandatory for sb to do sth 强制要求某人做某事"
+        }
+      ],
+      "long_sentence": {
+        "sentence": "But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.",
+        "analysis": "主干是被动句：But this can be resolved by researchers（但这可以由研究者来解决），this 指上句的“公众因术语而误解研究发现”。by 之后不是简单名词，而是“名词+动名词”的复合结构 researchers engaging the services of professional writers or communication officers（研究者聘请专业写作者或传播官的服务），其中 engaging 的宾语是 the services，of 短语说明是谁的服务。不定式 to help with... 作目的状语，help with 后面接两个并列的动名词短语：translating their study into more accessible language（把研究改写成更通俗易懂的语言）和 (to) share it widely with media outlets and the public（并把它广泛分享给媒体与公众），后一个 to 承前省略。注意 accessible 在此是“易懂的”，不是“可获得的”；them 指 findings。"
+      }
+    },
+    "2023-12-3-careful-2": {
+      "passage_zh": "蜘蛛在八月下旬到初秋期间让人难以忽视它们的存在。这是几种最常见蜘蛛的交配季节：雄性家蛛从隐蔽的角落出来寻找雌蛛，园蛛长到成体大小，织出最绚丽的网。\n\n然而，尽管蜘蛛在童谣儿歌和万圣节装饰中是熟悉的固定元素，它与人类的关系却很复杂。对蜘蛛的恐惧很常见，并对恐惧症患者的生活造成严重影响。这种恐惧的普遍程度似乎与任何理性的风险评估无关。英国的蜘蛛几乎都是无害的。农田中的种类通过捕食与我们争夺作物的昆虫，提供着宝贵的生态系统服务。但它们始终是人类焦虑的来源——自中世纪以来就与女巫和邪恶联系在一起。\n\n这是否在某种程度上解释了，为何在我们这个生态危机时代，关于蜘蛛处境的数据如此缺乏？由于长期采集和观察的传统，英国蝴蝶是世界上被研究得最多的昆虫类群。但蜘蛛保护者指出，家蛛的分类直到 20 世纪 80 年代才被真正理清。而且，关于昆虫种群的信息是通过统计撞上挡风玻璃或落入诱捕器的数量这类实验获得的，人们却很少尝试去数蜘蛛。\n\n飞行昆虫数量的大幅减少，只能意味着蜘蛛食物供应的减少。近期一项重要研究发现，1989 年至 2016 年间昆虫种群下降了 75%，据认为农药的使用以及为开发而破坏野生区域是罪魁祸首。这意味着蜘蛛的总体状况令人担忧，对大多数生物而言也是如此。但保护者最担心的是那些因栖息地丧失和碎片化而受到威胁的种类，因为这种破碎使它们无法迁徙。\n\n在英国定期记录到的约 650 种蜘蛛中，大多数在沼泽和荒地里繁盛。保护工作常常由意志坚定的个人主导，通过把某些物种重新引入新区域，已帮助一些物种恢复。随着再野化如今稳稳进入环境政策议程，人们的希望是：将来蜘蛛能够自行迁徙，沿着野生动物廊道移动以适应气候变化。\n\n尽管蜘蛛作为“大自然的纺织工”有着独特的地位，它们似乎不太可能获得与蜜蜂、鸟类或蝴蝶同等程度的人类热情。但当它们在这个秋天尽显光彩时，如果更多动物爱好者认识到蜘蛛其实非常了不起，那将是一件好事。",
+      "questions": {
+        "51": {
+          "answer": "A",
+          "my_answer": "A",
+          "verified": true,
+          "evidence_paragraph": 2,
+          "evidence_quote": "Fear of spiders is common and has serious impacts on the lives of sufferers. Its prevalence appears unrelated to any rational assessment of risk. Spiders in the UK are almost all harmless.",
+          "explanation": "题干问自中世纪以来关于英国蜘蛛我们了解到什么。第 2 段指出对蜘蛛的恐惧与任何理性风险评估无关，英国的蜘蛛几乎都无害，却又自中世纪以来与女巫和邪恶相联系——说明蜘蛛长期被误解、被冤枉，A 项 generally misconceived 概括准确。",
+          "distractors": {
+            "B": "与原文相反：原文说农田蜘蛛捕食“与我们争夺作物的昆虫”，提供有益的生态系统服务，即对农作物有利而非有害。",
+            "C": "偷换概念：原文说的是 a constant source of human anxieties（人类焦虑的持续来源），选项把“焦虑的来源”改写成“坏运气的提醒”，并抽掉了女巫与邪恶这一文化联想的核心内容。",
+            "D": "时间错位、张冠李戴：“结网时让人注意到它们的存在”出自第 1 段关于八月下旬至初秋交配季的描写，与题干“自中世纪以来”这一时间跨度无关。"
+          }
+        },
+        "52": {
+          "answer": "B",
+          "my_answer": "C",
+          "verified": false,
+          "evidence_paragraph": 2,
+          "evidence_quote": "But they are a constant source of human anxieties — with a cultural association with witches and wickedness dating back to the middle ages.",
+          "explanation": "题干问几个世纪以来蜘蛛在英国一直与什么相联系。原文对应句是“自中世纪以来与女巫和邪恶（wickedness）的文化联想”，wickedness 意为“邪恶、恶毒”，与 witches 同指 evil；for centuries 对应 dating back to the middle ages，故答案应为 C（Evil）。文件答案 B（Suffering）与原文不符：sufferers 指被恐惧困扰的人，原文说的是蜘蛛让人焦虑，而非“蜘蛛被联想为苦难”。",
+          "distractors": {
+            "A": "与原文相反：本段明确说 Spiders in the UK are almost all harmless（英国的蜘蛛几乎都无害），“伤害”恰恰是被文本否定的误解。",
+            "B": "主体偷换（文件答案误选）：suffering 来自 sufferers（恐惧症患者）的痛苦与 human anxieties，即“人被蜘蛛吓得痛苦”，而题干问的是蜘蛛被“联想”成什么，中文应落在 wickedness 的“邪恶”上。",
+            "D": "无中生有：全文没有任何关于蜘蛛攻击性、咬人的描写，蜘蛛的形象问题是“被误解”，而非“凶悍好斗”。"
+          },
+          "conflict_reason": "文件答案 B（Suffering）与本套原文不符。原文对应句是“a cultural association with witches and wickedness dating back to the middle ages”，wickedness 意为“邪恶、恶毒”，与 witches 并列共同指向 evil，而 dating back to the middle ages 正对应题干的 for centuries，故应为 C（Evil）。Suffering 出自同段“has serious impacts on the lives of sufferers”，说的是被恐惧困扰的患者所承受的痛苦，不是蜘蛛被“联想”成的东西，属于主体偷换。此外文件把 52、53 两题的答案刚好互换（52 给 B、53 给 C），系答案复制时错位所致。"
+        },
+        "53": {
+          "answer": "C",
+          "my_answer": "B",
+          "verified": false,
+          "evidence_paragraph": 4,
+          "evidence_quote": "A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for development.",
+          "explanation": "题干问什么部分导致了蜘蛛食物供应的减少。第 4 段把食物减少归因于昆虫数量骤降，并说明据认为农药（pesticide）的使用与“为开发破坏荒野”是罪魁祸首，即“用于杀虫的化学药剂”，故为 B（Chemicals used for killing insects）。文件答案 C（Fast reproduction of their competitors）与本套原文不符：原文的机制是昆虫总量下降 75%，C 项所谓“竞争者快速繁殖”文中无据，且 competitors 在第 2 段指的是与人类争抢作物的昆虫，并非蜘蛛的竞争者。",
+          "distractors": {
+            "A": "张冠李戴：长期采集和观察昆虫的传统是第 3 段解释“英国蝴蝶为何被研究得最多”的原因，与蜘蛛食物减少无关。",
+            "C": "概念错位（文件答案误选）：原文把食源减少的成因落在昆虫总量下降与农药使用上；C 项说的“竞争者快速繁殖”没有原文支撑，且 competitors 指与人类争作物的昆虫，不是蜘蛛的竞争者。",
+            "D": "程度夸大、以偏概全：原文是“为开发而破坏野生区域（the destruction of wild areas）”，指栖息地遭破坏，选项夸大为“大量野生动物灭绝”。"
+          },
+          "conflict_reason": "文件答案 C（Fast reproduction of their competitors）与本套原文不符。原文第 4 段说“A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for development”，食源减少的机制是昆虫总量骤降，被点名的是 pesticide use（用于杀虫的化学药剂）与破坏荒野，故应为 B（Chemicals used for killing insects）。C 项“竞争者快速繁殖”无原文支撑（competitors 指与人类争作物的昆虫），也与 75% 下降的事实相矛盾。该题与 52 题答案在文件中恰好互换，同属答案错位。"
+        },
+        "54": {
+          "answer": "B",
+          "my_answer": "B",
+          "verified": true,
+          "evidence_paragraph": 4,
+          "evidence_quote": "But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate.",
+          "explanation": "题干问文章说保护者最大的担忧是什么。第 4 段末句明确：保护者最担心的是那些因栖息地丧失和碎片化而受威胁的种类，因为破碎使它们无法迁徙，B 项 “因自然家园丧失而濒危的某些蜘蛛物种”正是 habitat loss 的改写。",
+          "distractors": {
+            "A": "与原文相反且张冠李戴：原文说大多数蜘蛛在沼泽和荒地中繁盛（thrive in marshes and wasteland），并未说沼泽和荒地受污染，污染之说属于无中生有。",
+            "C": "主体扩大：农药被归为“昆虫数量下降”的原因，原文没有“蜘蛛被剧毒农药大量杀死、数量不断增加”的表述，属把昆虫的遭遇套到蜘蛛身上。",
+            "D": "因果与程度夸大：原文说栖息地碎片化“使它们无法迁徙”，这是威胁的成因；选项改成“越来越多物种被发现正丧失迁徙能力”这一渐次过程，原文并无此意。"
+          }
+        },
+        "55": {
+          "answer": "D",
+          "my_answer": "D",
+          "verified": true,
+          "evidence_paragraph": 6,
+          "evidence_quote": "But as they reveal themselves in all their splendour this autumn, it would be a good thing if more animal lovers recognised the ways in which spiders are simply terrific.",
+          "explanation": "题干问作者在接近结尾处表达了什么愿望。末段说蜘蛛尽管有“大自然纺织工”的独特地位，也不太可能像蜜蜂、鸟、蝴蝶那样受追捧，但今年秋天它们尽显光彩时，“如果有更多动物爱好者认识到蜘蛛其实非常了不起，那将是件好事”——即希望更多人欣赏蜘蛛的精彩，D 项与之对应。",
+          "distractors": {
+            "A": "偷换愿望内容：unique status（作为 nature's spinners 的独特地位）出现在上一句，用来说明“即便有这一地位也不会像蝴蝶那样受追捧”，作者的愿望是让人认识到它们有多棒，而非承认其生态地位。",
+            "B": "与原文相反（比较关系被改写）：原文说蜘蛛 unlikely 获得与蜜蜂、鸟类、蝴蝶同等程度的热情，作者的愿望是“更多人欣赏”，而不是“超过蝴蝶”。",
+            "C": "张冠李戴：野生动物廊道是第 5 段关于再野化政策、让蜘蛛自行迁徙以应对气候变化的“希望”，不是结尾处作者表达的那个愿望。"
+          }
+        }
+      },
+      "vocabulary": [
+        {
+          "word": "fixture",
+          "meaning": "固定存在的人或物，常见元素",
+          "note": "a familiar fixture of ... ……中熟悉不变的组成部分"
+        },
+        {
+          "word": "prevalence",
+          "meaning": "普遍程度，流行程度",
+          "note": "the prevalence of a fear 某种恐惧的普遍性"
+        },
+        {
+          "word": "fare",
+          "meaning": "进展，过活（不及物动词）",
+          "note": "how sth is faring 某事物的处境/进展"
+        },
+        {
+          "word": "thrive",
+          "meaning": "繁盛，兴旺",
+          "note": "thrive in marshes 在沼泽中繁盛；thrive on sth 靠……兴旺"
+        },
+        {
+          "word": "fragmentation",
+          "meaning": "碎片化，分割",
+          "note": "habitat loss and fragmentation 栖息地丧失与破碎化"
+        },
+        {
+          "word": "rewilding",
+          "meaning": "再野化（生态修复方式）",
+          "note": "rewilding on the environmental policy agenda"
+        },
+        {
+          "word": "corridor",
+          "meaning": "走廊，通道（此处指生态廊道）",
+          "note": "wildlife corridors 野生动物廊道"
+        },
+        {
+          "word": "splendour",
+          "meaning": "壮丽，光彩（英式拼写，美式 splendor）",
+          "note": "in all their splendour 尽显光彩"
+        }
+      ],
+      "long_sentence": {
+        "sentence": "A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for development.",
+        "analysis": "主干是主谓宾：A recent landmark study identified a 75% fall（一项近期的重要研究发现了 75% 的下降），in insect populations between 1989 and 2016 是修饰 fall 的后置定语，说明“在昆虫种群中、1989 至 2016 年间的降幅”。逗号后是 with 引导的独立主格结构 with pesticide use thought to be to blame...：pesticide use 是逻辑主语，thought 是过去分词表被动“被认为”，to be to blame 作补足语，be to blame 意为“应负责任、该受责备”；along with the destruction of wild areas for development 与 pesticide use 并列，指“以及为开发而破坏野生区域”。整句意为：昆虫数量下降 75%，据认为应归咎于农药使用和为开发而破坏荒野。"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+# 打包产物 / 二进制
+dist/
+build/
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行时数据与测试临时目录
+data/
+tests/.tmp/
+*.tmp
+*.log
+
+# 原始素材（体积大，且是从第三方站点抓下来的页面；
+# 需要重建时按 README 的说明重新获取，脚本见 tools/）
+content/raw/
+
+# 设计截图（底部含本机用户名路径，避免泄露隐私）
+design/screens/
+
+# 早期探索阶段留下的原始文件（体积大，构建时不依赖）
+content/2024-06-set1-answers.pdf
+content/2024-06-set1.docx
+content/2024-06-set1.txt
+content/CET4_source.txt
+content/CET6_source.txt
+content/cet6-2023-06-1.md
+content/exam_tree.json
+content/exam2_tree.json
+content/exam3_tree.json
+content/github_search.json
+content/reading_source.js

@@ -1,0 +1,437 @@
+{
+ "exam": "2024-06-1",
+ "cloze": {
+  "blanks": {
+   "26": {
+    "answer": "A",
+    "my_answer": "A",
+    "verified": true,
+    "explanation": "空前是动词不定式符号 to，需填动词原形；语义上“如果你想让压力 ____”，只有 alleviate 表示“减轻、缓解”，与 stress 是固定搭配（alleviate stress/pressure），也与上文 reduce stress and anxiety 呼应。",
+    "evidence": "If you're looking to {26} stress, you might want to give classical music a try.",
+    "distractors": {
+     "E": "hurt 虽是动词原形可填入，但 hurt stress 意为“伤害压力”，把要减轻的对象当成要伤害的对象，褒贬方向相反。",
+     "L": "recover 是动词原形，但它是不及物动词、要与 from 搭配才能接“压力”，recover stress 搭配不成立。",
+     "F": "inhibiting 是 -ing 分词形式，不能直接跟在不定式符号 to 之后，词性/词形错误。"
+    }
+   },
+   "27": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "let 后接“宾语 + 补足语”，let loose 是固定搭配，意为“释放、放出来”；此处 letting loose pleasure-inducing dopamine 即“释放出令人愉悦的多巴胺”，与 produce a calming effect 的因果关系一致。",
+    "evidence": "The sounds of classical music produce a calming effect letting {27} pleasure-inducing dopamine(多巴胺) in the brain that helps control attention, learning and emotional responses.",
+    "distractors": {
+     "F": "inhibiting 为 -ing 分词，let 后不能用它作宾语补足语，且“抑制多巴胺”与定语 pleasure-inducing（产生愉悦的）自相矛盾。",
+     "J": "majestic 意为“雄伟的、壮丽的”，只用于修饰景物气势，不能表示“释放”这一动作，也无法与 let 构成 let loose/free 类结构。",
+     "K": "mandatory 意为“强制的、义务的”，无法构成 let + 宾语 + 补足语的“释放”义，且“强制”与上文的 calming effect 方向相反。"
+    }
+   },
+   "28": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "lead to 后面需要名词；a pleasant mood can lead to ____ in a person's thinking 意为“愉快的情绪能带来思维的____”，clarity（清晰）与介词 in 搭配表示“在……方面的清晰”，语义、词性都成立。",
+    "evidence": "It turns out a pleasant mood can lead to {28} in a person's thinking.",
+    "distractors": {
+     "G": "interrogation 意为“审问、讯问”，是具体审讯行为，不能表示“思维状态”，clarity in thinking 对应的是“清晰”而非审讯。",
+     "K": "mandatory 是形容词，不能作 lead to 的宾语，词性错误。",
+     "O": "wards 是名词复数“病房”，指具体场所，与 abstract 的 thinking 不属同一语义范畴，搭配不成立。"
+    }
+   },
+   "29": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "many great ____ of classical music like Bach, Beethoven and Handel 中 like 后列举的都是作曲家，说明空格需要表示“作曲家”的复数可数名词，composers 符合（great composers of classical music 也是固定说法）。",
+    "evidence": "Although there are many great {29} of classical music like Bach, Beethoven and Handel, none of these artists' music seems to have the same health effects as Mozart's does.",
+    "distractors": {
+     "A": "alleviate 是动词原形，不能作 many great 所修饰的中心名词，词性错误。",
+     "G": "interrogation 是名词但意为“审讯”，与巴赫、贝多芬这些音乐家不属同一范畴，主体偷换。",
+     "O": "wards 虽为复数名词，但意为“病房”，指场所，不能与 of classical music like Bach... 构成“某类人”的并列列举。"
+    }
+   },
+   "30": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "improve ____ function 需要形容词修饰 function，cognitive function 是“认知功能”的固定搭配，也与上文 brain wave activity、下文 high-level mental functions 的语境一致。",
+    "evidence": "According to researchers, listening to Mozart can increase brain wave activity and improve {30} function.",
+    "distractors": {
+     "O": "wards 是名词复数，不能作 function 的定语，词性错误。",
+     "J": "majestic 是形容词但意为“雄伟的”，只修饰景观、建筑等，与 function（功能）搭配不成立。",
+     "K": "mandatory（强制的）虽为形容词，但 mandatory function 不表示“认知功能”，与 improve brain wave activity 的语境不符。"
+    }
+   },
+   "31": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "Even maternity ____ use Mozart... 主语需为复数名词，且与 maternity 构成固定搭配 maternity wards（产科病房），下文 newborn babies、mother's belly 也印证此处指医院场景。",
+    "evidence": "Even maternity {31} use Mozart to help newborn babies adapt to life outside of the mother's belly.",
+    "distractors": {
+     "D": "composers 虽是复数名词，但 maternity composers 搭配不成立（产科病房，而非“产科作曲家”），且与后文新生儿语境不符。",
+     "H": "intrinsically 是副词，不能充当句子主语，词性错误。",
+     "K": "mandatory 是形容词，不能作主语，词性错误。"
+    }
+   },
+   "32": {
+    "answer": "M",
+    "my_answer": "M",
+    "verified": true,
+    "explanation": "空格修饰谓语动词 reduces，需填副词；significantly reduces a person's blood pressure 意为“显著降低血压”，与上文 increase brain wave activity、improve 的研究结论程度一致。",
+    "evidence": "It has been found that listening to classical music {32} reduces a person's blood pressure.",
+    "distractors": {
+     "H": "intrinsically 虽是副词，但意为“内在地、本质上”，表示性质而非“降低的幅度/程度”，与 reduce 的量化含义不搭。",
+     "C": "cognitive 是形容词，不能修饰动词 reduces，词性错误。",
+     "B": "clarity 是名词，不能作状语修饰 reduces，词性错误。"
+    }
+   },
+   "33": {
+    "answer": "L",
+    "my_answer": "L",
+    "verified": true,
+    "explanation": "help 后接“宾语 + 动词原形”，且 recover from 是“从……中恢复”的固定搭配，help your heart recover from stress 意为“帮助心脏从压力中恢复”，与上文 calming sounds 相承。",
+    "evidence": "Researchers believe that the calming sounds of classical music may help your heart {33} from stress.",
+    "distractors": {
+     "A": "alleviate 是及物动词，后面直接接宾语、不能加 from，alleviate from stress 搭配不成立。",
+     "I": "loose 作形容词/动词表示“松开的”，loose from stress 不表示“恢复”，且 heart loose 语义不成立。",
+     "F": "inhibiting 是 -ing 分词，help sb. do sth. 结构要求动词原形，词形错误。"
+    }
+   },
+   "34": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "it wouldn't hurt to do sth. 是固定句型，意为“做某事不会有坏处、不妨做某事”；下文 You will be surprised at how good it makes you feel 正是在说明“不妨一试”的理由。",
+    "evidence": "Whether classical music is something that you listen to on a regular basis or not, it wouldn't {34} to take time out of your day to listen to music that you find {35} .",
+    "distractors": {
+     "A": "alleviate 为及物动词，不能用于 It wouldn't ____ to take time out 的句型，且 alleviate 后缺宾语、结构残缺。",
+     "K": "mandatory 是形容词，不能作 wouldn't 后谓语动词，词性错误。",
+     "F": "inhibiting 是分词，缺少 be 动词构成进行时，无法单独作谓语。"
+    }
+   },
+   "35": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "find 后接“宾语 + 形容词宾补”，music that you find ____ 意为“你觉得____的音乐”；soothing（舒缓的、令人安慰的）与上文 calming sounds、pleasant mood 及下文 how good it makes you feel 的语气完全一致。",
+    "evidence": "Whether classical music is something that you listen to on a regular basis or not, it wouldn't {34} to take time out of your day to listen to music that you find {35} .",
+    "distractors": {
+     "J": "majestic（雄伟的）虽可作宾补，但形容音乐的“壮丽”与全文“减压、镇静、改善睡眠”的放松主题走向相反。",
+     "H": "intrinsically 是副词，不能作宾语补足语说明 music 的性质，词性错误。",
+     "K": "mandatory（强制的）与“你自己喜欢的音乐”相矛盾，且描述的是外部要求而非听感。"
+    }
+   }
+  },
+  "passage_zh": "不同流派的音乐能激发独特的感受、情绪和记忆，这真是相当奇妙。研究表明，音乐可以减轻手术前的压力和焦虑，而我们每个人都会倾心于自己独特的人生配乐。如果你想缓解压力，不妨试试古典音乐。古典音乐的声音能产生镇静效果，释放大脑中令人愉悦的多巴胺（多巴胺），这种物质有助于控制注意力、学习和情绪反应。它还能降低身体的应激反应，从而带来整体上更愉快的心情。事实证明，愉快的心情能带来思维的清晰。尽管古典音乐有许多伟大的作曲家，如巴赫、贝多芬和亨德尔，但这些艺术家的音乐似乎都没有莫扎特的音乐那样的健康效果。据研究人员称，听莫扎特的音乐可以增强脑电波活动，改善认知功能。另一项研究发现，莫扎特音乐的独特之处会激活大脑中负责高级心理功能的部分。甚至连产科病房也用莫扎特的音乐来帮助新生儿适应母体之外的生活。研究发现，听古典音乐能显著降低人的血压。研究人员认为，古典音乐镇静的声音或许能帮助你的心脏从压力中恢复。古典音乐也可以成为帮助睡眠不佳者的绝佳工具。一项研究发现，睡眠不好的学生在听古典音乐时睡得更好。无论你是否经常听古典音乐，每天抽点时间听听让你觉得舒缓的音乐都不会有什么坏处。你会惊讶于它让你感觉多么好，以及它可能给你的健康带来的积极变化。"
+ },
+ "matching": {
+  "statements": {
+   "36": {
+    "answer": "C",
+    "my_answer": "C",
+    "verified": true,
+    "explanation": "C 段首句直接说明 Jackson 通过契约把树及其周围一小块地的所有权转给了树本身；转交的目的在 B 段（endeavored to protect it from any danger）与契约原文（his great desire to see it protected）中写明，正是“保护它不被毁掉”，与题干 to protect it from being destroyed 对应。",
+    "evidence": "Towards this end, Jackson transferred by means of a deed ownership of the tree and a little land around it to the tree itself."
+   },
+   "37": {
+    "answer": "H",
+    "my_answer": "H",
+    "verified": true,
+    "explanation": "H 段第二句：对雅典土地所有权记录的一次 extensive search 表明 Jackson 从未拥有这棵树所在的土地，与题干 no proof has been found from an extensive search 完全同义改写（does not seem to indicate = no proof）。",
+    "evidence": "Further, an extensive search of land ownership records in Athens does not seem to indicate Jackson ever owned the land the tree sits on."
+   },
+   "38": {
+    "answer": "B",
+    "my_answer": "B",
+    "verified": true,
+    "explanation": "B 段引文中 Its luxuriant leaves and sturdy limbs had often protected him from the heavy rains 即“下大雨时常在这棵树下避雨”，Its 指前文 Jackson 从小看着长大的那棵树；protected him from the heavy rains = took shelter when it was raining heavily。",
+    "evidence": "Its luxuriant leaves and sturdy limbs had often protected him from the heavy rains, and out of its highest branches he had many a time gotten the eggs of the feathered singers."
+   },
+   "39": {
+    "answer": "K",
+    "my_answer": "K",
+    "verified": true,
+    "explanation": "K 段先说 Jackson 理应知道要为契约土地缴税，紧接着 Yet no account or record indicates any trust or the like was set up to facilitate this，即找不到任何为缴税做安排的记录，与题干 no evidence that Jackson had made arrangements to pay property taxes 对应。",
+    "evidence": "And whatever the case there, Jackson would have known property taxes needed to be paid on the deeded land for the tree to be truly secure in its future. Yet no account or record indicates any trust or the like was set up to facilitate this."
+   },
+   "40": {
+    "answer": "I",
+    "my_answer": "I",
+    "verified": true,
+    "explanation": "I 段第二句说这块四英亩地卖给了沃德教授，第三句说明 Ward 须付给 Jackson 1,200 美元（$1,200 即 over one thousand dollars），正是“买地时付了一千多美元”。",
+    "evidence": "In the transaction, Ward was required to pay Jackson a sum of $1,200 (about $31, 000 today), either for the property itself or simply in compensation for improvements Jackson had made on the lot."
+   },
+   "41": {
+    "answer": "D",
+    "my_answer": "D",
+    "verified": true,
+    "explanation": "D 段末句写明 1942 年 10 月 9 日大树倒下，rumor has it, as a result of a severe windstorm，即“据说是猛烈风暴所致”，severe windstorm = heavy windstorm。",
+    "evidence": "Finally, on October 9, 1942, the over 30 meter tall and 200-400 year old tree fell, rumor has it, as a result of a severe windstorm and/or via having previously died and its roots rotted."
+   },
+   "42": {
+    "answer": "N",
+    "my_answer": "N",
+    "verified": true,
+    "explanation": "N 段说这个故事被推测是匿名作者凭想象编造的（invented by the imagination），并推测其用意是 19 世纪版 click-bait thought exercise，即“思想实验”，与题干 suspected to have been invented as a thought exercise 一致。",
+    "evidence": "As to why the author would do this, it's speculated perhaps it was a 19th century version of a click-bait thought exercise on whether it would be legal for someone to deed such a non-conscious living thing to itself or not."
+   },
+   "43": {
+    "answer": "J",
+    "my_answer": "J",
+    "verified": true,
+    "explanation": "J 段第二句：1844 年（19 世纪中叶）Jackson 陷入财务困难，其 little plantation 被治安官办公室扣押并 auctioned off to settle the mortgage，与题干 auctioned off to settle his debt in the mid-19th century 对应。",
+    "evidence": "Ten years later, in 1844, Jackson seemed to have come into financial difficulties and had his little plantation seized by the Clarke County Sheriff's office and auctioned off to settle the mortgage."
+   },
+   "44": {
+    "answer": "E",
+    "my_answer": "E",
+    "verified": true,
+    "explanation": "E 段第二、三句连起来：小树被 transplanted to the location of its ancestor（移栽到它先祖所在之处），几个月后 an official ceremony was held……to commemorate the occasion，与题干“举行正式仪式庆祝移栽”完全对应。",
+    "evidence": "And so it was that on October 9, 1946, under the direction of Professor Roy Bowden of the College of Agriculture at the University of Georgia, this little tree was transplanted to the location of its ancestor. A couple of months later, an official ceremony was held featuring none other than the Mayor of Athens, Robert L McWhorter, to commemorate the occasion."
+   },
+   "45": {
+    "answer": "O",
+    "my_answer": "O",
+    "verified": true,
+    "explanation": "O 段依次列出 1901 年百年纪念版上的同一故事（仅 slightly reworded）和 1906 年的又一次转载（again only slightly reworded），说明该故事多次见报且措辞略有改动，与题干 several times + slight alterations in wording 对应。",
+    "evidence": "This featured another account very clearly just copying the original article published about a decade before, only slightly reworded. The next account was in 1906, again in the Athens Weekly Banner, again very clearly copying the original account, only slightly reworded, the 19th century equivalent of re-posts when the audience has forgotten about the original."
+   }
+  },
+  "article_zh": "A) 在佐治亚州雅典市，有一处相当奇特的地方地标——一棵巨大的白橡树，几乎所有人都说它归它自己所有。也正因如此，它被认为是世界上最著名的树之一。那么，这棵树究竟是怎样拥有自己以及周围土地的呢？\nB) 19 世纪的某个时候，据说一位名叫威廉·杰克逊上校的佐治亚人喜欢上了这棵树，并努力保护它免遭任何危险。至于他为何如此钟爱它，这个故事最早的文字记载，是 1890 年 8 月 12 日《雅典周报旗帜报》头版一篇匿名文章。文中写道：“杰克逊上校从小就看着这棵树长大，对它几乎像对人一样生出爱意。它繁茂的叶子和粗壮的枝干常常为他遮挡大雨，他还多次从它最高的枝条上掏到鸣禽的蛋。他关注着它的生长，当他年事已高、看到这棵树以雄伟的姿态矗立时，他痛苦地想到，自己死后它可能会落到可能毁掉它的人手里。”\nC) 为了这个目的，杰克逊以契约的方式，把这棵树及其周围一小块土地的所有权转让给了这棵树本身。契约写道：“W. H. 杰克逊，鉴于他对上述树木怀有深厚的感情，并强烈希望看到它受到保护，已将上述橡树本身及其四周八英尺以内所有土地的完全所有权移交。”\nD) 后来，这棵树渐渐成了某种旅游景点，被称为“拥有自己的那棵树”。然而到了 20 世纪初，这棵树开始显出慢慢枯死的迹象，人们几乎无能为力。时间老人最终会把我们所有人带走，包括我们这些往往长寿、高大、枝叶繁茂的地球看管者。最后，1942 年 10 月 9 日，这棵高逾 30 米、树龄 200 至 400 年的大树倒下了；据传闻，原因是猛烈的风暴，和/或它此前已经死亡、根部腐烂。\nE) 大约四年后，少女园艺俱乐部的成员（她们在这棵树不幸枯死前一直照料它）找到了一棵由原树的坚果长成的小树。于是，1946 年 10 月 9 日，在佐治亚大学农学院罗伊·鲍登教授的指导下，这棵小树被移栽到了它先祖所在的位置。几个月后还举行了一场正式仪式，出席者不是别人，正是雅典市市长罗伯特·L·麦克沃特，以纪念这一时刻。\nF) 这棵新树被称为“拥有自己的那棵树之子”，人们认为作为原树的继承者，它自然继承了它所站立的土地。当然，还有许多打几十棵已知源自原树的树，因为人们从它身上取坚果到别处栽种是必然会发生的。即便如此，迄今为止，原树的其他“孩子”还没有一个向法院申请自己那份土地，所以看起来一切都好。总之，“拥有自己的那棵树之子”至今仍矗立在那里，尽管常被简称为“拥有自己的那棵树”。\nG) 这一切把话题带回到：杰克逊当初是否真的把树的所有权合法地交给了树本身，以及这样一份契约是否具有法律效力。\nH) 嗯，首先，原来杰克逊一生中在雅典只待了大约三年，从 1829 年到 1832 年，当时他 43 岁；这多少否定了那种说法——他因儿时在树下玩耍、看着它长大而爱这棵树，并担心自己死后它会怎样。此外，对雅典土地所有权记录的一次广泛查找，似乎并不能表明杰克逊曾拥有这棵树所在的土地。\nI) 那三年里他确实住在紧邻这棵树的一块地上，但他是否拥有那块地并不清楚。无论如何，1832 年，一块四英亩的地块（其中包括这棵树所在的土地以及杰克逊居住的相邻地块等）被卖给了大学教授马尔萨斯·A·沃德。在这笔交易中，沃德须付给杰克逊 1,200 美元（约合今天的 31,000 美元），或为此地产本身，或仅作为对杰克逊在该地块上所做改良的补偿。最终，无论他曾拥有相邻地块，还是据称在大学工作期间只是被允许使用它，他都绝对从未拥有过这棵树所生长的那块地——而这正是当前话题最关键的一点。\nJ) 在沃德教授买下那块地之后，杰克逊一家在几英里外买了一块 655 英亩的地并搬了过去。十年后的 1844 年，杰克逊似乎陷入了财务困难，他的小种植园被克拉克县治安官办公室扣押并拍卖，以清偿抵押贷款。因此，如果他在雅典本地拥有包括这棵树所在土地在内的地产，想必他会把它卖掉以筹措资金，否则也会被一并处置。\nK) 无论那里的情况如何，杰克逊都该知道，要让这棵树的前途真正有保障，就必须为这份契约土地缴纳税款。然而，没有任何账目或记录表明曾设立过任何信托之类的安排来为此提供便利。\nL) 除此以外，也没有确凿证据表明这样一份契约曾经存在，尽管雅典的契约记录可以追溯到杰克逊 1876 年去世之前的许多年，而且据那位自称见过它的匿名新闻记者说，它在 1890 年理应存于档案之中。\nM) 正如你可以想见的，很少有人相信这个故事的这一面。那么，这一切又是怎么来的呢？\nN) 据推测，这是由《雅典周报旗帜报》那位匿名作者在 1890 年上述头版文章《契约给自己》中凭想象编造出来的；顺带一提，那篇文章还包含若干更容易被证明为假的成分。至于作者为何要这样做，据推测，这或许是 19 世纪版的“标题党”思想实验：把这样一种没有意识的生物的所有权立契交给它自己，究竟是否合法。\nO) 无论如何，此后已知提到“拥有自己的那棵树”的下一次，要到 1901 年该报的百年纪念版。那上面又登了一篇叙述，显然只是照抄大约十年前发表的那篇原文，仅略有改写。再下一次是 1906 年，同样在《雅典周报旗帜报》，同样明显是在照抄最初的叙述，仅略有改写——相当于 19 世纪的“转发”，只不过受众已经忘了原帖。"
+ },
+ "careful": {
+  "2024-06-1-careful-1": {
+   "passage_zh": "不可否认，员工都懂得是非之分。那么，为什么当看到有人在职场中表现出冒险行为时，更多的员工不去干预呢？\n有若干因素会影响人们是否出手干预。第一，他们要能意识到危险的情形正在开始显现。第二，公司的文化要让他们觉得发声是安全的。第三，他们需要具备有效表达的沟通技巧。\n严格来说，这并不只是职场问题；在工作之外，这也是一个日益严重的问题。每天都有人目睹街头发生的事，却选择袖手旁观。这被称为旁观者效应——目击者越多，这群人里就越不可能有人去帮助受害者。其背后的心理机制被称为责任分散。基本上，人群越大，越多的人会以为别人会去处理——这意味着在需要帮助的时刻，没有人真正干预或行动。\n这种群体心理强大到足以让人逃避自己明知的责任。而且在职场中不做安全干预的并不只是基层员工，也有主管同样不予干预的情形。\n当一群员工看到不安全行为在领导层面没有得到处理时，这就树立了一个先例：这类情况本该这样处理，从而为所有人界定了安全文化。\n尽管工人在发现不安全操作时被鼓励去干预，但这种情况发生的比例还不到一半。恐惧是导致不干预的终极因素。人们既怕受惩罚，也怕一旦干预就要干更多活。过去干预失败的尝试是另一个重要的促成因素——他们往往倾向于在今后所有类似情形中把这一行动推给别人。\n在许多工地上，必须指定胜任人员。他们的部分职责是：当工人未使用合适设备执行任务，或条件不安全时进行干预。胜任人员还被要求在有危险时制止工作继续进行。\n主管也起着关键作用。即使不要求配备胜任人员，主管也需要一整套技能，不仅要识别并减轻工作场所的危害，还要在团队中营造一种支持干预、鼓励彼此公开交流的安全氛围。\n除了胜任人员和主管之外，重要的是要教育组织内的每个人：只要目睹可能的不安全行为就都有义务干预，无论你是被指定的胜任人员、主管还是基层员工。",
+   "questions": {
+    "46": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "Second, the company's culture needs to make them feel safe to speak up.",
+     "explanation": "第二段列举影响是否干预的三个因素，第二项即“公司的文化要让员工觉得发声是安全的”；B“不利的企业文化”正是这一因素的负面表述，与题干“导致干预失败的因素之一”对应。",
+     "distractors": {
+      "A": "偷换主体：原文讨论的是“员工是否敢发声”的文化氛围，而非“监督作风松懈”；主管不干预的问题出现在第 4、5 段，是现象而非本题所问的“影响因素”。",
+      "C": "曲解原文：原文第一项是“要能看到危险情形开始显现”（see a risky situation beginning to unfold），强调“能否察觉”，而 unforeseeable（不可预见）与原文“能看到其开始”直接矛盾。",
+      "D": "程度与性质不符：原文第三项是员工“缺少有效表达的沟通技巧”（need to have the communication skills），属个人能力不足，而不是“沟通被阻断”这种外部障碍。"
+     }
+    },
+    "47": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "Basically, the larger the crowd, the more people assume that someone else will take care of it—meaning no one effectively intervenes or acts in a moment of need.",
+     "explanation": "第三段第四句点明这种心理叫 diffusion of responsibility，第五句随即解释：人越多，越多人以为别人会处理，结果没人真正干预；D“人越多，越不会有人站出来干预”正是该解释的概括。",
+     "distractors": {
+      "A": "无中生有：原文的解释是“以为别人会去处理”，并未提及旁观者担心自身安全。",
+      "B": "把现象当解释：B 只是对第 3 句“旁观者效应”现象的重述（the more people who witness an event, the less likely anyone in that group is to help the victim），说的是“更没人伸手帮忙”的结果；而题干问的是 diffusion of responsibility 这一心理机制，B 没有体现“责任被分散到人群中、人人都以为别人会去处理”这一层，无法解释“为什么会这样”。D 落到 the larger the crowd, the more people assume that someone else will take care of it—meaning no one effectively intervenes，才是对机制本身的解释。",
+      "C": "主体偷换：原文说需要帮助的是“受害者”，C 却把“街上闲逛的人”说成“需要被照顾的人”，把旁观者与受害者混为一谈。"
+     }
+    },
+    "48": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 5,
+     "evidence_quote": "When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone.",
+     "explanation": "第五段说，员工看到不安全行为未在领导层面得到处理时，就会形成“这类情况本该这样处理”的先例，从而为所有人定义安全文化；先例一旦确立为“不处理”，员工遇到类似行为也就不会干预，A 正是该句的推论。",
+     "distractors": {
+      "B": "曲解词义：原文的 precedent 指“先例/惯例”，B 把它理解成“最省事的办法”，加入原文没有的价值判断，属无中生有。",
+      "C": "范围转移：原文讨论的是“是否干预他人”的行为规范，并未提工人因此会更谨慎地执行自身任务。",
+      "D": "与文意相反：全文（第 3、4 段）强调责任分散使人回避责任，恰恰是“没人管”，而不是“工人自己去处理紧急情况”。"
+     }
+    },
+    "49": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "Fear is the ultimate factor in not intervening.",
+     "explanation": "第六段明确说“恐惧是不干预的终极因素”，随后具体化为两种恐惧：怕受惩罚、怕干预后要干更多活；D“害怕要干更多活”即后者，而且是题干所问的“终极原因”范畴内的具体原因。",
+     "distractors": {
+      "A": "原因错位：原文把“过去干预失败、倾向推给别人”列为 another strong contributing factor（另一个重要因素），不是 ultimate factor，把次要因素当作根本原因。",
+      "B": "无中生有：原文没有“员工指望领导出面”的表述，相反第 4、5 段指出主管也常常不干预。",
+      "C": "无中生有：原文列出的两种恐惧是“受惩罚”和“增加工作量”，从未提到“被同事孤立”。"
+     }
+    },
+    "50": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them.",
+     "explanation": "第八段强调主管的关键作用在于：不仅识别并减轻危害，还要 in their team 建立支持干预、鼓励公开交流的 safety climate；C“主管为及时干预营造安全环境”与该句核心主张对应。",
+     "distractors": {
+      "A": "偷换内容：第 7 段所说的是“工人未使用合适设备时”由胜任人员干预，原文并未把“设备操作培训”列为保障安全的关键，且本题问的是主管的角色。",
+      "B": "与作者主张相反：第 6 段把 fear of penalty 视为员工不干预的原因，作者主张鼓励干预、营造安全氛围，严厉处分恰恰会加重这种恐惧。",
+      "D": "以偏概全：open communication 只是该句中与“营造安全氛围”并列的一部分，D 把并列内容之一当成全部关键，丢掉了 supports intervening 这一核心。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "intervene",
+     "meaning": "v. 干预，介入",
+     "note": "intervene in / when…，文中 intervene when they see at-risk behavior"
+    },
+    {
+     "word": "at-risk",
+     "meaning": "adj. 有风险的，处于危险中的",
+     "note": "at-risk behavior 冒险行为（安全术语）"
+    },
+    {
+     "word": "bystander",
+     "meaning": "n. 旁观者",
+     "note": "bystander effect 旁观者效应"
+    },
+    {
+     "word": "evade",
+     "meaning": "v. 逃避，规避",
+     "note": "evade responsibilities 逃避责任"
+    },
+    {
+     "word": "precedent",
+     "meaning": "n. 先例，前例",
+     "note": "create/set a precedent 开创先例"
+    },
+    {
+     "word": "hazard",
+     "meaning": "n. 危险，危害",
+     "note": "workplace hazards 工作场所危害；alleviate hazards 减轻危害"
+    },
+    {
+     "word": "competent",
+     "meaning": "adj. 有能力的，胜任的",
+     "note": "competent workers 胜任人员（持证作业人员）"
+    },
+    {
+     "word": "alleviate",
+     "meaning": "v. 减轻，缓解",
+     "note": "alleviate hazards / stress / anxiety"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them.",
+    "analysis": "主句是 supervisors need a broad set of skills（主语 + 谓语 + 宾语）；句首 Even if 引导让步状语从句（即使不要求配备胜任人员）；不定式 to not only identify and alleviate… but also build… 作后置定语说明 skills 的内容，not only…but also 并列两个动词短语；句末 that supports intervening and open communication among them 是定语从句，修饰 a safety climate。"
+   }
+  },
+  "2024-06-1-careful-2": {
+   "passage_zh": "“环保主义者”一词可以有不同含义。它过去指那些努力保护野生动物和自然生态系统的人。到了 21 世纪，这个词的含义已演变为涵盖应对人为气候变化的需要。\n环境保护主义这两条脉络之间的区别，正是科学界围绕核能产生分歧的原因。\n一方是纯粹派，他们认为核电不值得冒这个风险，应对气候危机的唯一办法就是可再生能源。对立的一方承认可再生能源至关重要，但表示在太阳不出、风不吹的时候，社会仍需要一定量的电力来满足消费者的基本需求。核能远比石油、天然气和煤炭清洁，因此是自然而然的选择，尤其是在水电产能有限的地方。\n曾参与撰写联合国政府间气候变化专门委员会报告的 Leon Clarke 并非无条件的核能支持者，但他表示，如果我们真想实现碳中和，核能是一个宝贵的备选项。\n“这一切的核心在于，你认为我们究竟能在多大程度上靠 100% 可再生能源实现气候目标，”他说。“如果你认为我们做不到，而你又关心气候，那就不得不考虑核能这类东西。”\n全球范围 100% 可再生能否实现，同样存在争议。像佛蒙特州伯灵顿这样的城市，多年来一直“100% 可再生”。但这些城市往往人口规模小，偶尔仍需依赖化石燃料能源，并且本地就有可观的可再生资源。与此同时，那些能靠可再生能源运转的国家，通常是得益于非凡的水电能力。\n德国是大型工业化国家推进绿色能源的最佳案例。2011 年，总理安格拉·默克尔宣布“能源转型”（Energiewende）：逐步淘汰核能与煤炭，同时引入可再生能源。自 2010 年以来，风电和太阳能发电量增长了 400% 以上，2019 年可再生能源提供了该国 46% 的电力。\n但近年来进展已经停滞。可再生能源的不稳定不仅意味着夜里常常发不出电，也意味着白天太阳能和风能会超出电网的承受能力，迫使电力公司付钱让客户用电。滞后的电网基础设施难以把北部过剩的绿电输送到南部工业区，这意味着许多工厂仍靠煤炭和天然气运转。一些地方还触及了政治上的限度，市民以强烈的抗议迎接新风机的建设。\n结果是，德国的温室气体排放自 2010 年以来下降了约 11.5%——慢于欧盟 13.5% 的平均水平。",
+   "questions": {
+    "51": {
+     "answer": "D",
+     "my_answer": "D",
+     "verified": true,
+     "evidence_paragraph": 2,
+     "evidence_quote": "The distinction between these two strands of environmentalism is the cause of a split within the scientific community about nuclear energy.",
+     "explanation": "第二段直接给出因果：环境保护主义两条脉络之别（the distinction between these two strands of environmentalism）是科学界在核能问题上分裂的原因；两条脉络来自第一段对 environmentalist 的两种理解，D“对环保主义的不同解读”与之对应。",
+     "distractors": {
+      "A": "以偏概全：应对人为气候变化只是 21 世纪这一条脉络的内涵（第 1 段），是分裂双方的共同背景，而不是分裂的原因。",
+      "B": "张冠李戴：保护野生动物和自然生态系统是旧义，属于两条脉络中的另一条，同样不是分裂的原因。",
+      "C": "主体与时间双错：原文讨论的是 environmentalist 一词含义的演变，不是“green energy”一词；且变化发生在 21 世纪，而非“过去一个世纪”。"
+     }
+    },
+    "52": {
+     "answer": "C",
+     "my_answer": "C",
+     "verified": true,
+     "evidence_paragraph": 3,
+     "evidence_quote": "The opposing side agrees that renewables are crucial, but says society needs an amount of power available to meet consumers' basic demands when the sun isn't shining and the wind isn't blowing. Nuclear energy, being far cleaner than oil, gas and coal, is a natural option, especially where hydroelectric capacity is limited.",
+     "explanation": "第三段说对立一方承认可再生能源重要，但在无风无光时仍需满足基本用电需求，所以“核能是自然而然的选择”，即必要时选用核能，C 与此一致。",
+     "distractors": {
+      "A": "主体张冠李戴：坚定且只依靠可再生能源是 purists（纯粹派）的立场，题干问的是 purists’ opponents（对立一方）。",
+      "B": "取向相反：原文强调核能 far cleaner than oil, gas and coal，对立一方的补位方案是核能，而不是继续以化石燃料与绿能交替。",
+      "D": "无中生有：原文说的是要在无风无光时满足消费者的基本需求，从未提出“限制非基本消费”的措施。"
+     }
+    },
+    "53": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 6,
+     "evidence_quote": "The achievability of universal 100% renewability is similarly contentious.",
+     "explanation": "第六段以伯灵顿等“100% 可再生”城市为例（人口少、仍偶用化石燃料、本地资源丰富），正是为了支撑段首论点：全球范围 100% 可再生能否实现仍存在争议，A 即该论点。",
+     "distractors": {
+      "B": "事实反转：原文说这些城市 often have small populations（人口规模小），B 改成“人口众多的大城市”；而且“就地拥有可再生资源”本是这类城市的优势条件，不是争议所在。",
+      "C": "范围与程度被改：原文说的是国家借助 extraordinary hydroelectric capabilities（非凡的水电能力），C 把对象换成“城市”、把 extraordinary 降级为“可持续的”。",
+      "D": "偷换概念：本段争议的是“100% 可再生能否实现”，D 换成“化石燃料能否被彻底淘汰”；原文只说这些城市偶尔仍依赖化石燃料，并未讨论全面淘汰的可能性。"
+     }
+    },
+    "54": {
+     "answer": "B",
+     "my_answer": "B",
+     "verified": true,
+     "evidence_paragraph": 7,
+     "evidence_quote": "Germany stands as the best case study for a large, industrialized country pushing into green energy.",
+     "explanation": "第七段首句明确称德国是“大型工业化国家推进绿色能源的最佳案例（best case study）”，B 的 a good example of a major industrialized country promoting green energy 正是该句的改写。",
+     "distractors": {
+      "A": "数字与时间双错：原文是 has increased over 400% since 2010（2010 年以来增长超过 400%），A 改成“过去二十年增长四倍”，既把时间跨度拉长，又把“超过 400%”缩成“4 倍”。",
+      "C": "与数据不符：原文为 renewables provided 46%，未过半数，C 的 more than half 不成立。",
+      "D": "与原文相反：第 8 段首句即 But progress has halted in recent years，说明转型目标并未达成，D 说“已成功实现”与文意相反。"
+     }
+    },
+    "55": {
+     "answer": "A",
+     "my_answer": "A",
+     "verified": true,
+     "evidence_paragraph": 8,
+     "evidence_quote": "Lagging grid infrastructure struggles to transport this overabundance of green energy from Germany's north to its industrial south, meaning many factories still run on coal and gas.",
+     "explanation": "第八段把进展停滞的具体原因落在电网：Lagging grid infrastructure struggles to transport this overabundance… meaning many factories still run on coal and gas，即电网落后、跟不上绿电发展，A 与之对应。",
+     "distractors": {
+      "B": "偷换动作与主体：原文是过剩绿电迫使 utilities（电力公司）付钱让客户用电，B 改成“迫使电厂白天停机”，既换了主体也换了事实。",
+      "C": "因果倒置：原文说南部工厂仍用煤和气是“电网滞后、绿电送不过去”的结果，C 把客观制约说成南部“习惯于”用传统能源。",
+      "D": "表述含糊失准：原文的不稳定是“夜里常发不出电”与“白天发电超出电网承受”两种不同性质的问题，D 笼统说成“白天夜里都不稳定”，且题干问的“进展停滞的原因”，本段紧接着给出的是电网基础设施落后这一具体瓶颈。"
+     }
+    }
+   },
+   "vocabulary": [
+    {
+     "word": "strand",
+     "meaning": "n. （理论、思想的）脉络，分支",
+     "note": "two strands of environmentalism 环保主义的两条脉络"
+    },
+    {
+     "word": "contentious",
+     "meaning": "adj. 有争议的",
+     "note": "similarly contentious 同样有争议；近义 debatable"
+    },
+    {
+     "word": "exclusive",
+     "meaning": "adj. 排他的，唯一的",
+     "note": "the exclusive solution 唯一出路"
+    },
+    {
+     "word": "phase out",
+     "meaning": "phr. 逐步淘汰",
+     "note": "phase out nuclear and coal while phasing in renewables"
+    },
+    {
+     "word": "overabundance",
+     "meaning": "n. 过剩，过多",
+     "note": "overabundance of green energy 绿电过剩"
+    },
+    {
+     "word": "lagging",
+     "meaning": "adj. 落后的，滞后的",
+     "note": "Lagging grid infrastructure 滞后的电网设施"
+    },
+    {
+     "word": "halt",
+     "meaning": "v. 停止，中断",
+     "note": "progress has halted 进展停滞"
+    },
+    {
+     "word": "overwhelm",
+     "meaning": "v. 使不堪承受，压垮",
+     "note": "solar and wind can overwhelm the grid 风光电超出电网承受力"
+    }
+   ],
+   "long_sentence": {
+    "sentence": "The instability of renewables doesn't just mean energy is often not produced at night, but also that solar and wind can overwhelm the grid during the day, forcing utilities to pay customers to use their electricity.",
+    "analysis": "主句是 The instability of renewables doesn't just mean … but also …（正是……不只是……而且……），mean 后接两个由 that 引导的宾语从句：energy is often not produced at night 与 solar and wind can overwhelm the grid during the day（第二个 that 前省略了重复的 mean）；句末 forcing utilities to pay customers to use their electricity 是现在分词短语作结果状语，说明“白天发电超出电网承受”造成的后果。"
+   }
+  }
+ }
+}
