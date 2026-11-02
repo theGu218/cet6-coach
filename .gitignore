@@ -19,8 +19,8 @@ tests/.tmp/
 # 需要重建时按 README 的说明重新获取，脚本见 tools/）
 content/raw/
 
-# 设计截图（底部含本机用户名路径，避免泄露隐私）
-design/screens/
+# 设计过程文件（截图含本机路径；方案文档只对开发过程有意义）
+design/
 
 # 早期探索阶段留下的原始文件（体积大，构建时不依赖）
 content/2024-06-set1-answers.pdf
