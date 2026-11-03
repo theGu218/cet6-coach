@@ -168,6 +168,7 @@ class ReadingView(BaseView):
         pane.pack(fill="both", expand=True)
         pane.columnconfigure(0, weight=3)
         pane.columnconfigure(1, weight=2)
+        pane.rowconfigure(0, weight=1)
         left = card(pane, 16)
         left.master.grid(row=0, column=0, sticky="nsew", padx=(0, 12))
         right = card(pane, 18)
@@ -180,35 +181,24 @@ class ReadingView(BaseView):
             anchor="w", pady=(2, 0))
         if exam.get("answer_note"):
             tk_label(left, exam["answer_note"], 9, False, AMBER, CARD).pack(anchor="w", pady=(0, 6))
-        scroll = ScrollFrame(left, CARD)
-        scroll.pack(fill="both", expand=True)
-        body = scroll.inner
-        passage = tk.Text(body, wrap="word", font=("Microsoft YaHei UI", 11), bg=CARD, fg=TEXT,
-                          relief="flat", padx=4, pady=4, spacing1=3, spacing3=9, height=26,
-                          borderwidth=0)
-        passage.insert("1.0", cloze["passage"])
-        passage.configure(state="disabled")
+        passage = readonly_text_widget(left, cloze["passage"], 11)
         passage.pack(fill="both", expand=True)
         if cloze.get("passage_zh"):
             ttk.Button(left, text="显示 / 隐藏全文参考译文",
                        command=lambda: self._show_text("选词填空 · 参考译文", cloze["passage_zh"])
                        ).pack(anchor="w", pady=(8, 0))
 
-        tk_label(right, "选项词库", 13, True).pack(anchor="w")
-        bank = tk.Frame(right, bg=CARD)
-        bank.pack(fill="x", pady=(6, 12))
-        for i, entry in enumerate(cloze["wordbank"]):
-            tk_label(bank, f"{entry['letter']}) {entry['word']}", 10, False, TEXT, CARD,
-                     anchor="w").grid(row=i // 3, column=i % 3, sticky="w", padx=(0, 14), pady=2)
-
-        tk_label(right, "为每个空选择字母", 13, True).pack(anchor="w")
-        grid = tk.Frame(right, bg=CARD)
-        grid.pack(fill="x", pady=(8, 10))
+        right_scroll = ScrollFrame(right, CARD)
+        right_scroll.pack(fill="both", expand=True)
+        rbody = right_scroll.inner
+        tk_label(rbody, "为每个空选择字母", 13, True).pack(anchor="w")
+        grid = tk.Frame(rbody, bg=CARD)
+        grid.pack(fill="x", pady=(6, 10))
         letters = [entry["letter"] for entry in cloze["wordbank"]]
         self.cloze_vars: dict[str, tk.StringVar] = {}
         for i, blank in enumerate(cloze["blanks"]):
             row = tk.Frame(grid, bg=CARD)
-            row.grid(row=i // 2, column=i % 2, sticky="w", padx=(0, 14), pady=4)
+            row.grid(row=i // 2, column=i % 2, sticky="w", padx=(0, 14), pady=2)
             tk_label(row, f"{blank['num']}", 10, True, PRIMARY).pack(side="left")
             var = tk.StringVar(value=self.answers.get(str(blank["num"]), ""))
             combo = ttk.Combobox(row, textvariable=var, values=letters, state="readonly", width=5)
@@ -217,27 +207,24 @@ class ReadingView(BaseView):
                        lambda _e, k=str(blank["num"]), v=var: self.answers.__setitem__(k, v.get()))
             self.cloze_vars[str(blank["num"])] = var
 
+        tk_label(rbody, "选项词库", 12, True).pack(anchor="w", pady=(10, 4))
+        bank = tk.Frame(rbody, bg=CARD)
+        bank.pack(fill="x")
+        for i, entry in enumerate(cloze["wordbank"]):
+            tk_label(bank, f"{entry['letter']}) {entry['word']}", 9, False, TEXT, CARD,
+                     anchor="w").grid(row=i // 2, column=i % 2, sticky="w", padx=(0, 16), pady=1)
+
         actions = tk.Frame(right, bg=CARD)
-        actions.pack(fill="x", pady=(6, 0))
+        actions.pack(side="bottom", fill="x", pady=(8, 0))
         ttk.Button(actions, text="提交并查看解析", style="Primary.TButton",
                    command=self._submit_cloze).pack(side="left")
         ttk.Button(actions, text="重做本组", command=self._reset_session).pack(side="left", padx=8)
-
-        results_scroll = ScrollFrame(right, CARD)
-        results_scroll.pack(fill="both", expand=True, pady=(10, 0))
-        self.cloze_result_area = results_scroll.inner
-        self._render_cloze_results()
+        self.cloze_result_area = None
 
     def _render_cloze_results(self) -> None:
-        area = getattr(self, "cloze_result_area", None)
-        if area is None or not area.winfo_exists() or not self.results:
-            return
-        clear(area)
-        score = sum(1 for item in self.results if item["correct"])
-        tk_label(area, f"本轮成绩 {score} / {len(self.results)}", 12, True,
-                 GREEN if score == len(self.results) else PRIMARY).pack(anchor="w", pady=(0, 8))
-        for item in self.results:
-            self._result_row(area, item, prefix=f"{item['num']}")
+        if self.results:
+            self._open_results_dialog("选词填空 · 本轮解析", self.results,
+                                      prefix=lambda item: f"{item['num']}")
 
     # ---- 段落匹配 ----
     def _render_matching(self) -> None:
@@ -256,6 +243,7 @@ class ReadingView(BaseView):
         pane.pack(fill="both", expand=True)
         pane.columnconfigure(0, weight=3)
         pane.columnconfigure(1, weight=2)
+        pane.rowconfigure(0, weight=1)
         left = card(pane, 16)
         left.master.grid(row=0, column=0, sticky="nsew", padx=(0, 12))
         right = card(pane, 18)
@@ -265,23 +253,22 @@ class ReadingView(BaseView):
         head.pack(fill="x", pady=(0, 8))
         tk_label(head, f"{matching['title']}", 13, True).pack(side="left")
         tk_label(head, "段落匹配", 9, False, MUTED).pack(side="right")
-        scroll = ScrollFrame(left, CARD)
-        scroll.pack(fill="both", expand=True)
-        text = readonly_text_widget(scroll.inner, self._article_text(matching), 11)
+        text = readonly_text_widget(left, self._article_text(matching), 11)
         text.pack(fill="both", expand=True)
         if matching.get("article_zh"):
             ttk.Button(left, text="显示 / 隐藏全文参考译文",
                        command=lambda: self._show_text("段落匹配 · 参考译文", matching["article_zh"])
                        ).pack(anchor="w", pady=(8, 0))
 
-        tk_label(right, "为每句话选择所属段落", 13, True).pack(anchor="w")
-        tk_label(right, "同一个段落可以被选多次", 9, False, MUTED).pack(anchor="w", pady=(2, 8))
-        grid = tk.Frame(right, bg=CARD)
-        grid.pack(fill="x")
+        right_scroll = ScrollFrame(right, CARD)
+        right_scroll.pack(fill="both", expand=True)
+        rbody = right_scroll.inner
+        tk_label(rbody, "为每句话选择所属段落", 13, True).pack(anchor="w")
+        tk_label(rbody, "同一个段落可以被选多次", 9, False, MUTED).pack(anchor="w", pady=(2, 8))
         labels = [p["label"] for p in matching["paragraphs"]]
         self.match_vars: dict[str, tk.StringVar] = {}
         for i, statement in enumerate(matching["statements"]):
-            row = tk.Frame(grid, bg=CARD)
+            row = tk.Frame(rbody, bg=CARD)
             row.pack(fill="x", pady=3)
             tk_label(row, f"{statement['num']}.", 10, True, PRIMARY, width=4).pack(side="left")
             var = tk.StringVar(value=self.answers.get(str(statement["num"]), ""))
@@ -290,18 +277,15 @@ class ReadingView(BaseView):
             box.bind("<<ComboboxSelected>>",
                      lambda _e, k=str(statement["num"]), v=var: self.answers.__setitem__(k, v.get()))
             self.match_vars[str(statement["num"])] = var
-            tk_label(row, statement["statement"], 9, False, TEXT, CARD, wraplength=330,
+            tk_label(row, statement["statement"], 9, False, TEXT, CARD, wraplength=300,
                      justify="left").pack(side="left", padx=8)
 
         actions = tk.Frame(right, bg=CARD)
-        actions.pack(fill="x", pady=(10, 0))
+        actions.pack(side="bottom", fill="x", pady=(8, 0))
         ttk.Button(actions, text="提交并查看解析", style="Primary.TButton",
                    command=self._submit_matching).pack(side="left")
         ttk.Button(actions, text="重做本组", command=self._reset_session).pack(side="left", padx=8)
-        results_scroll = ScrollFrame(right, CARD)
-        results_scroll.pack(fill="both", expand=True, pady=(10, 0))
-        self.match_result_area = results_scroll.inner
-        self._render_match_results()
+        self.match_result_area = None
 
     @staticmethod
     def _article_text(matching: dict) -> str:
@@ -311,15 +295,9 @@ class ReadingView(BaseView):
         return "\n\n".join(parts)
 
     def _render_match_results(self) -> None:
-        area = getattr(self, "match_result_area", None)
-        if area is None or not area.winfo_exists() or not self.results:
-            return
-        clear(area)
-        score = sum(1 for item in self.results if item["correct"])
-        tk_label(area, f"本轮成绩 {score} / {len(self.results)}", 12, True,
-                 GREEN if score == len(self.results) else PRIMARY).pack(anchor="w", pady=(0, 8))
-        for item in self.results:
-            self._result_row(area, item, prefix=str(item["num"]))
+        if self.results:
+            self._open_results_dialog("段落匹配 · 本轮解析", self.results,
+                                      prefix=lambda item: str(item["num"]))
 
     # ---- 仔细阅读 ----
     def _render_careful(self) -> None:
@@ -332,6 +310,7 @@ class ReadingView(BaseView):
         pane.pack(fill="both", expand=True)
         pane.columnconfigure(0, weight=3)
         pane.columnconfigure(1, weight=2)
+        pane.rowconfigure(0, weight=1)
         left = card(pane, 16)
         left.master.grid(row=0, column=0, sticky="nsew", padx=(0, 12))
         right = card(pane, 20)
@@ -347,9 +326,7 @@ class ReadingView(BaseView):
                        style="Primary.TButton" if i == self.passage_index else "TButton",
                        command=lambda idx=i: self._switch_passage(idx)).pack(side="left", padx=(0, 6))
 
-        scroll = ScrollFrame(left, CARD)
-        scroll.pack(fill="both", expand=True)
-        text = readonly_text_widget(scroll.inner, self._passage_text(passage), 11)
+        text = readonly_text_widget(left, self._passage_text(passage), 11)
         text.pack(fill="both", expand=True)
         bottom = tk.Frame(left, bg=CARD)
         bottom.pack(fill="x", pady=(8, 0))
@@ -532,6 +509,9 @@ class ReadingView(BaseView):
         self._render()
 
     def _after_submit(self, results: list[dict], kind: str) -> None:
+        if self.timer:  # 交卷即停表，不要继续计时
+            self.timer.pause()
+            self.timer_button.configure(text="计时")
         score = sum(1 for item in results if item["correct"])
         messagebox.showinfo("本组成绩", f"答对 {score} / {len(results)} 题。\n解析已显示在下方，错题可以标记原因。",
                             parent=self.app)
@@ -694,6 +674,21 @@ class ReadingView(BaseView):
         render()
 
     # ---------------- 辅助弹窗 ---------------- #
+    def _open_results_dialog(self, title: str, results: list[dict], prefix=None) -> None:
+        window = tk.Toplevel(self.app)
+        window.title(title)
+        window.geometry("760x720")
+        window.configure(bg=CARD)
+        scroll = ScrollFrame(window, CARD)
+        scroll.pack(fill="both", expand=True, padx=14, pady=14)
+        body = scroll.inner
+        score = sum(1 for item in results if item["correct"])
+        tk_label(body, f"{title}　成绩 {score} / {len(results)}", 13, True,
+                 GREEN if score == len(results) else PRIMARY).pack(anchor="w", pady=(0, 10))
+        for item in results:
+            self._result_row(body, item, prefix=prefix(item) if prefix else f"{item.get('num', '')}")
+        ttk.Button(body, text="关闭", command=window.destroy).pack(anchor="e", pady=(10, 0))
+
     def _show_text(self, title: str, content: str) -> None:
         window = tk.Toplevel(self.app)
         window.title(title)
@@ -731,12 +726,20 @@ class ReadingView(BaseView):
         return "\n\n".join(passage["paragraphs"])
 
 
-def readonly_text_widget(parent, content: str, size: int = 11) -> tk.Text:
-    widget = tk.Text(parent, wrap="word", font=("Microsoft YaHei UI", size), bg=CARD, fg=TEXT,
-                     relief="flat", padx=6, pady=6, spacing1=3, spacing3=9, borderwidth=0)
+def readonly_text_widget(parent, content: str, size: int = 11) -> tk.Frame:
+    """只读文本 + 自己的滚动条（返回容器，调用方直接 pack）。"""
+    holder = tk.Frame(parent, bg=CARD)
+    widget = tk.Text(holder, wrap="word", font=("Microsoft YaHei UI", size), bg=CARD, fg=TEXT,
+                     relief="flat", padx=6, pady=6, spacing1=3, spacing3=9, borderwidth=0,
+                     height=8)
+    bar = ttk.Scrollbar(holder, orient="vertical", command=widget.yview)
+    widget.configure(yscrollcommand=bar.set)
+    widget.pack(side="left", fill="both", expand=True)
+    bar.pack(side="right", fill="y")
     widget.insert("1.0", content)
     widget.configure(state="disabled")
-    return widget
+    holder.text = widget  # 方便调用方取文本控件
+    return holder
 
 
 def readonly_text(parent, content, size: int = 11):  # 兼容旧调用

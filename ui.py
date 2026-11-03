@@ -140,18 +140,28 @@ class ScrollFrame(ttk.Frame):
         self.canvas.bind("<Leave>", self._unbind_wheel)
 
     def _on_configure(self, _event=None) -> None:
+        if not self.canvas.winfo_exists():
+            return
         self.canvas.configure(scrollregion=self.canvas.bbox("all"))
 
     def _on_canvas(self, event) -> None:
+        if not self.canvas.winfo_exists():
+            return
         self.canvas.itemconfigure(self.window, width=event.width)
 
     def _bind_wheel(self, _event=None) -> None:
-        self.canvas.bind_all("<MouseWheel>", self._wheel)
+        if self.canvas.winfo_exists():
+            self.canvas.bind_all("<MouseWheel>", self._wheel)
 
     def _unbind_wheel(self, _event=None) -> None:
-        self.canvas.unbind_all("<MouseWheel>")
+        try:
+            self.canvas.unbind_all("<MouseWheel>")
+        except Exception:
+            pass
 
     def _wheel(self, event) -> None:
+        if not self.canvas.winfo_exists():
+            return
         self.canvas.yview_scroll(int(-event.delta / 120), "units")
 
     def scroll_top(self) -> None:
@@ -181,6 +191,20 @@ class Countdown:
         elif self.job:
             self.label.after_cancel(self.job)
         return self.running
+
+    def pause(self) -> None:
+        """暂停（交卷后调用）：停止计时但保留已用时间。"""
+        if not self.running:
+            self.render()
+            return
+        self.running = False
+        if self.job:
+            try:
+                self.label.after_cancel(self.job)
+            except tk.TclError:
+                pass
+            self.job = None
+        self.render()
 
     def reset(self) -> None:
         self.running = False
