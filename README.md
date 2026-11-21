@@ -67,6 +67,10 @@ python -m PyInstaller --noconfirm --clean CET6Coach_portable.spec   # 打包成 
 - `build_writing_translation.py`：生成作文与翻译题库
 - `fix_vocabulary.py`：词库去重
 
+## 开发文档
+
+- [交接文档（接手前先读）](docs/HANDOFF.md)
+
 ## 未来规划
 
 - [AI 功能设计（接入用户自带 API、翻译批改、阅读问答、本地历史）](docs/ai-design.md)
