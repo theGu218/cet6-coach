@@ -8,7 +8,7 @@ from tkinter import messagebox, ttk
 from services.vocabulary_service import INTERVALS, MODE_NAMES
 from ui import (AMBER, AMBER_SOFT, BG, CARD, GREEN, GREEN_SOFT, MUTED, PRIMARY,
                 PRIMARY_SOFT, RED, RED_SOFT, STRIP, TEXT, ScrollFrame, card, clear,
-                tk_label)
+                scrolled_tree, tk_label)
 from views.base import BaseView
 
 TIERS = ("全部", "高频核心", "基础回顾", "六级拓展")
@@ -297,13 +297,13 @@ class VocabularyView(BaseView):
                              "答错或拼错的词会自动进入这里，答对后仍需到期复习通过才会退出。")
             return
         columns = ("word", "meaning", "wrong", "last", "next")
-        tree = ttk.Treeview(self.wrong_tab, columns=columns, show="headings")
+        holder, tree = scrolled_tree(self.wrong_tab, columns)
         for key, title, width in [("word", "单词", 140), ("meaning", "释义", 320),
                                   ("wrong", "答错次数", 90), ("last", "最近错误答案", 190),
                                   ("next", "下次复习", 110)]:
             tree.heading(key, text=title)
             tree.column(key, width=width, anchor="w")
-        tree.pack(fill="both", expand=True)
+        holder.pack(fill="both", expand=True)
         for item in items:
             state = self.service.state(item["word"])
             tree.insert("", "end", iid=item["word"],
@@ -323,13 +323,12 @@ class VocabularyView(BaseView):
             self.empty_state(self.star_tab, "生词本还是空的。",
                              "做题或背词时点“加入生词本”，难词会集中到这里，方便重点复习。")
             return
-        tree = ttk.Treeview(self.star_tab, columns=("word", "phonetic", "meaning", "status"),
-                            show="headings")
+        holder, tree = scrolled_tree(self.star_tab, ("word", "phonetic", "meaning", "status"))
         for key, title, width in [("word", "单词", 150), ("phonetic", "音标", 170),
                                   ("meaning", "释义", 380), ("status", "状态", 100)]:
             tree.heading(key, text=title)
             tree.column(key, width=width, anchor="w")
-        tree.pack(fill="both", expand=True)
+        holder.pack(fill="both", expand=True)
         for item in items:
             tree.insert("", "end", iid=item["word"],
                         values=(item["word"], item.get("phonetic", ""), item.get("short_meaning", ""),
@@ -360,14 +359,13 @@ class VocabularyView(BaseView):
         combo.bind("<<ComboboxSelected>>", lambda _e: self._fill_list())
         combo2.bind("<<ComboboxSelected>>", lambda _e: self._fill_list())
 
-        self.list_tree = ttk.Treeview(self.list_tab,
-                                      columns=("word", "phonetic", "pos", "meaning", "tier", "status"),
-                                      show="headings")
+        holder, self.list_tree = scrolled_tree(
+            self.list_tab, ("word", "phonetic", "pos", "meaning", "tier", "status"))
         for key, title, width in [("word", "单词", 120), ("phonetic", "音标", 140), ("pos", "词性", 80),
                                   ("meaning", "释义", 300), ("tier", "分层", 90), ("status", "状态", 80)]:
             self.list_tree.heading(key, text=title)
             self.list_tree.column(key, width=width, anchor="w")
-        self.list_tree.pack(fill="both", expand=True)
+        holder.pack(fill="both", expand=True)
         self.list_tree.bind("<Double-1>", lambda _e: self._open_from_tree(self.list_tree))
         self._fill_list()
 
@@ -378,7 +376,6 @@ class VocabularyView(BaseView):
         query = self.search.get().strip().lower()
         tier = self.tier.get()
         status_wanted = self.status_filter.get()
-        count = 0
         for item in self.app.words:
             if query and query not in item["word"].lower() and query not in item.get("meaning", ""):
                 continue
@@ -391,9 +388,6 @@ class VocabularyView(BaseView):
                                   values=(item["word"], item.get("phonetic", ""), item.get("pos", ""),
                                           item.get("short_meaning", ""), item.get("tier", ""),
                                           state.get("status", "未学")))
-            count += 1
-            if count >= 800:
-                break
 
     def _refresh_all(self) -> None:
         self._refresh_wrong() if hasattr(self, "wrong_tab") and self.wrong_tab.winfo_exists() else None

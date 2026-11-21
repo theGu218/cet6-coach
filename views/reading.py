@@ -9,8 +9,8 @@ from tkinter import messagebox, ttk
 
 from services.reading_service import ERROR_REASONS, KIND_NAMES
 from ui import (AMBER, AMBER_SOFT, BG, CARD, GREEN, GREEN_SOFT, MUTED, PRIMARY,
-                PRIMARY_SOFT, RED, RED_SOFT, STRIP, TEXT, Countdown, ScrollFrame, card,
-                clear, tk_label)
+                PRIMARY_SOFT, RED, RED_SOFT, STRIP, TEXT, Countdown, OptionRow, ScrollFrame,
+                auto_wrap, card, clear, scrolled_tree, tk_label)
 from views.base import BaseView
 
 
@@ -363,30 +363,38 @@ class ReadingView(BaseView):
             tk_label(top, "回答正确" if chosen == question["answer"] else "回答错误", 10, True,
                      GREEN if chosen == question["answer"] else RED).pack(side="right")
 
+        controls = tk.Frame(parent, bg=CARD)
+        controls.pack(side="bottom", fill="x", pady=(8, 0))
         scroll = ScrollFrame(parent, CARD)
         scroll.pack(fill="both", expand=True, pady=(10, 0))
         body = scroll.inner
-        tk_label(body, question["stem"], 11, True, TEXT, wraplength=380, justify="left").pack(
-            anchor="w", pady=(0, 10))
-        var = tk.StringVar(value=self.answers.get(str(question["num"]), ""))
-        for i, option in enumerate(question["options"]):
-            bg, fg = CARD, TEXT
-            if submitted:
-                if self.letter(i) == question["answer"]:
-                    bg, fg = GREEN_SOFT, GREEN
-                elif self.letter(i) == self.answers.get(str(question["num"])):
-                    bg, fg = RED_SOFT, RED
-            button = tk.Radiobutton(body, text=f"{self.letter(i)}. {option}", variable=var,
-                                    value=self.letter(i), anchor="w", justify="left", wraplength=370,
-                                    font=("Microsoft YaHei UI", 10), bg=bg, fg=fg, activebackground=bg,
-                                    selectcolor=bg, padx=4, pady=8,
-                                    command=lambda qnum=str(question["num"]): self._pick_careful(qnum, var.get()))
-            button.pack(fill="x", pady=2)
-            if submitted:
-                button.configure(state="disabled")
+        stem = tk_label(body, question["stem"], 11, True, TEXT, wraplength=380, justify="left")
+        stem.pack(anchor="w", pady=(0, 10))
+        auto_wrap(stem, body)
+        chosen_letter = self.answers.get(str(question["num"]), "")
+        rows: list[tuple[OptionRow, str]] = []
 
-        controls = tk.Frame(parent, bg=CARD)
-        controls.pack(fill="x", pady=(8, 0))
+        def pick(letter_value: str) -> None:
+            self._pick_careful(str(question["num"]), letter_value)
+            for row, letter in rows:
+                if not submitted:
+                    row.set_state("selected" if letter == letter_value else "normal")
+
+        for i, option in enumerate(question["options"]):
+            letter = self.letter(i)
+            row = OptionRow(body, f"{letter}. {option}", on_select=lambda picked=letter: pick(picked))
+            if submitted:
+                if letter == question["answer"]:
+                    row.set_state("correct")
+                elif letter == self.answers.get(str(question["num"])):
+                    row.set_state("wrong")
+                else:
+                    row.set_state("disabled")
+            elif letter == chosen_letter:
+                row.set_state("selected")
+            row.pack(fill="x", pady=1)
+            rows.append((row, letter))
+
         if not submitted:
             ttk.Button(controls, text="提交本题", style="Primary.TButton",
                        command=lambda: self._submit_careful_question(passage, question)).pack(side="left")
@@ -403,24 +411,36 @@ class ReadingView(BaseView):
             self._render_explanation(body, self._careful_result(passage, question))
 
     def _render_careful_exam(self, parent, passage: dict) -> None:
+        actions = tk.Frame(parent, bg=CARD)
+        actions.pack(side="bottom", fill="x", pady=(8, 0))
         scroll = ScrollFrame(parent, CARD)
         scroll.pack(fill="both", expand=True)
         body = scroll.inner
         self.exam_vars: dict[str, tk.StringVar] = {}
         for question in passage["questions"]:
-            tk_label(body, f"{question['num']}. {question['stem']}", 10, True, TEXT,
-                     wraplength=380, justify="left").pack(anchor="w", pady=(10, 4))
-            var = tk.StringVar(value=self.answers.get(str(question["num"]), ""))
-            self.exam_vars[str(question["num"])] = var
+            stem = tk_label(body, f"{question['num']}. {question['stem']}", 10, True, TEXT,
+                            wraplength=380, justify="left")
+            stem.pack(anchor="w", pady=(10, 4))
+            auto_wrap(stem, body)
+            qnum = str(question["num"])
+            self.exam_vars[qnum] = tk.StringVar(value=self.answers.get(qnum, ""))
+            rows: list[tuple[OptionRow, str]] = []
+
+            def pick(letter_value: str, key=qnum, group=rows) -> None:
+                self.answers[key] = letter_value
+                self.exam_vars[key].set(letter_value)
+                for row, letter in group:
+                    row.set_state("selected" if letter == letter_value else "normal")
+
             for i, option in enumerate(question["options"]):
-                tk.Radiobutton(body, text=f"{self.letter(i)}. {option}", variable=var,
-                               value=self.letter(i), anchor="w", justify="left", wraplength=370,
-                               font=("Microsoft YaHei UI", 9), bg=CARD, fg=TEXT,
-                               activebackground=CARD, selectcolor=CARD, padx=2, pady=4,
-                               command=lambda k=str(question["num"]), v=var: self.answers.__setitem__(k, v.get())
-                               ).pack(fill="x")
-        actions = tk.Frame(parent, bg=CARD)
-        actions.pack(fill="x", pady=(8, 0))
+                letter = self.letter(i)
+                row = OptionRow(body, f"{letter}. {option}", size=9, wraplength=380,
+                                on_select=lambda picked=letter: pick(picked))
+                if letter == self.answers.get(qnum):
+                    row.set_state("selected")
+                row.pack(fill="x")
+                rows.append((row, letter))
+
         if not self.results:
             ttk.Button(actions, text="交卷并评分", style="Primary.TButton",
                        command=lambda: self._submit_careful_passage(passage)).pack(side="left")
@@ -557,22 +577,24 @@ class ReadingView(BaseView):
                 tag = " · 独立作答与答案不一致，请重点核对"
         if item.get("answer_source") == "已核对修正":
             tag += " · 本答案已按公开答案修正"
-        tk_label(box, f"正确答案：{item['answer']}{tag}", 10, True, PRIMARY, STRIP,
-                 wraplength=580, justify="left").pack(anchor="w")
+
+        def line(text: str, size: int, bold: bool, color: str, pady=(0, 0)) -> None:
+            label = tk_label(box, text, size, bold, color, STRIP, wraplength=580, justify="left")
+            label.pack(anchor="w", pady=pady)
+            auto_wrap(label, box, margin=28)
+
+        line(f"正确答案：{item['answer']}{tag}", 10, True, PRIMARY)
         if item.get("evidence"):
             paragraph = item.get("evidence_paragraph")
             location = f"（第 {paragraph} 段）" if paragraph else ""
-            tk_label(box, f"原文定位{location}：{item['evidence']}", 9, False, TEXT, STRIP,
-                     wraplength=580, justify="left").pack(anchor="w", pady=(6, 0))
+            line(f"原文定位{location}：{item['evidence']}", 9, False, TEXT, (6, 0))
         if item.get("explanation"):
-            tk_label(box, item["explanation"], 9, False, TEXT, STRIP,
-                     wraplength=580, justify="left").pack(anchor="w", pady=(6, 0))
+            line(item["explanation"], 9, False, TEXT, (6, 0))
         distractors = item.get("distractors") or {}
         if distractors:
             tk_label(box, "干扰项分析", 9, True, MUTED, STRIP).pack(anchor="w", pady=(8, 2))
             for letter_value, reason in distractors.items():
-                tk_label(box, f"{letter_value}　{reason}", 9, False, MUTED, STRIP,
-                         wraplength=580, justify="left").pack(anchor="w")
+                line(f"{letter_value}　{reason}", 9, False, MUTED)
         if not item.get("explanation") and not item.get("evidence"):
             tk_label(box, "这套真题的逐题解析还在补充中（先保证答案与原文准确）。", 9, False,
                      MUTED, STRIP).pack(anchor="w", pady=(6, 0))
@@ -596,13 +618,13 @@ class ReadingView(BaseView):
             self.empty_state(self.retry_tab, "暂时没有待重练的错题。",
                              "做错的阅读题会出现在这里，重练时可以标记错误原因。")
             return
-        tree = ttk.Treeview(self.retry_tab, columns=("kind", "num", "prompt", "answer", "chosen", "reason"),
-                            show="headings")
+        holder, tree = scrolled_tree(
+            self.retry_tab, ("kind", "num", "prompt", "answer", "chosen", "reason"))
         for key, title, width in [("kind", "题型", 90), ("num", "题号", 60), ("prompt", "题目", 330),
                                   ("answer", "答案", 70), ("chosen", "我的答案", 80), ("reason", "错误原因", 90)]:
             tree.heading(key, text=title)
             tree.column(key, width=width, anchor="w")
-        tree.pack(fill="both", expand=True)
+        holder.pack(fill="both", expand=True)
         for item in queue:
             reason = self.store.error_tag(f"{item['exam_id']}-{item['kind']}-{item['num']}")
             tree.insert("", "end", values=(KIND_NAMES[item["kind"]], item["num"],
@@ -637,11 +659,19 @@ class ReadingView(BaseView):
             feedback = tk.Frame(frame, bg=CARD)
             feedback.pack(fill="x")
             var = tk.StringVar()
+            rows: list[tuple[OptionRow, str]] = []
+
+            def pick(letter_value: str, group=rows) -> None:
+                var.set(letter_value)
+                for row, letter in group:
+                    row.set_state("selected" if letter == letter_value else "normal")
+
             for i, option in enumerate(options):
-                tk.Radiobutton(frame, text=f"{self.letter(i)}. {option}", variable=var,
-                               value=self.letter(i), anchor="w", justify="left", wraplength=640,
-                               font=("Microsoft YaHei UI", 10), bg=CARD, fg=TEXT, selectcolor=CARD,
-                               padx=4, pady=6).pack(fill="x")
+                letter = self.letter(i)
+                row = OptionRow(frame, f"{letter}. {option}", wraplength=640,
+                                on_select=lambda picked=letter: pick(picked))
+                row.pack(fill="x", pady=1)
+                rows.append((row, letter))
 
             def check() -> None:
                 chosen = var.get()

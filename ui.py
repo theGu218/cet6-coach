@@ -99,6 +99,152 @@ def tag(parent: tk.Misc, text: str, fg: str = PRIMARY, bg: str = PRIMARY_SOFT) -
     return tk.Label(parent, text=f" {text} ", font=(FONT, 9), fg=fg, bg=bg, padx=6, pady=2)
 
 
+class OptionRow(tk.Frame):
+    """自绘单选行：左侧大圆环 + 整行可点，替代系统 Radiobutton。
+
+    系统 Radiobutton 的指示器只有 12px 左右，高 DPI 下又小又容易看成「已选中」，
+    这里用 Canvas 画 20px 圆环：未选=灰色空心环，选中=主色实心环 + 白点。
+    state 取值：normal / selected / correct / wrong / disabled。
+    """
+
+    DIAMETER = 22
+
+    def __init__(self, parent: tk.Misc, text: str, *, size: int = 10,
+                 wraplength: int = 380, on_select=None, padding_x: int = 10,
+                 padding_y: int = 7):
+        super().__init__(parent, bg=CARD)
+        self._size = size
+        self._wraplength = wraplength
+        self._padding_x = padding_x
+        self._on_select = on_select
+        self._state = "normal"
+        self._hover = False
+
+        self.circle = tk.Canvas(self, width=self.DIAMETER, height=self.DIAMETER,
+                                bg=CARD, highlightthickness=0, borderwidth=0)
+        self.circle.pack(side="left", anchor="n", padx=(padding_x, 9),
+                         pady=(padding_y + 2, 0))
+        self.label = tk.Label(self, text=text, font=(FONT, size), bg=CARD, fg=TEXT,
+                              justify="left", anchor="w", wraplength=wraplength)
+        self.label.pack(side="left", fill="x", expand=True,
+                        padx=(0, padding_x), pady=padding_y)
+        for widget in (self, self.circle, self.label):
+            widget.bind("<Button-1>", self._click)
+            widget.bind("<Enter>", self._enter)
+            widget.bind("<Leave>", self._leave)
+        # 右栏变窄时文字要跟着换行，否则会溢出卡片被裁掉
+        parent.bind("<Configure>", self._on_parent_resize, add="+")
+        self._paint()
+
+    def _on_parent_resize(self, event) -> None:
+        try:
+            if not self.winfo_exists():
+                return
+            width = max(140, event.width - self.DIAMETER - 2 * self._padding_x - 8)
+            if int(self.label.cget("wraplength")) != width:
+                self.label.configure(wraplength=width)
+        except tk.TclError:
+            pass
+
+    # ---------------- 状态 ----------------
+    def set_state(self, state: str) -> None:
+        self._state = state
+        self._hover = False
+        self._paint()
+
+    def state(self) -> str:
+        return self._state
+
+    def set_selected(self, selected: bool) -> None:
+        self.set_state("selected" if selected else "normal")
+
+    def _locked(self) -> bool:
+        return self._state in ("disabled", "correct", "wrong")
+
+    def _click(self, _event=None):
+        if not self._locked():
+            self.set_state("selected")
+            if self._on_select:
+                self._on_select()
+        return "break"
+
+    def _enter(self, _event=None) -> None:
+        if self._state == "normal" and not self._hover:
+            self._hover = True
+            self._paint()
+
+    def _leave(self, _event=None) -> None:
+        if self._hover:
+            self._hover = False
+            self._paint()
+
+    # ---------------- 绘制 ----------------
+    def _paint(self) -> None:
+        state = self._state
+        if state == "selected":
+            bg, fg, ring, fill, bold = PRIMARY_SOFT, TEXT, PRIMARY, PRIMARY, "bold"
+        elif state == "correct":
+            bg, fg, ring, fill, bold = GREEN_SOFT, GREEN, GREEN, GREEN, "bold"
+        elif state == "wrong":
+            bg, fg, ring, fill, bold = RED_SOFT, RED, RED, RED, "bold"
+        elif state == "disabled":
+            bg, fg, ring, fill, bold = CARD, MUTED, "#D8DEEA", "", "normal"
+        elif self._hover:
+            bg, fg, ring, fill, bold = "#F2F6FF", TEXT, PRIMARY, "", "normal"
+        else:
+            bg, fg, ring, fill, bold = CARD, TEXT, "#B6C1D6", "", "normal"
+
+        cursor = "" if self._locked() else "hand2"
+        self.configure(bg=bg)
+        self.circle.configure(bg=bg, cursor=cursor)
+        self.label.configure(bg=bg, fg=fg, font=(FONT, self._size, bold), cursor=cursor)
+
+        self.circle.delete("all")
+        edge = self.DIAMETER - 2
+        self.circle.create_oval(2, 2, edge, edge, outline=ring, width=2, fill=fill)
+        if fill:
+            c = self.DIAMETER / 2
+            self.circle.create_oval(c - 3.6, c - 3.6, c + 3.6, c + 3.6, fill="white", outline="")
+
+
+def auto_wrap(widget: tk.Widget, parent: tk.Misc, margin: int = 8,
+              min_width: int = 160) -> None:
+    """让 label 的换行宽度跟随 parent 宽度，避免窄容器里文字溢出被裁。"""
+    def resize(event) -> None:
+        try:
+            if widget.winfo_exists():
+                widget.configure(wraplength=max(min_width, event.width - margin))
+        except tk.TclError:
+            pass
+
+    parent.bind("<Configure>", resize, add="+")
+
+
+def wheel_fast(tree: ttk.Treeview, rows: int = 6) -> None:
+    """滚轮一次滚 rows 行（系统默认 3 行太慢）。"""
+    def handler(event):
+        tree.yview_scroll(-rows if event.delta > 0 else rows, "units")
+        return "break"
+
+    tree.bind("<MouseWheel>", handler)
+
+
+def scrolled_tree(parent: tk.Misc, columns, *, bg: str = BG,
+                  height: int | None = None) -> tuple[tk.Frame, ttk.Treeview]:
+    """带垂直滚动条的 Treeview；返回 (容器, tree)，容器由调用方 pack。"""
+    holder = tk.Frame(parent, bg=bg)
+    kwargs = {"columns": columns, "show": "headings"}
+    if height:
+        kwargs["height"] = height
+    tree = ttk.Treeview(holder, **kwargs)
+    bar = ttk.Scrollbar(holder, orient="vertical", command=tree.yview)
+    tree.configure(yscrollcommand=bar.set)
+    tree.pack(side="left", fill="both", expand=True)
+    bar.pack(side="right", fill="y")
+    wheel_fast(tree)
+    return holder, tree
+
+
 def clear(widget: tk.Misc) -> None:
     for child in widget.winfo_children():
         child.destroy()
