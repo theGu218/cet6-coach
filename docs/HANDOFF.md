@@ -26,7 +26,7 @@ AI 功能（用户自带 API、翻译批改、阅读问答）**只有设计文�
 
 - 当前版本 **2.1.4**（`main.py` 的 `VERSION`、`version_info.txt` 同步）
 - 最近提交（新→旧）：词汇复习引擎修复（2.1.4）→ 阅读选项/列表滚动条 UI 修复（2.1.3）→ `ad2b9f3` 交接文档 → `cd893ae` AI 设计文档
-- GitHub Releases：v2.1.0 / v2.1.1 / **v2.1.3 已发布**（2026-11-21，附件 `CET6Coach-portable-v2.1.3.zip`，12.7 MB）；v2.1.2 由维护者手动发布
+- GitHub Releases：v2.1.0 / v2.1.1 / v2.1.3 / **v2.1.4 已发布**（2026-11-22，附件 `CET6Coach-portable-v2.1.4.zip`，12.7 MB）；v2.1.2 由维护者手动发布
 - 分发方式：**只发便携版（onedir）**。单文件版 spec 保留但不分发——它在受限环境会报 `Could not create temporary directory!`
 
 ## 4. 已完成的能力
