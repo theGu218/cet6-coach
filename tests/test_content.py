@@ -26,6 +26,8 @@ class ContentTests(unittest.TestCase):
             short = word["short_meaning"]
             if re.search(r"[&\[\]]|h·|\|\||\s\d+[\.、]", short):
                 bad.append((word["word"], short))
+            if re.search(r"[A-Za-z]", short):      # 释义里不该残留英文/语法标记
+                bad.append((word["word"], "en:" + short))
             if not short.strip():
                 bad.append((word["word"], "<empty>"))
             if re.search(r"[:']", word.get("phonetic", "")):

@@ -1,4 +1,6 @@
 """词汇复习规则：队列优先级、阶段解锁、间隔复习、掌握判定。"""
+import json
+import random
 import sys
 import unittest
 from datetime import date, timedelta
@@ -113,6 +115,61 @@ class VocabularyServiceTests(unittest.TestCase):
         self.assertEqual(INTERVALS[0], 1)
         self.assertIn(7, INTERVALS)
         self.assertIn(15, INTERVALS)
+
+    def test_correct_answer_clears_wrong_marker(self):
+        self.service.record("abandon", "en_zh", False, "放弃")
+        self.assertTrue(self.store.word_state("abandon")["needs_review"])
+        self.service.record("abandon", "en_zh", True, "放弃")
+        state = self.store.word_state("abandon")
+        self.assertFalse(state["needs_review"])       # 答对即退出错词队列
+        self.assertEqual(state["wrong_count"], 1)      # 但历史错误次数保留
+        self.assertNotIn("abandon", [item["word"] for item in self.service.wrong_words()])
+
+    def test_wrong_words_sorted_by_latest_mistake(self):
+        self.service.record("abuse", "en_zh", False, "x", on_date="2026-11-01")
+        self.service.record("abandon", "en_zh", False, "x", on_date="2026-11-05")
+        words = [item["word"] for item in self.service.wrong_words()]
+        self.assertEqual(words[0], "abandon")          # 最近错的排最前
+        self.assertEqual(words[1], "abuse")
+
+    def test_daily_queue_caps_review_volume(self):
+        words = [{"word": f"w{i}", "pos": "v.", "meaning": f"m{i}", "short_meaning": f"m{i}",
+                  "tier": "高频核心"} for i in range(80)]
+        store = ProgressStore(Path(self.tmp.name) / "cap.json")
+        service = VocabularyService(words, store)
+        for item in words:
+            state = store.word_state(item["word"])
+            state.update({"seen": 1, "next_review": "2026-01-01"})
+            store.set_word_state(item["word"], state)
+        store.settings["daily_review_limit"] = 60
+        queue = service.daily_queue()
+        self.assertEqual(len(queue), 60)               # 复习部分封顶，不再无上限叠加
+
+    def test_new_words_are_shuffled_within_tier(self):
+        first_words = set()
+        for seed in range(20):
+            picked = self.service.new_words(1, rng=random.Random(seed))
+            first_words.add(picked[0]["word"])
+        self.assertGreater(len(first_words), 1)        # 不再固定按字母序出第一个
+
+    def test_zh_en_falls_back_when_prompt_leaks_answer(self):
+        words = [{"word": "apparatus", "pos": "n.", "meaning": "器械，设备",
+                  "short_meaning": "apparatus", "tier": "高频核心"}]
+        service = VocabularyService(words, self.store)
+        question = service.make_question(words[0], "zh_en")
+        self.assertEqual(question["mode"], "en_zh")   # 题干混入答案时降级，避免直接送答案
+
+    def test_migration_clears_stale_wrong_marker(self):
+        path = Path(self.tmp.name) / "progress.json"
+        path.write_text(json.dumps({
+            "schema": 3,
+            "settings": {"daily_words": 20},
+            "words": {"abandon": {"seen": 3, "needs_review": True, "last_result": True,
+                                  "wrong_count": 1, "next_review": "2026-11-20"}},
+        }), encoding="utf-8")
+        store = ProgressStore(path)
+        self.assertFalse(store.word_state("abandon")["needs_review"])
+        self.assertTrue((Path(self.tmp.name) / "progress_v3_backup.json").exists())
 
 
 if __name__ == "__main__":

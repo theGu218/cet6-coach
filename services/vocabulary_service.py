@@ -46,8 +46,10 @@ class VocabularyService:
         return "en_zh"
 
     # ---------------- 三个队列 ----------------
-    def due_words(self, today: str | None = None) -> list[dict]:
+    def due_words(self, today: str | None = None, rng: random.Random | None = None) -> list[dict]:
+        """到期旧词：到期日早的先复习；**同一天到期**的组内随机，避免按字母序出题。"""
         today = today or date.today().isoformat()
+        rng = rng or random
         due = []
         for item in self.words:
             state = self.state(item["word"])
@@ -57,46 +59,80 @@ class VocabularyService:
                 continue
             if (state.get("next_review") or today) <= today:
                 due.append(item)
-        return sorted(due, key=lambda x: self.state(x["word"]).get("next_review", ""))
+        due.sort(key=lambda x: self.state(x["word"]).get("next_review", ""))
+        buckets: dict[str, list[dict]] = {}
+        for item in due:
+            day = self.state(item["word"]).get("next_review", "")
+            buckets.setdefault(day, []).append(item)
+        result: list[dict] = []
+        for day in sorted(buckets):
+            group = buckets[day]
+            rng.shuffle(group)
+            result.extend(group)
+        return result
 
-    def new_words(self, limit: int = 20) -> list[dict]:
-        result = []
+    def new_words(self, limit: int = 20, rng: random.Random | None = None) -> list[dict]:
+        """新词按层优先（高频核心 → 基础回顾 → 六级拓展），层内**随机**取，
+        避免总是按 abcd 字母序出题、让人能靠位置猜。"""
+        if limit <= 0:
+            return []
+        rng = rng or random
+        result: list[dict] = []
         for tier in TIER_ORDER:
+            pool = []
             for item in self.words:
                 if item.get("tier") != tier:
                     continue
                 state = self.state(item["word"])
                 if state.get("seen") or state.get("reduced"):
                     continue
+                pool.append(item)
+            rng.shuffle(pool)
+            for item in pool:
                 result.append(item)
                 if len(result) >= limit:
                     return result
         return result
 
     def wrong_words(self) -> list[dict]:
+        """待强化错词：**最近答错**的排前面，其次按累计答错次数。"""
         items = [item for item in self.words if self.state(item["word"]).get("needs_review")]
-        return sorted(items, key=lambda x: -self.state(x["word"]).get("wrong_count", 0))
+
+        def sort_key(item: dict) -> tuple[str, int]:
+            state = self.state(item["word"])
+            return (state.get("last_wrong") or "", state.get("wrong_count", 0))
+
+        return sorted(items, key=sort_key, reverse=True)
 
     def starred_words(self) -> list[dict]:
         return [item for item in self.words if self.store.is_starred(item["word"])]
 
     def daily_queue(self) -> list[dict]:
-        """到期旧词优先，其次待巩固错词，最后新词；同一词只出现一次。"""
-        limit = int(self.store.settings.get("daily_words", 20))
+        """最近错词 → 更早的错词 → 到期旧词 → 打乱后的新词。
+
+        复习部分（错词 + 到期旧词）受「每日复习上限」限制（默认 60），新词按
+        「每日新词」单独配额，两者不叠成无上限的 100+ 题。
+        """
+        review_limit = int(self.store.settings.get("daily_review_limit", 60))
+        # 当天已经学过的新词要从配额里扣掉，否则学完 20 个又会推 20 个新的
+        new_limit = max(0, int(self.store.settings.get("daily_words", 20))
+                        - int(self.store.activity_today().get("new_words", 0)))
         queue: list[dict] = []
         seen: set[str] = set()
 
-        def push(items):
+        def push(items, cap: int | None = None) -> None:
             for item in items:
+                if cap is not None and len(queue) >= cap:
+                    return
                 key = item["word"].lower()
                 if key in seen:
                     continue
                 seen.add(key)
                 queue.append(item)
 
-        push(self.wrong_words())
-        push(self.due_words())
-        push(self.new_words(limit))
+        push(self.wrong_words(), cap=review_limit)
+        push(self.due_words(), cap=review_limit)
+        push(self.new_words(new_limit))
         return queue
 
     # ---------------- 出题 ----------------
@@ -114,7 +150,10 @@ class VocabularyService:
             distractors = self._pick(pool, "short_meaning", correct, rng)
             options = [correct] + distractors
         elif mode == "zh_en":
-            prompt = item.get("short_meaning") or item["meaning"]
+            prompt = (item.get("short_meaning") or item.get("meaning") or "").strip()
+            if self._leaks_answer(prompt, word):
+                # 释义里混进了目标单词（脏数据）会让题干直接等于答案，降级成英译汉
+                return self.make_question(item, "en_zh", rng)
             sub = f"{item.get('pos', '')} · 选择对应的英文单词"
             correct = word
             distractors = self._pick(self._same_pos(word), "word", correct, rng)
@@ -142,6 +181,14 @@ class VocabularyService:
             "meaning": item["meaning"], "pos": item.get("pos", ""),
             "phonetic": item.get("phonetic", ""),
         }
+
+    @staticmethod
+    def _leaks_answer(prompt: str, word: str) -> bool:
+        """题干里是否已经出现了目标单词（汉译英题不应该出现）。"""
+        if not prompt:
+            return True
+        pattern = r"(?<![a-z])" + re.escape(word.lower()) + r"(?![a-z])"
+        return re.search(pattern, prompt.lower()) is not None
 
     def _same_pos(self, word: str) -> list[dict]:
         base = self.item(word) or {}
@@ -215,6 +262,8 @@ class VocabularyService:
             expected = MODE_STAGE[mode]
             state["stage"] = max(state.get("stage", 0), expected)
             state["successful_reviews"] = state.get("successful_reviews", 0) + 1
+            # 答对即退出错词队列：之前只统计不改标记，导致旧错词答对十遍仍天天出现
+            state["needs_review"] = False
             if mode == "context":
                 state["context_passed"] = True
             mastered = (state.get("context_passed") and len(days) >= 3
@@ -231,6 +280,7 @@ class VocabularyService:
         else:
             state["wrong_count"] = state.get("wrong_count", 0) + 1
             state["last_wrong_answer"] = chosen
+            state["last_wrong"] = today
             state["needs_review"] = True
             state["status"] = "待巩固" if state.get("correct", 0) else "学习中"
             if mode == "context":

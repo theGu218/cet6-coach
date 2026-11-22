@@ -53,6 +53,15 @@ class SettingsView(BaseView):
         self.reading_var = tk.IntVar(value=int(settings.get("reading_minutes", 35)))
         ttk.Spinbox(row2, from_=10, to=90, increment=5, textvariable=self.reading_var, width=8).pack(side="left")
 
+        row3 = tk.Frame(box, bg=CARD)
+        row3.pack(fill="x", pady=4)
+        tk_label(row3, "每日复习上限", 10, False, MUTED, CARD, width=10, anchor="w").pack(side="left")
+        self.review_var = tk.IntVar(value=int(settings.get("daily_review_limit", 60)))
+        ttk.Spinbox(row3, from_=20, to=150, increment=10, textvariable=self.review_var,
+                    width=8).pack(side="left")
+        tk_label(row3, "个（不含新词；错词排最前，最近错的先出）", 9, False, MUTED, CARD).pack(
+            side="left", padx=(10, 0))
+
         ttk.Button(box, text="保存设置", style="Primary.TButton", command=self._save_settings).pack(
             anchor="e", pady=(14, 0))
 
@@ -61,6 +70,7 @@ class SettingsView(BaseView):
             payload = {
                 "user_name": self.name_var.get().strip() or "同学",
                 "daily_words": max(5, int(self.words_var.get())),
+                "daily_review_limit": min(150, max(20, int(self.review_var.get()))),
                 "study_minutes": max(20, int(self.minutes_var.get())),
                 "reading_minutes": max(10, int(self.reading_var.get())),
             }

@@ -56,18 +56,23 @@ class VocabularyView(BaseView):
     # ================= 今日学习 =================
     def _build_today(self) -> None:
         clear(self.today_tab)
+        review_limit = int(self.store.settings.get("daily_review_limit", 60))
+        daily_new = int(self.store.settings.get("daily_words", 20))
+        learned_today = int(self.store.activity_today().get("new_words", 0))
         due = self.service.due_words()
         wrong = self.service.wrong_words()
-        new = self.service.new_words(int(self.store.settings.get("daily_words", 20)))
+        new = self.service.new_words(max(0, daily_new - learned_today))
         box = card(self.today_tab, 22)
         box.master.pack(fill="both", expand=True)
         tk_label(box, "今天从哪里开始？", 17, True).pack(anchor="w")
-        tk_label(box, "到期复习优先。答错的词会进入本轮重练，并安排以后再次检测。",
+        tk_label(box, f"错词排最前、最近错的先出；每天复习量最多 {review_limit} 题（设置里可调），"
+                      "答对的词按间隔推迟，不会天天出现。",
                  10, False, MUTED).pack(anchor="w", pady=(4, 16))
 
-        rows = [("到期旧词", f"{len(due)} 词", "按上次复习日期自动生成", PRIMARY),
-                ("待强化错词", f"{len(wrong)} 词", "答错自动收录，保留错误历史", AMBER),
-                ("今日新词", f"{len(new)} 词", f"每日上限 {self.store.settings.get('daily_words', 20)} 词", GREEN)]
+        rows = [("到期旧词", f"{len(due)} 词", "按上次复习日期自动生成，到期早的先复习", PRIMARY),
+                ("待强化错词", f"{len(wrong)} 词", "答错后收录，答对即移出（保留错误历史）", AMBER),
+                ("今日新词", f"{len(new)} 词",
+                 f"每日上限 {daily_new} 词，今天已学 {learned_today}", GREEN)]
         for title, value, note, color in rows:
             row = tk.Frame(box, bg=STRIP, padx=16, pady=14)
             row.pack(fill="x", pady=5)

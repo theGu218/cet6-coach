@@ -19,7 +19,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 APP_NAME = "CET6Coach"
-SCHEMA = 3
+SCHEMA = 4
 
 
 def resource_path(name: str) -> Path:
@@ -212,6 +212,12 @@ class ProgressStore:
             data.pop(legacy_key, None)
         data["schema"] = SCHEMA
         data["words"] = {word: _normalize_word(state) for word, state in (data.get("words") or {}).items()}
+        if version < 4:
+            # v3 及之前：答对后没清 needs_review，旧错词答对多少遍都永远留在复习队列里。
+            # 最近一次作答是“答对”的词按新规则不算待强化错词，这里一次性修正标记。
+            for state in data["words"].values():
+                if state.get("needs_review") and state.get("last_result") is True:
+                    state["needs_review"] = False
         data["meta"] = {**data.get("meta", {}), "created": data.get("meta", {}).get("created", now_str())}
         if self.migrated_from:
             data["meta"]["migrated_from"] = self.migrated_from
